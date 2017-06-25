@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map key="frostbluff" lastUpdate="1436824800000">
+<geo factor="21.3333">
+<point longitude="-96.4" latitude="14.4"/>
+</geo>
+<labels>
+<label locale="de" value="Frostfels"/>
+<label locale="en" value="Frost Bluff"/>
+<label locale="fr" value="Rivegel"/>
+</labels>
+<markers>
+<marker category="2">
+<point longitude="-93.7" latitude="13.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="The Grumpwood"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-94.7" latitude="13.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Cluckland"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-95.2" latitude="13.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="The Snowball Field"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-95.6" latitude="12.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Winter-home"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-93.5" latitude="12.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="The Frozen Lake"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-94.3" latitude="11.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Pampered mushroom tent"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-95.1" latitude="12.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mithril Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="8">
+<point longitude="-95.2" latitude="11.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mailbox"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="18">
+<point longitude="-95.3" latitude="11.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Town-crier"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+</markers>
+</map>

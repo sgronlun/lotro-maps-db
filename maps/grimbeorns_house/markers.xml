@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map key="grimbeorns_house" lastUpdate="1436824800000">
+<geo factor="19.084">
+<point longitude="-56.7" latitude="35.6"/>
+</geo>
+<labels>
+<label locale="de" value="Grimbeorns Haus"/>
+<label locale="en" value="Grimbeorn's House"/>
+<label locale="fr" value="Maison De Grimbeorn"/>
+</labels>
+<markers>
+<marker category="15">
+<point longitude="-53.5" latitude="33.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Beorning Trainer"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-53.3" latitude="33.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sterkist"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-53.6" latitude="33.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Varthmath"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-53.3" latitude="33.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Meandering milk-cow"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-53.3" latitude="34.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ofolmoth"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-54.5" latitude="33.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Langhar"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-53.3" latitude="33.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Grimbeorn"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-53.3" latitude="33.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Radagast"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+</markers>
+</map>

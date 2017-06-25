@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map key="isengard" lastUpdate="1436824800000">
+<geo factor="13.3862">
+<point longitude="-6.3" latitude="-76.4"/>
+</geo>
+<labels>
+<label locale="de" value="Isengart"/>
+<label locale="en" value="Isengard"/>
+<label locale="fr" value="Isengard"/>
+</labels>
+<markers>
+<marker category="2">
+<point longitude="-2.5" latitude="-81.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Gates of Isengard"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-2.5" latitude="-79.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="The Tower Of Orthanc"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="4">
+<point longitude="-1.0" latitude="-79.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Master of the Eastern Ward"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="4">
+<point longitude="-2.5" latitude="-78.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Master of the Nothern Ward"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="4">
+<point longitude="-4.1" latitude="-79.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Master of the Western Ward"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-2.4" latitude="-78.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Arcane Mechanism"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-3.2" latitude="-78.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Arcane Mechanism"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-3.4" latitude="-77.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Arcane Mechanism"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-2.9" latitude="-78.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Arcane Mechanism"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-1.8" latitude="-78.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Arcane Mechanism"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-3.6" latitude="-79.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Arcane Mechanism"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-1.0" latitude="-79.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Dagoras"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="4">
+<point longitude="-2.6" latitude="-81.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ufdragh"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="4">
+<point longitude="-2.3" latitude="-81.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Barashal"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+</markers>
+</map>

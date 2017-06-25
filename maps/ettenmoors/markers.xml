@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map key="ettenmoors" lastUpdate="1437170400000">
+<geo factor="6.352">
+<point longitude="-24.3" latitude="-9.9"/>
+</geo>
+<labels>
+<label locale="de" value="Ettenoden"/>
+<label locale="en" value="Ettenmoors"/>
+<label locale="fr" value="Landes D'Etten"/>
+</labels>
+<markers>
+<marker category="12">
+<point longitude="-13.7" latitude="-20.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Bard of Glan Vraig"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="12">
+<point longitude="-21.2" latitude="-12.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Corruptor of Gramsfoot"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="12">
+<point longitude="-20.6" latitude="-12.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Corruptor of Gramsfoot"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="12">
+<point longitude="-20.8" latitude="-11.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Corruptor of Gramsfoot"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="12">
+<point longitude="-22.6" latitude="-17.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Corruptor of Dar-gazag"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="8">
+<point longitude="-13.4" latitude="-21.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mailbox"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-20.9" latitude="-12.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Gramsfoot"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-15.1" latitude="-12.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Isendeep"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-12.7" latitude="-13.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Grothum"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-20.1" latitude="-15.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Lugazag"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-12.2" latitude="-16.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ost Ringdyr"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-17.0" latitude="-16.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Tol Ascarnen"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-17.6" latitude="-19.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Grimwood Lumber Camp"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-14.5" latitude="-17.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Tirith Rhaw"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-20.0" latitude="-19.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hoarhallow"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-19.8" latitude="-17.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Elf Camp"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-13.6" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Glan Vraig"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-14.6" latitude="-13.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Arador's End Outpost"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-16.2" latitude="-14.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Isendeep Outpost"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-19.3" latitude="-19.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hithlad Outpost"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-20.1" latitude="-18.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="River Outpost"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-22.4" latitude="-17.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Dar-gazag"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="2">
+<point longitude="-16.7" latitude="-15.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Poisoning the Hoardale spot"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="11">
+<point longitude="-13.4" latitude="-21.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Stablemaster (Ettenmoors)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.8" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Heavy Armour Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.8" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Medium Armour Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.8" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Light Armour Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.7" latitude="-20.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hunter Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.7" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Warden Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.7" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Guardian Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.3" latitude="-20.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Beorning Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.4" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Burglar Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.5" latitude="-21.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Minstrel Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.5" latitude="-21.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Lore-master Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.5" latitude="-20.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Rune-keeper Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.7" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Champion Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.7" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Captain Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.5" latitude="-20.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Item Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-13.5" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Field Services"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-21.2" latitude="-12.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mithril Vendor"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-20.8" latitude="-11.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mithril Vendor"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-20.6" latitude="-12.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mithril Vendor"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-20.8" latitude="-12.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Defensive Potions Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-20.8" latitude="-12.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Potions Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-20.9" latitude="-12.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Special Items Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="17">
+<point longitude="-20.9" latitude="-12.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Food Trader"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="15">
+<point longitude="-21.2" latitude="-12.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Monster Player Trainer"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="15">
+<point longitude="-20.6" latitude="-12.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Monster Player Trainer"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="15">
+<point longitude="-20.8" latitude="-11.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Monster Player Trainer"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="15">
+<point longitude="-22.6" latitude="-17.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Monster Player Trainer"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="9">
+<point longitude="-13.4" latitude="-20.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vault-Keeper"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="16">
+<point longitude="-13.5" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Provisioner"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="16">
+<point longitude="-20.9" latitude="-12.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Quartermaster"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="16">
+<point longitude="-20.7" latitude="-12.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Breaker of Oaths"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="16">
+<point longitude="-20.7" latitude="-12.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Tribal Scrivener"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-12.9" latitude="-12.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Alf Earthenway"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-16.7" latitude="-15.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Angmarim Gift"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-13.2" latitude="-12.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Bok"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="4">
+<point longitude="-17.7" latitude="-19.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Caragdal"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-14.6" latitude="-17.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Cheiftain Gukhnurz"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-17.2" latitude="-19.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Chieftain Torbok"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.9" latitude="-12.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Cinaid"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.9" latitude="-19.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.7" latitude="-19.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.9" latitude="-19.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-15.8" latitude="-19.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.6" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.4" latitude="-19.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.4" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.9" latitude="-18.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-16.7" latitude="-19.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-20.3" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.6" latitude="-18.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.3" latitude="-19.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-16.7" latitude="-18.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-20.6" latitude="-20.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-20.5" latitude="-20.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-20.2" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.3" latitude="-18.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.2" latitude="-19.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Log"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.9" latitude="-19.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.1" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.0" latitude="-20.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.8" latitude="-20.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.2" latitude="-19.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.1" latitude="-18.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.3" latitude="-19.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.3" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.1" latitude="-19.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.3" latitude="-18.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.1" latitude="-19.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Sapling"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-15.8" latitude="-19.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.2" latitude="-20.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.7" latitude="-20.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-20.8" latitude="-20.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.3" latitude="-20.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-16.9" latitude="-19.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-20.5" latitude="-20.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.5" latitude="-18.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.4" latitude="-19.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.2" latitude="-18.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.0" latitude="-18.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.4" latitude="-18.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fallen Timber"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-22.7" latitude="-16.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Fim the Worm"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-12.3" latitude="-15.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="First Marshal Sathryth"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-12.9" latitude="-13.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Gasham"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="4">
+<point longitude="-16.6" latitude="-12.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Golloval"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-14.3" latitude="-15.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Headless Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.6" latitude="-20.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Headless Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.5" latitude="-21.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Headless Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.6" latitude="-15.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Headless Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.6" latitude="-20.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Headless Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-22.4" latitude="-15.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Headless Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-12.3" latitude="-15.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Lieutenant Ingi"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-12.1" latitude="-16.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Lieutenant Unferth"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.9" latitude="-12.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Malavin"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.0" latitude="-20.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mayor Wat Modergrund"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-21.0" latitude="-16.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mazauk's Den"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-13.3" latitude="-13.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mudhun"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-17.4" latitude="-15.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Quartermaster Apsduf"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="4">
+<point longitude="-17.4" latitude="-17.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Rockwithers"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-13.5" latitude="-21.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sergeant-at-Arms Ascwyn"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-12.6" latitude="-13.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Snowreap Overseer"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-16.2" latitude="-11.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Soldier Baush"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-14.3" latitude="-17.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Soldier Fandmau"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.1" latitude="-15.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Soldier Gazlup"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.1" latitude="-15.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Soldier Gazup"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.8" latitude="-12.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Soldier Graus"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-12.7" latitude="-13.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Stolen Ale"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-12.8" latitude="-13.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Stolen Food"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.4" latitude="-14.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun Touched Troll Head"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-15.1" latitude="-19.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-14.5" latitude="-15.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll Head"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-15.5" latitude="-19.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll Head"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.6" latitude="-18.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll Head"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.4" latitude="-19.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll Head"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.4" latitude="-16.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-16.1" latitude="-15.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.0" latitude="-17.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.4" latitude="-15.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-15.9" latitude="-19.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.5" latitude="-14.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.5" latitude="-20.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-18.6" latitude="-18.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.4" latitude="-17.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.3" latitude="-16.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.8" latitude="-18.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.4" latitude="-15.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-14.2" latitude="-15.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-21.3" latitude="-19.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-22.4" latitude="-16.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-19.4" latitude="-12.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-Touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-17.5" latitude="-12.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Sun-touched Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.7" latitude="-12.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Tarkripper Quartermaster"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-15.6" latitude="-10.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Taskmaster Barzqhosh"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-17.3" latitude="-19.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Taskmaster Ghamp"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-15.7" latitude="-10.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Taskmaster Izubuzri"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.7" latitude="-12.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Taskmaster Krul"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-14.4" latitude="-17.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Taskmaster Nursufum"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-17.3" latitude="-16.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Taskmaster Raulik"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-17.0" latitude="-16.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Taskmaster Broshan"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.9" latitude="-12.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Uglash"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-22.4" latitude="-18.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Stone Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-22.3" latitude="-18.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Stone Troll"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="1">
+<point longitude="-20.9" latitude="-12.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="War-Tyrant Akulhun"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-20.9" latitude="-12.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="To The Sundering of Osgiliath"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker category="3">
+<point longitude="-13.6" latitude="-20.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="To The Sundering of Osgiliath"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+</markers>
+</map>

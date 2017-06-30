@@ -8,6 +8,18 @@
 <label locale="en" value="North Downs"/>
 <label locale="fr" value="Hauts Du Nord"/>
 </labels>
+<link target="evendim">
+<point longitude="-59.083332" latitude="-7.0000005"/>
+</link>
+<link target="angmar">
+<point longitude="-40.0" latitude="-3.9722223"/>
+</link>
+<link target="angmar">
+<point longitude="-33.583332" latitude="-5.1944447"/>
+</link>
+<link target="breeland">
+<point longitude="-53.22222" latitude="-20.055555"/>
+</link>
 <markers>
 <marker category="12">
 <point longitude="-41.4" latitude="-9.6"/>

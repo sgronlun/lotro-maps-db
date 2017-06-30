@@ -8,6 +8,15 @@
 <label locale="en" value="The Great River"/>
 <label locale="fr" value="Le Grand Fleuve"/>
 </labels>
+<link target="stangard">
+<point longitude="-63.407814" latitude="-25.859379"/>
+</link>
+<link target="east_rohan">
+<point longitude="-58.679688" latitude="-33.004692"/>
+</link>
+<link target="lothlorien">
+<point longitude="-63.540627" latitude="-18.820314"/>
+</link>
 <markers>
 <marker category="13">
 <point longitude="-63.0" latitude="-25.5"/>

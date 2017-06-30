@@ -8,6 +8,18 @@
 <label locale="en" value="Evendim"/>
 <label locale="fr" value="Evendim"/>
 </labels>
+<link target="north_downs">
+<point longitude="-55.25261" latitude="-11.415639"/>
+</link>
+<link target="annuminas">
+<point longitude="-70.09266" latitude="-18.139574"/>
+</link>
+<link target="the_shire">
+<point longitude="-71.86991" latitude="-23.056635"/>
+</link>
+<link target="forochel">
+<point longitude="-60.40664" latitude="-2.5590048"/>
+</link>
 <markers>
 <marker category="12">
 <point longitude="-67.2" latitude="-12.8"/>

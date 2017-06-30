@@ -8,6 +8,12 @@
 <label locale="en" value="The Walls Of Moria"/>
 <label locale="fr" value="Murs De La Moria"/>
 </labels>
+<link target="eregion">
+<point longitude="-8.867967" latitude="-50.920258"/>
+</link>
+<link target="moria">
+<point longitude="-2.147294" latitude="-51.745342"/>
+</link>
 <markers>
 <marker category="2">
 <point longitude="-7.5" latitude="-53.1"/>

@@ -8,6 +8,18 @@
 <label locale="en" value="The Shire"/>
 <label locale="fr" value="Comte"/>
 </labels>
+<link target="ered_luin">
+<point longitude="-77.92703" latitude="-26.137129"/>
+</link>
+<link target="evendim">
+<point longitude="-69.99678" latitude="-23.583672"/>
+</link>
+<link target="breeland">
+<point longitude="-60.945503" latitude="-31.057203"/>
+</link>
+<link target="shire_homesteads">
+<point longitude="-74.439384" latitude="-36.55855"/>
+</link>
 <markers>
 <marker category="13">
 <point longitude="-74.8" latitude="-34.2"/>

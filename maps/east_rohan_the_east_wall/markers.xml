@@ -8,6 +8,18 @@
 <label locale="en" value="East Rohan: The East Wall"/>
 <label locale="fr" value="Rohan Est: Le Mur De L'Est"/>
 </labels>
+<link target="east_rohan_norcrofts">
+<point longitude="-56.565243" latitude="-51.618446"/>
+</link>
+<link target="east_rohan_the_wold">
+<point longitude="-52.526775" latitude="-46.30345"/>
+</link>
+<link target="east_rohan_sutcrofts">
+<point longitude="-58.723736" latitude="-60.879074"/>
+</link>
+<link target="far_anorien_the_beacon_hills">
+<point longitude="-45.401432" latitude="-62.68942"/>
+</link>
 <markers>
 <marker category="10">
 <point longitude="-51.2" latitude="-52.0"/>

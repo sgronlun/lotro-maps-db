@@ -8,6 +8,27 @@
 <label locale="en" value="Old Anorien"/>
 <label locale="fr" value="Ancien Anorien"/>
 </labels>
+<link target="far_anorien">
+<point longitude="-23.725594" latitude="-46.99736"/>
+</link>
+<link target="eastern_gondor_south_ithilien">
+<point longitude="-7.9334507" latitude="-69.943535"/>
+</link>
+<link target="eastern_gondor">
+<point longitude="-22.241512" latitude="-70.17186"/>
+</link>
+<link target="post_pelennor_north_ithilien">
+<point longitude="-9.493637" latitude="-47.796482"/>
+</link>
+<link target="old_anorien_pelennor">
+<point longitude="-16.609615" latitude="-62.256756"/>
+</link>
+<link target="old_anorien_minas_tirith">
+<point longitude="-19.38751" latitude="-65.301025"/>
+</link>
+<link target="eastern_gondor_osgiliath">
+<point longitude="-9.798065" latitude="-61.83817"/>
+</link>
 <markers>
 <marker category="24">
 <point longitude="-18.5" latitude="-69.2"/>

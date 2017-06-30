@@ -8,6 +8,15 @@
 <label locale="en" value="Eastern Gondor: Lossarnach"/>
 <label locale="fr" value="L'Est Du Gondor: Lossarnach"/>
 </labels>
+<link target="eastern_gondor_upper_lebennin">
+<point longitude="-26.72857" latitude="-78.981606"/>
+</link>
+<link target="eastern_gondor_south_ithilien">
+<point longitude="-18.96047" latitude="-77.78395"/>
+</link>
+<link target="old_anorien_pelennor">
+<point longitude="-18.311743" latitude="-71.18024"/>
+</link>
 <markers>
 <marker category="13">
 <point longitude="-24.6" latitude="-77.4"/>

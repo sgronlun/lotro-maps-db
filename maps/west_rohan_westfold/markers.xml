@@ -8,6 +8,15 @@
 <label locale="en" value="West Rohan: Westfold"/>
 <label locale="fr" value="Rohan Ouest: Ouestfolde"/>
 </labels>
+<link target="west_rohan_kingstead">
+<point longitude="-75.69696" latitude="-59.656265"/>
+</link>
+<link target="west_rohan_stonedeans">
+<point longitude="-83.825066" latitude="-53.91358"/>
+</link>
+<link target="west_rohan_helms_deep">
+<point longitude="-88.72843" latitude="-61.379074"/>
+</link>
 <markers>
 <marker category="25">
 <point longitude="-84.5" latitude="-61.6"/>

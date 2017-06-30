@@ -8,6 +8,15 @@
 <label locale="en" value="West Rohan: Entwood"/>
 <label locale="fr" value="Rohan Ouest: Foret O'Ent"/>
 </labels>
+<link target="west_rohan_broadacres">
+<point longitude="-78.0873" latitude="-42.878613"/>
+</link>
+<link target="west_rohan_stonedeans">
+<point longitude="-78.18382" latitude="-44.171925"/>
+</link>
+<link target="east_rohan_eaves_of_fangorn">
+<point longitude="-77.59508" latitude="-39.336483"/>
+</link>
 <markers>
 <marker category="22">
 <point longitude="-79.1" latitude="-42.1"/>

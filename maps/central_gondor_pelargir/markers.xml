@@ -8,6 +8,12 @@
 <label locale="en" value="Central Gondor: Pelargir"/>
 <label locale="fr" value="Centre Du Gondor: Pelargir"/>
 </labels>
+<link target="central_gondor_lebennin">
+<point longitude="-35.547943" latitude="-82.306595"/>
+</link>
+<link target="eastern_gondor_upper_lebennin">
+<point longitude="-31.339882" latitude="-82.27957"/>
+</link>
 <markers>
 <marker category="24">
 <point longitude="-34.4" latitude="-83.6"/>

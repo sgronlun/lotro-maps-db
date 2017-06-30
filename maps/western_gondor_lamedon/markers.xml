@@ -8,6 +8,15 @@
 <label locale="en" value="Western Gondor: Lamedon"/>
 <label locale="fr" value="Ouest Du Gondor: Lamedon"/>
 </labels>
+<link target="central_gondor">
+<point longitude="-51.762913" latitude="-70.288635"/>
+</link>
+<link target="western_gondor_blackroot_vale">
+<point longitude="-64.30422" latitude="-59.681667"/>
+</link>
+<link target="western_gondor_havens_of_belfalas">
+<point longitude="-61.83847" latitude="-72.92444"/>
+</link>
 <markers>
 <marker category="25">
 <point longitude="-57.8" latitude="-70.3"/>

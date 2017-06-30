@@ -8,6 +8,36 @@
 <label locale="en" value="East Rohan"/>
 <label locale="fr" value="Rohan Est"/>
 </labels>
+<link target="wildermore">
+<point longitude="-61.237457" latitude="-38.892975"/>
+</link>
+<link target="east_rohan_entwash_vale">
+<point longitude="-63.82943" latitude="-43.115387"/>
+</link>
+<link target="east_rohan_eaves_of_fangorn">
+<point longitude="-71.521736" latitude="-36.384617"/>
+</link>
+<link target="east_rohan_norcrofts">
+<point longitude="-57.809364" latitude="-47.67224"/>
+</link>
+<link target="east_rohan_the_east_wall">
+<point longitude="-52.5" latitude="-56.493313"/>
+</link>
+<link target="east_rohan_the_wold">
+<point longitude="-51.87291" latitude="-38.85117"/>
+</link>
+<link target="east_rohan_snowbourn">
+<point longitude="-62.073578" latitude="-59.96321"/>
+</link>
+<link target="east_rohan_sutcrofts">
+<point longitude="-60.98662" latitude="-57.747494"/>
+</link>
+<link target="west_rohan">
+<point longitude="-67.84281" latitude="-61.510033"/>
+</link>
+<link target="far_anorien">
+<point longitude="-43.219063" latitude="-63.14047"/>
+</link>
 <markers>
 <marker category="13">
 <point longitude="-60.6" latitude="-38.8"/>

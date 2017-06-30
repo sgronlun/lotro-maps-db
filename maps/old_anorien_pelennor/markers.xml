@@ -8,6 +8,18 @@
 <label locale="en" value="Old Anorien: Pelennor"/>
 <label locale="fr" value="Ancien Anorien: Pelennor"/>
 </labels>
+<link target="old_anorien_minas_tirith">
+<point longitude="-21.078608" latitude="-65.508446"/>
+</link>
+<link target="eastern_gondor_lossarnach">
+<point longitude="-21.487736" latitude="-72.327255"/>
+</link>
+<link target="old_anorien_talath_anor">
+<point longitude="-19.3252" latitude="-59.196186"/>
+</link>
+<link target="eastern_gondor_osgiliath">
+<point longitude="-10.7140255" latitude="-62.09905"/>
+</link>
 <markers>
 <marker category="24">
 <point longitude="-18.5" latitude="-69.2"/>

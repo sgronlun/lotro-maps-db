@@ -8,6 +8,15 @@
 <label locale="en" value="Lone-Lands"/>
 <label locale="fr" value="Terres Solitaires"/>
 </labels>
+<link target="trollshaws">
+<point longitude="-21.90989" latitude="-32.724728"/>
+</link>
+<link target="breeland">
+<point longitude="-43.26978" latitude="-34.647804"/>
+</link>
+<link target="breeland">
+<point longitude="-42.560074" latitude="-27.802565"/>
+</link>
 <markers>
 <marker category="12">
 <point longitude="-29.4" latitude="-31.3"/>

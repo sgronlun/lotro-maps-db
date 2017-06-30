@@ -8,6 +8,15 @@
 <label locale="en" value="Far Anorien"/>
 <label locale="fr" value="Lointain Anorien"/>
 </labels>
+<link target="far_anorien_the_beacon_hills">
+<point longitude="-43.86667" latitude="-48.566666"/>
+</link>
+<link target="far_anorien_taur_druadan">
+<point longitude="-26.000002" latitude="-49.266666"/>
+</link>
+<link target="old_anorien">
+<point longitude="-18.333332" latitude="-49.566666"/>
+</link>
 <markers>
 <marker category="25">
 <point longitude="-27.3" latitude="-45.6"/>

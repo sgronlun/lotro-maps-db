@@ -8,6 +8,21 @@
 <label locale="en" value="Pelennor After Battle (Post-Pelennor)"/>
 <label locale="fr" value="Pelennor Apres La Bataille (Apres Le Pelennor)"/>
 </labels>
+<link target="post_pelennor_osgiliath">
+<point longitude="-9.751047" latitude="-62.392986"/>
+</link>
+<link target="post_pelennor_minas_tirith">
+<point longitude="-19.203438" latitude="-64.96001"/>
+</link>
+<link target="old_anorien">
+<point longitude="-17.931923" latitude="-55.93945"/>
+</link>
+<link target="post_pelennor_north_ithilien">
+<point longitude="-9.055313" latitude="-56.371284"/>
+</link>
+<link target="eastern_gondor">
+<point longitude="-9.319212" latitude="-70.64583"/>
+</link>
 <markers>
 <marker category="13">
 <point longitude="-17.7" latitude="-65.1"/>

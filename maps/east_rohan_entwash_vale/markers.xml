@@ -8,6 +8,18 @@
 <label locale="en" value="East Rohan: Entwash Vale"/>
 <label locale="fr" value="Rohan Est: Vallee De L'Entalluve"/>
 </labels>
+<link target="east_rohan_norcrofts">
+<point longitude="-57.39974" latitude="-48.223587"/>
+</link>
+<link target="wildermore">
+<point longitude="-62.477943" latitude="-39.935955"/>
+</link>
+<link target="east_rohan_eaves_of_fangorn">
+<point longitude="-71.07027" latitude="-39.834393"/>
+</link>
+<link target="east_rohan_sutcrofts">
+<point longitude="-60.771667" latitude="-53.72836"/>
+</link>
 <markers>
 <marker category="12">
 <point longitude="-64.0" latitude="-47.7"/>

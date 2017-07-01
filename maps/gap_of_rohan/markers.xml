@@ -8,6 +8,18 @@
 <label locale="en" value="Gap Of Rohan"/>
 <label locale="fr" value="Trouee Du Rohan"/>
 </labels>
+<link target="dunland">
+<point longitude="-15.929995" latitude="-85.38642"/>
+</link>
+<link target="dunland">
+<point longitude="-10.380907" latitude="-83.44618"/>
+</link>
+<link target="nan_curunir">
+<point longitude="-3.0662003" latitude="-84.76554"/>
+</link>
+<link target="pit_of_iron">
+<point longitude="-5.00644" latitude="-86.8416"/>
+</link>
 <markers>
 <marker category="25">
 <point longitude="-7.4" latitude="-87.2"/>

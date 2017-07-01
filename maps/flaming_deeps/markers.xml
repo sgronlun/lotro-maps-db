@@ -8,6 +8,15 @@
 <label locale="en" value="Moria: Flaming Deeps"/>
 <label locale="fr" value="Moria: Profondeurs Ardentes"/>
 </labels>
+<link target="the_water_works">
+<point longitude="-111.29294" latitude="-15.740728"/>
+</link>
+<link target="zelem_melek">
+<point longitude="-108.596245" latitude="-12.688425"/>
+</link>
+<link target="redhorn_lodes">
+<point longitude="-105.61062" latitude="-15.525883"/>
+</link>
 <markers>
 <marker category="25">
 <point longitude="-109.6" latitude="-16.4"/>

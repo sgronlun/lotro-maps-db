@@ -8,6 +8,12 @@
 <label locale="en" value="East Rohan: Eaves Of Fangorn"/>
 <label locale="fr" value="Rohan Est: Lisiere De Fangorn"/>
 </labels>
+<link target="west_rohan_entwood">
+<point longitude="-77.13791" latitude="-39.444202"/>
+</link>
+<link target="east_rohan_entwash_vale">
+<point longitude="-67.556526" latitude="-43.09735"/>
+</link>
 <markers>
 <marker category="2">
 <point longitude="-74.6" latitude="-39.1"/>

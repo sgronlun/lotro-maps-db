@@ -8,6 +8,39 @@
 <label locale="en" value="West Rohan"/>
 <label locale="fr" value="Rohan Ouest"/>
 </labels>
+<link target="far_anorien">
+<point longitude="-52.99379" latitude="-71.41234"/>
+</link>
+<link target="west_rohan_broadacres">
+<point longitude="-69.3081" latitude="-46.88925"/>
+</link>
+<link target="west_rohan_entwood">
+<point longitude="-79.581985" latitude="-43.275322"/>
+</link>
+<link target="west_rohan_stonedeans">
+<point longitude="-78.755936" latitude="-49.109238"/>
+</link>
+<link target="west_rohan_westfold">
+<point longitude="-85.20938" latitude="-56.491974"/>
+</link>
+<link target="west_rohan_kingstead">
+<point longitude="-74.31597" latitude="-57.111507"/>
+</link>
+<link target="west_rohan_helms_deep">
+<point longitude="-89.236336" latitude="-62.171005"/>
+</link>
+<link target="west_rohan_edoras">
+<point longitude="-72.354126" latitude="-61.65473"/>
+</link>
+<link target="east_rohan">
+<point longitude="-59.240723" latitude="-55.046402"/>
+</link>
+<link target="west_rohan_eastfold">
+<point longitude="-59.808624" latitude="-68.00492"/>
+</link>
+<link target="paths_of_the_dead">
+<point longitude="-72.14761" latitude="-70.84444"/>
+</link>
 <markers>
 <marker category="13">
 <point longitude="-89.7" latitude="-64.5"/>

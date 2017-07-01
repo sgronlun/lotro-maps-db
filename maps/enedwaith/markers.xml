@@ -8,6 +8,15 @@
 <label locale="en" value="Enedwaith"/>
 <label locale="fr" value="Enedwaith"/>
 </labels>
+<link target="dunland">
+<point longitude="-15.236364" latitude="-75.530304"/>
+</link>
+<link target="dunland">
+<point longitude="-22.29697" latitude="-74.80303"/>
+</link>
+<link target="eregion">
+<point longitude="-13.11515" latitude="-54.89394"/>
+</link>
 <markers>
 <marker category="12">
 <point longitude="-13.8" latitude="-69.4"/>

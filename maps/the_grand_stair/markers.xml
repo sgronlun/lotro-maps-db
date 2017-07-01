@@ -8,6 +8,12 @@
 <label locale="en" value="Moria: The Grand Stair"/>
 <label locale="fr" value="Moria: Grand Escalier"/>
 </labels>
+<link target="nud_melek">
+<point longitude="-138.27074" latitude="72.9792"/>
+</link>
+<link target="redhorn_lodes">
+<point longitude="-138.3142" latitude="70.34746"/>
+</link>
 <markers>
 <marker category="2">
 <point longitude="-139.0" latitude="71.8"/>

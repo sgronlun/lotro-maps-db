@@ -8,6 +8,9 @@
 <label locale="en" value="West Rohan: Edoras"/>
 <label locale="fr" value="Rohan Ouest: Edoras"/>
 </labels>
+<link target="west_rohan_kingstead">
+<point longitude="-69.89434" latitude="-60.170822"/>
+</link>
 <markers>
 <marker category="12">
 <point longitude="-74.3" latitude="-60.7"/>

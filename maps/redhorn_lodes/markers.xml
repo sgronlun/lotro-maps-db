@@ -8,6 +8,21 @@
 <label locale="en" value="Moria: Redhorn Lodes"/>
 <label locale="fr" value="Moria: Filons Du Rubicorne"/>
 </labels>
+<link target="zelem_melek">
+<point longitude="-107.02701" latitude="-11.664242"/>
+</link>
+<link target="the_grand_stair">
+<point longitude="-103.80912" latitude="-10.264369"/>
+</link>
+<link target="nud_melek">
+<point longitude="-102.109276" latitude="-10.473441"/>
+</link>
+<link target="foundations_of_stone">
+<point longitude="-101.95474" latitude="-12.055115"/>
+</link>
+<link target="flaming_deeps">
+<point longitude="-106.463425" latitude="-15.618427"/>
+</link>
 <markers>
 <marker category="25">
 <point longitude="-103.9" latitude="-10.3"/>

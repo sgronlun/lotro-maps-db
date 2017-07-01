@@ -8,6 +8,12 @@
 <label locale="en" value="Cape of Belfalas Homesteads"/>
 <label locale="fr" value="Residences Du Cap Du Belfalas"/>
 </labels>
+<link target="western_gondor_havens_of_belfalas">
+<point longitude="-69.133125" latitude="-82.64471"/>
+</link>
+<link target="central_gondor">
+<point longitude="-59.277306" latitude="-87.0589"/>
+</link>
 <markers>
 <marker category="14">
 <point longitude="-62.4" latitude="-92.9"/>

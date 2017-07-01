@@ -8,6 +8,24 @@
 <label locale="en" value="Western Gondor"/>
 <label locale="fr" value="Ouest Du Gondor"/>
 </labels>
+<link target="central_gondor">
+<point longitude="-50.245308" latitude="-70.56942"/>
+</link>
+<link target="paths_of_the_dead">
+<point longitude="-66.31767" latitude="-52.182972"/>
+</link>
+<link target="western_gondor_blackroot_vale">
+<point longitude="-65.93901" latitude="-60.345375"/>
+</link>
+<link target="western_gondor_lamedon">
+<point longitude="-59.45957" latitude="-64.59488"/>
+</link>
+<link target="western_gondor_havens_of_belfalas">
+<point longitude="-66.19145" latitude="-77.17508"/>
+</link>
+<link target="western_gondor_dol_amroth">
+<point longitude="-71.78733" latitude="-74.48233"/>
+</link>
 <markers>
 <marker category="13">
 <point longitude="-71.1" latitude="-74.6"/>

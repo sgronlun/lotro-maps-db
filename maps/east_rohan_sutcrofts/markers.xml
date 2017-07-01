@@ -8,6 +8,21 @@
 <label locale="en" value="East Rohan: Sutcrofts"/>
 <label locale="fr" value="Rohan Est: Sutcrofts"/>
 </labels>
+<link target="east_rohan_entwash_vale">
+<point longitude="-60.056343" latitude="-53.191353"/>
+</link>
+<link target="east_rohan_the_east_wall">
+<point longitude="-52.277924" latitude="-58.904537"/>
+</link>
+<link target="east_rohan_snowbourn">
+<point longitude="-61.909267" latitude="-60.352135"/>
+</link>
+<link target="east_rohan_norcrofts">
+<point longitude="-55.84866" latitude="-55.333797"/>
+</link>
+<link target="west_rohan_kingstead">
+<point longitude="-64.74656" latitude="-55.21799"/>
+</link>
 <markers>
 <marker category="13">
 <point longitude="-62.4" latitude="-61.0"/>

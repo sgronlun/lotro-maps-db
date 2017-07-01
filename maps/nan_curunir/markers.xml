@@ -8,6 +8,12 @@
 <label locale="en" value="Isengard: Nan Curunir"/>
 <label locale="fr" value="Isengard: Nan Curunir"/>
 </labels>
+<link target="ring_of_isengard">
+<point longitude="-2.4605522" latitude="-79.26111"/>
+</link>
+<link target="gap_of_rohan">
+<point longitude="-2.872293" latitude="-85.91538"/>
+</link>
 <markers>
 <marker category="25">
 <point longitude="-3.5" latitude="-84.8"/>

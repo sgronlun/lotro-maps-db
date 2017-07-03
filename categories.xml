@@ -189,32 +189,4 @@
 <label locale="fr" value="Tresor"/>
 </labels>
 </category>
-<category code="28" icon="vendor">
-<labels>
-<label locale="de" value="Handler"/>
-<label locale="en" value="Merchants"/>
-<label locale="fr" value="Marchands"/>
-</labels>
-</category>
-<category code="29" icon="item">
-<labels>
-<label locale="de" value="Objekts"/>
-<label locale="en" value="Items"/>
-<label locale="fr" value="Objets"/>
-</labels>
-</category>
-<category code="30" icon="roving_threat">
-<labels>
-<label locale="de" value="Feinde"/>
-<label locale="en" value="Enemies"/>
-<label locale="fr" value="Ennemis"/>
-</labels>
-</category>
-<category code="31" icon="settlement">
-<labels>
-<label locale="de" value="Stellen"/>
-<label locale="en" value="Locations"/>
-<label locale="fr" value="Emplacements"/>
-</labels>
-</category>
 </categories>

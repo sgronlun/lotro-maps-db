@@ -9,7 +9,7 @@
 <label locale="fr" value="Maison De Grimbeorn"/>
 </labels>
 <markers>
-<marker category="15">
+<marker id="1" category="15">
 <point longitude="-53.5" latitude="33.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -17,7 +17,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="1">
+<marker id="2" category="1">
 <point longitude="-53.3" latitude="33.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -25,7 +25,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="1">
+<marker id="3" category="1">
 <point longitude="-53.6" latitude="33.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -33,7 +33,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="1">
+<marker id="4" category="1">
 <point longitude="-53.3" latitude="33.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -41,7 +41,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="1">
+<marker id="5" category="1">
 <point longitude="-53.3" latitude="34.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -49,7 +49,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="1">
+<marker id="6" category="1">
 <point longitude="-54.5" latitude="33.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -57,7 +57,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="1">
+<marker id="7" category="1">
 <point longitude="-53.3" latitude="33.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -65,7 +65,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="1">
+<marker id="8" category="1">
 <point longitude="-53.3" latitude="33.6"/>
 <labels>
 <label locale="de" value="TBD"/>

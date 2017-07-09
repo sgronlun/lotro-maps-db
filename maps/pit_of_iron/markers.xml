@@ -9,7 +9,7 @@
 <label locale="fr" value="Trouee Du Rohan: The Pit Of Iron"/>
 </labels>
 <markers>
-<marker category="2">
+<marker id="1" category="2">
 <point longitude="-93.1" latitude="51.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -17,7 +17,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="2" category="2">
 <point longitude="-91.2" latitude="51.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -25,7 +25,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="4">
+<marker id="3" category="4">
 <point longitude="-93.1" latitude="51.8"/>
 <labels>
 <label locale="de" value="TBD"/>

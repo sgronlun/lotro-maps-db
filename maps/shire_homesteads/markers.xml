@@ -9,7 +9,7 @@
 <label locale="fr" value="Comte: Residences"/>
 </labels>
 <markers>
-<marker category="14">
+<marker id="1" category="14">
 <point longitude="-73.9" latitude="-36.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -17,7 +17,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="8">
+<marker id="2" category="8">
 <point longitude="-73.7" latitude="-36.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -25,7 +25,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="7">
+<marker id="3" category="7">
 <point longitude="-73.6" latitude="-37.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -33,7 +33,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="7">
+<marker id="4" category="7">
 <point longitude="-73.6" latitude="-37.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -41,7 +41,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="9">
+<marker id="5" category="9">
 <point longitude="-73.7" latitude="-36.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -49,7 +49,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="16">
+<marker id="6" category="16">
 <point longitude="-73.7" latitude="-36.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -57,7 +57,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="16">
+<marker id="7" category="16">
 <point longitude="-73.7" latitude="-36.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -65,7 +65,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="16">
+<marker id="8" category="16">
 <point longitude="-73.7" latitude="-36.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -73,7 +73,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="16">
+<marker id="9" category="16">
 <point longitude="-73.8" latitude="-36.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -81,7 +81,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="16">
+<marker id="10" category="16">
 <point longitude="-73.8" latitude="-36.9"/>
 <labels>
 <label locale="de" value="TBD"/>

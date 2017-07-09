@@ -9,7 +9,7 @@
 <label locale="fr" value="Rivegel"/>
 </labels>
 <markers>
-<marker category="2">
+<marker id="1" category="2">
 <point longitude="-93.7" latitude="13.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -17,7 +17,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="2" category="2">
 <point longitude="-94.7" latitude="13.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -25,7 +25,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="3" category="2">
 <point longitude="-95.2" latitude="13.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -33,7 +33,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="4" category="2">
 <point longitude="-95.6" latitude="12.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -41,7 +41,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="5" category="2">
 <point longitude="-93.5" latitude="12.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -49,7 +49,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="6" category="2">
 <point longitude="-94.3" latitude="11.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -57,7 +57,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="17">
+<marker id="7" category="17">
 <point longitude="-95.1" latitude="12.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -65,7 +65,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="8">
+<marker id="8" category="8">
 <point longitude="-95.2" latitude="11.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -73,7 +73,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="18">
+<marker id="9" category="18">
 <point longitude="-95.3" latitude="11.9"/>
 <labels>
 <label locale="de" value="TBD"/>

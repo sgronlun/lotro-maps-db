@@ -12,7 +12,7 @@
 <point longitude="-108.625" latitude="12.149667"/>
 </link>
 <markers>
-<marker category="2">
+<marker id="1" category="2">
 <point longitude="-108.7" latitude="14.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -20,7 +20,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="2" category="2">
 <point longitude="-108.8" latitude="14.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -28,7 +28,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="3" category="2">
 <point longitude="-109.1" latitude="13.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -36,7 +36,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="4" category="2">
 <point longitude="-109.6" latitude="14.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -44,7 +44,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="5" category="2">
 <point longitude="-109.8" latitude="14.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -52,7 +52,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="2">
+<marker id="6" category="2">
 <point longitude="-108.5" latitude="15.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -60,7 +60,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="4">
+<marker id="7" category="4">
 <point longitude="-109.8" latitude="14.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -68,7 +68,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="4">
+<marker id="8" category="4">
 <point longitude="-110.1" latitude="13.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -76,7 +76,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="4">
+<marker id="9" category="4">
 <point longitude="-108.7" latitude="14.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -84,7 +84,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker category="3">
+<marker id="10" category="3">
 <point longitude="-108.8" latitude="14.8"/>
 <labels>
 <label locale="de" value="TBD"/>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map key="mordor_nargroth" lastUpdate="1500501600000">
+<geo factor="16.741268">
+<point longitude="11.1" latitude="19.5"/>
+</geo>
+<labels>
+<label locale="de" value="Mordor: Nargroth"/>
+<label locale="en" value="Mordor: Nargroth"/>
+<label locale="fr" value="Mordor: Nargroth"/>
+</labels>
+<markers>
+<marker id="1" category="2">
+<point longitude="14.4" latitude="17.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Strand of Fire"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="2" category="2">
+<point longitude="13.6" latitude="17.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Court of Horror"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="3" category="2">
+<point longitude="13.9" latitude="17.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ledge of Fear"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="4" category="2">
+<point longitude="14.2" latitude="17.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ledge of Dread"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="5" category="2">
+<point longitude="14.5" latitude="16.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ledge of Terror"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="6" category="2">
+<point longitude="13.6" latitude="16.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="The Ash Watch"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="7" category="3">
+<point longitude="13.7" latitude="16.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Drakeling nest"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="8" category="3">
+<point longitude="13.2" latitude="16.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Drakeling nest"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="9" category="3">
+<point longitude="14.3" latitude="16.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Drakeling nest"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="10" category="3">
+<point longitude="13.5" latitude="18.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Drakeling nest"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="11" category="3">
+<point longitude="13.6" latitude="17.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Drakeling nest"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="12" category="3">
+<point longitude="14.4" latitude="16.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Shrine"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="13" category="3">
+<point longitude="14.4" latitude="16.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Shrine"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="14" category="3">
+<point longitude="14.1" latitude="17.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Shrine"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="15" category="3">
+<point longitude="14.1" latitude="17.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Shrine"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="16" category="3">
+<point longitude="13.7" latitude="17.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Shrine"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="17" category="3">
+<point longitude="13.7" latitude="17.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Shrine"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18" category="3">
+<point longitude="12.8" latitude="17.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vent"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="19" category="3">
+<point longitude="13.0" latitude="17.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vent"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="20" category="3">
+<point longitude="13.0" latitude="17.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vent"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="21" category="3">
+<point longitude="13.4" latitude="18.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vent"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="22" category="3">
+<point longitude="13.5" latitude="17.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vent"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="23" category="3">
+<point longitude="13.3" latitude="17.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vent"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="24" category="3">
+<point longitude="14.2" latitude="17.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Durossil's vent"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="25" category="3">
+<point longitude="12.9" latitude="17.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Statue"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="26" category="3">
+<point longitude="14.0" latitude="17.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Statue"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="27" category="3">
+<point longitude="13.9" latitude="17.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Statue"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="28" category="3">
+<point longitude="13.6" latitude="15.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Statue"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="29" category="3">
+<point longitude="13.6" latitude="15.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Statue"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="30" category="3">
+<point longitude="14.3" latitude="16.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Statue"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="31" category="3">
+<point longitude="13.9" latitude="17.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Narthalum's statue"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="32" category="3">
+<point longitude="14.1" latitude="15.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Pillar"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="33" category="3">
+<point longitude="14.2" latitude="15.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Pillar"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="34" category="3">
+<point longitude="14.2" latitude="16.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Pillar"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="35" category="3">
+<point longitude="14.2" latitude="16.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Pillar"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="36" category="3">
+<point longitude="14.2" latitude="16.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Pillar"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="37" category="3">
+<point longitude="14.3" latitude="16.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Pillar"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="38" category="3">
+<point longitude="14.5" latitude="16.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Nargur's pillar"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="39" category="3">
+<point longitude="12.8" latitude="17.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="40" category="3">
+<point longitude="12.8" latitude="18.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="41" category="3">
+<point longitude="12.8" latitude="18.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="42" category="3">
+<point longitude="13.4" latitude="18.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="43" category="3">
+<point longitude="13.4" latitude="17.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="44" category="3">
+<point longitude="13.9" latitude="17.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="45" category="3">
+<point longitude="12.7" latitude="16.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="46" category="3">
+<point longitude="13.1" latitude="16.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="47" category="3">
+<point longitude="13.6" latitude="15.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="48" category="3">
+<point longitude="14.0" latitude="15.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="49" category="3">
+<point longitude="14.1" latitude="16.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="50" category="3">
+<point longitude="13.8" latitude="17.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ancient ward fragment"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="51" category="32">
+<point longitude="12.5" latitude="17.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Singed page #4"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="52" category="32">
+<point longitude="13.0" latitude="17.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Singed page #5"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="53" category="32">
+<point longitude="13.6" latitude="17.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Singed page #8"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="54" category="32">
+<point longitude="14.3" latitude="17.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Singed page #12"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+</markers>
+</map>

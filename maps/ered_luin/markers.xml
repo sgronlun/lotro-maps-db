@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map key="ered_luin" lastUpdate="1496872800000">
+<map key="ered_luin" lastUpdate="1501279200000">
 <geo factor="3.875">
 <point longitude="-112.9" latitude="-12.6"/>
 </geo>
@@ -3524,6 +3524,70 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Remembrance (Anniversary Scavenger Hunt Year 9)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="440" category="1">
+<point longitude="-92.1" latitude="-28.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Taerthon"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="441" category="1">
+<point longitude="-91.9" latitude="-28.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Reflection of Cirdan"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="442" category="1">
+<point longitude="-92.1" latitude="-28.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Reflection of Elrond"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="443" category="1">
+<point longitude="-92.1" latitude="-28.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Reflection of Gil-Galad"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="444" category="1">
+<point longitude="-92.2" latitude="-28.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Reflection of Harthalin"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="445" category="1">
+<point longitude="-92.1" latitude="-28.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Reflection of Glorfindel"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="446" category="1">
+<point longitude="-92.3" latitude="-28.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Elladan (High Elf prologue)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="447" category="1">
+<point longitude="-92.3" latitude="-28.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Elrohir (High Elf prologue)"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

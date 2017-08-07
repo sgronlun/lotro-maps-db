@@ -189,4 +189,11 @@
 <label locale="fr" value="Tresor"/>
 </labels>
 </category>
+<category code="32" icon="book_open">
+<labels>
+<label locale="de" value="Uberlieferung"/>
+<label locale="en" value="Lore"/>
+<label locale="fr" value="Connaissance"/>
+</labels>
+</category>
 </categories>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="mordor_dor_amarth" lastUpdate="1501279200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="mordor_dor_amarth" lastUpdate="1509404400000">
 <geo factor="4.38232">
 <point longitude="5.9" latitude="-37.1"/>
 </geo>
@@ -1386,6 +1385,14 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Dor Amarth (bounty board)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="172" category="6" comment="Grangath/Ulurgroth">
+<point longitude="12.7" latitude="-46.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hidden Threat Spawn Location"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

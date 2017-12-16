@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="post_pelennor_minas_tirith" lastUpdate="1476914400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="post_pelennor_minas_tirith" lastUpdate="1500415200000">
 <geo factor="11.273433">
 <point longitude="-24.1" latitude="-62.2"/>
 </geo>
@@ -1705,6 +1704,54 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Wild kingsfoil"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="213" category="1">
+<point longitude="-18.7" latitude="-64.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Halsi (Dwarves emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="214" category="1">
+<point longitude="-18.7" latitude="-64.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vigmath (Dwarves emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="215" category="1">
+<point longitude="-18.2" latitude="-65.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Lalornil (Elven emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="216" category="1">
+<point longitude="-18.2" latitude="-65.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Olphadon (Elven emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="217" category="1">
+<point longitude="-18.3" latitude="-66.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hasong (Haradrim emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="218" category="1">
+<point longitude="-18.3" latitude="-66.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mauthoi (Haradrim emissary for King of Gondor Allegiance Chapter 2)"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="post_pelennor_march_of_the_king" lastUpdate="1495922400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="post_pelennor_march_of_the_king" lastUpdate="1500415200000">
 <geo factor="2.37679">
 <point longitude="-34.8" latitude="-39.6"/>
 </geo>
@@ -1705,7 +1704,55 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="213" category="22">
+<marker id="213" category="1">
+<point longitude="-18.7" latitude="-64.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Halsi (Dwarves emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="214" category="1">
+<point longitude="-18.7" latitude="-64.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Vigmath (Dwarves emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="215" category="1">
+<point longitude="-18.2" latitude="-65.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Lalornil (Elven emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="216" category="1">
+<point longitude="-18.2" latitude="-65.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Olphadon (Elven emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="217" category="1">
+<point longitude="-18.3" latitude="-66.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hasong (Haradrim emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="218" category="1">
+<point longitude="-18.3" latitude="-66.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mauthoi (Haradrim emissary for King of Gondor Allegiance Chapter 2)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="219" category="22">
 <point longitude="-14.6" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1713,7 +1760,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="214" category="14">
+<marker id="220" category="14">
 <point longitude="-14.6" latitude="-65.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1721,7 +1768,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="215" category="8">
+<marker id="221" category="8">
 <point longitude="-14.8" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1729,7 +1776,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="216" category="2">
+<marker id="222" category="2">
 <point longitude="-12.3" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1737,7 +1784,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="217" category="2">
+<marker id="223" category="2">
 <point longitude="-14.8" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1745,7 +1792,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="218" category="2">
+<marker id="224" category="2">
 <point longitude="-14.0" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1753,7 +1800,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="219" category="11">
+<marker id="225" category="11">
 <point longitude="-14.8" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1761,7 +1808,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="220" category="7">
+<marker id="226" category="7">
 <point longitude="-14.7" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1769,7 +1816,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="221" category="16">
+<marker id="227" category="16">
 <point longitude="-14.7" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1777,7 +1824,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="222" category="16">
+<marker id="228" category="16">
 <point longitude="-14.7" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1785,7 +1832,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="223" category="16">
+<marker id="229" category="16">
 <point longitude="-14.7" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1793,7 +1840,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="224" category="1">
+<marker id="230" category="1">
 <point longitude="-14.7" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1801,7 +1848,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="225" category="1">
+<marker id="231" category="1">
 <point longitude="-14.7" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1809,7 +1856,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="226" category="1">
+<marker id="232" category="1">
 <point longitude="-14.7" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1817,7 +1864,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="227" category="1">
+<marker id="233" category="1">
 <point longitude="-14.7" latitude="-65.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1825,7 +1872,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="228" category="1">
+<marker id="234" category="1">
 <point longitude="-14.7" latitude="-65.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1833,7 +1880,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="229" category="1">
+<marker id="235" category="1">
 <point longitude="-14.7" latitude="-65.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1841,7 +1888,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="230" category="1">
+<marker id="236" category="1">
 <point longitude="-14.7" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1849,7 +1896,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="231" category="1">
+<marker id="237" category="1">
 <point longitude="-14.7" latitude="-65.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1857,7 +1904,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="232" category="1">
+<marker id="238" category="1">
 <point longitude="-14.7" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1865,7 +1912,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="233" category="1">
+<marker id="239" category="1">
 <point longitude="-14.6" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1873,7 +1920,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="234" category="1">
+<marker id="240" category="1">
 <point longitude="-14.7" latitude="-65.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1881,7 +1928,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="235" category="1">
+<marker id="241" category="1">
 <point longitude="-15.2" latitude="-66.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1889,7 +1936,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="236" category="1">
+<marker id="242" category="1">
 <point longitude="-15.2" latitude="-67.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1897,7 +1944,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="237" category="1">
+<marker id="243" category="1">
 <point longitude="-15.4" latitude="-67.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1905,7 +1952,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="238" category="1">
+<marker id="244" category="1">
 <point longitude="-12.9" latitude="-66.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1913,7 +1960,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="239" category="1">
+<marker id="245" category="1">
 <point longitude="-17.9" latitude="-66.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1921,7 +1968,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="240" category="1">
+<marker id="246" category="1">
 <point longitude="-14.7" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1929,7 +1976,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="241" category="1">
+<marker id="247" category="1">
 <point longitude="-15.8" latitude="-70.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1937,7 +1984,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="242" category="1">
+<marker id="248" category="1">
 <point longitude="-14.7" latitude="-65.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1945,7 +1992,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="243" category="1">
+<marker id="249" category="1">
 <point longitude="-14.5" latitude="-68.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1953,7 +2000,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="244" category="1">
+<marker id="250" category="1">
 <point longitude="-14.8" latitude="-65.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1961,7 +2008,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="245" category="1">
+<marker id="251" category="1">
 <point longitude="-13.0" latitude="-62.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1969,7 +2016,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="246" category="1">
+<marker id="252" category="1">
 <point longitude="-14.7" latitude="-65.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1977,7 +2024,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="247" category="1">
+<marker id="253" category="1">
 <point longitude="-16.1" latitude="-63.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1985,7 +2032,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="248" category="1">
+<marker id="254" category="1">
 <point longitude="-15.3" latitude="-65.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -1993,7 +2040,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="249" category="1">
+<marker id="255" category="1">
 <point longitude="-12.5" latitude="-58.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2001,7 +2048,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="250" category="1">
+<marker id="256" category="1">
 <point longitude="-15.3" latitude="-65.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2009,7 +2056,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="251" category="1">
+<marker id="257" category="1">
 <point longitude="-15.1" latitude="-64.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2017,7 +2064,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="252" category="1">
+<marker id="258" category="1">
 <point longitude="-15.2" latitude="-63.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2025,7 +2072,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="253" category="1">
+<marker id="259" category="1">
 <point longitude="-14.9" latitude="-63.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2033,7 +2080,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="254" category="1">
+<marker id="260" category="1">
 <point longitude="-14.9" latitude="-63.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2041,7 +2088,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="255" category="1">
+<marker id="261" category="1">
 <point longitude="-14.7" latitude="-65.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2049,7 +2096,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="256" category="1">
+<marker id="262" category="1">
 <point longitude="-14.9" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2057,7 +2104,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="257" category="1">
+<marker id="263" category="1">
 <point longitude="-15.2" latitude="-62.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2065,7 +2112,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="258" category="1">
+<marker id="264" category="1">
 <point longitude="-15.0" latitude="-69.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2073,7 +2120,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="259" category="1">
+<marker id="265" category="1">
 <point longitude="-14.7" latitude="-68.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2081,7 +2128,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="260" category="1">
+<marker id="266" category="1">
 <point longitude="-13.7" latitude="-66.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2089,7 +2136,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="261" category="1">
+<marker id="267" category="1">
 <point longitude="-14.0" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2097,7 +2144,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="262" category="1">
+<marker id="268" category="1">
 <point longitude="-13.9" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2105,7 +2152,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="263" category="1">
+<marker id="269" category="1">
 <point longitude="-15.2" latitude="-65.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2113,7 +2160,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="264" category="1">
+<marker id="270" category="1">
 <point longitude="-15.4" latitude="-65.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2121,7 +2168,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="265" category="1">
+<marker id="271" category="1">
 <point longitude="-15.9" latitude="-65.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2129,7 +2176,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="266" category="1">
+<marker id="272" category="1">
 <point longitude="-13.1" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2137,7 +2184,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="267" category="1">
+<marker id="273" category="1">
 <point longitude="-13.0" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2145,7 +2192,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="268" category="1">
+<marker id="274" category="1">
 <point longitude="-13.0" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2153,7 +2200,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="269" category="1">
+<marker id="275" category="1">
 <point longitude="-12.9" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2161,7 +2208,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="270" category="4">
+<marker id="276" category="4">
 <point longitude="-14.3" latitude="-61.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2169,7 +2216,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="271" category="3">
+<marker id="277" category="3">
 <point longitude="-13.1" latitude="-58.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2177,7 +2224,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="272" category="3">
+<marker id="278" category="3">
 <point longitude="-15.3" latitude="-70.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2185,7 +2232,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="273" category="3">
+<marker id="279" category="3">
 <point longitude="-15.1" latitude="-66.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2193,7 +2240,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="274" category="3">
+<marker id="280" category="3">
 <point longitude="-15.1" latitude="-65.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2201,7 +2248,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="275" category="3">
+<marker id="281" category="3">
 <point longitude="-13.8" latitude="-65.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2209,7 +2256,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="276" category="3">
+<marker id="282" category="3">
 <point longitude="-19.2" latitude="-69.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2217,7 +2264,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="277" category="3">
+<marker id="283" category="3">
 <point longitude="-19.1" latitude="-68.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2225,7 +2272,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="278" category="3">
+<marker id="284" category="3">
 <point longitude="-19.3" latitude="-69.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2233,7 +2280,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="279" category="3">
+<marker id="285" category="3">
 <point longitude="-19.4" latitude="-69.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2241,7 +2288,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="280" category="3">
+<marker id="286" category="3">
 <point longitude="-19.6" latitude="-69.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2249,7 +2296,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="281" category="3">
+<marker id="287" category="3">
 <point longitude="-19.6" latitude="-69.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2257,7 +2304,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="282" category="3">
+<marker id="288" category="3">
 <point longitude="-19.5" latitude="-70.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2265,7 +2312,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="283" category="3">
+<marker id="289" category="3">
 <point longitude="-19.6" latitude="-70.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2273,7 +2320,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="284" category="3">
+<marker id="290" category="3">
 <point longitude="-19.7" latitude="-70.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2281,7 +2328,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="285" category="3">
+<marker id="291" category="3">
 <point longitude="-14.6" latitude="-65.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2289,7 +2336,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="286" category="3">
+<marker id="292" category="3">
 <point longitude="-14.6" latitude="-65.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2297,7 +2344,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="287" category="3">
+<marker id="293" category="3">
 <point longitude="-14.7" latitude="-65.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2305,7 +2352,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="288" category="3">
+<marker id="294" category="3">
 <point longitude="-14.8" latitude="-65.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2313,59 +2360,11 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="289" category="3">
-<point longitude="-14.7" latitude="-65.3"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Chest armour"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="290" category="3">
-<point longitude="-14.6" latitude="-65.4"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Chest armour"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="291" category="3">
-<point longitude="-14.6" latitude="-65.5"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Chest armour"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="292" category="3">
-<point longitude="-14.7" latitude="-65.9"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Chest armour"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="293" category="3">
-<point longitude="-14.7" latitude="-65.3"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Supplies"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="294" category="3">
-<point longitude="-14.8" latitude="-65.5"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Supplies"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
 <marker id="295" category="3">
-<point longitude="-14.8" latitude="-65.4"/>
+<point longitude="-14.7" latitude="-65.3"/>
 <labels>
 <label locale="de" value="TBD"/>
-<label locale="en" value="Supplies"/>
+<label locale="en" value="Chest armour"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
@@ -2373,7 +2372,7 @@
 <point longitude="-14.6" latitude="-65.4"/>
 <labels>
 <label locale="de" value="TBD"/>
-<label locale="en" value="Supplies"/>
+<label locale="en" value="Chest armour"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
@@ -2381,20 +2380,20 @@
 <point longitude="-14.6" latitude="-65.5"/>
 <labels>
 <label locale="de" value="TBD"/>
-<label locale="en" value="Supplies"/>
+<label locale="en" value="Chest armour"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
 <marker id="298" category="3">
-<point longitude="-14.7" latitude="-65.7"/>
+<point longitude="-14.7" latitude="-65.9"/>
 <labels>
 <label locale="de" value="TBD"/>
-<label locale="en" value="Supplies"/>
+<label locale="en" value="Chest armour"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
 <marker id="299" category="3">
-<point longitude="-14.8" latitude="-65.7"/>
+<point longitude="-14.7" latitude="-65.3"/>
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Supplies"/>
@@ -2402,7 +2401,7 @@
 </labels>
 </marker>
 <marker id="300" category="3">
-<point longitude="-14.7" latitude="-65.9"/>
+<point longitude="-14.8" latitude="-65.5"/>
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Supplies"/>
@@ -2410,6 +2409,54 @@
 </labels>
 </marker>
 <marker id="301" category="3">
+<point longitude="-14.8" latitude="-65.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Supplies"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="302" category="3">
+<point longitude="-14.6" latitude="-65.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Supplies"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="303" category="3">
+<point longitude="-14.6" latitude="-65.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Supplies"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="304" category="3">
+<point longitude="-14.7" latitude="-65.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Supplies"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="305" category="3">
+<point longitude="-14.8" latitude="-65.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Supplies"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="306" category="3">
+<point longitude="-14.7" latitude="-65.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Supplies"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="307" category="3">
 <point longitude="-14.7" latitude="-65.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2417,7 +2464,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="302" category="3">
+<marker id="308" category="3">
 <point longitude="-14.8" latitude="-65.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2425,7 +2472,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="303" category="3">
+<marker id="309" category="3">
 <point longitude="-14.8" latitude="-65.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2433,7 +2480,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="304" category="3">
+<marker id="310" category="3">
 <point longitude="-14.7" latitude="-65.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2441,7 +2488,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="305" category="3">
+<marker id="311" category="3">
 <point longitude="-14.7" latitude="-65.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2449,7 +2496,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="306" category="3">
+<marker id="312" category="3">
 <point longitude="-14.6" latitude="-65.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2457,7 +2504,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="307" category="3">
+<marker id="313" category="3">
 <point longitude="-14.6" latitude="-65.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2465,7 +2512,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="308" category="3">
+<marker id="314" category="3">
 <point longitude="-14.8" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2473,7 +2520,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="309" category="3">
+<marker id="315" category="3">
 <point longitude="-14.6" latitude="-65.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2481,7 +2528,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="310" category="13">
+<marker id="316" category="13">
 <point longitude="-7.1" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2489,7 +2536,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="311" category="22">
+<marker id="317" category="22">
 <point longitude="-7.2" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2497,7 +2544,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="312" category="14">
+<marker id="318" category="14">
 <point longitude="-7.3" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2505,7 +2552,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="313" category="14">
+<marker id="319" category="14">
 <point longitude="-7.3" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2513,7 +2560,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="314" category="8">
+<marker id="320" category="8">
 <point longitude="-7.3" latitude="-62.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2521,7 +2568,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="315" category="8">
+<marker id="321" category="8">
 <point longitude="-7.3" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2529,7 +2576,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="316" category="8">
+<marker id="322" category="8">
 <point longitude="-7.0" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2537,7 +2584,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="317" category="10">
+<marker id="323" category="10">
 <point longitude="-7.2" latitude="-62.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2545,7 +2592,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="318" category="2">
+<marker id="324" category="2">
 <point longitude="-9.4" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2553,7 +2600,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="319" category="11">
+<marker id="325" category="11">
 <point longitude="-6.5" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2561,7 +2608,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="320" category="7">
+<marker id="326" category="7">
 <point longitude="-7.3" latitude="-62.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2569,7 +2616,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="321" category="9">
+<marker id="327" category="9">
 <point longitude="-7.1" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2577,7 +2624,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="322" category="16">
+<marker id="328" category="16">
 <point longitude="-7.3" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2585,7 +2632,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="323" category="16">
+<marker id="329" category="16">
 <point longitude="-7.3" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2593,7 +2640,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="324" category="16">
+<marker id="330" category="16">
 <point longitude="-7.3" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2601,7 +2648,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="325" category="1">
+<marker id="331" category="1">
 <point longitude="-7.6" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2609,7 +2656,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="326" category="1">
+<marker id="332" category="1">
 <point longitude="-7.6" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2617,7 +2664,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="327" category="1">
+<marker id="333" category="1">
 <point longitude="-7.4" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2625,7 +2672,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="328" category="1">
+<marker id="334" category="1">
 <point longitude="-7.1" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2633,7 +2680,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="329" category="1">
+<marker id="335" category="1">
 <point longitude="-10.3" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2641,7 +2688,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="330" category="1">
+<marker id="336" category="1">
 <point longitude="-7.3" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2649,7 +2696,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="331" category="1">
+<marker id="337" category="1">
 <point longitude="-10.3" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2657,7 +2704,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="332" category="1">
+<marker id="338" category="1">
 <point longitude="-7.3" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2665,7 +2712,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="333" category="1">
+<marker id="339" category="1">
 <point longitude="-6.6" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2673,7 +2720,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="334" category="1">
+<marker id="340" category="1">
 <point longitude="-6.7" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2681,7 +2728,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="335" category="1">
+<marker id="341" category="1">
 <point longitude="-6.4" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2689,7 +2736,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="336" category="1">
+<marker id="342" category="1">
 <point longitude="-6.6" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2697,7 +2744,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="337" category="1">
+<marker id="343" category="1">
 <point longitude="-6.6" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2705,7 +2752,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="338" category="1">
+<marker id="344" category="1">
 <point longitude="-6.6" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2713,7 +2760,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="339" category="1">
+<marker id="345" category="1">
 <point longitude="-6.6" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2721,7 +2768,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="340" category="1">
+<marker id="346" category="1">
 <point longitude="-6.6" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2729,7 +2776,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="341" category="3">
+<marker id="347" category="3">
 <point longitude="-9.9" latitude="-64.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2737,7 +2784,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="342" category="3">
+<marker id="348" category="3">
 <point longitude="-8.8" latitude="-63.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2745,7 +2792,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="343" category="3">
+<marker id="349" category="3">
 <point longitude="-7.8" latitude="-63.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2753,7 +2800,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="344" category="3">
+<marker id="350" category="3">
 <point longitude="-10.4" latitude="-61.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2761,7 +2808,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="345" category="3">
+<marker id="351" category="3">
 <point longitude="-7.5" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2769,7 +2816,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="346" category="3">
+<marker id="352" category="3">
 <point longitude="-7.2" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2777,7 +2824,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="347" category="3">
+<marker id="353" category="3">
 <point longitude="-7.9" latitude="-62.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2785,7 +2832,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="348" category="3">
+<marker id="354" category="3">
 <point longitude="-8.0" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2793,7 +2840,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="349" category="3">
+<marker id="355" category="3">
 <point longitude="-8.2" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2801,7 +2848,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="350" category="3">
+<marker id="356" category="3">
 <point longitude="-8.2" latitude="-62.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2809,7 +2856,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="351" category="3">
+<marker id="357" category="3">
 <point longitude="-7.4" latitude="-62.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2817,7 +2864,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="352" category="3">
+<marker id="358" category="3">
 <point longitude="-7.1" latitude="-63.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2825,7 +2872,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="353" category="3">
+<marker id="359" category="3">
 <point longitude="-7.5" latitude="-63.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2833,7 +2880,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="354" category="3">
+<marker id="360" category="3">
 <point longitude="-6.9" latitude="-63.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2841,7 +2888,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="355" category="3">
+<marker id="361" category="3">
 <point longitude="-8.9" latitude="-62.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2849,7 +2896,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="356" category="3">
+<marker id="362" category="3">
 <point longitude="-9.2" latitude="-62.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2857,7 +2904,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="357" category="3">
+<marker id="363" category="3">
 <point longitude="-9.4" latitude="-62.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2865,7 +2912,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="358" category="3">
+<marker id="364" category="3">
 <point longitude="-9.5" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2873,7 +2920,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="359" category="3">
+<marker id="365" category="3">
 <point longitude="-9.3" latitude="-62.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2881,7 +2928,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="360" category="3">
+<marker id="366" category="3">
 <point longitude="-9.4" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2889,7 +2936,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="361" category="3">
+<marker id="367" category="3">
 <point longitude="-9.2" latitude="-61.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2897,7 +2944,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="362" category="3">
+<marker id="368" category="3">
 <point longitude="-8.9" latitude="-61.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2905,7 +2952,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="363" category="3">
+<marker id="369" category="3">
 <point longitude="-9.7" latitude="-61.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2913,7 +2960,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="364" category="3">
+<marker id="370" category="3">
 <point longitude="-9.9" latitude="-61.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2921,7 +2968,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="365" category="17">
+<marker id="371" category="17">
 <point longitude="-5.4" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2929,7 +2976,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="366" category="22">
+<marker id="372" category="22">
 <point longitude="-7.2" latitude="-48.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2937,7 +2984,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="367" category="22">
+<marker id="373" category="22">
 <point longitude="-10.4" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2945,7 +2992,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="368" category="14">
+<marker id="374" category="14">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2953,7 +3000,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="369" category="14">
+<marker id="375" category="14">
 <point longitude="-10.3" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2961,7 +3008,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="370" category="14">
+<marker id="376" category="14">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2969,7 +3016,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="371" category="14">
+<marker id="377" category="14">
 <point longitude="-10.3" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2977,7 +3024,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="372" category="8">
+<marker id="378" category="8">
 <point longitude="-8.0" latitude="-48.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2985,7 +3032,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="373" category="8">
+<marker id="379" category="8">
 <point longitude="-10.4" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -2993,7 +3040,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="374" category="10">
+<marker id="380" category="10">
 <point longitude="-8.1" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3001,7 +3048,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="375" category="10">
+<marker id="381" category="10">
 <point longitude="-10.3" latitude="-41.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3009,7 +3056,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="376" category="2">
+<marker id="382" category="2">
 <point longitude="-5.1" latitude="-63.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3017,7 +3064,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="377" category="2">
+<marker id="383" category="2">
 <point longitude="-5.1" latitude="-59.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3025,7 +3072,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="378" category="2">
+<marker id="384" category="2">
 <point longitude="-5.0" latitude="-56.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3033,7 +3080,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="379" category="2">
+<marker id="385" category="2">
 <point longitude="-7.2" latitude="-52.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3041,7 +3088,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="380" category="2">
+<marker id="386" category="2">
 <point longitude="-13.7" latitude="-49.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3049,7 +3096,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="381" category="2">
+<marker id="387" category="2">
 <point longitude="-12.5" latitude="-48.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3057,7 +3104,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="382" category="2">
+<marker id="388" category="2">
 <point longitude="-13.1" latitude="-47.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3065,7 +3112,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="383" category="2">
+<marker id="389" category="2">
 <point longitude="-7.9" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3073,7 +3120,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="384" category="2">
+<marker id="390" category="2">
 <point longitude="-5.6" latitude="-45.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3081,7 +3128,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="385" category="2">
+<marker id="391" category="2">
 <point longitude="-7.2" latitude="-41.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3089,7 +3136,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="386" category="2">
+<marker id="392" category="2">
 <point longitude="-13.2" latitude="-43.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3097,7 +3144,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="387" category="2">
+<marker id="393" category="2">
 <point longitude="-5.4" latitude="-47.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3105,7 +3152,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="388" category="2">
+<marker id="394" category="2">
 <point longitude="-4.7" latitude="-54.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3113,7 +3160,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="389" category="2">
+<marker id="395" category="2">
 <point longitude="-11.3" latitude="-41.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3121,7 +3168,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="390" category="2">
+<marker id="396" category="2">
 <point longitude="-13.1" latitude="-50.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3129,7 +3176,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="391" category="2">
+<marker id="397" category="2">
 <point longitude="-12.7" latitude="-51.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3137,7 +3184,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="392" category="20">
+<marker id="398" category="20">
 <point longitude="-7.2" latitude="-48.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3145,7 +3192,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="393" category="11">
+<marker id="399" category="11">
 <point longitude="-6.9" latitude="-48.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3153,7 +3200,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="394" category="11">
+<marker id="400" category="11">
 <point longitude="-10.5" latitude="-41.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3161,7 +3208,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="395" category="7">
+<marker id="401" category="7">
 <point longitude="-10.3" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3169,7 +3216,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="396" category="17">
+<marker id="402" category="17">
 <point longitude="-7.1" latitude="-48.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3177,7 +3224,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="397" category="17">
+<marker id="403" category="17">
 <point longitude="-10.4" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3185,7 +3232,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="398" category="16">
+<marker id="404" category="16">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3193,7 +3240,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="399" category="16">
+<marker id="405" category="16">
 <point longitude="-10.5" latitude="-41.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3201,7 +3248,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="400" category="16">
+<marker id="406" category="16">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3209,7 +3256,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="401" category="16">
+<marker id="407" category="16">
 <point longitude="-10.5" latitude="-41.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3217,7 +3264,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="402" category="16">
+<marker id="408" category="16">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3225,7 +3272,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="403" category="16">
+<marker id="409" category="16">
 <point longitude="-10.5" latitude="-41.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3233,7 +3280,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="404" category="1">
+<marker id="410" category="1">
 <point longitude="-5.4" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3241,7 +3288,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="405" category="1">
+<marker id="411" category="1">
 <point longitude="-5.2" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3249,7 +3296,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="406" category="1">
+<marker id="412" category="1">
 <point longitude="-5.1" latitude="-63.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3257,7 +3304,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="407" category="1">
+<marker id="413" category="1">
 <point longitude="-5.3" latitude="-63.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3265,7 +3312,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="408" category="1">
+<marker id="414" category="1">
 <point longitude="-6.8" latitude="-48.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3273,7 +3320,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="409" category="1">
+<marker id="415" category="1">
 <point longitude="-10.3" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3281,7 +3328,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="410" category="1">
+<marker id="416" category="1">
 <point longitude="-5.0" latitude="-63.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3289,7 +3336,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="411" category="1">
+<marker id="417" category="1">
 <point longitude="-4.8" latitude="-63.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3297,7 +3344,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="412" category="1">
+<marker id="418" category="1">
 <point longitude="-5.1" latitude="-63.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3305,7 +3352,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="413" category="1">
+<marker id="419" category="1">
 <point longitude="-10.2" latitude="-41.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3313,7 +3360,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="414" category="1">
+<marker id="420" category="1">
 <point longitude="-4.9" latitude="-62.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3321,7 +3368,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="415" category="1">
+<marker id="421" category="1">
 <point longitude="-6.7" latitude="-53.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3329,7 +3376,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="416" category="1">
+<marker id="422" category="1">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3337,7 +3384,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="417" category="1">
+<marker id="423" category="1">
 <point longitude="-6.9" latitude="-53.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3345,7 +3392,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="418" category="1">
+<marker id="424" category="1">
 <point longitude="-6.9" latitude="-53.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3353,7 +3400,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="419" category="1">
+<marker id="425" category="1">
 <point longitude="-6.9" latitude="-53.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3361,7 +3408,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="420" category="1">
+<marker id="426" category="1">
 <point longitude="-7.4" latitude="-53.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3369,7 +3416,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="421" category="1">
+<marker id="427" category="1">
 <point longitude="-7.6" latitude="-53.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3377,7 +3424,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="422" category="1">
+<marker id="428" category="1">
 <point longitude="-8.7" latitude="-59.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3385,7 +3432,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="423" category="1">
+<marker id="429" category="1">
 <point longitude="-8.7" latitude="-59.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3393,7 +3440,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="424" category="1">
+<marker id="430" category="1">
 <point longitude="-8.7" latitude="-59.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3401,7 +3448,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="425" category="1">
+<marker id="431" category="1">
 <point longitude="-8.7" latitude="-59.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3409,7 +3456,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="426" category="1">
+<marker id="432" category="1">
 <point longitude="-8.7" latitude="-59.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3417,7 +3464,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="427" category="1">
+<marker id="433" category="1">
 <point longitude="-10.4" latitude="-47.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3425,7 +3472,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="428" category="1">
+<marker id="434" category="1">
 <point longitude="-10.4" latitude="-47.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3433,7 +3480,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="429" category="1">
+<marker id="435" category="1">
 <point longitude="-10.4" latitude="-47.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3441,7 +3488,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="430" category="1">
+<marker id="436" category="1">
 <point longitude="-10.4" latitude="-47.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3449,7 +3496,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="431" category="1">
+<marker id="437" category="1">
 <point longitude="-10.4" latitude="-47.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3457,7 +3504,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="432" category="1">
+<marker id="438" category="1">
 <point longitude="-8.1" latitude="-42.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3465,7 +3512,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="433" category="1">
+<marker id="439" category="1">
 <point longitude="-8.1" latitude="-42.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3473,7 +3520,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="434" category="1">
+<marker id="440" category="1">
 <point longitude="-8.1" latitude="-42.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3481,7 +3528,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="435" category="1">
+<marker id="441" category="1">
 <point longitude="-8.1" latitude="-42.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3489,7 +3536,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="436" category="1">
+<marker id="442" category="1">
 <point longitude="-8.1" latitude="-42.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3497,7 +3544,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="437" category="1">
+<marker id="443" category="1">
 <point longitude="-9.5" latitude="-41.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3505,7 +3552,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="438" category="1">
+<marker id="444" category="1">
 <point longitude="-9.5" latitude="-41.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3513,7 +3560,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="439" category="1">
+<marker id="445" category="1">
 <point longitude="-9.5" latitude="-41.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3521,7 +3568,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="440" category="1">
+<marker id="446" category="1">
 <point longitude="-9.5" latitude="-41.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3529,7 +3576,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="441" category="1">
+<marker id="447" category="1">
 <point longitude="-9.5" latitude="-41.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3537,7 +3584,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="442" category="1">
+<marker id="448" category="1">
 <point longitude="-6.8" latitude="-51.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3545,7 +3592,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="443" category="1">
+<marker id="449" category="1">
 <point longitude="-8.1" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3553,7 +3600,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="444" category="1">
+<marker id="450" category="1">
 <point longitude="-11.0" latitude="-46.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3561,7 +3608,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="445" category="1">
+<marker id="451" category="1">
 <point longitude="-6.5" latitude="-48.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3569,7 +3616,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="446" category="1">
+<marker id="452" category="1">
 <point longitude="-6.2" latitude="-46.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3577,7 +3624,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="447" category="1">
+<marker id="453" category="1">
 <point longitude="-5.8" latitude="-45.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3585,7 +3632,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="448" category="1">
+<marker id="454" category="1">
 <point longitude="-8.1" latitude="-48.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3593,7 +3640,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="449" category="1">
+<marker id="455" category="1">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3601,7 +3648,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="450" category="1">
+<marker id="456" category="1">
 <point longitude="-10.2" latitude="-41.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3609,7 +3656,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="451" category="1">
+<marker id="457" category="1">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3617,7 +3664,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="452" category="1">
+<marker id="458" category="1">
 <point longitude="-13.1" latitude="-43.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3625,7 +3672,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="453" category="1">
+<marker id="459" category="1">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3633,7 +3680,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="454" category="1">
+<marker id="460" category="1">
 <point longitude="-13.1" latitude="-43.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3641,7 +3688,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="455" category="1">
+<marker id="461" category="1">
 <point longitude="-13.1" latitude="-43.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3649,7 +3696,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="456" category="1">
+<marker id="462" category="1">
 <point longitude="-13.1" latitude="-43.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3657,7 +3704,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="457" category="1">
+<marker id="463" category="1">
 <point longitude="-13.1" latitude="-43.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3665,7 +3712,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="458" category="1">
+<marker id="464" category="1">
 <point longitude="-8.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3673,7 +3720,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="459" category="1">
+<marker id="465" category="1">
 <point longitude="-7.9" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3681,7 +3728,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="460" category="1">
+<marker id="466" category="1">
 <point longitude="-10.3" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3689,7 +3736,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="461" category="1">
+<marker id="467" category="1">
 <point longitude="-10.0" latitude="-41.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3697,7 +3744,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="462" category="1">
+<marker id="468" category="1">
 <point longitude="-10.4" latitude="-41.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3705,7 +3752,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="463" category="1">
+<marker id="469" category="1">
 <point longitude="-12.0" latitude="-49.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3713,7 +3760,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="464" category="1">
+<marker id="470" category="1">
 <point longitude="-10.2" latitude="-41.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3721,7 +3768,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="465" category="1">
+<marker id="471" category="1">
 <point longitude="-10.2" latitude="-41.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3729,7 +3776,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="466" category="1">
+<marker id="472" category="1">
 <point longitude="-10.0" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3737,7 +3784,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="467" category="1">
+<marker id="473" category="1">
 <point longitude="-10.0" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3745,7 +3792,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="468" category="1">
+<marker id="474" category="1">
 <point longitude="-9.9" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3753,7 +3800,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="469" category="1">
+<marker id="475" category="1">
 <point longitude="-9.8" latitude="-40.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3761,7 +3808,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="470" category="1">
+<marker id="476" category="1">
 <point longitude="-9.8" latitude="-40.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3769,7 +3816,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="471" category="1">
+<marker id="477" category="1">
 <point longitude="-9.8" latitude="-40.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3777,7 +3824,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="472" category="1">
+<marker id="478" category="1">
 <point longitude="-10.6" latitude="-40.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3785,7 +3832,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="473" category="1">
+<marker id="479" category="1">
 <point longitude="-10.6" latitude="-40.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3793,7 +3840,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="474" category="1">
+<marker id="480" category="1">
 <point longitude="-10.6" latitude="-40.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3801,7 +3848,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="475" category="1">
+<marker id="481" category="1">
 <point longitude="-10.6" latitude="-40.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3809,7 +3856,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="476" category="1">
+<marker id="482" category="1">
 <point longitude="-10.5" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3817,7 +3864,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="477" category="1">
+<marker id="483" category="1">
 <point longitude="-12.6" latitude="-48.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3825,7 +3872,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="478" category="1">
+<marker id="484" category="1">
 <point longitude="-10.3" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3833,7 +3880,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="479" category="1">
+<marker id="485" category="1">
 <point longitude="-10.3" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3841,7 +3888,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="480" category="1">
+<marker id="486" category="1">
 <point longitude="-10.3" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3849,7 +3896,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="481" category="1">
+<marker id="487" category="1">
 <point longitude="-10.3" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3857,7 +3904,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="482" category="1">
+<marker id="488" category="1">
 <point longitude="-10.3" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3865,7 +3912,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="483" category="1">
+<marker id="489" category="1">
 <point longitude="-10.3" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3873,7 +3920,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="484" category="1">
+<marker id="490" category="1">
 <point longitude="-10.3" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3881,7 +3928,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="485" category="1">
+<marker id="491" category="1">
 <point longitude="-7.9" latitude="-42.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3889,7 +3936,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="486" category="1">
+<marker id="492" category="1">
 <point longitude="-10.3" latitude="-40.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3897,7 +3944,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="487" category="1">
+<marker id="493" category="1">
 <point longitude="-10.4" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3905,7 +3952,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="488" category="1">
+<marker id="494" category="1">
 <point longitude="-10.6" latitude="-40.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3913,7 +3960,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="489" category="1">
+<marker id="495" category="1">
 <point longitude="-11.1" latitude="-39.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3921,7 +3968,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="490" category="5">
+<marker id="496" category="5">
 <point longitude="-5.6" latitude="-56.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3929,7 +3976,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="491" category="5">
+<marker id="497" category="5">
 <point longitude="-7.7" latitude="-57.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3937,7 +3984,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="492" category="5">
+<marker id="498" category="5">
 <point longitude="-12.1" latitude="-42.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3945,7 +3992,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="493" category="3">
+<marker id="499" category="3">
 <point longitude="-6.9" latitude="-52.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3953,7 +4000,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="494" category="3">
+<marker id="500" category="3">
 <point longitude="-7.3" latitude="-53.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3961,7 +4008,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="495" category="3">
+<marker id="501" category="3">
 <point longitude="-6.5" latitude="-52.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3969,7 +4016,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="496" category="3">
+<marker id="502" category="3">
 <point longitude="-6.8" latitude="-52.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3977,7 +4024,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="497" category="3">
+<marker id="503" category="3">
 <point longitude="-7.6" latitude="-52.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3985,7 +4032,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="498" category="3">
+<marker id="504" category="3">
 <point longitude="-6.7" latitude="-52.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3993,7 +4040,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="499" category="3">
+<marker id="505" category="3">
 <point longitude="-6.3" latitude="-52.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4001,7 +4048,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="500" category="3">
+<marker id="506" category="3">
 <point longitude="-6.1" latitude="-52.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4009,7 +4056,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="501" category="3">
+<marker id="507" category="3">
 <point longitude="-5.9" latitude="-52.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4017,7 +4064,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="502" category="3">
+<marker id="508" category="3">
 <point longitude="-5.9" latitude="-53.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4025,7 +4072,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="503" category="3">
+<marker id="509" category="3">
 <point longitude="-4.6" latitude="-62.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4033,7 +4080,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="504" category="3">
+<marker id="510" category="3">
 <point longitude="-4.6" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4041,7 +4088,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="505" category="3">
+<marker id="511" category="3">
 <point longitude="-4.4" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4049,7 +4096,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="506" category="3">
+<marker id="512" category="3">
 <point longitude="-4.2" latitude="-62.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4057,7 +4104,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="507" category="3">
+<marker id="513" category="3">
 <point longitude="-4.2" latitude="-62.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4065,7 +4112,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="508" category="3">
+<marker id="514" category="3">
 <point longitude="-4.0" latitude="-61.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4073,7 +4120,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="509" category="3">
+<marker id="515" category="3">
 <point longitude="-4.0" latitude="-61.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4081,7 +4128,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="510" category="3">
+<marker id="516" category="3">
 <point longitude="-3.8" latitude="-61.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4089,7 +4136,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="511" category="3">
+<marker id="517" category="3">
 <point longitude="-4.0" latitude="-61.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4097,7 +4144,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="512" category="3">
+<marker id="518" category="3">
 <point longitude="-4.0" latitude="-60.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4105,7 +4152,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="513" category="3">
+<marker id="519" category="3">
 <point longitude="-4.2" latitude="-60.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4113,7 +4160,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="514" category="3">
+<marker id="520" category="3">
 <point longitude="-4.4" latitude="-60.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4121,7 +4168,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="515" category="3">
+<marker id="521" category="3">
 <point longitude="-4.5" latitude="-60.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4129,7 +4176,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="516" category="3">
+<marker id="522" category="3">
 <point longitude="-4.6" latitude="-60.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4137,7 +4184,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="517" category="3">
+<marker id="523" category="3">
 <point longitude="-4.7" latitude="-60.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4145,7 +4192,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="518" category="3">
+<marker id="524" category="3">
 <point longitude="-4.9" latitude="-60.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4153,7 +4200,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="519" category="3">
+<marker id="525" category="3">
 <point longitude="-4.9" latitude="-60.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4161,7 +4208,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="520" category="3">
+<marker id="526" category="3">
 <point longitude="-5.0" latitude="-60.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4169,7 +4216,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="521" category="3">
+<marker id="527" category="3">
 <point longitude="-4.5" latitude="-59.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4177,7 +4224,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="522" category="3">
+<marker id="528" category="3">
 <point longitude="-4.5" latitude="-60.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4185,7 +4232,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="523" category="3">
+<marker id="529" category="3">
 <point longitude="-5.1" latitude="-59.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4193,7 +4240,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="524" category="3">
+<marker id="530" category="3">
 <point longitude="-5.6" latitude="-59.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4201,7 +4248,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="525" category="3">
+<marker id="531" category="3">
 <point longitude="-5.4" latitude="-59.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4209,7 +4256,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="526" category="3">
+<marker id="532" category="3">
 <point longitude="-5.9" latitude="-59.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4217,7 +4264,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="527" category="3">
+<marker id="533" category="3">
 <point longitude="-5.8" latitude="-59.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4225,7 +4272,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="528" category="3">
+<marker id="534" category="3">
 <point longitude="-5.1" latitude="-59.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4233,7 +4280,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="529" category="3">
+<marker id="535" category="3">
 <point longitude="-4.9" latitude="-59.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4241,7 +4288,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="530" category="3">
+<marker id="536" category="3">
 <point longitude="-5.4" latitude="-59.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4249,7 +4296,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="531" category="3">
+<marker id="537" category="3">
 <point longitude="-5.7" latitude="-59.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4257,7 +4304,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="532" category="3">
+<marker id="538" category="3">
 <point longitude="-5.7" latitude="-59.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4265,7 +4312,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="533" category="3">
+<marker id="539" category="3">
 <point longitude="-5.4" latitude="-59.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4273,7 +4320,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="534" category="3">
+<marker id="540" category="3">
 <point longitude="-5.9" latitude="-59.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4281,7 +4328,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="535" category="3">
+<marker id="541" category="3">
 <point longitude="-5.9" latitude="-59.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4289,7 +4336,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="536" category="3">
+<marker id="542" category="3">
 <point longitude="-5.0" latitude="-59.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4297,7 +4344,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="537" category="3">
+<marker id="543" category="3">
 <point longitude="-6.9" latitude="-48.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4305,7 +4352,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="538" category="3">
+<marker id="544" category="3">
 <point longitude="-7.0" latitude="-48.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4313,7 +4360,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="539" category="3">
+<marker id="545" category="3">
 <point longitude="-7.0" latitude="-48.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4321,7 +4368,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="540" category="3">
+<marker id="546" category="3">
 <point longitude="-7.3" latitude="-48.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4329,7 +4376,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="541" category="3">
+<marker id="547" category="3">
 <point longitude="-7.3" latitude="-48.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4337,7 +4384,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="542" category="3">
+<marker id="548" category="3">
 <point longitude="-6.7" latitude="-48.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4345,7 +4392,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="543" category="3">
+<marker id="549" category="3">
 <point longitude="-6.4" latitude="-48.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4353,7 +4400,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="544" category="3">
+<marker id="550" category="3">
 <point longitude="-6.2" latitude="-47.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4361,7 +4408,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="545" category="3">
+<marker id="551" category="3">
 <point longitude="-11.1" latitude="-46.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4369,7 +4416,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="546" category="3">
+<marker id="552" category="3">
 <point longitude="-11.2" latitude="-46.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4377,7 +4424,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="547" category="3">
+<marker id="553" category="3">
 <point longitude="-11.0" latitude="-47.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4385,7 +4432,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="548" category="3">
+<marker id="554" category="3">
 <point longitude="-11.1" latitude="-46.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4393,7 +4440,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="549" category="3">
+<marker id="555" category="3">
 <point longitude="-11.0" latitude="-47.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4401,7 +4448,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="550" category="3">
+<marker id="556" category="3">
 <point longitude="-11.1" latitude="-46.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4409,7 +4456,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="551" category="3">
+<marker id="557" category="3">
 <point longitude="-11.3" latitude="-47.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4417,7 +4464,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="552" category="3">
+<marker id="558" category="3">
 <point longitude="-10.9" latitude="-46.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4425,7 +4472,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="553" category="3">
+<marker id="559" category="3">
 <point longitude="-11.2" latitude="-46.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4433,7 +4480,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="554" category="3">
+<marker id="560" category="3">
 <point longitude="-12.2" latitude="-47.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4441,7 +4488,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="555" category="3">
+<marker id="561" category="3">
 <point longitude="-12.6" latitude="-47.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4449,7 +4496,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="556" category="3">
+<marker id="562" category="3">
 <point longitude="-12.7" latitude="-46.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4457,7 +4504,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="557" category="3">
+<marker id="563" category="3">
 <point longitude="-13.7" latitude="-47.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4465,7 +4512,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="558" category="3">
+<marker id="564" category="3">
 <point longitude="-12.5" latitude="-47.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4473,7 +4520,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="559" category="3">
+<marker id="565" category="3">
 <point longitude="-12.6" latitude="-47.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4481,7 +4528,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="560" category="3">
+<marker id="566" category="3">
 <point longitude="-12.6" latitude="-46.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4489,7 +4536,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="561" category="3">
+<marker id="567" category="3">
 <point longitude="-13.1" latitude="-46.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4497,7 +4544,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="562" category="3">
+<marker id="568" category="3">
 <point longitude="-13.3" latitude="-46.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4505,7 +4552,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="563" category="3">
+<marker id="569" category="3">
 <point longitude="-13.6" latitude="-47.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4513,7 +4560,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="564" category="3">
+<marker id="570" category="3">
 <point longitude="-13.5" latitude="-47.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4521,7 +4568,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="565" category="3">
+<marker id="571" category="3">
 <point longitude="-12.8" latitude="-47.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4529,7 +4576,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="566" category="3">
+<marker id="572" category="3">
 <point longitude="-12.5" latitude="-46.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4537,7 +4584,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="567" category="3">
+<marker id="573" category="3">
 <point longitude="-12.9" latitude="-46.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4545,7 +4592,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="568" category="3">
+<marker id="574" category="3">
 <point longitude="-13.1" latitude="-46.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4553,7 +4600,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="569" category="3">
+<marker id="575" category="3">
 <point longitude="-13.2" latitude="-47.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4561,7 +4608,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="570" category="3">
+<marker id="576" category="3">
 <point longitude="-13.0" latitude="-47.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4569,7 +4616,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="571" category="3">
+<marker id="577" category="3">
 <point longitude="-11.9" latitude="-50.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4577,7 +4624,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="572" category="3">
+<marker id="578" category="3">
 <point longitude="-11.7" latitude="-50.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4585,7 +4632,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="573" category="3">
+<marker id="579" category="3">
 <point longitude="-11.4" latitude="-50.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4593,7 +4640,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="574" category="3">
+<marker id="580" category="3">
 <point longitude="-11.3" latitude="-50.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4601,7 +4648,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="575" category="3">
+<marker id="581" category="3">
 <point longitude="-11.2" latitude="-49.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4609,7 +4656,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="576" category="3">
+<marker id="582" category="3">
 <point longitude="-11.4" latitude="-49.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4617,7 +4664,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="577" category="3">
+<marker id="583" category="3">
 <point longitude="-9.9" latitude="-47.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4625,7 +4672,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="578" category="3">
+<marker id="584" category="3">
 <point longitude="-10.0" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4633,7 +4680,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="579" category="3">
+<marker id="585" category="3">
 <point longitude="-9.6" latitude="-48.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4641,7 +4688,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="580" category="3">
+<marker id="586" category="3">
 <point longitude="-9.5" latitude="-48.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4649,7 +4696,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="581" category="3">
+<marker id="587" category="3">
 <point longitude="-9.1" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4657,7 +4704,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="582" category="3">
+<marker id="588" category="3">
 <point longitude="-9.2" latitude="-48.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4665,7 +4712,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="583" category="3">
+<marker id="589" category="3">
 <point longitude="-8.9" latitude="-48.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4673,7 +4720,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="584" category="3">
+<marker id="590" category="3">
 <point longitude="-8.7" latitude="-48.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4681,7 +4728,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="585" category="3">
+<marker id="591" category="3">
 <point longitude="-9.3" latitude="-47.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4689,7 +4736,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="586" category="3">
+<marker id="592" category="3">
 <point longitude="-10.9" latitude="-46.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4697,7 +4744,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="587" category="3">
+<marker id="593" category="3">
 <point longitude="-10.9" latitude="-51.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4705,7 +4752,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="588" category="3">
+<marker id="594" category="3">
 <point longitude="-5.6" latitude="-47.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4713,7 +4760,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="589" category="3">
+<marker id="595" category="3">
 <point longitude="-10.8" latitude="-47.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4721,7 +4768,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="590" category="3">
+<marker id="596" category="3">
 <point longitude="-10.4" latitude="-47.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4729,7 +4776,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="591" category="3">
+<marker id="597" category="3">
 <point longitude="-9.5" latitude="-47.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4737,7 +4784,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="592" category="3">
+<marker id="598" category="3">
 <point longitude="-12.8" latitude="-43.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4745,7 +4792,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="593" category="3">
+<marker id="599" category="3">
 <point longitude="-13.0" latitude="-43.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4753,7 +4800,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="594" category="3">
+<marker id="600" category="3">
 <point longitude="-12.6" latitude="-43.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4761,7 +4808,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="595" category="3">
+<marker id="601" category="3">
 <point longitude="-12.5" latitude="-43.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4769,7 +4816,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="596" category="3">
+<marker id="602" category="3">
 <point longitude="-12.4" latitude="-43.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4777,7 +4824,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="597" category="3">
+<marker id="603" category="3">
 <point longitude="-4.3" latitude="-55.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4785,7 +4832,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="598" category="3">
+<marker id="604" category="3">
 <point longitude="-4.5" latitude="-56.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4793,7 +4840,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="599" category="3">
+<marker id="605" category="3">
 <point longitude="-4.3" latitude="-56.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4801,7 +4848,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="600" category="3">
+<marker id="606" category="3">
 <point longitude="-4.8" latitude="-57.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4809,7 +4856,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="601" category="3">
+<marker id="607" category="3">
 <point longitude="-4.8" latitude="-58.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4817,7 +4864,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="602" category="3">
+<marker id="608" category="3">
 <point longitude="-4.8" latitude="-59.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4825,7 +4872,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="603" category="3">
+<marker id="609" category="3">
 <point longitude="-10.5" latitude="-48.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4833,7 +4880,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="604" category="3">
+<marker id="610" category="3">
 <point longitude="-10.7" latitude="-47.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4841,7 +4888,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="605" category="3">
+<marker id="611" category="3">
 <point longitude="-12.2" latitude="-46.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4849,7 +4896,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="606" category="3">
+<marker id="612" category="3">
 <point longitude="-13.7" latitude="-45.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4857,7 +4904,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="607" category="3">
+<marker id="613" category="3">
 <point longitude="-14.7" latitude="-46.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4865,7 +4912,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="608" category="3">
+<marker id="614" category="3">
 <point longitude="-13.3" latitude="-50.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4873,7 +4920,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="609" category="3">
+<marker id="615" category="3">
 <point longitude="-13.2" latitude="-50.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4881,7 +4928,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="610" category="3">
+<marker id="616" category="3">
 <point longitude="-13.4" latitude="-49.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4889,7 +4936,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="611" category="3">
+<marker id="617" category="3">
 <point longitude="-13.5" latitude="-49.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4897,7 +4944,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="612" category="3">
+<marker id="618" category="3">
 <point longitude="-13.7" latitude="-49.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4905,7 +4952,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="613" category="3">
+<marker id="619" category="3">
 <point longitude="-13.8" latitude="-49.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4913,7 +4960,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="614" category="3">
+<marker id="620" category="3">
 <point longitude="-13.9" latitude="-49.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4921,7 +4968,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="615" category="3">
+<marker id="621" category="3">
 <point longitude="-14.0" latitude="-49.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4929,7 +4976,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="616" category="3">
+<marker id="622" category="3">
 <point longitude="-13.9" latitude="-49.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4937,7 +4984,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="617" category="3">
+<marker id="623" category="3">
 <point longitude="-14.0" latitude="-49.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4945,7 +4992,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="618" category="3">
+<marker id="624" category="3">
 <point longitude="-5.6" latitude="-46.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4953,7 +5000,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="619" category="3">
+<marker id="625" category="3">
 <point longitude="-5.5" latitude="-46.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4961,7 +5008,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="620" category="3">
+<marker id="626" category="3">
 <point longitude="-5.6" latitude="-46.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4969,7 +5016,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="621" category="3">
+<marker id="627" category="3">
 <point longitude="-5.6" latitude="-45.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4977,7 +5024,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="622" category="3">
+<marker id="628" category="3">
 <point longitude="-5.6" latitude="-45.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4985,7 +5032,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="623" category="3">
+<marker id="629" category="3">
 <point longitude="-5.6" latitude="-45.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -4993,7 +5040,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="624" category="3">
+<marker id="630" category="3">
 <point longitude="-5.6" latitude="-45.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5001,7 +5048,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="625" category="3">
+<marker id="631" category="3">
 <point longitude="-5.7" latitude="-45.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5009,7 +5056,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="626" category="3">
+<marker id="632" category="3">
 <point longitude="-5.8" latitude="-45.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5017,7 +5064,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="627" category="3">
+<marker id="633" category="3">
 <point longitude="-5.7" latitude="-45.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5025,7 +5072,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="628" category="3">
+<marker id="634" category="3">
 <point longitude="-7.4" latitude="-42.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5033,56 +5080,8 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="629" category="3">
-<point longitude="-7.5" latitude="-41.8"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Khundolar banner"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="630" category="3">
-<point longitude="-7.1" latitude="-41.5"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Khundolar banner"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="631" category="3">
-<point longitude="-7.0" latitude="-41.3"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Khundolar banner"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="632" category="3">
-<point longitude="-7.1" latitude="-41.2"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Khundolar banner"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="633" category="3">
-<point longitude="-6.9" latitude="-41.3"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Khundolar banner"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="634" category="3">
-<point longitude="-7.4" latitude="-40.7"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Khundolar banner"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
 <marker id="635" category="3">
-<point longitude="-7.5" latitude="-40.6"/>
+<point longitude="-7.5" latitude="-41.8"/>
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Khundolar banner"/>
@@ -5090,6 +5089,54 @@
 </labels>
 </marker>
 <marker id="636" category="3">
+<point longitude="-7.1" latitude="-41.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Khundolar banner"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="637" category="3">
+<point longitude="-7.0" latitude="-41.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Khundolar banner"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="638" category="3">
+<point longitude="-7.1" latitude="-41.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Khundolar banner"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="639" category="3">
+<point longitude="-6.9" latitude="-41.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Khundolar banner"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="640" category="3">
+<point longitude="-7.4" latitude="-40.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Khundolar banner"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="641" category="3">
+<point longitude="-7.5" latitude="-40.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Khundolar banner"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="642" category="3">
 <point longitude="-7.4" latitude="-41.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5097,7 +5144,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="637" category="3">
+<marker id="643" category="3">
 <point longitude="-7.5" latitude="-41.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5105,7 +5152,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="638" category="3">
+<marker id="644" category="3">
 <point longitude="-8.2" latitude="-40.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5113,7 +5160,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="639" category="3">
+<marker id="645" category="3">
 <point longitude="-8.3" latitude="-40.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5121,7 +5168,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="640" category="3">
+<marker id="646" category="3">
 <point longitude="-7.6" latitude="-41.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5129,7 +5176,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="641" category="3">
+<marker id="647" category="3">
 <point longitude="-7.8" latitude="-41.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5137,7 +5184,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="642" category="3">
+<marker id="648" category="3">
 <point longitude="-7.3" latitude="-41.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5145,7 +5192,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="643" category="3">
+<marker id="649" category="3">
 <point longitude="-7.2" latitude="-41.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5153,7 +5200,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="644" category="3">
+<marker id="650" category="3">
 <point longitude="-7.0" latitude="-41.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5161,7 +5208,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="645" category="3">
+<marker id="651" category="3">
 <point longitude="-7.2" latitude="-40.8"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5169,7 +5216,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="646" category="3">
+<marker id="652" category="3">
 <point longitude="-7.5" latitude="-40.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5177,7 +5224,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="647" category="3">
+<marker id="653" category="3">
 <point longitude="-7.6" latitude="-40.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5185,7 +5232,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="648" category="3">
+<marker id="654" category="3">
 <point longitude="-7.7" latitude="-41.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5193,7 +5240,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="649" category="3">
+<marker id="655" category="3">
 <point longitude="-7.1" latitude="-41.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5201,7 +5248,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="650" category="3">
+<marker id="656" category="3">
 <point longitude="-7.2" latitude="-41.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5209,7 +5256,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="651" category="3">
+<marker id="657" category="3">
 <point longitude="-7.0" latitude="-41.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5217,7 +5264,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="652" category="3">
+<marker id="658" category="3">
 <point longitude="-7.1" latitude="-41.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5225,7 +5272,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="653" category="3">
+<marker id="659" category="3">
 <point longitude="-6.9" latitude="-41.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5233,7 +5280,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="654" category="3">
+<marker id="660" category="3">
 <point longitude="-6.9" latitude="-41.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5241,7 +5288,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="655" category="3">
+<marker id="661" category="3">
 <point longitude="-7.4" latitude="-40.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5249,7 +5296,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="656" category="27">
+<marker id="662" category="27">
 <point longitude="-6.1" latitude="-59.5"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5257,7 +5304,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="657" category="27">
+<marker id="663" category="27">
 <point longitude="-7.3" latitude="-56.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5265,7 +5312,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="658" category="27">
+<marker id="664" category="27">
 <point longitude="-8.1" latitude="-56.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5273,7 +5320,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="659" category="27">
+<marker id="665" category="27">
 <point longitude="-5.0" latitude="-56.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5281,7 +5328,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="660" category="27">
+<marker id="666" category="27">
 <point longitude="-7.6" latitude="-53.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5289,7 +5336,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="661" category="27">
+<marker id="667" category="27">
 <point longitude="-8.2" latitude="-51.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5297,7 +5344,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="662" category="27">
+<marker id="668" category="27">
 <point longitude="-10.1" latitude="-52.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5305,7 +5352,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="663" category="27">
+<marker id="669" category="27">
 <point longitude="-11.4" latitude="-52.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5313,7 +5360,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="664" category="27">
+<marker id="670" category="27">
 <point longitude="-10.5" latitude="-46.4"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5321,7 +5368,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="665" category="27">
+<marker id="671" category="27">
 <point longitude="-15.2" latitude="-45.9"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5329,7 +5376,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="666" category="27">
+<marker id="672" category="27">
 <point longitude="-11.7" latitude="-45.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5337,7 +5384,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="667" category="27">
+<marker id="673" category="27">
 <point longitude="-9.0" latitude="-44.2"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5345,7 +5392,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="668" category="3">
+<marker id="674" category="3">
 <point longitude="-5.7" latitude="-47.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5353,7 +5400,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="669" category="3">
+<marker id="675" category="3">
 <point longitude="-11.3" latitude="-46.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5361,7 +5408,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="670" category="3">
+<marker id="676" category="3">
 <point longitude="-10.9" latitude="-51.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5369,7 +5416,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="671" category="3">
+<marker id="677" category="3">
 <point longitude="-10.6" latitude="-52.0"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5377,7 +5424,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="672" category="3">
+<marker id="678" category="3">
 <point longitude="-10.4" latitude="-51.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5385,7 +5432,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="673" category="3">
+<marker id="679" category="3">
 <point longitude="-10.4" latitude="-51.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5393,7 +5440,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="674" category="3">
+<marker id="680" category="3">
 <point longitude="-9.9" latitude="-51.3"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5401,7 +5448,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="675" category="3">
+<marker id="681" category="3">
 <point longitude="-9.6" latitude="-51.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5409,7 +5456,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="676" category="3">
+<marker id="682" category="3">
 <point longitude="-9.4" latitude="-51.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5417,7 +5464,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="677" category="3">
+<marker id="683" category="3">
 <point longitude="-9.2" latitude="-52.1"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5425,7 +5472,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="678" category="3">
+<marker id="684" category="3">
 <point longitude="-8.7" latitude="-51.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5433,7 +5480,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="679" category="3">
+<marker id="685" category="3">
 <point longitude="-8.2" latitude="-51.7"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -5441,7 +5488,7 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="680" category="3">
+<marker id="686" category="3">
 <point longitude="-8.1" latitude="-51.8"/>
 <labels>
 <label locale="de" value="TBD"/>

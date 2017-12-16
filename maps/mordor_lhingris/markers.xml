@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="mordor_lhingris" lastUpdate="1501365600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="mordor_lhingris" lastUpdate="1503180000000">
 <geo factor="3.506849">
 <point longitude="-6.5" latitude="-45.0"/>
 </geo>
@@ -1271,6 +1270,22 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Encroaching web"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="158" category="6" comment="Gaghoth the Taker/Irongrasp">
+<point longitude="9.7" latitude="-62.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hidden Threat Spawn Location"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="159" category="6" comment="Gaghoth the Taker/Irongrasp">
+<point longitude="4.7" latitude="-54.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hidden Threat Spawn Location"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

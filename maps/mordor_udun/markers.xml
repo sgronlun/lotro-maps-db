@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="mordor_udun" lastUpdate="1501884000000">
+<?xml version="1.0" encoding="UTF-8"?><map key="mordor_udun" lastUpdate="1503180000000">
 <geo factor="6.263056">
 <point longitude="-4.3" latitude="-36.7"/>
 </geo>
@@ -2127,6 +2126,22 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Udun (bounty board)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="265" category="6" comment="Sharlag Man-Breaker/Thormurg the Slaughter">
+<point longitude="3.9" latitude="-40.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hidden Threat Spawn Location"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="266" category="6" comment="Sharlag Man-Breaker/Thormurg the Slaughter">
+<point longitude="-0.7" latitude="-45.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hidden Threat Spawn Location"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

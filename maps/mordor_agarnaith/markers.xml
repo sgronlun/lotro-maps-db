@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="mordor_agarnaith" lastUpdate="1501279200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="mordor_agarnaith" lastUpdate="1509404400000">
 <geo factor="4.755464">
 <point longitude="18.2" latitude="-41.9"/>
 </geo>
@@ -1572,6 +1571,14 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Agarnaith (bounty board)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="196" category="6" comment="Drear-root/Agonakur Dusktooth">
+<point longitude="25.5" latitude="-54.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hidden Threat Spawn Location"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="mordor_talath_urui" lastUpdate="1501279200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="mordor_talath_urui" lastUpdate="1503180000000">
 <geo factor="4.246029">
 <point longitude="6.7" latitude="-47.9"/>
 </geo>
@@ -1666,6 +1665,22 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Talath Urui (bounty board)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="207" category="6" comment="Zaghar Shar the Ravaging Blaze/Nakhtsum the Scorcher">
+<point longitude="18.5" latitude="-58.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hidden Threat Spawn Location"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="208" category="6" comment="Zaghar Shar the Ravaging Blaze/Nakhtsum the Scorcher">
+<point longitude="25.1" latitude="-61.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Hidden Threat Spawn Location"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

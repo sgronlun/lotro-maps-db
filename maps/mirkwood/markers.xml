@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="mirkwood" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="mirkwood" lastUpdate="1520463600000">
 <geo factor="4.175">
 <point longitude="-63.58" latitude="-4.88"/>
 </geo>
 <labels>
-<label locale="de" value="Dusterwald"/>
-<label locale="en" value="Mirkwood"/>
-<label locale="fr" value="La Foret Noire"/>
+<label locale="de" value="Sud-Dusterwald"/>
+<label locale="en" value="Southern Mirkwood"/>
+<label locale="fr" value="Foret Noire Sud"/>
 </labels>
 <link target="lothlorien">
 <point longitude="-62.526108" latitude="-16.065628"/>
@@ -3593,6 +3592,46 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Willem Whisker"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="449" category="1">
+<point longitude="-45.9" latitude="-13.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Celeborn"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="450" category="1">
+<point longitude="-45.9" latitude="-13.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Galadriel"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="451" category="1">
+<point longitude="-42.4" latitude="-13.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Gladhel"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="452" category="1">
+<point longitude="-43.4" latitude="-14.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Banoth"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="453" category="2">
+<point longitude="-43.4" latitude="-14.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Stairs to Gostador"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

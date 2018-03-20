@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="mordor_agarnaith" lastUpdate="1509404400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="mordor_agarnaith" lastUpdate="1520463600000">
 <geo factor="4.755464">
 <point longitude="18.2" latitude="-41.9"/>
 </geo>
@@ -1579,6 +1579,14 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Hidden Threat Spawn Location"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="197" category="1">
+<point longitude="28.6" latitude="-50.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Harthalin"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

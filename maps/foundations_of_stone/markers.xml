@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="foundations_of_stone" lastUpdate="1496872800000">
+<?xml version="1.0" encoding="UTF-8"?><map key="foundations_of_stone" lastUpdate="1496872800000">
 <geo factor="13.068">
 <point longitude="-102.919" latitude="-10.543"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Moria: Foundations Of Stone"/>
 <label locale="fr" value="Moria: Fondations De Pierre"/>
 </labels>
-<link target="nud_melek">
-<point longitude="-101.51863" latitude="-11.17814"/>
-</link>
-<link target="redhorn_lodes">
-<point longitude="-102.41395" latitude="-11.813279"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-100.4" latitude="-13.4"/>

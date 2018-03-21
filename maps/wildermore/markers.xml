@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="wildermore" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="wildermore" lastUpdate="1496181600000">
 <geo factor="3.878788">
 <point longitude="-77.7" latitude="-27.1"/>
 </geo>
@@ -8,18 +7,6 @@
 <label locale="en" value="East Rohan: Wildermore"/>
 <label locale="fr" value="Rohan Est: Les Landes Farouches"/>
 </labels>
-<link target="forlaw">
-<point longitude="-61.43203" latitude="-37.592968"/>
-</link>
-<link target="east_rohan_the_wold">
-<point longitude="-56.533592" latitude="-35.633595"/>
-</link>
-<link target="east_rohan_norcrofts">
-<point longitude="-57.925777" latitude="-45.25"/>
-</link>
-<link target="east_rohan_entwash_vale">
-<point longitude="-66.92343" latitude="-41.15078"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-60.6" latitude="-38.8"/>

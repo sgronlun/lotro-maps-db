@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="durins_way" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="durins_way" lastUpdate="1496181600000">
 <geo factor="6.407">
 <point longitude="-114.086" latitude="2.128"/>
 </geo>
@@ -8,18 +7,6 @@
 <label locale="en" value="Moria: Durin's Way"/>
 <label locale="fr" value="Moria: Voie De Durin"/>
 </labels>
-<link target="zelem_melek">
-<point longitude="-105.8138" latitude="-6.893383"/>
-</link>
-<link target="zirakzigil">
-<point longitude="-110.792725" latitude="-2.257828"/>
-</link>
-<link target="nud_melek">
-<point longitude="-100.6944" latitude="-6.8621674"/>
-</link>
-<link target="the_great_delving">
-<point longitude="-112.369125" latitude="-6.440753"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-108.6" latitude="-3.2"/>

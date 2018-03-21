@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="post_pelennor_north_ithilien" lastUpdate="1495836000000">
+<?xml version="1.0" encoding="UTF-8"?><map key="post_pelennor_north_ithilien" lastUpdate="1495836000000">
 <geo factor="2.757639">
 <point longitude="-28.8" latitude="-39.6"/>
 </geo>
@@ -8,24 +7,6 @@
 <label locale="en" value="North Ithilien (Post-Pelennor)"/>
 <label locale="fr" value="Ithilien Du Nord (Apres Le Pelennor)"/>
 </labels>
-<link target="post_pelennor_osgiliath">
-<point longitude="-9.943289" latitude="-62.735733"/>
-</link>
-<link target="post_pelennor_pelennor">
-<point longitude="-15.45525" latitude="-61.394005"/>
-</link>
-<link target="old_anorien">
-<point longitude="-18.682648" latitude="-55.047997"/>
-</link>
-<link target="post_pelennor_minas_tirith">
-<point longitude="-19.009014" latitude="-65.41919"/>
-</link>
-<link target="post_pelennor_the_wastes">
-<point longitude="-5.0115337" latitude="-40.97799"/>
-</link>
-<link target="eastern_gondor_south_ithilien">
-<point longitude="-4.358801" latitude="-65.781815"/>
-</link>
 <markers>
 <marker id="1" category="22">
 <point longitude="-7.2" latitude="-48.3"/>

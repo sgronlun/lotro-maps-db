@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="angmar" lastUpdate="1436652000000">
+<?xml version="1.0" encoding="UTF-8"?><map key="angmar" lastUpdate="1436652000000">
 <geo factor="3.498879">
 <point longitude="-42.8" latitude="14.7"/>
 </geo>
@@ -8,9 +7,6 @@
 <label locale="en" value="Angmar"/>
 <label locale="fr" value="Angmar"/>
 </labels>
-<link target="north_downs">
-<point longitude="-39.313168" latitude="-6.3638887"/>
-</link>
 <markers>
 <marker id="1" category="12">
 <point longitude="-40.1" latitude="-0.1"/>

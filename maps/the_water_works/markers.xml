@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="the_water_works" lastUpdate="1495922400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="the_water_works" lastUpdate="1495922400000">
 <geo factor="7.375761">
 <point longitude="-120.5" latitude="-11.3"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Moria: The Water-Works"/>
 <label locale="fr" value="Moria: Systeme HydraUlique"/>
 </labels>
-<link target="the_silvertine_lodes">
-<point longitude="-112.297455" latitude="-12.750698"/>
-</link>
-<link target="flaming_deeps">
-<point longitude="-109.5452" latitude="-15.86902"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-112.7" latitude="-14.1"/>

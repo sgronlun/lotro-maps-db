@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="zirakzigil" lastUpdate="1496872800000">
+<?xml version="1.0" encoding="UTF-8"?><map key="zirakzigil" lastUpdate="1496872800000">
 <geo factor="12.0">
 <point longitude="-113.525" latitude="17.833"/>
 </geo>
@@ -8,9 +7,6 @@
 <label locale="en" value="Moria: Zirakzigil"/>
 <label locale="fr" value="Moria: Zirakzigil"/>
 </labels>
-<link target="durins_way">
-<point longitude="-108.625" latitude="12.149667"/>
-</link>
 <markers>
 <marker id="1" category="2">
 <point longitude="-108.7" latitude="14.9"/>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="central_gondor_pelargir" lastUpdate="1495922400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="central_gondor_pelargir" lastUpdate="1495922400000">
 <geo factor="14.80491">
 <point longitude="-37.5" latitude="-81.8"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Central Gondor: Pelargir"/>
 <label locale="fr" value="Centre Du Gondor: Pelargir"/>
 </labels>
-<link target="central_gondor_lebennin">
-<point longitude="-35.547943" latitude="-82.306595"/>
-</link>
-<link target="eastern_gondor_upper_lebennin">
-<point longitude="-31.339882" latitude="-82.27957"/>
-</link>
 <markers>
 <marker id="1" category="24">
 <point longitude="-34.4" latitude="-83.6"/>

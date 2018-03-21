@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="central_gondor_lebennin" lastUpdate="1495922400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="central_gondor_lebennin" lastUpdate="1495922400000">
 <geo factor="5.68889">
 <point longitude="-48.2" latitude="-74.9"/>
 </geo>
@@ -8,15 +7,6 @@
 <label locale="en" value="Central Gondor: Lebennin"/>
 <label locale="fr" value="Centre Du Gondor: Lebennin"/>
 </labels>
-<link target="eastern_gondor_upper_lebennin">
-<point longitude="-31.46563" latitude="-81.333595"/>
-</link>
-<link target="central_gondor_pelargir">
-<point longitude="-33.4168" latitude="-84.251564"/>
-</link>
-<link target="central_gondor_dor-en-ernil">
-<point longitude="-46.60039" latitude="-79.839455"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-39.9" latitude="-83.6"/>

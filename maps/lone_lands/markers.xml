@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="lone_lands" lastUpdate="1500501600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="lone_lands" lastUpdate="1500501600000">
 <geo factor="4.368">
 <point longitude="-44.3" latitude="-26.2"/>
 </geo>
@@ -8,15 +7,6 @@
 <label locale="en" value="Lone-Lands"/>
 <label locale="fr" value="Terres Solitaires"/>
 </labels>
-<link target="trollshaws">
-<point longitude="-21.90989" latitude="-32.724728"/>
-</link>
-<link target="breeland">
-<point longitude="-43.26978" latitude="-34.647804"/>
-</link>
-<link target="breeland">
-<point longitude="-42.560074" latitude="-27.802565"/>
-</link>
 <markers>
 <marker id="1" category="12">
 <point longitude="-29.4" latitude="-31.3"/>

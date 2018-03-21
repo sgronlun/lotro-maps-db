@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="east_rohan_norcrofts" lastUpdate="1496872800000">
+<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_norcrofts" lastUpdate="1496872800000">
 <geo factor="4.717">
 <point longitude="-67.0" latitude="-41.9"/>
 </geo>
@@ -8,21 +7,6 @@
 <label locale="en" value="East Rohan: Norcrofts"/>
 <label locale="fr" value="Rohan Est: Norcrofts"/>
 </labels>
-<link target="east_rohan_entwash_vale">
-<point longitude="-61.97562" latitude="-48.556774"/>
-</link>
-<link target="east_rohan_the_wold">
-<point longitude="-49.95527" latitude="-43.383995"/>
-</link>
-<link target="east_rohan_the_east_wall">
-<point longitude="-48.153275" latitude="-49.59557"/>
-</link>
-<link target="east_rohan_sutcrofts">
-<point longitude="-60.512825" latitude="-56.86714"/>
-</link>
-<link target="wildermore">
-<point longitude="-61.339622" latitude="-43.489994"/>
-</link>
 <markers>
 <marker id="1" category="12">
 <point longitude="-56.9" latitude="-43.7"/>

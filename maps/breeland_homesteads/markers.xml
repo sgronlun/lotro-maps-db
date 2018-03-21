@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="breeland_homesteads" lastUpdate="1469916000000">
+<?xml version="1.0" encoding="UTF-8"?><map key="breeland_homesteads" lastUpdate="1469916000000">
 <geo factor="19.081482">
 <point longitude="-50.0" latitude="-34.0"/>
 </geo>
@@ -8,9 +7,6 @@
 <label locale="en" value="Breeland: Homesteads"/>
 <label locale="fr" value="Pays De Bree: Residences"/>
 </labels>
-<link target="breeland">
-<point longitude="-45.84938" latitude="-34.403534"/>
-</link>
 <markers>
 <marker id="1" category="14">
 <point longitude="-47.1" latitude="-35.9"/>

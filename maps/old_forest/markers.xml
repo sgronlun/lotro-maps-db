@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="old_forest" lastUpdate="1496095200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="old_forest" lastUpdate="1496095200000">
 <geo factor="7.852">
 <point longitude="-65.275" latitude="-29.159"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Breeland: Old Forest"/>
 <label locale="fr" value="Pays De Bree: Vieille Foret"/>
 </labels>
-<link target="nothern_barrow_downs">
-<point longitude="-54.95916" latitude="-32.674026"/>
-</link>
-<link target="the_shire">
-<point longitude="-61.84912" latitude="-33.259865"/>
-</link>
 <markers>
 <marker id="1" category="2">
 <point longitude="-59.0" latitude="-31.5"/>

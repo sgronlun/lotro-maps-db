@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="far_anorien" lastUpdate="1460584800000">
+<?xml version="1.0" encoding="UTF-8"?><map key="far_anorien" lastUpdate="1460584800000">
 <geo factor="3.0">
 <point longitude="-50.4" latitude="-32.5"/>
 </geo>
@@ -8,21 +7,6 @@
 <label locale="en" value="Far Anorien"/>
 <label locale="fr" value="Lointain Anorien"/>
 </labels>
-<link target="far_anorien_the_beacon_hills">
-<point longitude="-43.86667" latitude="-48.566666"/>
-</link>
-<link target="far_anorien_taur_druadan">
-<point longitude="-26.000002" latitude="-49.266666"/>
-</link>
-<link target="old_anorien">
-<point longitude="-18.333332" latitude="-49.566666"/>
-</link>
-<link target="east_rohan">
-<point longitude="-40.333336" latitude="-33.966667"/>
-</link>
-<link target="west_rohan">
-<point longitude="-47.466667" latitude="-40.033333"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-27.3" latitude="-45.6"/>

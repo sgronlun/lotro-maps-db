@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="forochel" lastUpdate="1496872800000">
+<?xml version="1.0" encoding="UTF-8"?><map key="forochel" lastUpdate="1496872800000">
 <geo factor="2.497">
 <point longitude="-92.8" latitude="24.98"/>
 </geo>
@@ -8,9 +7,6 @@
 <label locale="en" value="Forochel"/>
 <label locale="fr" value="Forochel"/>
 </labels>
-<link target="evendim">
-<point longitude="-62.403526" latitude="-4.7356586"/>
-</link>
 <markers>
 <marker id="1" category="12">
 <point longitude="-71.4" latitude="19.6"/>

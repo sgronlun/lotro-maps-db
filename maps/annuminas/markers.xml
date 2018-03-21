@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="annuminas" lastUpdate="1437170400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="annuminas" lastUpdate="1437170400000">
 <geo factor="13.473684">
 <point longitude="-73.5" latitude="-15.5"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Evendim: Annuminas"/>
 <label locale="fr" value="Evendim: Annuminas"/>
 </labels>
-<link target="evendim">
-<point longitude="-66.55312" latitude="-17.800781"/>
-</link>
-<link target="evendim">
-<point longitude="-72.75039" latitude="-18.07539"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-70.9" latitude="-19.1"/>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="west_rohan_broadacres" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="west_rohan_broadacres" lastUpdate="1496181600000">
 <geo factor="6.427">
 <point longitude="-78.1" latitude="-41.6"/>
 </geo>
@@ -8,18 +7,6 @@
 <label locale="en" value="West Rohan: Broadacres"/>
 <label locale="fr" value="Rohan Ouest: Grands-Arpents"/>
 </labels>
-<link target="east_rohan_entwash_vale">
-<point longitude="-63.847626" latitude="-45.474277"/>
-</link>
-<link target="west_rohan_entwood">
-<point longitude="-76.20176" latitude="-42.720272"/>
-</link>
-<link target="west_rohan_stonedeans">
-<point longitude="-76.26399" latitude="-47.279163"/>
-</link>
-<link target="west_rohan_kingstead">
-<point longitude="-71.113846" latitude="-53.067245"/>
-</link>
 <markers>
 <marker id="1" category="12">
 <point longitude="-69.4" latitude="-49.1"/>

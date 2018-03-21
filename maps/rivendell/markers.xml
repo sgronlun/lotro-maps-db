@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="rivendell" lastUpdate="1496095200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="rivendell" lastUpdate="1496095200000">
 <geo factor="10.52">
 <point longitude="-9.4" latitude="-26.2"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Trollshaws: Rivendell"/>
 <label locale="fr" value="Trouee Des Trolls: Fondcomber"/>
 </labels>
-<link target="misty_mountains">
-<point longitude="-2.574905" latitude="-26.618252"/>
-</link>
-<link target="trollshaws">
-<point longitude="-6.2536116" latitude="-32.76844"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-3.3" latitude="-28.9"/>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="east_rohan_the_east_wall" lastUpdate="1495922400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_the_east_wall" lastUpdate="1495922400000">
 <geo factor="4.308564">
 <point longitude="-61.3" latitude="-45.7"/>
 </geo>
@@ -8,18 +7,6 @@
 <label locale="en" value="East Rohan: The East Wall"/>
 <label locale="fr" value="Rohan Est: Le Mur De L'Est"/>
 </labels>
-<link target="east_rohan_norcrofts">
-<point longitude="-56.565243" latitude="-51.618446"/>
-</link>
-<link target="east_rohan_the_wold">
-<point longitude="-52.526775" latitude="-46.30345"/>
-</link>
-<link target="east_rohan_sutcrofts">
-<point longitude="-58.723736" latitude="-60.879074"/>
-</link>
-<link target="far_anorien_the_beacon_hills">
-<point longitude="-45.401432" latitude="-62.68942"/>
-</link>
 <markers>
 <marker id="1" category="10">
 <point longitude="-51.2" latitude="-52.0"/>

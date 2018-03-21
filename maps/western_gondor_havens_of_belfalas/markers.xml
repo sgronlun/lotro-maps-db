@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="western_gondor_havens_of_belfalas" lastUpdate="1495922400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="western_gondor_havens_of_belfalas" lastUpdate="1495922400000">
 <geo factor="3.75285">
 <point longitude="-84.4" latitude="-66.9"/>
 </geo>
@@ -8,21 +7,6 @@
 <label locale="en" value="Western Gondor: Havens Of Belfalas"/>
 <label locale="fr" value="Ouest Du Gondor: Havres De Belfalas"/>
 </labels>
-<link target="western_gondor_blackroot_vale">
-<point longitude="-67.37294" latitude="-67.61945"/>
-</link>
-<link target="western_gondor_dol_amroth">
-<point longitude="-71.31661" latitude="-75.0538"/>
-</link>
-<link target="western_gondor_lamedon">
-<point longitude="-59.272434" latitude="-71.723"/>
-</link>
-<link target="cape_of_belfalas_homesteads">
-<point longitude="-69.15825" latitude="-83.71389"/>
-</link>
-<link target="the_dead_marshes">
-<point longitude="-67.85258" latitude="-74.17447"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-71.1" latitude="-74.6"/>

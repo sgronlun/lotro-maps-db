@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="central_gondor_dor-en-ernil" lastUpdate="1437343200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="central_gondor_dor-en-ernil" lastUpdate="1437343200000">
 <geo factor="6.035385">
 <point longitude="-59.1" latitude="-75.3"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Central Gondor: Dor-En-Ernil"/>
 <label locale="fr" value="Centre Du Gondor: Dor-En-Ernil"/>
 </labels>
-<link target="central_gondor_lebennin">
-<point longitude="-43.17724" latitude="-82.640045"/>
-</link>
-<link target="central_gondor_ringlo_vale">
-<point longitude="-51.03092" latitude="-76.01247"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-52.2" latitude="-82.9"/>

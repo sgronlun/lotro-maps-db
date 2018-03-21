@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="the_grand_stair" lastUpdate="1436911200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="the_grand_stair" lastUpdate="1436911200000">
 <geo factor="16.111">
 <point longitude="-141.548" latitude="74.053"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Moria: The Grand Stair"/>
 <label locale="fr" value="Moria: Grand Escalier"/>
 </labels>
-<link target="nud_melek">
-<point longitude="-138.27074" latitude="72.9792"/>
-</link>
-<link target="redhorn_lodes">
-<point longitude="-138.3142" latitude="70.34746"/>
-</link>
 <markers>
 <marker id="1" category="2">
 <point longitude="-139.0" latitude="71.8"/>

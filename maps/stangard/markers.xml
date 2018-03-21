@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="stangard" lastUpdate="1437170400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="stangard" lastUpdate="1437170400000">
 <geo factor="35.31">
 <point longitude="-65.1" latitude="-24.9"/>
 </geo>
@@ -8,15 +7,6 @@
 <label locale="en" value="The Great River: Stangard"/>
 <label locale="fr" value="Le Grand Fleuve: Stangarde"/>
 </labels>
-<link target="the_great_river">
-<point longitude="-64.717674" latitude="-26.072472"/>
-</link>
-<link target="the_great_river">
-<point longitude="-63.97001" latitude="-25.089748"/>
-</link>
-<link target="the_great_river">
-<point longitude="-62.480343" latitude="-25.613678"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-63.0" latitude="-25.5"/>

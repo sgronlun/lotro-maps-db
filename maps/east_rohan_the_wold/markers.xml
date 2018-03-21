@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="east_rohan_the_wold" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_the_wold" lastUpdate="1496181600000">
 <geo factor="4.129">
 <point longitude="-64.2" latitude="-30.1"/>
 </geo>
@@ -8,21 +7,6 @@
 <label locale="en" value="East Rohan: The Wold"/>
 <label locale="fr" value="Rohan Est: Le Plateau"/>
 </labels>
-<link target="east_rohan_harwick">
-<point longitude="-53.059288" latitude="-39.03679"/>
-</link>
-<link target="east_rohan_the_east_wall">
-<point longitude="-49.160038" latitude="-47.731388"/>
-</link>
-<link target="wildermore">
-<point longitude="-60.08278" latitude="-33.345337"/>
-</link>
-<link target="the_great_river">
-<point longitude="-56.958534" latitude="-30.923445"/>
-</link>
-<link target="east_rohan_norcrofts">
-<point longitude="-57.442913" latitude="-44.00167"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-52.5" latitude="-39.9"/>

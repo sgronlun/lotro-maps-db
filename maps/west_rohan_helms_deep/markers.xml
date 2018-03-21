@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="west_rohan_helms_deep" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="west_rohan_helms_deep" lastUpdate="1496181600000">
 <geo factor="11.9535">
 <point longitude="-93.3" latitude="-60.4"/>
 </geo>
@@ -8,9 +7,6 @@
 <label locale="en" value="West Rohan: Helm's Deep"/>
 <label locale="fr" value="Rohan Ouest: Gouffre De Helm"/>
 </labels>
-<link target="west_rohan_westfold">
-<point longitude="-88.71557" latitude="-60.650974"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-89.7" latitude="-64.5"/>

@@ -7,12 +7,6 @@
 <label locale="en" value="The Wastes (Post-Pelennor)"/>
 <label locale="fr" value="Les Landes Desertiques (Apres Le Pelennor)"/>
 </labels>
-<link target="post_pelennor_north_ithilien">
-<point longitude="-10.2045" latitude="-40.53044"/>
-</link>
-<link target="mordor_udun">
-<point longitude="-0.7307739" latitude="-40.710323"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-3.5" latitude="-34.4"/>

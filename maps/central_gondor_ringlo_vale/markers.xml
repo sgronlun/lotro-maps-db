@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="central_gondor_ringlo_vale" lastUpdate="1436738400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="central_gondor_ringlo_vale" lastUpdate="1436738400000">
 <geo factor="8.1486">
 <point longitude="-57.0" latitude="-68.5"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Central Gondor: Ringlo Vale"/>
 <label locale="fr" value="Centre Du Gondor: Val De Ringlo"/>
 </labels>
-<link target="central_gondor_dor-en-ernil">
-<point longitude="-49.833126" latitude="-77.114975"/>
-</link>
-<link target="western_gondor_lamedon">
-<point longitude="-54.72967" latitude="-70.24263"/>
-</link>
 <markers>
 <marker id="1" category="12">
 <point longitude="-50.1" latitude="-72.0"/>

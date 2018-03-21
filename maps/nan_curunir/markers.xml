@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="nan_curunir" lastUpdate="1495922400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="nan_curunir" lastUpdate="1495922400000">
 <geo factor="7.529">
 <point longitude="-9.5" latitude="-76.1"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Isengard: Nan Curunir"/>
 <label locale="fr" value="Isengard: Nan Curunir"/>
 </labels>
-<link target="ring_of_isengard">
-<point longitude="-2.4605522" latitude="-79.26111"/>
-</link>
-<link target="gap_of_rohan">
-<point longitude="-2.872293" latitude="-85.91538"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-3.5" latitude="-84.8"/>

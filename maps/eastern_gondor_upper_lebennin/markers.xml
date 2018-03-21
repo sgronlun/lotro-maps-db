@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="eastern_gondor_upper_lebennin" lastUpdate="1446073200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="eastern_gondor_upper_lebennin" lastUpdate="1446073200000">
 <geo factor="6.81929">
 <point longitude="-37.3" latitude="-73.9"/>
 </geo>
@@ -8,15 +7,6 @@
 <label locale="en" value="Eastern Gondor: Upper Lebennin"/>
 <label locale="fr" value="L'Est Du Gondor: Haut-Lebennin"/>
 </labels>
-<link target="eastern_gondor_lossarnach">
-<point longitude="-24.307444" latitude="-78.32861"/>
-</link>
-<link target="central_gondor_lebennin">
-<point longitude="-34.821735" latitude="-82.06801"/>
-</link>
-<link target="central_gondor_pelargir">
-<point longitude="-32.50478" latitude="-83.15317"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-26.5" latitude="-81.9"/>

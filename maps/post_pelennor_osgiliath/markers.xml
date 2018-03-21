@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="post_pelennor_osgiliath" lastUpdate="1476914400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="post_pelennor_osgiliath" lastUpdate="1476914400000">
 <geo factor="13.563509">
 <point longitude="-13.2" latitude="-59.5"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Osgiliath After Battle (Post-Pelennor)"/>
 <label locale="fr" value="Osgiliath Apres La Bataille (Apres Le Pelennor)"/>
 </labels>
-<link target="post_pelennor_north_ithilien">
-<point longitude="-6.1885395" latitude="-63.024162"/>
-</link>
-<link target="post_pelennor_pelennor">
-<point longitude="-12.543827" latitude="-62.744"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-7.1" latitude="-63.1"/>

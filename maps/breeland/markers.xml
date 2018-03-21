@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="breeland" lastUpdate="1501538400000">
+<?xml version="1.0" encoding="UTF-8"?><map key="breeland" lastUpdate="1501538400000">
 <geo factor="3.626924">
 <point longitude="-65.6" latitude="-17.7"/>
 </geo>
@@ -8,36 +7,6 @@
 <label locale="en" value="Breeland"/>
 <label locale="fr" value="Pays De Bree"/>
 </labels>
-<link target="breetown">
-<point longitude="-51.7315" latitude="-30.272638"/>
-</link>
-<link target="archet">
-<point longitude="-48.064476" latitude="-25.171898"/>
-</link>
-<link target="old_forest">
-<point longitude="-59.31368" latitude="-33.140083"/>
-</link>
-<link target="southern_barrow_downs">
-<point longitude="-54.847084" latitude="-34.160233"/>
-</link>
-<link target="nothern_barrow_downs">
-<point longitude="-55.177944" latitude="-31.099785"/>
-</link>
-<link target="lone_lands">
-<point longitude="-39.103714" latitude="-34.270515"/>
-</link>
-<link target="the_shire">
-<point longitude="-64.57985" latitude="-29.362776"/>
-</link>
-<link target="north_downs">
-<point longitude="-41.97116" latitude="-18.334146"/>
-</link>
-<link target="north_downs">
-<point longitude="-52.14507" latitude="-18.279003"/>
-</link>
-<link target="breeland_homesteads">
-<point longitude="-46.548042" latitude="-34.022373"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-52.6" latitude="-29.6"/>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="cape_of_belfalas_homesteads" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="cape_of_belfalas_homesteads" lastUpdate="1496181600000">
 <geo factor="5.255778">
 <point longitude="-77.6" latitude="-80.0"/>
 </geo>
@@ -8,12 +7,6 @@
 <label locale="en" value="Cape of Belfalas Homesteads"/>
 <label locale="fr" value="Residences Du Cap Du Belfalas"/>
 </labels>
-<link target="western_gondor_havens_of_belfalas">
-<point longitude="-69.133125" latitude="-82.64471"/>
-</link>
-<link target="central_gondor">
-<point longitude="-59.277306" latitude="-87.0589"/>
-</link>
 <markers>
 <marker id="1" category="14">
 <point longitude="-62.4" latitude="-92.9"/>

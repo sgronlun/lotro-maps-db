@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="nothern_barrow_downs" lastUpdate="1496095200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="nothern_barrow_downs" lastUpdate="1496095200000">
 <geo factor="21.33">
 <point longitude="-57.28" latitude="-29.83"/>
 </geo>
@@ -8,18 +7,6 @@
 <label locale="en" value="Breeland: Nothern Barrowdowns"/>
 <label locale="fr" value="Pays De Bree: Hauts Des Galgals Nord"/>
 </labels>
-<link target="old_forest">
-<point longitude="-56.15951" latitude="-31.972523"/>
-</link>
-<link target="southern_barrow_downs">
-<point longitude="-53.88572" latitude="-33.233658"/>
-</link>
-<link target="breeland">
-<point longitude="-53.60911" latitude="-32.16005"/>
-</link>
-<link target="breeland">
-<point longitude="-54.612396" latitude="-30.350393"/>
-</link>
 <markers>
 <marker id="1" category="2">
 <point longitude="-53.8" latitude="-32.1"/>

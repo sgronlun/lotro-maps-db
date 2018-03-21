@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="east_rohan_snowbourn" lastUpdate="1446073200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_snowbourn" lastUpdate="1446073200000">
 <geo factor="30.72">
 <point longitude="-63.7" latitude="-59.6"/>
 </geo>
@@ -8,15 +7,6 @@
 <label locale="en" value="East Rohan: Snowbourn"/>
 <label locale="fr" value="Rohan Est: Snowbourn"/>
 </labels>
-<link target="east_rohan_sutcrofts">
-<point longitude="-62.58672" latitude="-59.792057"/>
-</link>
-<link target="east_rohan_sutcrofts">
-<point longitude="-60.79961" latitude="-60.667706"/>
-</link>
-<link target="east_rohan_sutcrofts">
-<point longitude="-61.54831" latitude="-61.933983"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-62.4" latitude="-61.0"/>

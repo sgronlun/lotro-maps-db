@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="dunland" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="dunland" lastUpdate="1496181600000">
 <geo factor="3.835">
 <point longitude="-28.6" latitude="-70.9"/>
 </geo>
@@ -8,21 +7,6 @@
 <label locale="en" value="Dunland"/>
 <label locale="fr" value="Payd De Dun"/>
 </labels>
-<link target="enedwaith">
-<point longitude="-15.536115" latitude="-72.90782"/>
-</link>
-<link target="enedwaith">
-<point longitude="-22.028944" latitude="-75.15033"/>
-</link>
-<link target="gap_of_rohan">
-<point longitude="-10.6339" latitude="-87.797005"/>
-</link>
-<link target="tal_methedras">
-<point longitude="-9.877707" latitude="-75.48931"/>
-</link>
-<link target="galtrev">
-<point longitude="-16.81382" latitude="-80.26115"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-17.1" latitude="-80.1"/>

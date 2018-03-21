@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="breetown" lastUpdate="1496095200000">
+<?xml version="1.0" encoding="UTF-8"?><map key="breetown" lastUpdate="1496095200000">
 <geo factor="15.058824">
 <point longitude="-54.6" latitude="-28.1"/>
 </geo>
@@ -8,9 +7,6 @@
 <label locale="en" value="Breeland: Breetown"/>
 <label locale="fr" value="Pays De Bree: Bree"/>
 </labels>
-<link target="breeland">
-<point longitude="-54.015625" latitude="-29.560938"/>
-</link>
 <markers>
 <marker id="1" category="13">
 <point longitude="-52.6" latitude="-29.6"/>

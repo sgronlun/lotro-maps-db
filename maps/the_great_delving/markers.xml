@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map key="the_great_delving" lastUpdate="1496181600000">
+<?xml version="1.0" encoding="UTF-8"?><map key="the_great_delving" lastUpdate="1496181600000">
 <geo factor="14.265">
 <point longitude="-117.253" latitude="-4.911"/>
 </geo>
@@ -8,18 +7,6 @@
 <label locale="en" value="Moria: The Great Delving"/>
 <label locale="fr" value="Moria: Grande Prospection"/>
 </labels>
-<link target="durins_way">
-<point longitude="-112.3599" latitude="-5.8643823"/>
-</link>
-<link target="the_silvertine_lodes">
-<point longitude="-112.16362" latitude="-9.250292"/>
-</link>
-<link target="zelem_melek">
-<point longitude="-110.432106" latitude="-7.813208"/>
-</link>
-<link target="the_walls_of_moria">
-<point longitude="-116.86744" latitude="-7.6379538"/>
-</link>
 <markers>
 <marker id="1" category="25">
 <point longitude="-116.2" latitude="-8.2"/>

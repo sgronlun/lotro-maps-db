@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="moria" lastUpdate="1496872800000">
+<?xml version="1.0" encoding="UTF-8"?><map key="moria" lastUpdate="1520031600000">
 <geo factor="3.005">
 <point longitude="-121.923" latitude="3.115"/>
 </geo>
@@ -3225,14 +3225,6 @@
 </labels>
 </marker>
 <marker id="403" category="3">
-<point longitude="-110.7" latitude="-3.4"/>
-<labels>
-<label locale="de" value="TBD"/>
-<label locale="en" value="Moria-mirror (quest Reflections of Riders)"/>
-<label locale="fr" value="TBD"/>
-</labels>
-</marker>
-<marker id="404" category="3">
 <point longitude="-109.1" latitude="-3.6"/>
 <labels>
 <label locale="de" value="TBD"/>
@@ -3240,11 +3232,19 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="405" category="3">
+<marker id="404" category="3">
 <point longitude="-112.9" latitude="-7.0"/>
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Moria-mirror (quest Lightning the Way)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="405" category="3">
+<point longitude="-98.8" latitude="-5.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Moria-mirror (quest Reflections of Stone Trees)"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

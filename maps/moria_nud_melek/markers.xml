@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="moria_nud_melek" lastUpdate="1520031600000">
-<geo factor="9.141">
-<point longitude="-105.263" latitude="-3.876"/>
-</geo>
-<labels>
-<label locale="de" value="Moria: Nud-Melek"/>
-<label locale="en" value="Moria: Nud-Melek"/>
-<label locale="fr" value="Moria: Nud-Melek"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="25">
 <point longitude="-101.1" latitude="-11.0"/>
 <labels>
@@ -481,4 +472,3 @@
 </labels>
 </marker>
 </markers>
-</map>

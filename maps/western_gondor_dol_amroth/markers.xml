@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="western_gondor_dol_amroth" lastUpdate="1495922400000">
-<geo factor="16.0">
-<point longitude="-74.4" latitude="-72.4"/>
-</geo>
-<labels>
-<label locale="de" value="West-Gondor: Dol Amroth"/>
-<label locale="en" value="Western Gondor: Dol Amroth"/>
-<label locale="fr" value="Ouest Du Gondor: Dol Amroth"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-71.1" latitude="-74.6"/>
 <labels>
@@ -1073,4 +1064,3 @@
 </labels>
 </marker>
 </markers>
-</map>

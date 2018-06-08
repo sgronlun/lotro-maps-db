@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="breeland_archet" lastUpdate="1436652000000">
-<geo factor="18.285713">
-<point longitude="-50.8" latitude="-24.2"/>
-</geo>
-<labels>
-<label locale="de" value="Breeland: Archet"/>
-<label locale="en" value="Breeland: Archet"/>
-<label locale="fr" value="Pays De Bree: Archet"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="8">
 <point longitude="-48.9" latitude="-25.0"/>
 <labels>
@@ -753,4 +744,3 @@
 </labels>
 </marker>
 </markers>
-</map>

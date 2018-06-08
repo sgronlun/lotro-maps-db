@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="eregion" lastUpdate="1496181600000">
-<geo factor="3.361">
-<point longitude="-24.069" latitude="-34.906"/>
-</geo>
-<labels>
-<label locale="de" value="Eregion"/>
-<label locale="en" value="Eregion"/>
-<label locale="fr" value="Eregion"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-16.7" latitude="-52.4"/>
 <labels>
@@ -2465,4 +2456,3 @@
 </labels>
 </marker>
 </markers>
-</map>

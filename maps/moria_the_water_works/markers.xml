@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="moria_the_water_works" lastUpdate="1495922400000">
-<geo factor="7.375761">
-<point longitude="-120.5" latitude="-11.3"/>
-</geo>
-<labels>
-<label locale="de" value="Moria: Das Wasser-Werk"/>
-<label locale="en" value="Moria: The Water-Works"/>
-<label locale="fr" value="Moria: Systeme HydraUlique"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="25">
 <point longitude="-112.7" latitude="-14.1"/>
 <labels>
@@ -841,4 +832,3 @@
 </labels>
 </marker>
 </markers>
-</map>

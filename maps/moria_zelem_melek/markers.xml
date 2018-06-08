@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="moria_zelem_melek" lastUpdate="1496872800000">
-<geo factor="7.704">
-<point longitude="-114.01" latitude="-3.826"/>
-</geo>
-<labels>
-<label locale="de" value="Moria: Zelem-Melek"/>
-<label locale="en" value="Moria: Zelem-Melek"/>
-<label locale="fr" value="Moria: Zelem-Melek"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-105.1" latitude="-5.4"/>
 <labels>
@@ -1321,4 +1312,3 @@
 </labels>
 </marker>
 </markers>
-</map>

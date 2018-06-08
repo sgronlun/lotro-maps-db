@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_forlaw" lastUpdate="1496181600000">
-<geo factor="34.0136">
-<point longitude="-62.5" latitude="-37.5"/>
-</geo>
-<labels>
-<label locale="de" value="Ost-Rohan: Forlach"/>
-<label locale="en" value="East Rohan: Forlaw"/>
-<label locale="fr" value="Rohan Est: Forloi"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-60.6" latitude="-38.8"/>
 <labels>
@@ -801,4 +792,3 @@
 </labels>
 </marker>
 </markers>
-</map>

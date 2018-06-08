@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="the_shire" lastUpdate="1496872800000">
-<geo factor="4.817">
-<point longitude="-81.041" latitude="-22.691"/>
-</geo>
-<labels>
-<label locale="de" value="Auen-Land"/>
-<label locale="en" value="The Shire"/>
-<label locale="fr" value="Comte"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-74.8" latitude="-34.2"/>
 <labels>
@@ -3585,4 +3576,3 @@
 </labels>
 </marker>
 </markers>
-</map>

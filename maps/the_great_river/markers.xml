@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="the_great_river" lastUpdate="1496181600000">
-<geo factor="3.764705">
-<point longitude="-73.9" latitude="-17.2"/>
-</geo>
-<labels>
-<label locale="de" value="Der Grosse Fluss"/>
-<label locale="en" value="The Great River"/>
-<label locale="fr" value="Le Grand Fleuve"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-63.0" latitude="-25.5"/>
 <labels>
@@ -4057,4 +4048,3 @@
 </labels>
 </marker>
 </markers>
-</map>

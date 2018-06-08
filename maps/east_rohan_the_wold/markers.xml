@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_the_wold" lastUpdate="1496181600000">
-<geo factor="4.129">
-<point longitude="-64.2" latitude="-30.1"/>
-</geo>
-<labels>
-<label locale="de" value="Ost-Rohan: Die Steppe"/>
-<label locale="en" value="East Rohan: The Wold"/>
-<label locale="fr" value="Rohan Est: Le Plateau"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-52.5" latitude="-39.9"/>
 <labels>
@@ -1937,4 +1928,3 @@
 </labels>
 </marker>
 </markers>
-</map>

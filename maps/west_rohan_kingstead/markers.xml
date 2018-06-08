@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="west_rohan_kingstead" lastUpdate="1495836000000">
-<geo factor="3.106">
-<point longitude="-86.6" latitude="-50.9"/>
-</geo>
-<labels>
-<label locale="de" value="West-Rohan: Konigsstatt"/>
-<label locale="en" value="West Rohan: Kingstead"/>
-<label locale="fr" value="Rohan Ouest: Terre-Du-Roi"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-74.3" latitude="-60.7"/>
 <labels>
@@ -1977,4 +1968,3 @@
 </labels>
 </marker>
 </markers>
-</map>

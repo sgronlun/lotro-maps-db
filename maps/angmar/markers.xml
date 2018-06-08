@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="angmar" lastUpdate="1436652000000">
-<geo factor="3.498879">
-<point longitude="-42.8" latitude="14.7"/>
-</geo>
-<labels>
-<label locale="de" value="Angmar"/>
-<label locale="en" value="Angmar"/>
-<label locale="fr" value="Angmar"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-40.1" latitude="-0.1"/>
 <labels>
@@ -3249,4 +3240,3 @@
 </labels>
 </marker>
 </markers>
-</map>

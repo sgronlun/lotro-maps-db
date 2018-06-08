@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="isengard_depths" lastUpdate="1436824800000">
-<geo factor="16.5635">
-<point longitude="31.3" latitude="-76.8"/>
-</geo>
-<labels>
-<label locale="de" value="Isengart: Die Tiefen Von Isengart"/>
-<label locale="en" value="Isengard: Isengard Depths"/>
-<label locale="fr" value="Isengard: Profondeurs D'Isengard"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="2">
 <point longitude="34.4" latitude="-79.4"/>
 <labels>
@@ -105,4 +96,3 @@
 </labels>
 </marker>
 </markers>
-</map>

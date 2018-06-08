@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="central_gondor_ringlo_vale" lastUpdate="1436738400000">
-<geo factor="8.1486">
-<point longitude="-57.0" latitude="-68.5"/>
-</geo>
-<labels>
-<label locale="de" value="Zentrum Gondors: Ringlotal"/>
-<label locale="en" value="Central Gondor: Ringlo Vale"/>
-<label locale="fr" value="Centre Du Gondor: Val De Ringlo"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-50.1" latitude="-72.0"/>
 <labels>
@@ -737,4 +728,3 @@
 </labels>
 </marker>
 </markers>
-</map>

@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="mordor_talath_urui" lastUpdate="1520463600000">
-<geo factor="4.246029">
-<point longitude="6.7" latitude="-47.9"/>
-</geo>
-<labels>
-<label locale="de" value="Mordor: Talath Urui"/>
-<label locale="en" value="Mordor: Talath Urui"/>
-<label locale="fr" value="Mordor: Talath Urui"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="25">
 <point longitude="16.7" latitude="-60.9"/>
 <labels>
@@ -1681,4 +1672,3 @@
 </labels>
 </marker>
 </markers>
-</map>

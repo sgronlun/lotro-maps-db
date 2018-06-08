@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_norcrofts" lastUpdate="1496872800000">
-<geo factor="4.717">
-<point longitude="-67.0" latitude="-41.9"/>
-</geo>
-<labels>
-<label locale="de" value="Ost-Rohan: Norhofen"/>
-<label locale="en" value="East Rohan: Norcrofts"/>
-<label locale="fr" value="Rohan Est: Norcrofts"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-56.9" latitude="-43.7"/>
 <labels>
@@ -1577,4 +1568,3 @@
 </labels>
 </marker>
 </markers>
-</map>

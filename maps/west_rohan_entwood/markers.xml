@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="west_rohan_entwood" lastUpdate="1436997600000">
-<geo factor="10.361">
-<point longitude="-86.6" latitude="-37.3"/>
-</geo>
-<labels>
-<label locale="de" value="West-Rohan: Entwald"/>
-<label locale="en" value="West Rohan: Entwood"/>
-<label locale="fr" value="Rohan Ouest: Foret O'Ent"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="22">
 <point longitude="-79.1" latitude="-42.1"/>
 <labels>
@@ -905,4 +896,3 @@
 </labels>
 </marker>
 </markers>
-</map>

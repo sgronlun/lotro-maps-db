@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="evendim" lastUpdate="1496872800000">
-<geo factor="3.376">
-<point longitude="-82.8" latitude="-1.7"/>
-</geo>
-<labels>
-<label locale="de" value="Evendim"/>
-<label locale="en" value="Evendim"/>
-<label locale="fr" value="Evendim"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-67.2" latitude="-12.8"/>
 <labels>
@@ -5225,4 +5216,3 @@
 </labels>
 </marker>
 </markers>
-</map>

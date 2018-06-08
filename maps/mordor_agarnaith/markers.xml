@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="mordor_agarnaith" lastUpdate="1520463600000">
-<geo factor="4.755464">
-<point longitude="18.2" latitude="-41.9"/>
-</geo>
-<labels>
-<label locale="de" value="Mordor: Agarnaith"/>
-<label locale="en" value="Mordor: Agarnaith"/>
-<label locale="fr" value="Mordor: Agarnaith"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="25">
 <point longitude="28.1" latitude="-52.0"/>
 <labels>
@@ -1585,4 +1576,3 @@
 </labels>
 </marker>
 </markers>
-</map>

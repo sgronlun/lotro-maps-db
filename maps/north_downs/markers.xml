@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="north_downs" lastUpdate="1495922400000">
-<geo factor="3.6">
-<point longitude="-60.5" latitude="-1.0"/>
-</geo>
-<labels>
-<label locale="de" value="Nordhohen"/>
-<label locale="en" value="North Downs"/>
-<label locale="fr" value="Hauts Du Nord"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-41.4" latitude="-9.6"/>
 <labels>
@@ -3329,4 +3320,3 @@
 </labels>
 </marker>
 </markers>
-</map>

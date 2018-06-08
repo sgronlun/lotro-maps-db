@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="western_gondor_havens_of_belfalas" lastUpdate="1495922400000">
-<geo factor="3.75285">
-<point longitude="-84.4" latitude="-66.9"/>
-</geo>
-<labels>
-<label locale="de" value="West-Gondor: Anfurten Von Belfalas"/>
-<label locale="en" value="Western Gondor: Havens Of Belfalas"/>
-<label locale="fr" value="Ouest Du Gondor: Havres De Belfalas"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-71.1" latitude="-74.6"/>
 <labels>
@@ -2881,4 +2872,3 @@
 </labels>
 </marker>
 </markers>
-</map>

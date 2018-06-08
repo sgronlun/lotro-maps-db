@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="the_dead_marshes" lastUpdate="1495922400000">
-<geo factor="10.99109">
-<point longitude="-19.5" latitude="-25.0"/>
-</geo>
-<labels>
-<label locale="de" value="Die Totensumpfe"/>
-<label locale="en" value="The Dead Marshes"/>
-<label locale="fr" value="Les Marais Des Morts"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="1">
 <point longitude="-11.4" latitude="-30.2"/>
 <labels>
@@ -209,4 +200,3 @@
 </labels>
 </marker>
 </markers>
-</map>

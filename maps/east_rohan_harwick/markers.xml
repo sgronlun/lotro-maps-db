@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_harwick" lastUpdate="1496181600000">
-<geo factor="25.6">
-<point longitude="-54.3" latitude="-37.8"/>
-</geo>
-<labels>
-<label locale="de" value="Ost-Rohan: Harwick"/>
-<label locale="en" value="East Rohan: Harwick"/>
-<label locale="fr" value="Rohan Est: Harwick"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-52.5" latitude="-39.9"/>
 <labels>
@@ -649,4 +640,3 @@
 </labels>
 </marker>
 </markers>
-</map>

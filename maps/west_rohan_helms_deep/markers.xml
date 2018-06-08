@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="west_rohan_helms_deep" lastUpdate="1496181600000">
-<geo factor="11.9535">
-<point longitude="-93.3" latitude="-60.4"/>
-</geo>
-<labels>
-<label locale="de" value="West-Rohan: Helms Klamm"/>
-<label locale="en" value="West Rohan: Helm's Deep"/>
-<label locale="fr" value="Rohan Ouest: Gouffre De Helm"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-89.7" latitude="-64.5"/>
 <labels>
@@ -577,4 +568,3 @@
 </labels>
 </marker>
 </markers>
-</map>

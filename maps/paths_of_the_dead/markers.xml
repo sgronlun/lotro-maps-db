@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="paths_of_the_dead" lastUpdate="1495836000000">
-<geo factor="16.0">
-<point longitude="-78.3" latitude="-42.0"/>
-</geo>
-<labels>
-<label locale="de" value="Pfade Der Toten"/>
-<label locale="en" value="Paths Of The Dead"/>
-<label locale="fr" value="Chemins Des Morts"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="2">
 <point longitude="-75.9" latitude="-44.8"/>
 <labels>
@@ -289,4 +280,3 @@
 </labels>
 </marker>
 </markers>
-</map>

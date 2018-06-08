@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="breeland_homesteads" lastUpdate="1469916000000">
-<geo factor="19.081482">
-<point longitude="-50.0" latitude="-34.0"/>
-</geo>
-<labels>
-<label locale="de" value="Breeland: Stedlung"/>
-<label locale="en" value="Breeland: Homesteads"/>
-<label locale="fr" value="Pays De Bree: Residences"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="14">
 <point longitude="-47.1" latitude="-35.9"/>
 <labels>
@@ -105,4 +96,3 @@
 </labels>
 </marker>
 </markers>
-</map>

@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="post_pelennor_march_of_the_king" lastUpdate="1500415200000">
-<geo factor="2.37679">
-<point longitude="-34.8" latitude="-39.6"/>
-</geo>
-<labels>
-<label locale="de" value="Marsch Des Konigs (Nach Schlacht Auf Pelennor)"/>
-<label locale="en" value="March Of The King (Post-Pelennor)"/>
-<label locale="fr" value="Marche Du Roi (Apres Le Pelennor)"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-17.7" latitude="-65.1"/>
 <labels>
@@ -5497,4 +5488,3 @@
 </labels>
 </marker>
 </markers>
-</map>

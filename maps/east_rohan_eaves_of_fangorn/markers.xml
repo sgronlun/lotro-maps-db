@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_eaves_of_fangorn" lastUpdate="1436824800000">
-<geo factor="7.692">
-<point longitude="-79.4" latitude="-34.4"/>
-</geo>
-<labels>
-<label locale="de" value="Ost-Rohan: Rand Des Fangorn"/>
-<label locale="en" value="East Rohan: Eaves Of Fangorn"/>
-<label locale="fr" value="Rohan Est: Lisiere De Fangorn"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="2">
 <point longitude="-74.6" latitude="-39.1"/>
 <labels>
@@ -1057,4 +1048,3 @@
 </labels>
 </marker>
 </markers>
-</map>

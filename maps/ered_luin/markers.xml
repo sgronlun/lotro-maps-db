@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="ered_luin" lastUpdate="1501279200000">
-<geo factor="3.875">
-<point longitude="-112.9" latitude="-12.6"/>
-</geo>
-<labels>
-<label locale="de" value="Ered Luin"/>
-<label locale="en" value="Ered Luin"/>
-<label locale="fr" value="Ered Luin"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-103.2" latitude="-13.7"/>
 <labels>
@@ -3585,4 +3576,3 @@
 </labels>
 </marker>
 </markers>
-</map>

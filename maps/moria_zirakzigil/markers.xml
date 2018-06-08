@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="moria_zirakzigil" lastUpdate="1496872800000">
-<geo factor="12.0">
-<point longitude="-113.525" latitude="17.833"/>
-</geo>
-<labels>
-<label locale="de" value="Moria: Zirakzigil"/>
-<label locale="en" value="Moria: Zirakzigil"/>
-<label locale="fr" value="Moria: Zirakzigil"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="2">
 <point longitude="-108.7" latitude="14.9"/>
 <labels>
@@ -89,4 +80,3 @@
 </labels>
 </marker>
 </markers>
-</map>

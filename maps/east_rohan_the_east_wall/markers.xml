@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="east_rohan_the_east_wall" lastUpdate="1495922400000">
-<geo factor="4.308564">
-<point longitude="-61.3" latitude="-45.7"/>
-</geo>
-<labels>
-<label locale="de" value="Ost-Rohan: Der Ostwall"/>
-<label locale="en" value="East Rohan: The East Wall"/>
-<label locale="fr" value="Rohan Est: Le Mur De L'Est"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="10">
 <point longitude="-51.2" latitude="-52.0"/>
 <labels>
@@ -585,4 +576,3 @@
 </labels>
 </marker>
 </markers>
-</map>

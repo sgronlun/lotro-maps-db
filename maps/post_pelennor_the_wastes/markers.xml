@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="post_pelennor_the_wastes" lastUpdate="1500501600000">
-<geo factor="5.003311">
-<point longitude="-17.0" latitude="-26.1"/>
-</geo>
-<labels>
-<label locale="de" value="Das Odland  (Nach Schlacht Auf Pelennor)"/>
-<label locale="en" value="The Wastes (Post-Pelennor)"/>
-<label locale="fr" value="Le Landes Desertiques (Apres Le Pelennor)"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="25">
 <point longitude="-3.5" latitude="-34.4"/>
 <labels>
@@ -2817,4 +2808,3 @@
 </labels>
 </marker>
 </markers>
-</map>

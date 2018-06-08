@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="west_rohan_eastfold" lastUpdate="1496872800000">
-<geo factor="4.551">
-<point longitude="-71.0" latitude="-60.0"/>
-</geo>
-<labels>
-<label locale="de" value="West-Rohan: Ostfold"/>
-<label locale="en" value="West Rohan: Eastfold"/>
-<label locale="fr" value="Rohan Ouest: Estfolde"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-64.9" latitude="-69.3"/>
 <labels>
@@ -1305,4 +1296,3 @@
 </labels>
 </marker>
 </markers>
-</map>

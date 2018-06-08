@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="the_shire_homesteads" lastUpdate="1469916000000">
-<geo factor="18.285713">
-<point longitude="-77.4" latitude="-34.6"/>
-</geo>
-<labels>
-<label locale="de" value="Auen-Land: Stedlung"/>
-<label locale="en" value="The Shire: Homesteads"/>
-<label locale="fr" value="Comte: Residences"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="14">
 <point longitude="-73.9" latitude="-36.7"/>
 <labels>
@@ -89,4 +80,3 @@
 </labels>
 </marker>
 </markers>
-</map>

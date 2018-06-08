@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="isengard_ring_of_isengard" lastUpdate="1436824800000">
-<geo factor="13.3862">
-<point longitude="8.1" latitude="62.8"/>
-</geo>
-<labels>
-<label locale="de" value="Isengart: Ring Von Isengart"/>
-<label locale="en" value="Isengard: Ring Of Isengard"/>
-<label locale="fr" value="Isengard: Anneau D'Isengard"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="2">
 <point longitude="11.4" latitude="59.0"/>
 <labels>
@@ -113,4 +104,3 @@
 </labels>
 </marker>
 </markers>
-</map>

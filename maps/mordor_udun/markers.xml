@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="mordor_udun" lastUpdate="1503180000000">
-<geo factor="6.263056">
-<point longitude="-4.3" latitude="-36.7"/>
-</geo>
-<labels>
-<label locale="de" value="Mordor: Udun"/>
-<label locale="en" value="Mordor: Udun"/>
-<label locale="fr" value="Mordor: Udun"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="25">
 <point longitude="5.8" latitude="-39.8"/>
 <labels>
@@ -2137,4 +2128,3 @@
 </labels>
 </marker>
 </markers>
-</map>

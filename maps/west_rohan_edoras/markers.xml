@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="west_rohan_edoras" lastUpdate="1436997600000">
-<geo factor="12.9895">
-<point longitude="-76.9" latitude="-58.2"/>
-</geo>
-<labels>
-<label locale="de" value="West-Rohan: Edoras"/>
-<label locale="en" value="West Rohan: Edoras"/>
-<label locale="fr" value="Rohan Ouest: Edoras"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-74.3" latitude="-60.7"/>
 <labels>
@@ -585,4 +576,3 @@
 </labels>
 </marker>
 </markers>
-</map>

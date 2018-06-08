@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="gap_of_rohan" lastUpdate="1495922400000">
-<geo factor="5.154">
-<point longitude="-20.8" latitude="-80.4"/>
-</geo>
-<labels>
-<label locale="de" value="Pforte Von Rohan"/>
-<label locale="en" value="Gap Of Rohan"/>
-<label locale="fr" value="Trouee Du Rohan"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="25">
 <point longitude="-7.4" latitude="-87.2"/>
 <labels>
@@ -785,4 +776,3 @@
 </labels>
 </marker>
 </markers>
-</map>

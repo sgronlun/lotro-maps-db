@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="eastern_gondor" lastUpdate="1495922400000">
-<geo factor="2.752688">
-<point longitude="-36.4" latitude="-59.1"/>
-</geo>
-<labels>
-<label locale="de" value="Ost-Gondor"/>
-<label locale="en" value="Eastern Gondor"/>
-<label locale="fr" value="L'Est Du Gondor"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-24.6" latitude="-77.4"/>
 <labels>
@@ -8137,4 +8128,3 @@
 </labels>
 </marker>
 </markers>
-</map>

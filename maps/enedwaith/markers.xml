@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="enedwaith" lastUpdate="1496872800000">
-<geo factor="3.3">
-<point longitude="-31.6" latitude="-53.5"/>
-</geo>
-<labels>
-<label locale="de" value="Enedwaith"/>
-<label locale="en" value="Enedwaith"/>
-<label locale="fr" value="Enedwaith"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-13.8" latitude="-69.4"/>
 <labels>
@@ -3281,4 +3272,3 @@
 </labels>
 </marker>
 </markers>
-</map>

@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="mordor_orodruin" lastUpdate="1500588000000">
-<geo factor="6.243902">
-<point longitude="11.0" latitude="-45.5"/>
-</geo>
-<labels>
-<label locale="de" value="Mordor: Orodruin (Schicksalsberg)"/>
-<label locale="en" value="Mordor: Orodruin (Mount Doom)"/>
-<label locale="fr" value="Mordor: Orodruin (Montagne Du Destin)"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="27">
 <point longitude="20.8" latitude="-47.8"/>
 <labels>
@@ -137,4 +128,3 @@
 </labels>
 </marker>
 </markers>
-</map>

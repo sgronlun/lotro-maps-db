@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="dunland_galtrev" lastUpdate="1496181600000">
-<geo factor="28.444">
-<point longitude="-18.4" latitude="-78.9"/>
-</geo>
-<labels>
-<label locale="de" value="Dunland: Galtrev"/>
-<label locale="en" value="Dunland: Galtrev"/>
-<label locale="fr" value="Paud De Dun: Galtrev"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-17.1" latitude="-80.1"/>
 <labels>
@@ -921,4 +912,3 @@
 </labels>
 </marker>
 </markers>
-</map>

@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="ered_luin_thorins_hall_homesteads" lastUpdate="1469916000000">
-<geo factor="19.081482">
-<point longitude="-109.9" latitude="-13.2"/>
-</geo>
-<labels>
-<label locale="de" value="Ered Luin: Stedlung Thorins Halle"/>
-<label locale="en" value="Ered Luin: Thorin's Hall Homesteads"/>
-<label locale="fr" value="Ered Luin: Residences du Palais de Thorin"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="14">
 <point longitude="-107.7" latitude="-15.2"/>
 <labels>
@@ -105,4 +96,3 @@
 </labels>
 </marker>
 </markers>
-</map>

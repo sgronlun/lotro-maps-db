@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="dunland_tal_methedras" lastUpdate="1436824800000">
-<geo factor="11.274">
-<point longitude="-14.5" latitude="-72.1"/>
-</geo>
-<labels>
-<label locale="de" value="Dunland: Tal Methedras"/>
-<label locale="en" value="Dunland: Tal Methedras"/>
-<label locale="fr" value="Payd De Dun: Tal Methedras"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="14">
 <point longitude="-10.3" latitude="-77.9"/>
 <labels>
@@ -369,4 +360,3 @@
 </labels>
 </marker>
 </markers>
-</map>

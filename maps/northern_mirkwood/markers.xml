@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="northern_mirkwood" lastUpdate="1520463600000">
-<geo factor="2.37679">
-<point longitude="-57.0" latitude="37.9"/>
-</geo>
-<labels>
-<label locale="de" value="Nordlicher Dusterwald"/>
-<label locale="en" value="Northern Mirkwood"/>
-<label locale="fr" value="Nord De La Foret Noire"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-25.7" latitude="24.9"/>
 <labels>
@@ -4857,4 +4848,3 @@
 </labels>
 </marker>
 </markers>
-</map>

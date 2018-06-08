@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="gap_of_rohan_pit_of_iron" lastUpdate="1436824800000">
-<geo factor="26.385">
-<point longitude="-94.3" latitude="52.3"/>
-</geo>
-<labels>
-<label locale="de" value="Pforte Von Rohan: The Pit Of Iron"/>
-<label locale="en" value="Gap Of Rohan: The Pit Of Iron"/>
-<label locale="fr" value="Trouee Du Rohan: The Pit Of Iron"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="2">
 <point longitude="-93.1" latitude="51.5"/>
 <labels>
@@ -33,4 +24,3 @@
 </labels>
 </marker>
 </markers>
-</map>

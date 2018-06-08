@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="ettenmoors" lastUpdate="1437170400000">
-<geo factor="6.352">
-<point longitude="-24.3" latitude="-9.9"/>
-</geo>
-<labels>
-<label locale="de" value="Ettenoden"/>
-<label locale="en" value="Ettenmoors"/>
-<label locale="fr" value="Landes D'Etten"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="12">
 <point longitude="-13.7" latitude="-20.9"/>
 <labels>
@@ -1345,4 +1336,3 @@
 </labels>
 </marker>
 </markers>
-</map>

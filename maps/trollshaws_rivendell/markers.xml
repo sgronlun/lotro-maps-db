@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="trollshaws_rivendell" lastUpdate="1496095200000">
-<geo factor="10.52">
-<point longitude="-9.4" latitude="-26.2"/>
-</geo>
-<labels>
-<label locale="de" value="Trollhohen: Bruchtal"/>
-<label locale="en" value="Trollshaws: Rivendell"/>
-<label locale="fr" value="Trouee Des Trolls: Fondcomber"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="13">
 <point longitude="-3.3" latitude="-28.9"/>
 <labels>
@@ -1057,4 +1048,3 @@
 </labels>
 </marker>
 </markers>
-</map>

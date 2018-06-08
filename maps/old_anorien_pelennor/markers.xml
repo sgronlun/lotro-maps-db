@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="old_anorien_pelennor" lastUpdate="1495922400000">
-<geo factor="5.132865">
-<point longitude="-27.8" latitude="-58.3"/>
-</geo>
-<labels>
-<label locale="de" value="Alt-Anorien: Pelennor"/>
-<label locale="en" value="Old Anorien: Pelennor"/>
-<label locale="fr" value="Ancien Anorien: Pelennor"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="24">
 <point longitude="-18.5" latitude="-69.2"/>
 <labels>
@@ -4385,4 +4376,3 @@
 </labels>
 </marker>
 </markers>
-</map>

@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="far_anorien_taur_druadan" lastUpdate="1460584800000">
-<geo factor="4.883955">
-<point longitude="-33.9" latitude="-42.5"/>
-</geo>
-<labels>
-<label locale="de" value="Weites Anorien: Taur Druadan"/>
-<label locale="en" value="Far Anorien: Taur Druadan"/>
-<label locale="fr" value="Lointain Anorien: Taur Druadan"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="25">
 <point longitude="-27.3" latitude="-45.6"/>
 <labels>
@@ -1057,4 +1048,3 @@
 </labels>
 </marker>
 </markers>
-</map>

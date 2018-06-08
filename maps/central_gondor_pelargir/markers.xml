@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="central_gondor_pelargir" lastUpdate="1495922400000">
-<geo factor="14.80491">
-<point longitude="-37.5" latitude="-81.8"/>
-</geo>
-<labels>
-<label locale="de" value="Zentrum Gondors: Pelargir"/>
-<label locale="en" value="Central Gondor: Pelargir"/>
-<label locale="fr" value="Centre Du Gondor: Pelargir"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="24">
 <point longitude="-34.4" latitude="-83.6"/>
 <labels>
@@ -913,4 +904,3 @@
 </labels>
 </marker>
 </markers>
-</map>

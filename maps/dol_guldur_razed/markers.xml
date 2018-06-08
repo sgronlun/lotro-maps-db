@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><map key="dol_guldur_razed" lastUpdate="1520463600000">
-<geo factor="14.222222">
-<point longitude="-20.4" latitude="-11.6"/>
-</geo>
-<labels>
-<label locale="de" value="Dol Guldur [Einsturz Gebracht]"/>
-<label locale="en" value="Dol Guldur [Razed]"/>
-<label locale="fr" value="Dol Guldur [Ete Rasee]"/>
-</labels>
-<markers>
+<?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1" category="3">
 <point longitude="-15.1" latitude="-12.6"/>
 <labels>
@@ -49,4 +40,3 @@
 </labels>
 </marker>
 </markers>
-</map>

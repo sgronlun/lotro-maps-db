@@ -1103,6 +1103,30 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
+<marker id="18529" category="1">
+<point longitude="-56.7" latitude="4.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Leothred (second location)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18530" category="1">
+<point longitude="-56.9" latitude="4.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Leothred (third location)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18531" category="1">
+<point longitude="-57.1" latitude="5.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Leothred (fourth location)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
 <marker id="17148" category="4">
 <point longitude="-51.4" latitude="11.3"/>
 <labels>
@@ -3535,6 +3559,30 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
+<marker id="18383" category="3">
+<point longitude="-59.2" latitude="0.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Weather-stained coffer"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18384" category="3">
+<point longitude="-58.0" latitude="2.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Memories of The Great Alliance"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18532" category="3">
+<point longitude="-57.8" latitude="13.4"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Candle"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
 <marker id="17452" category="24">
 <point longitude="-53.5" latitude="13.9"/>
 <labels>
@@ -3783,6 +3831,14 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
+<marker id="18533" category="1">
+<point longitude="-55.3" latitude="14.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Leothred (first location)"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
 <marker id="17483" category="3">
 <point longitude="-52.9" latitude="14.4"/>
 <labels>
@@ -3999,19 +4055,163 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="18383" category="3">
-<point longitude="-59.2" latitude="0.1"/>
+<marker id="18534" category="3">
+<point longitude="-53.8" latitude="13.6"/>
 <labels>
 <label locale="de" value="TBD"/>
-<label locale="en" value="Weather-stained coffer"/>
+<label locale="en" value="Wood"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="18384" category="3">
-<point longitude="-58.0" latitude="2.3"/>
+<marker id="18535" category="3">
+<point longitude="-53.8" latitude="13.7"/>
 <labels>
 <label locale="de" value="TBD"/>
-<label locale="en" value="Memories of The Great Alliance"/>
+<label locale="en" value="Wood"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18536" category="3">
+<point longitude="-53.5" latitude="13.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wood"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18537" category="3">
+<point longitude="-52.8" latitude="13.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wood"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18538" category="3">
+<point longitude="-53.0" latitude="13.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wood"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18539" category="3">
+<point longitude="-53.2" latitude="13.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wood"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18540" category="3">
+<point longitude="-54.3" latitude="14.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Chicken"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18541" category="3">
+<point longitude="-54.9" latitude="13.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Chicken"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18542" category="3">
+<point longitude="-52.5" latitude="13.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Chicken"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18543" category="3">
+<point longitude="-53.1" latitude="13.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Chicken"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18544" category="3">
+<point longitude="-54.7" latitude="14.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18545" category="3">
+<point longitude="-54.9" latitude="14.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18546" category="3">
+<point longitude="-55.0" latitude="13.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18547" category="3">
+<point longitude="-55.0" latitude="12.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18548" category="3">
+<point longitude="-54.3" latitude="14.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18549" category="3">
+<point longitude="-53.7" latitude="15.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18550" category="3">
+<point longitude="-52.9" latitude="15.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18551" category="3">
+<point longitude="-52.4" latitude="14.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18552" category="3">
+<point longitude="-52.4" latitude="13.3"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18553" category="3">
+<point longitude="-52.3" latitude="12.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Wild berries"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

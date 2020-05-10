@@ -167,6 +167,22 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
+<marker id="18469" category="2">
+<point longitude="1.4" latitude="-65.7"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Zhar Dushgoi"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18470" category="2">
+<point longitude="-0.2" latitude="-67.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Zhar Skator"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
 <marker id="17864" category="11">
 <point longitude="0.7" latitude="-65.4"/>
 <labels>
@@ -188,6 +204,14 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Glowing page #6"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18471" category="32">
+<point longitude="2.2" latitude="-67.6"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Glowing page #7"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
@@ -236,6 +260,14 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Glowing page #13"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18472" category="32">
+<point longitude="1.2" latitude="-67.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Glowing page #14"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
@@ -319,8 +351,8 @@
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
-<marker id="17883" category="27">
-<point longitude="1.5" latitude="-66.9"/>
+<marker id="18473" category="27">
+<point longitude="2.2" latitude="-66.9"/>
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Rare Mordor chest of Minas Morgul"/>
@@ -668,6 +700,30 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Moaning shade"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18474" category="1">
+<point longitude="0.8" latitude="-67.0"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Mithrendan"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18475" category="1">
+<point longitude="1.7" latitude="-67.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Culang"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18476" category="1">
+<point longitude="1.7" latitude="-67.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Ayorzen (at Circle of Death)"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>
@@ -1388,6 +1444,46 @@
 <labels>
 <label locale="de" value="TBD"/>
 <label locale="en" value="Dread-ward"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18477" category="3">
+<point longitude="1.9" latitude="-67.1"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Torn page"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18478" category="3">
+<point longitude="1.6" latitude="-66.8"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Torn page"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18479" category="3">
+<point longitude="2.4" latitude="-66.9"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Torn page"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18480" category="3">
+<point longitude="1.5" latitude="-66.5"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Torn page"/>
+<label locale="fr" value="TBD"/>
+</labels>
+</marker>
+<marker id="18481" category="3">
+<point longitude="1.7" latitude="-66.2"/>
+<labels>
+<label locale="de" value="TBD"/>
+<label locale="en" value="Torn page"/>
 <label locale="fr" value="TBD"/>
 </labels>
 </marker>

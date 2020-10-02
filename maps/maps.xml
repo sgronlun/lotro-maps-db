@@ -849,6 +849,11 @@
 <point longitude="-64.13333" latitude="-31.356668"/>
 </geo>
 </map>
+<map id="1879048229" name="Brigand Cave">
+<geo factor="300.0">
+<point longitude="-57.08333" latitude="-21.09667"/>
+</geo>
+</map>
 <map id="1879048233" name="Archet Jail">
 <geo factor="600.0">
 <point longitude="-49.895" latitude="-24.689999"/>
@@ -1119,6 +1124,11 @@
 <point longitude="-53.864998" latitude="-25.501669"/>
 </geo>
 </map>
+<map id="1879051232" name="Skunkwood's House">
+<geo factor="300.0">
+<point longitude="-45.73333" latitude="-28.199999"/>
+</geo>
+</map>
 <map id="1879051235" name="Staddle Arms">
 <geo factor="1200.0">
 <point longitude="-50.390827" latitude="-31.474998"/>
@@ -1219,6 +1229,11 @@
 <point longitude="-34.44333" latitude="15.17167"/>
 </geo>
 </map>
+<map id="1879083689" name="Sprigley's House">
+<geo factor="800.0">
+<point longitude="52.17125" latitude="-5.0587497"/>
+</geo>
+</map>
 <map id="1879084147" name="Bávor Wyrm-brand's Tomb">
 <geo factor="200.0">
 <point longitude="-4.6349998" latitude="-15.41"/>
@@ -1249,9 +1264,19 @@
 <point longitude="52.743748" latitude="-54.40625"/>
 </geo>
 </map>
+<map id="1879085779" name="Holding Cell">
+<geo factor="1199.9999">
+<point longitude="55.75" latitude="75.763336"/>
+</geo>
+</map>
 <map id="1879085780" name="Warehouse">
 <geo factor="1200.0">
 <point longitude="55.11416" latitude="74.138336"/>
+</geo>
+</map>
+<map id="1879085781" name="Steward's Tavern">
+<geo factor="1199.9999">
+<point longitude="55.2975" latitude="75.08166"/>
 </geo>
 </map>
 <map id="1879085887" name="The Lowbanks' Estate">
@@ -1314,6 +1339,11 @@
 <point longitude="51.066658" latitude="-61.396664"/>
 </geo>
 </map>
+<map id="1879089909" name="Forsaken Smial">
+<geo factor="600.0">
+<point longitude="52.49334" latitude="-23.055"/>
+</geo>
+</map>
 <map id="1879089971" name="Valandil's Tomb">
 <geo factor="300.0">
 <point longitude="51.13334" latitude="-61.303333"/>
@@ -1334,6 +1364,11 @@
 <point longitude="50.61" latitude="-64.64666"/>
 </geo>
 </map>
+<map id="1879092131" name="Haudh Iarchith">
+<geo factor="300.00003">
+<point longitude="54.526657" latitude="-63.626663"/>
+</geo>
+</map>
 <map id="1879092132" name="The Mathom House">
 <geo factor="600.0">
 <point longitude="52.511658" latitude="-71.915"/>
@@ -1352,6 +1387,11 @@
 <map id="1879092135" name="Sarnúr Keep">
 <geo factor="259.8787">
 <point longitude="48.990723" latitude="66.79689"/>
+</geo>
+</map>
+<map id="1879092136" name="Ost Elendil">
+<geo factor="300.0">
+<point longitude="49.73" latitude="-74.46667"/>
 </geo>
 </map>
 <map id="1879092137" name="Bree-town Hunting Lodge">
@@ -1754,6 +1794,36 @@
 <point longitude="50.46666" latitude="67.88084"/>
 </geo>
 </map>
+<map id="1879102975" name="Barad Dúrgul">
+<geo factor="600.0">
+<point longitude="50.93334" latitude="70.575"/>
+</geo>
+</map>
+<map id="1879102976" name="Barad Dúrgul">
+<geo factor="600.0">
+<point longitude="50.93334" latitude="70.549995"/>
+</geo>
+</map>
+<map id="1879103017" name="Minas Caul">
+<geo factor="600.00006">
+<point longitude="51.71" latitude="71.275"/>
+</geo>
+</map>
+<map id="1879103018" name="Minas Maur">
+<geo factor="600.00006">
+<point longitude="51.71" latitude="70.475"/>
+</geo>
+</map>
+<map id="1879103019" name="Minas Agar">
+<geo factor="600.00006">
+<point longitude="51.71" latitude="69.674995"/>
+</geo>
+</map>
+<map id="1879103020" name="Minas Angos">
+<geo factor="600.00006">
+<point longitude="51.71" latitude="68.875"/>
+</geo>
+</map>
 <map id="1879103072" name="Sammath Baul">
 <geo factor="599.99994">
 <point longitude="50.23166" latitude="70.7"/>
@@ -1924,9 +1994,29 @@
 <point longitude="55.066658" latitude="43.74666"/>
 </geo>
 </map>
+<map id="1879131642" name="Tunzul-menem">
+<geo factor="600.0">
+<point longitude="55.489998" latitude="44.155"/>
+</geo>
+</map>
+<map id="1879136222" name="The School at Tham Mírdain">
+<geo factor="600.00006">
+<point longitude="54.136658" latitude="57.76"/>
+</geo>
+</map>
+<map id="1879136223" name="The Library at Tham Mírdain">
+<geo factor="400.0">
+<point longitude="-147.5" latitude="69.9625"/>
+</geo>
+</map>
 <map id="1879138594" name="Skûmfil">
 <geo factor="599.99994">
 <point longitude="54.991657" latitude="79.501656"/>
+</geo>
+</map>
+<map id="1879138595" name="The Forges of Khazad-dûm">
+<geo factor="600.00006">
+<point longitude="55.066658" latitude="77.85"/>
 </geo>
 </map>
 <map id="1879138596" name="Fil Gashan">
@@ -1934,12 +2024,27 @@
 <point longitude="55.059998" latitude="71.79"/>
 </geo>
 </map>
+<map id="1879138597" name="Dark Delvings">
+<geo factor="599.99994">
+<point longitude="55.03" latitude="73.02666"/>
+</geo>
+</map>
 <map id="1879138598" name="The Sixteenth Hall">
 <geo factor="300.0">
 <point longitude="53.41" latitude="72.016655"/>
 </geo>
 </map>
+<map id="1879138599" name="The Forgotten Treasury">
+<geo factor="600.0">
+<point longitude="55.066658" latitude="76.549995"/>
+</geo>
+</map>
 <map id="1879144811" name="Filgogân">
+<geo factor="600.0">
+<point longitude="-9.035" latitude="-53.613335"/>
+</geo>
+</map>
+<map id="1879144812" name="Filgogân">
 <geo factor="600.0">
 <point longitude="-9.035" latitude="-53.613335"/>
 </geo>
@@ -1959,9 +2064,24 @@
 <point longitude="54.123337" latitude="37.704998"/>
 </geo>
 </map>
+<map id="1879144816" name="The Library of Steel">
+<geo factor="600.0">
+<point longitude="54.785" latitude="39.928337"/>
+</geo>
+</map>
 <map id="1879144817" name="The Morroval-outcasts">
 <geo factor="600.00006">
 <point longitude="53.29166" latitude="41.68"/>
+</geo>
+</map>
+<map id="1879144818" name="The Training Hall">
+<geo factor="600.0">
+<point longitude="53.114998" latitude="44.405"/>
+</geo>
+</map>
+<map id="1879144819" name="The Mithril-slaves">
+<geo factor="600.0">
+<point longitude="55.06334" latitude="46.35666"/>
 </geo>
 </map>
 <map id="1879144820" name="Ghâr-bayur">
@@ -1984,6 +2104,16 @@
 <point longitude="55.01666" latitude="28.5"/>
 </geo>
 </map>
+<map id="1879144824" name="Chamber of Wheels">
+<geo factor="600.0">
+<point longitude="55.16" latitude="28.74833"/>
+</geo>
+</map>
+<map id="1879144825" name="Mezel-katub">
+<geo factor="600.0">
+<point longitude="56.184998" latitude="33.528328"/>
+</geo>
+</map>
 <map id="1879144826" name="Gador Gúlaran">
 <geo factor="300.00003">
 <point longitude="50.11" latitude="38.29667"/>
@@ -1992,6 +2122,11 @@
 <map id="1879144827" name="Gador Gúlaran">
 <geo factor="300.0">
 <point longitude="49.51334" latitude="40.51334"/>
+</geo>
+</map>
+<map id="1879144828" name="Azanarukâr">
+<geo factor="300.0">
+<point longitude="55.43" latitude="46.03666"/>
 </geo>
 </map>
 <map id="1879144829" name="Azanarukâr">
@@ -2017,6 +2152,36 @@
 <map id="1879144842" name="Kheled-menem">
 <geo factor="600.0">
 <point longitude="56.663338" latitude="31.956669"/>
+</geo>
+</map>
+<map id="1879144858" name="The Library of Steel">
+<geo factor="600.0">
+<point longitude="54.785" latitude="39.928337"/>
+</geo>
+</map>
+<map id="1879144910" name="The Ghost-forge">
+<geo factor="600.00006">
+<point longitude="55.128338" latitude="48.23"/>
+</geo>
+</map>
+<map id="1879145196" name="Fil Gashan">
+<geo factor="600.0">
+<point longitude="55.05834" latitude="71.79"/>
+</geo>
+</map>
+<map id="1879145197" name="Fil Gashan">
+<geo factor="600.0">
+<point longitude="55.066658" latitude="71.799995"/>
+</geo>
+</map>
+<map id="1879145612" name="The Forges of Khazad-dûm">
+<geo factor="600.0">
+<point longitude="55.733337" latitude="77.7"/>
+</geo>
+</map>
+<map id="1879145613" name="The Forges of Khazad-dûm">
+<geo factor="600.00006">
+<point longitude="55.733337" latitude="77.799995"/>
 </geo>
 </map>
 <map id="1879145875" name="Tawarond ">
@@ -2089,6 +2254,46 @@
 <point longitude="55.78" latitude="15.22333"/>
 </geo>
 </map>
+<map id="1879149419" name="Buzun-ghâr">
+<geo factor="300.0">
+<point longitude="55.35666" latitude="65.46666"/>
+</geo>
+</map>
+<map id="1879149567" name="Filikul">
+<geo factor="299.99997">
+<point longitude="51.99334" latitude="-23.26"/>
+</geo>
+</map>
+<map id="1879149934" name="Sejer-tharâkh">
+<geo factor="600.0">
+<point longitude="53.338337" latitude="-60.195"/>
+</geo>
+</map>
+<map id="1879149935" name="Mekeb-farak">
+<geo factor="299.99997">
+<point longitude="53.33334" latitude="-58.933334"/>
+</geo>
+</map>
+<map id="1879149936" name="Fulz-zahar">
+<geo factor="600.00006">
+<point longitude="54.19666" latitude="-57.61"/>
+</geo>
+</map>
+<map id="1879149937" name="Tumun-ghâr">
+<geo factor="600.00006">
+<point longitude="54.18334" latitude="-56.576664"/>
+</geo>
+</map>
+<map id="1879149938" name="Mekeb-faham">
+<geo factor="599.99994">
+<point longitude="53.331657" latitude="-58.06666"/>
+</geo>
+</map>
+<map id="1879149945" name="Bult-kâr">
+<geo factor="300.00003">
+<point longitude="53.41" latitude="-59.336662"/>
+</geo>
+</map>
 <map id="1879150559" name="Mukhful Thurkh">
 <geo factor="400.0">
 <point longitude="54.8125" latitude="18.8375"/>
@@ -2124,9 +2329,39 @@
 <point longitude="52.84" latitude="80.2"/>
 </geo>
 </map>
+<map id="1879153146" name="The Mirror-halls of Lumul-nar">
+<geo factor="499.99994">
+<point longitude="53.898006" latitude="78.524"/>
+</geo>
+</map>
+<map id="1879153147" name="The Water Wheels: Nalâ-dûm">
+<geo factor="600.0">
+<point longitude="53.46666" latitude="79.79166"/>
+</geo>
+</map>
+<map id="1879153148" name="The Water Wheels: Nalâ-dûm">
+<geo factor="600.00006">
+<point longitude="53.66666" latitude="79.95"/>
+</geo>
+</map>
+<map id="1879153149" name="The Water Wheels: Nalâ-dûm">
+<geo factor="599.99994">
+<point longitude="53.55666" latitude="79.95"/>
+</geo>
+</map>
+<map id="1879153150" name="The Water Wheels: Nalâ-dûm">
+<geo factor="600.0">
+<point longitude="53.51" latitude="79.74334"/>
+</geo>
+</map>
 <map id="1879153210" name="The Water Wheels: Nalâ-dûm">
 <geo factor="599.99994">
 <point longitude="54.331657" latitude="79.39834"/>
+</geo>
+</map>
+<map id="1879153312" name="The Mirror-halls of Lumul-nar">
+<geo factor="500.0">
+<point longitude="55.6" latitude="77.874"/>
 </geo>
 </map>
 <map id="1879153314" name="The Mirror-halls of Lumul-nar">
@@ -2409,6 +2644,11 @@
 <point longitude="-101.70125" latitude="-13.581249"/>
 </geo>
 </map>
+<map id="1879185925" name="TBD Hobbit Tutorial">
+<geo factor="800.0">
+<point longitude="-69.6925" latitude="-33.6375"/>
+</geo>
+</map>
 <map id="1879189306" name="Mess Hall">
 <geo factor="1000.0">
 <point longitude="51.933006" latitude="-1.710996"/>
@@ -2634,9 +2874,44 @@
 <point longitude="-68.19833" latitude="-17.88833"/>
 </geo>
 </map>
+<map id="1879206081" name="The Water Wheels: Nalâ-dûm">
+<geo factor="600.0">
+<point longitude="51.866657" latitude="66.99166"/>
+</geo>
+</map>
+<map id="1879206082" name="The Mirror-halls of Lumul-nar">
+<geo factor="499.99994">
+<point longitude="52.298008" latitude="68.924"/>
+</geo>
+</map>
+<map id="1879206083" name="The Water Wheels: Nalâ-dûm">
+<geo factor="600.0">
+<point longitude="51.91" latitude="66.94334"/>
+</geo>
+</map>
 <map id="1879206084" name="The Water Wheels: Nalâ-dûm">
 <geo factor="599.99994">
 <point longitude="52.73166" latitude="66.598335"/>
+</geo>
+</map>
+<map id="1879206085" name="The Water Wheels: Nalâ-dûm">
+<geo factor="600.00006">
+<point longitude="52.066658" latitude="67.15"/>
+</geo>
+</map>
+<map id="1879206086" name="The Water Wheels: Nalâ-dûm">
+<geo factor="599.99994">
+<point longitude="51.956657" latitude="67.15"/>
+</geo>
+</map>
+<map id="1879206087" name="The Mirror-halls of Lumul-nar">
+<geo factor="499.99994">
+<point longitude="54.398006" latitude="68.274"/>
+</geo>
+</map>
+<map id="1879206088" name="The Mirror-halls of Lumul-nar">
+<geo factor="500.0">
+<point longitude="54.0" latitude="68.274"/>
 </geo>
 </map>
 <map id="1879206089" name="Lhaid Ogo">
@@ -2664,6 +2939,11 @@
 <point longitude="-16.033329" latitude="-75.23333"/>
 </geo>
 </map>
+<map id="1879219925" name="Draigoch's Lair">
+<geo factor="400.0">
+<point longitude="-30.125" latitude="-117.325"/>
+</geo>
+</map>
 <map id="1879220056" name="Barnavon Mine">
 <geo factor="299.99997">
 <point longitude="-16.02" latitude="-84.11"/>
@@ -2679,6 +2959,11 @@
 <point longitude="9.45" latitude="59.10334"/>
 </geo>
 </map>
+<map id="1879220510" name="The Deep Path">
+<geo factor="300.0">
+<point longitude="49.713337" latitude="1.96333"/>
+</geo>
+</map>
 <map id="1879220511" name="Lhan Colvarn">
 <geo factor="300.0">
 <point longitude="50.629997" latitude="9.2699995"/>
@@ -2687,6 +2972,11 @@
 <map id="1879220512" name="Prison-caves">
 <geo factor="300.0">
 <point longitude="51.98" latitude="-91.37667"/>
+</geo>
+</map>
+<map id="1879220513" name="The Long Maw">
+<geo factor="300.0">
+<point longitude="50.163338" latitude="2.7166698"/>
 </geo>
 </map>
 <map id="1879220514" name="The Sprawling Dark">
@@ -2772,6 +3062,11 @@
 <map id="1879228444" name="The Stone-hole">
 <geo factor="300.0">
 <point longitude="53.8" latitude="19.196669"/>
+</geo>
+</map>
+<map id="1879228447" name="Roots of Fangorn">
+<geo factor="599.99994">
+<point longitude="53.835" latitude="65.89834"/>
 </geo>
 </map>
 <map id="1879228448" name="Roots of Fangorn">
@@ -2879,6 +3174,11 @@
 <point longitude="53.00199" latitude="-12.254004"/>
 </geo>
 </map>
+<map id="1879232034" name="Prospector's Shack">
+<geo factor="2666.6665">
+<point longitude="53.05" latitude="-15.4106245"/>
+</geo>
+</map>
 <map id="1879232077" name="Ost Celebrant Ruins">
 <geo factor="400.0">
 <point longitude="-57.7775" latitude="-31.13"/>
@@ -2944,6 +3244,16 @@
 <point longitude="53.18166" latitude="-118.365"/>
 </geo>
 </map>
+<map id="1879237023" name="Thurgyr's Farm">
+<geo factor="1200.0">
+<point longitude="49.68916" latitude="19.977499"/>
+</geo>
+</map>
+<map id="1879237024" name="Thurgyr's Stable ">
+<geo factor="1200.0">
+<point longitude="49.66834" latitude="18.25083"/>
+</geo>
+</map>
 <map id="1879238172" name="Byrgenstow">
 <geo factor="600.00006">
 <point longitude="52.829998" latitude="22.199999"/>
@@ -2970,6 +3280,11 @@
 </geo>
 </map>
 <map id="1879239417" name="Parphád">
+<geo factor="600.0">
+<point longitude="52.718338" latitude="63.3"/>
+</geo>
+</map>
+<map id="1879239418" name="Parphád">
 <geo factor="600.0">
 <point longitude="52.718338" latitude="63.3"/>
 </geo>
@@ -3019,6 +3334,16 @@
 <point longitude="51.579998" latitude="-118.424995"/>
 </geo>
 </map>
+<map id="1879241067" name="Gerngarth">
+<geo factor="600.0">
+<point longitude="52.83666" latitude="59.934998"/>
+</geo>
+</map>
+<map id="1879241068" name="Gerngarth">
+<geo factor="600.0">
+<point longitude="52.83666" latitude="59.885"/>
+</geo>
+</map>
 <map id="1879241341" name="Abandoned Farmhouse">
 <geo factor="600.00006">
 <point longitude="49.331657" latitude="13.7"/>
@@ -3029,9 +3354,39 @@
 <point longitude="49.32166" latitude="12.10333"/>
 </geo>
 </map>
+<map id="1879241770" name="Dígelon">
+<geo factor="599.99994">
+<point longitude="52.385" latitude="58.75"/>
+</geo>
+</map>
+<map id="1879241771" name="Dígelon">
+<geo factor="600.0">
+<point longitude="51.56834" latitude="59.699997"/>
+</geo>
+</map>
+<map id="1879241772" name="Dígelon">
+<geo factor="600.0">
+<point longitude="51.718338" latitude="59.3"/>
+</geo>
+</map>
 <map id="1879241909" name="Minas Rant">
 <geo factor="600.0">
 <point longitude="49.29834" latitude="23.231668"/>
+</geo>
+</map>
+<map id="1879241981" name="Sâd Torech">
+<geo factor="600.0">
+<point longitude="51.199997" latitude="57.899998"/>
+</geo>
+</map>
+<map id="1879242087" name="Ost Magol">
+<geo factor="600.0">
+<point longitude="53.116657" latitude="59.0"/>
+</geo>
+</map>
+<map id="1879242088" name="Dwergfant">
+<geo factor="300.00003">
+<point longitude="53.526657" latitude="62.3"/>
 </geo>
 </map>
 <map id="1879242162" name="Langraf">
@@ -3047,6 +3402,11 @@
 <map id="1879243154" name="The Creeping Wood">
 <geo factor="300.0">
 <point longitude="-147.31667" latitude="-15.40667"/>
+</geo>
+</map>
+<map id="1879243792" name="Ost Magol">
+<geo factor="600.0">
+<point longitude="53.116657" latitude="59.0"/>
 </geo>
 </map>
 <map id="1879243893" name="Harwick Home">
@@ -3979,6 +4339,16 @@
 <point longitude="44.905254" latitude="-112.972"/>
 </geo>
 </map>
+<map id="1879301990" name="Prototype">
+<geo factor="600.00006">
+<point longitude="40.535" latitude="60.07834"/>
+</geo>
+</map>
+<map id="1879302128" name="Aldburg Tomb">
+<geo factor="1000.0">
+<point longitude="40.78301" latitude="-46.486"/>
+</geo>
+</map>
 <map id="1879302990" name="Great Hall of the Hornburg">
 <geo factor="1000.0">
 <point longitude="47.380997" latitude="-8.587002"/>
@@ -4414,6 +4784,11 @@
 <point longitude="-96.85834" latitude="-72.275"/>
 </geo>
 </map>
+<map id="1879334694" name="The Breach of Terror">
+<geo factor="700.0">
+<point longitude="-52.138573" latitude="26.067139"/>
+</geo>
+</map>
 <map id="1879334978" name="The High Hall">
 <geo factor="600.0">
 <point longitude="55.86334" latitude="79.465"/>
@@ -4824,6 +5199,11 @@
 <point longitude="52.978123" latitude="-57.835"/>
 </geo>
 </map>
+<map id="1879367821" name="The Quick Post">
+<geo factor="1600.0">
+<point longitude="52.978123" latitude="-57.835"/>
+</geo>
+</map>
 <map id="1879368100" name="Gostador">
 <geo factor="300.0">
 <point longitude="50.379997" latitude="-73.34"/>
@@ -4929,6 +5309,16 @@
 <point longitude="52.58666" latitude="55.088337"/>
 </geo>
 </map>
+<map id="1879387596" name="Avabárg">
+<geo factor="600.0">
+<point longitude="52.58666" latitude="55.088337"/>
+</geo>
+</map>
+<map id="1879387597" name="Avabárg">
+<geo factor="600.0">
+<point longitude="52.58666" latitude="55.088337"/>
+</geo>
+</map>
 <map id="1879387603" name="Carrock Cave">
 <geo factor="600.0">
 <point longitude="-59.51167" latitude="12.91833"/>
@@ -4977,6 +5367,11 @@
 <map id="1879388666" name="Karazgar's Lair">
 <geo factor="300.0">
 <point longitude="50.296658" latitude="44.33334"/>
+</geo>
+</map>
+<map id="1879388876" name="Tûn Melen">
+<geo factor="600.0">
+<point longitude="50.97334" latitude="35.903328"/>
 </geo>
 </map>
 <map id="1879388912" name="Gath Daeroval, the Shadow-roost">
@@ -5394,6 +5789,11 @@
 <point longitude="48.309998" latitude="74.65"/>
 </geo>
 </map>
+<map id="1879409242" name="TBD - ARMORY">
+<geo factor="600.0">
+<point longitude="46.95" latitude="77.1"/>
+</geo>
+</map>
 <map id="1879409426" name="TBD - CAVES TO ANVIL">
 <geo factor="299.99997">
 <point longitude="44.10666" latitude="66.613335"/>
@@ -5402,6 +5802,16 @@
 <map id="1879409427" name="TBD - ARMED FORT">
 <geo factor="600.0">
 <point longitude="46.78334" latitude="66.5"/>
+</geo>
+</map>
+<map id="1879409428" name="TBD - ARMED FORT">
+<geo factor="600.0">
+<point longitude="46.78334" latitude="66.54834"/>
+</geo>
+</map>
+<map id="1879409429" name="TBD - ARMED FORT">
+<geo factor="599.99994">
+<point longitude="46.78334" latitude="66.54834"/>
 </geo>
 </map>
 <map id="1879409430" name="TBD - GOBLIN-TOWN TO GUNDABAD">

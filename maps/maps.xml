@@ -1147,6 +1147,20 @@
 <min longitude="-62.010525" latitude="18.778942"/>
 <max longitude="-51.231575" latitude="26.863153"/>
 </map>
+<map id="268453516" name="Elderslade">
+<geo factor="51.25">
+<point longitude="-74.799995" latitude="46.58537"/>
+</geo>
+<min longitude="-74.799995" latitude="31.600002"/>
+<max longitude="-54.819508" latitude="46.58537"/>
+</map>
+<map id="268453519" name="Elderslade: War of Three Peaks">
+<geo factor="51.25">
+<point longitude="-29.199999" latitude="-87.014626"/>
+</geo>
+<min longitude="-29.199999" latitude="-101.99999"/>
+<max longitude="-9.219511" latitude="-87.014626"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -8021,131 +8035,159 @@
 <min longitude="51.06334" latitude="78.465"/>
 <max longitude="52.39667" latitude="79.465"/>
 </map>
-<map id="1879409230" name="TBD - ANGMARIM TOWER">
+<map id="1879409230" name="Tûr Ágal">
 <geo factor="600.00006">
 <point longitude="46.93334" latitude="71.299995"/>
 </geo>
 <min longitude="46.93334" latitude="70.299995"/>
 <max longitude="48.26667" latitude="71.299995"/>
 </map>
-<map id="1879409231" name="TBD - WORM HATCHERY">
+<map id="1879409231" name="The Clutch-hollow">
 <geo factor="600.0">
 <point longitude="46.93334" latitude="76.2"/>
 </geo>
 <min longitude="46.93334" latitude="75.2"/>
 <max longitude="48.26667" latitude="76.2"/>
 </map>
-<map id="1879409232" name="TBD - HOBGOBLIN CAMP">
+<map id="1879409232" name="Vorkodar">
 <geo factor="600.0">
 <point longitude="48.088337" latitude="72.95"/>
 </geo>
 <min longitude="48.088337" latitude="71.95"/>
 <max longitude="49.42167" latitude="72.95"/>
 </map>
-<map id="1879409233" name="TBD - FORWARD HUB">
+<map id="1879409233" name="Drenghól">
 <geo factor="600.00006">
 <point longitude="-66.71667" latitude="38.524998"/>
 </geo>
 <min longitude="-66.71667" latitude="37.524998"/>
 <max longitude="-65.38333" latitude="38.524998"/>
 </map>
-<map id="1879409234" name="TBD - NORTH HUB">
+<map id="1879409234" name="Zudramdân">
 <geo factor="600.0">
-<point longitude="-65.76666" latitude="36.96833"/>
+<point longitude="-20.16667" latitude="-96.63167"/>
 </geo>
-<min longitude="-65.76666" latitude="35.96833"/>
-<max longitude="-64.43333" latitude="36.96833"/>
+<min longitude="-20.16667" latitude="-97.63167"/>
+<max longitude="-18.833336" latitude="-96.63167"/>
 </map>
-<map id="1879409235" name="TBD - WARG CAVE">
-<geo factor="600.00006">
-<point longitude="-63.466667" latitude="36.1"/>
+<map id="1879409235" name="Howlers' Notch">
+<geo factor="800.0001">
+<point longitude="-17.699999" latitude="-97.625"/>
 </geo>
-<min longitude="-63.466667" latitude="35.1"/>
-<max longitude="-62.133335" latitude="36.1"/>
+<min longitude="-17.699999" latitude="-98.375"/>
+<max longitude="-16.699999" latitude="-97.625"/>
 </map>
-<map id="1879409236" name="TBD - CAVE CLAW CAVE">
+<map id="1879409236" name="Deep-burrows of Klórgren">
 <geo factor="600.0">
 <point longitude="-59.321667" latitude="34.1"/>
 </geo>
 <min longitude="-59.321667" latitude="32.1"/>
 <max longitude="-56.655" latitude="34.1"/>
 </map>
-<map id="1879409237" name="TBD - MISSION HUB">
+<map id="1879409237" name="Annâk-khurfu">
 <geo factor="600.0">
 <point longitude="46.93334" latitude="69.6"/>
 </geo>
 <min longitude="46.93334" latitude="68.6"/>
 <max longitude="48.26667" latitude="69.6"/>
 </map>
-<map id="1879409238" name="TBD - MISSION HUB">
+<map id="1879409238" name="Annâk-khurfu">
 <geo factor="600.0">
 <point longitude="46.93334" latitude="69.45"/>
 </geo>
 <min longitude="46.93334" latitude="68.45"/>
 <max longitude="48.26667" latitude="69.45"/>
 </map>
-<map id="1879409239" name="TBD - WARG DEN">
+<map id="1879409239" name="Valdhellir">
 <geo factor="600.0">
 <point longitude="46.733337" latitude="72.799995"/>
 </geo>
 <min longitude="46.733337" latitude="71.799995"/>
 <max longitude="48.06667" latitude="72.799995"/>
 </map>
-<map id="1879409240" name="TBD - FEEDING PIT">
+<map id="1879409240" name="Scatha's Larder">
 <geo factor="600.0">
 <point longitude="46.983337" latitude="74.54834"/>
 </geo>
 <min longitude="46.983337" latitude="73.54834"/>
 <max longitude="48.31667" latitude="74.54834"/>
 </map>
-<map id="1879409241" name="TBD - MISSION TOWER">
+<map id="1879409241" name="Bekâr-zarakh">
 <geo factor="600.0">
 <point longitude="48.309998" latitude="74.65"/>
 </geo>
 <min longitude="48.309998" latitude="73.65"/>
 <max longitude="49.64333" latitude="74.65"/>
 </map>
-<map id="1879409242" name="TBD - ARMORY">
+<map id="1879409242" name="Ashmâr-zarakh">
 <geo factor="600.0">
 <point longitude="46.95" latitude="77.1"/>
 </geo>
 <min longitude="46.95" latitude="74.1"/>
 <max longitude="50.95" latitude="77.1"/>
 </map>
-<map id="1879409426" name="TBD - CAVES TO ANVIL">
+<map id="1879409426" name="Akûl-lagam">
 <geo factor="299.99997">
 <point longitude="44.10666" latitude="66.613335"/>
 </geo>
 <min longitude="44.10666" latitude="62.613335"/>
 <max longitude="49.439995" latitude="66.613335"/>
 </map>
-<map id="1879409427" name="TBD - ARMED FORT">
+<map id="1879409427" name="Dâr Brulku">
 <geo factor="600.0">
 <point longitude="46.78334" latitude="66.5"/>
 </geo>
 <min longitude="46.78334" latitude="65.5"/>
 <max longitude="48.116673" latitude="66.5"/>
 </map>
-<map id="1879409428" name="TBD - ARMED FORT">
+<map id="1879409428" name="Dâr Brulku">
 <geo factor="600.0">
 <point longitude="46.78334" latitude="66.54834"/>
 </geo>
 <min longitude="46.78334" latitude="65.54834"/>
 <max longitude="48.116673" latitude="66.54834"/>
 </map>
-<map id="1879409429" name="TBD - ARMED FORT">
+<map id="1879409429" name="Dâr Brulku">
 <geo factor="599.99994">
 <point longitude="46.78334" latitude="66.54834"/>
 </geo>
 <min longitude="46.78334" latitude="65.54834"/>
 <max longitude="48.116673" latitude="66.54834"/>
 </map>
-<map id="1879409430" name="TBD - GOBLIN-TOWN TO GUNDABAD">
+<map id="1879409430" name="Fauthshúg">
 <geo factor="600.0">
 <point longitude="46.71666" latitude="68.6"/>
 </geo>
 <min longitude="46.71666" latitude="66.6"/>
 <max longitude="49.383327" latitude="68.6"/>
+</map>
+<map id="1879409710" name="Shakal-atrâd">
+<geo factor="600.0">
+<point longitude="-63.466667" latitude="34.5"/>
+</geo>
+<min longitude="-63.466667" latitude="33.5"/>
+<max longitude="-62.133335" latitude="34.5"/>
+</map>
+<map id="1879409727" name="Tithzagáf">
+<geo factor="800.0">
+<point longitude="-67.369995" latitude="35.3975"/>
+</geo>
+<min longitude="-67.369995" latitude="34.6475"/>
+<max longitude="-66.369995" latitude="35.3975"/>
+</map>
+<map id="1879410433" name="Zarkul-sulûn">
+<geo factor="600.0">
+<point longitude="-18.66667" latitude="-100.85"/>
+</geo>
+<min longitude="-18.66667" latitude="-101.85"/>
+<max longitude="-17.333336" latitude="-100.85"/>
+</map>
+<map id="1879410434" name="Shakal-atrâd">
+<geo factor="600.0">
+<point longitude="-17.863329" latitude="-99.096664"/>
+</geo>
+<min longitude="-17.863329" latitude="-100.096664"/>
+<max longitude="-16.529995" latitude="-99.096664"/>
 </map>
 <map id="1879410485" name="Broker's Office">
 <geo factor="600.00006">
@@ -8153,5 +8195,54 @@
 </geo>
 <min longitude="53.329998" latitude="-55.28"/>
 <max longitude="54.66333" latitude="-54.28"/>
+</map>
+<map id="1879410939" name="Tûr Ágal - Upper Chamber">
+<geo factor="600.0">
+<point longitude="-65.86666" latitude="38.5"/>
+</geo>
+<min longitude="-65.86666" latitude="37.5"/>
+<max longitude="-64.533325" latitude="38.5"/>
+</map>
+<map id="1879411304" name="Wyrmsgráf">
+<geo factor="600.0">
+<point longitude="-60.539997" latitude="43.00166"/>
+</geo>
+<min longitude="-60.539997" latitude="41.00166"/>
+<max longitude="-57.87333" latitude="43.00166"/>
+</map>
+<map id="1879411305" name="Ifbar-athrâkh">
+<geo factor="800.0">
+<point longitude="-19.328749" latitude="-98.45375"/>
+</geo>
+<min longitude="-19.328749" latitude="-99.20375"/>
+<max longitude="-18.328749" latitude="-98.45375"/>
+</map>
+<map id="1879411306" name="Ushkútoz">
+<geo factor="800.0">
+<point longitude="-19.35125" latitude="-96.838745"/>
+</geo>
+<min longitude="-19.35125" latitude="-97.588745"/>
+<max longitude="-18.35125" latitude="-96.838745"/>
+</map>
+<map id="1879411318" name="The Ill-fated Feast">
+<geo factor="600.0">
+<point longitude="50.93334" latitude="28.099998"/>
+</geo>
+<min longitude="50.93334" latitude="27.099998"/>
+<max longitude="52.26667" latitude="28.099998"/>
+</map>
+<map id="1879412251" name="Tûr Ágal">
+<geo factor="600.00006">
+<point longitude="46.93334" latitude="71.299995"/>
+</geo>
+<min longitude="46.93334" latitude="70.299995"/>
+<max longitude="48.26667" latitude="71.299995"/>
+</map>
+<map id="1879412693" name="Drenghól">
+<geo factor="600.00006">
+<point longitude="-66.71667" latitude="38.524998"/>
+</geo>
+<min longitude="-66.71667" latitude="37.524998"/>
+<max longitude="-65.38333" latitude="38.524998"/>
 </map>
 </maps>

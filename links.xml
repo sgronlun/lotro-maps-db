@@ -159,7 +159,6 @@
 <link parentId="268442355" contentLayerId="0" target="268442347" label="To: Zelem-melek" longitude="-106.86667" latitude="-7.533333"/>
 <link parentId="268442355" contentLayerId="0" target="268442330" label="To: Lothlórien" longitude="-93.16667" latitude="-8.033333"/>
 <link parentId="268442355" contentLayerId="0" target="268442348" label="To: The Great Delving" longitude="-112.600006" latitude="-7.5999994"/>
-<link parentId="268442355" contentLayerId="0" target="268442340" longitude="-54.03334" latitude="-64.93333"/>
 <link parentId="268442355" contentLayerId="0" target="268442341" label="To: Foundations of Stone" longitude="-98.03334" latitude="-14.099999"/>
 <link parentId="268442355" contentLayerId="0" target="268437557" label="To: Eriador" longitude="-118.433334" latitude="-7.9333324"/>
 <link parentId="268442355" contentLayerId="0" target="268442350" label="To: Zirakzigil" longitude="-94.700005" latitude="-0.6999998"/>
@@ -585,7 +584,7 @@
 <link parentId="1879063932" contentLayerId="0" target="1879190616" label="To: The Greenhouse" longitude="-102.959694" latitude="-13.785976"/>
 <link parentId="1879063932" contentLayerId="268435481" target="1879051237" label="To: Rockbelly Pit" longitude="-102.52729" latitude="-15.848408"/>
 <link parentId="1879063932" contentLayerId="0" target="1879051237" label="To: Rockbelly Pit" longitude="-102.30006" latitude="-15.746044"/>
-<link parentId="1879338150" contentLayerId="0" target="0" longitude="8.599511" latitude="-47.9826"/>
+<link parentId="1879338150" contentLayerId="0" target="1879341328" label="To: Court of Celeborn" longitude="8.599511" latitude="-47.9826"/>
 <link parentId="1879063932" contentLayerId="0" target="1879051237" label="To: Rockbelly Pit" longitude="-101.56156" latitude="-15.860635"/>
 <link parentId="1879063932" contentLayerId="268435486" target="1879048404" label="To: Silver Deep" longitude="-101.63822" latitude="-14.250576"/>
 <link parentId="1879063932" contentLayerId="0" target="1879048404" label="To: Silver Deep" longitude="-101.63822" latitude="-14.250576"/>
@@ -1192,7 +1191,7 @@
 <link parentId="1879356163" contentLayerId="0" target="1879356164" label="To: Norbar" longitude="54.79992" latitude="-92.17121"/>
 <link parentId="1879356164" contentLayerId="2" target="1879101485" label="To: Norbar" longitude="57.151775" latitude="-93.79207"/>
 <link parentId="1879356164" contentLayerId="2" target="1879356163" label="To: Norbar" longitude="57.228554" latitude="-93.48492"/>
-<link parentId="1879356164" contentLayerId="2" target="0" longitude="57.151268" latitude="-93.17264"/>
+<link parentId="1879356164" contentLayerId="2" target="1879341328" label="To: Court of Celeborn" longitude="57.151268" latitude="-93.17264"/>
 <link parentId="1879063919" contentLayerId="0" target="1879101642" label="To: Den of the Northern Army" longitude="54.757538" latitude="-71.270645"/>
 <link parentId="1879063919" contentLayerId="0" target="1879101640" label="To: Goblin-town" longitude="56.554882" latitude="-71.31096"/>
 <link parentId="1879063919" contentLayerId="0" target="1879101644" label="To: Goblin-town Depths" longitude="54.266052" latitude="-70.26684"/>
@@ -1230,8 +1229,8 @@
 <link parentId="1879342010" contentLayerId="0" target="1879354366" label="To: Cirith Ungol" longitude="15.013886" latitude="32.743435"/>
 <link parentId="1879326884" contentLayerId="0" target="1879335463" label="To: City Stables of Minas Tirith" longitude="-16.88214" latitude="-65.53734"/>
 <link parentId="1879326884" contentLayerId="2" target="1879328474" label="To: Northern Lower Stores" longitude="-17.04917" latitude="-65.07467"/>
-<link parentId="1879338150" contentLayerId="0" target="0" longitude="16.108486" latitude="-44.014534"/>
-<link parentId="1879338150" contentLayerId="0" target="0" longitude="16.15709" latitude="-43.59968"/>
+<link parentId="1879338150" contentLayerId="0" target="1879356003" label="To: Lûghash, the Flaming Spire" longitude="16.108486" latitude="-44.014534"/>
+<link parentId="1879338150" contentLayerId="0" target="1879356003" label="To: Lûghash, the Flaming Spire" longitude="16.15709" latitude="-43.59968"/>
 <link parentId="1879326888" contentLayerId="268436142" target="1879328273" label="To: Cisterns of Minas Tirith" longitude="-17.163506" latitude="58.743767"/>
 <link parentId="1879326888" contentLayerId="268436140" target="1879328273" label="To: Cisterns of Minas Tirith" longitude="-17.163506" latitude="58.743767"/>
 <link parentId="1879375474" contentLayerId="0" target="1879369400" label="To: Agshar-mazal&#10;The Scholar's Abode" longitude="-137.24603" latitude="14.411191"/>
@@ -1239,7 +1238,7 @@
 <link parentId="1879375474" contentLayerId="0" target="1879369298" label="To: Ûdar-zahari&#10;The Wizard-home" longitude="-136.51031" latitude="13.989189"/>
 <link parentId="1879375474" contentLayerId="0" target="1879373956" label="To: Nori's Home" longitude="-137.09161" latitude="14.033828"/>
 <link parentId="1879375474" contentLayerId="0" target="1879405273" label="To: Nabgûn-mazaru" longitude="-136.28421" latitude="14.0283"/>
-<link parentId="1879362287" contentLayerId="0" target="0" longitude="-135.18793" latitude="14.725741"/>
+<link parentId="1879362287" contentLayerId="0" target="1879358081" label="To: Hall Under the Mountain" longitude="-135.18793" latitude="14.725741"/>
 <link parentId="1879326883" contentLayerId="0" target="1879327487" label="To: Hall of Crithost" longitude="-16.021465" latitude="-53.532784"/>
 <link parentId="1879063919" contentLayerId="0" target="1879102311" label="To: Standard House" longitude="-125.054955" latitude="-90.30598"/>
 <link parentId="1879063919" contentLayerId="0" target="1879102311" label="To: Standard House" longitude="-124.64912" latitude="-90.11875"/>
@@ -1426,7 +1425,7 @@
 <link parentId="1879231077" contentLayerId="0" target="1879250982" label="To: Mead Hall of Thornhope" longitude="-67.054344" latitude="-41.385254"/>
 <link parentId="1879257200" contentLayerId="0" target="1879265619" label="To: Dunfast Home" longitude="-66.85463" latitude="-37.763145"/>
 <link parentId="1879257200" contentLayerId="0" target="1879265627" label="To: Iothete's Home" longitude="-67.433075" latitude="-36.91586"/>
-<link parentId="1879112703" contentLayerId="0" target="0" longitude="-67.064995" latitude="-14.984111"/>
+<link parentId="1879112703" contentLayerId="0" target="1879341328" label="To: Court of Celeborn" longitude="-67.064995" latitude="-14.984111"/>
 <link parentId="1879231077" contentLayerId="0" target="1879238172" label="To: Byrgenstow" longitude="-66.476944" latitude="-44.70465"/>
 <link parentId="1879257200" contentLayerId="0" target="1879265617" label="To: Dunfast Home" longitude="-66.479004" latitude="-37.71957"/>
 <link parentId="1879257200" contentLayerId="2" target="1879265620" label="To: Dunfast Home" longitude="-66.42524" latitude="-37.85378"/>
@@ -1734,7 +1733,7 @@
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" longitude="11.779668" latitude="32.044052"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" longitude="12.265947" latitude="31.964102"/>
 <link parentId="1879255949" contentLayerId="0" target="1879257833" label="To: Gate-house of the Lonely Mountain" longitude="12.029804" latitude="57.505974"/>
-<link parentId="1879362287" contentLayerId="0" target="0" longitude="12.129238" latitude="71.8841"/>
+<link parentId="1879362287" contentLayerId="0" target="1879358081" label="To: Hall Under the Mountain" longitude="12.129238" latitude="71.8841"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" longitude="12.885459" latitude="31.059198"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" longitude="12.887841" latitude="31.060741"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" longitude="12.540088" latitude="32.122295"/>
@@ -1815,7 +1814,7 @@
 <link parentId="1879334675" contentLayerId="0" target="1879328879" label="To: Tower of Ecthelion" longitude="-19.255762" latitude="-65.60523"/>
 <link parentId="1879334675" contentLayerId="0" target="1879335465" label="To: Dome of the Sun" longitude="-18.83543" latitude="-65.238434"/>
 <link parentId="1879334675" contentLayerId="0" target="1879335462" label="To: High Stables of Minas Tirith" longitude="-18.844336" latitude="-65.35102"/>
-<link parentId="1879334675" contentLayerId="0" target="0" longitude="-19.221846" latitude="-65.56999"/>
+<link parentId="1879334675" contentLayerId="0" target="1879341325" label="To: Hall of the King" longitude="-19.221846" latitude="-65.56999"/>
 <link parentId="1879409232" contentLayerId="0" target="1879409237" label="To: Annâk-khurfu" longitude="49.03584" latitude="72.400055"/>
 <link parentId="1879409241" contentLayerId="0" target="1879409237" label="To: Annâk-khurfu" longitude="49.17037" latitude="73.96451"/>
 <link parentId="1879334675" contentLayerId="0" target="1879335471" label="To: The Haven" longitude="-18.08335" latitude="-66.73301"/>
@@ -1854,7 +1853,7 @@
 <link parentId="1879334685" contentLayerId="0" target="1879339256" label="To: Torngroth" longitude="-11.255908" latitude="-41.608593"/>
 <link parentId="1879366542" contentLayerId="0" target="1879366542" label="To: Dale Crafting Hall" longitude="51.558437" latitude="67.15092"/>
 <link parentId="1879366542" contentLayerId="0" target="1879366542" label="To: Dale Crafting Hall" longitude="51.55574" latitude="67.06076"/>
-<link parentId="1879364872" contentLayerId="0" target="0" longitude="51.599434" latitude="70.47649"/>
+<link parentId="1879364872" contentLayerId="0" target="1879358081" label="To: Hall Under the Mountain" longitude="51.599434" latitude="70.47649"/>
 <link parentId="1879334677" contentLayerId="0" target="1879339575" label="To: Osgiliath Culverts" longitude="-8.814707" latitude="-62.69042"/>
 <link parentId="1879334677" contentLayerId="2" target="1879339573" label="To: The Dome of Stars" longitude="-9.088047" latitude="-61.5263"/>
 <link parentId="1879255926" contentLayerId="0" target="268447745" label="To: Stangard" longitude="53.253963" latitude="-17.144062"/>
@@ -1874,11 +1873,13 @@
 <link parentId="1879368835" contentLayerId="0" target="1879368835" label="To: Járnfast" longitude="53.610565" latitude="48.77504"/>
 <link parentId="1879368835" contentLayerId="0" target="1879368835" label="To: Járnfast" longitude="53.634315" latitude="48.77504"/>
 <link parentId="1879240282" contentLayerId="0" target="1879240282" label="To: Iserngraf" longitude="52.935173" latitude="61.19334"/>
-<link parentId="1879341997" contentLayerId="0" target="0" longitude="-2.628281" latitude="-38.844696"/>
+<link parentId="1879341997" contentLayerId="0" target="1879358081" label="To: Hall Under the Mountain" longitude="-2.628281" latitude="-38.844696"/>
+<link parentId="1879341997" contentLayerId="0" target="1879341328" label="To: Court of Celeborn" longitude="-2.641543" latitude="-38.83824"/>
+<link parentId="1879341997" contentLayerId="0" target="1879341325" label="To: Hall of the King" longitude="-2.6146092" latitude="-38.840176"/>
 <link parentId="1879152321" contentLayerId="0" target="1879152319" label="To: Dâr Narbugud" longitude="53.117283" latitude="69.34383"/>
 <link parentId="1879159718" contentLayerId="0" target="1879152319" label="To: Dâr Narbugud" longitude="53.03195" latitude="70.8969"/>
 <link parentId="1879152320" contentLayerId="0" target="1879152319" label="To: Dâr Narbugud" longitude="53.27039" latitude="72.59113"/>
-<link parentId="1879341997" contentLayerId="0" target="0" longitude="-2.655957" latitude="-38.83654"/>
+<link parentId="1879341997" contentLayerId="0" target="1879341322" label="To: Tham Periain" longitude="-2.655957" latitude="-38.83654"/>
 <link parentId="1879152319" contentLayerId="0" target="1879152320" label="To: Dâr Narbugud" longitude="53.282402" latitude="74.18115"/>
 <link parentId="1879152319" contentLayerId="0" target="1879152321" label="To: Dâr Narbugud" longitude="53.132656" latitude="74.08734"/>
 <link parentId="1879152319" contentLayerId="0" target="1879159718" label="To: Dâr Narbugud" longitude="53.012695" latitude="74.12267"/>

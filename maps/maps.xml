@@ -1105,7 +1105,7 @@
 <min longitude="-134.0" latitude="-105.711105"/>
 <max longitude="-111.244446" latitude="-88.64444"/>
 </map>
-<map id="268453399" name="Torech_Ungol">
+<map id="268453399" name="Torech Ungol">
 <geo factor="120.00001">
 <point longitude="9.025" latitude="35.975"/>
 </geo>
@@ -7762,7 +7762,7 @@
 <min longitude="47.92334" latitude="78.40166"/>
 <max longitude="49.25667" latitude="79.40166"/>
 </map>
-<map id="1879400658" name="Kingsmead Meadows Market">
+<map id="1879400658" name="Kingstead Meadows Market">
 <geo factor="600.0">
 <point longitude="-71.799995" latitude="-56.735"/>
 </geo>
@@ -8244,5 +8244,26 @@
 </geo>
 <min longitude="-66.71667" latitude="37.524998"/>
 <max longitude="-65.38333" latitude="38.524998"/>
+</map>
+<map id="1879413346" name="TBD - Wildwood Mines">
+<geo factor="600.00006">
+<point longitude="51.768337" latitude="-13.849999"/>
+</geo>
+<min longitude="51.768337" latitude="-15.849999"/>
+<max longitude="54.435005" latitude="-13.849999"/>
+</map>
+<map id="1879413347" name="TBD - Wildwood Mines">
+<geo factor="600.00006">
+<point longitude="51.91666" latitude="-13.849999"/>
+</geo>
+<min longitude="51.91666" latitude="-15.849999"/>
+<max longitude="54.58333" latitude="-13.849999"/>
+</map>
+<map id="1879413348" name="TBD - Wildwood Tomb">
+<geo factor="600.00006">
+<point longitude="51.605" latitude="-13.849999"/>
+</geo>
+<min longitude="51.605" latitude="-15.849999"/>
+<max longitude="54.271667" latitude="-13.849999"/>
 </map>
 </maps>

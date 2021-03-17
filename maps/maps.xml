@@ -14,11 +14,11 @@
 <max longitude="1024.0" latitude="0.0"/>
 </map>
 <map id="268437576" name="Ered Luin" imageId="1090552108">
-<geo factor="38.75">
-<point longitude="-112.96774" latitude="-12.580645"/>
+<geo factor="45.625">
+<point longitude="-110.010956" latitude="-12.389043"/>
 </geo>
-<min longitude="-112.96774" latitude="-32.4"/>
-<max longitude="-86.54194" latitude="-12.580645"/>
+<min longitude="-110.010956" latitude="-29.22192"/>
+<max longitude="-87.56712" latitude="-12.389043"/>
 </map>
 <map id="268437592" name="Trollshaws" imageId="1090552110">
 <geo factor="37.5">
@@ -49,18 +49,18 @@
 <max longitude="-32.151722" latitude="-1.3103417"/>
 </map>
 <map id="268437653" name="Bree-land" imageId="1090552118">
-<geo factor="36.25">
-<point longitude="-65.586205" latitude="-17.72414"/>
+<geo factor="33.125">
+<point longitude="-67.23773" latitude="-14.845283"/>
 </geo>
-<min longitude="-65.586205" latitude="-38.910347"/>
-<max longitude="-37.33793" latitude="-17.72414"/>
+<min longitude="-67.23773" latitude="-38.03019"/>
+<max longitude="-36.324524" latitude="-14.845283"/>
 </map>
 <map id="268437678" name="The Shire" imageId="1090552119">
-<geo factor="48.35">
-<point longitude="-80.909615" latitude="-22.91582"/>
+<geo factor="53.750004">
+<point longitude="-80.288376" latitude="-23.730234"/>
 </geo>
-<min longitude="-80.909615" latitude="-38.799995"/>
-<max longitude="-59.730713" latitude="-22.91582"/>
+<min longitude="-80.288376" latitude="-38.018604"/>
+<max longitude="-61.237213" latitude="-23.730234"/>
 </map>
 <map id="268437691" name="Misty Mountains" imageId="1090552111">
 <geo factor="41.25">
@@ -134,10 +134,10 @@
 </map>
 <map id="268440613" name="Thorin's Hall Homesteads" imageId="1091410518">
 <geo factor="192.0">
-<point longitude="-109.92917" latitude="-13.24167"/>
+<point longitude="-109.77292" latitude="-13.24167"/>
 </geo>
-<min longitude="-109.92917" latitude="-17.241669"/>
-<max longitude="-104.59583" latitude="-13.24167"/>
+<min longitude="-109.77292" latitude="-17.241669"/>
+<max longitude="-104.43958" latitude="-13.24167"/>
 </map>
 <map id="268441431" name="Forochel" imageId="1091452742">
 <geo factor="25.05">
@@ -1160,6 +1160,13 @@
 </geo>
 <min longitude="-29.199999" latitude="-101.99999"/>
 <max longitude="-9.219511" latitude="-87.014626"/>
+</map>
+<map id="268453543" name="The Wildwood of Bree-land" imageId="1092667336">
+<geo factor="65.0">
+<point longitude="-68.07692" latitude="-14.046152"/>
+</geo>
+<min longitude="-68.07692" latitude="-25.861538"/>
+<max longitude="-52.323074" latitude="-14.046152"/>
 </map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
@@ -8245,25 +8252,74 @@
 <min longitude="-66.71667" latitude="37.524998"/>
 <max longitude="-65.38333" latitude="38.524998"/>
 </map>
-<map id="1879413346" name="TBD - Wildwood Mines" imageId="1092621380">
+<map id="1879413346" name="Writhenset" imageId="1092621380">
 <geo factor="600.00006">
 <point longitude="51.768337" latitude="-13.849999"/>
 </geo>
 <min longitude="51.768337" latitude="-15.849999"/>
 <max longitude="54.435005" latitude="-13.849999"/>
 </map>
-<map id="1879413347" name="TBD - Wildwood Mines" imageId="1092621381">
+<map id="1879413347" name="Writhenset" imageId="1092621381">
 <geo factor="600.00006">
 <point longitude="51.91666" latitude="-13.849999"/>
 </geo>
 <min longitude="51.91666" latitude="-15.849999"/>
 <max longitude="54.58333" latitude="-13.849999"/>
 </map>
-<map id="1879413348" name="TBD - Wildwood Tomb" imageId="1092621379">
+<map id="1879413348" name="Haudh Eglan" imageId="1092621379">
 <geo factor="600.00006">
 <point longitude="51.605" latitude="-13.849999"/>
 </geo>
 <min longitude="51.605" latitude="-15.849999"/>
 <max longitude="54.271667" latitude="-13.849999"/>
+</map>
+<map id="1879415453" name="Deluxe Premium House" imageId="1092640809">
+<geo factor="600.0">
+<point longitude="-137.23999" latitude="-106.27167"/>
+</geo>
+<min longitude="-137.23999" latitude="-107.27167"/>
+<max longitude="-135.90666" latitude="-106.27167"/>
+</map>
+<map id="1879415559" name="TBD - PRISTINE STEEPSET" imageId="1092642008">
+<geo factor="300.0">
+<point longitude="46.15334" latitude="72.5"/>
+</geo>
+<min longitude="46.15334" latitude="66.5"/>
+<max longitude="54.15334" latitude="72.5"/>
+</map>
+<map id="1879416136" name="Akrâz-zahar" imageId="1092665033">
+<geo factor="600.0">
+<point longitude="48.49334" latitude="66.619995"/>
+</geo>
+<min longitude="48.49334" latitude="65.619995"/>
+<max longitude="49.82667" latitude="66.619995"/>
+</map>
+<map id="1879416137" name="Vosh Torú" imageId="1092665044">
+<geo factor="600.0">
+<point longitude="48.54166" latitude="64.89666"/>
+</geo>
+<min longitude="48.54166" latitude="63.89666"/>
+<max longitude="49.874992" latitude="64.89666"/>
+</map>
+<map id="1879416211" name="Grop Karkas, the Depths of Atrad-zarakh" imageId="1092665498">
+<geo factor="300.0">
+<point longitude="-148.78667" latitude="80.84"/>
+</geo>
+<min longitude="-148.78667" latitude="76.84"/>
+<max longitude="-143.45334" latitude="80.84"/>
+</map>
+<map id="1879416241" name="Zagâf Muzug" imageId="1092665635">
+<geo factor="600.0">
+<point longitude="-146.71666" latitude="77.35"/>
+</geo>
+<min longitude="-146.71666" latitude="76.35"/>
+<max longitude="-145.38333" latitude="77.35"/>
+</map>
+<map id="1879416843" name="TBD - WARG DEN" imageId="1092667028">
+<geo factor="600.0">
+<point longitude="49.33334" latitude="63.149998"/>
+</geo>
+<min longitude="49.33334" latitude="62.149998"/>
+<max longitude="50.66667" latitude="63.149998"/>
 </map>
 </maps>

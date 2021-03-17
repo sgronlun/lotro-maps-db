@@ -441,8 +441,8 @@
 <marker id="535293984" label="Gandalf" category="70" did="1879048665" parentZoneId="1879112076" longitude="50.826073" latitude="66.79217"/>
 <marker id="535293986" label="Maps" category="73" did="1879343180" parentZoneId="1879112076" longitude="50.831657" latitude="66.80797"/>
 <marker id="535293987" label="Maps" category="73" did="1879343180" parentZoneId="1879112076" longitude="50.83162" latitude="66.81039"/>
-<marker id="535293988" label="Bilbo's things" category="73" did="1879343185" parentZoneId="1879112076" longitude="50.782265" latitude="66.80013"/>
-<marker id="535293989" label="Bilbo's things" category="73" did="1879343185" parentZoneId="1879112076" longitude="50.784744" latitude="66.80013"/>
+<marker id="535293988" label="Bilbo's Things" category="73" did="1879343185" parentZoneId="1879112076" longitude="50.782265" latitude="66.80013"/>
+<marker id="535293989" label="Bilbo's Things" category="73" did="1879343185" parentZoneId="1879112076" longitude="50.784744" latitude="66.80013"/>
 <marker id="535293990" label="Frodo Baggins" category="70" did="1879062508" parentZoneId="1879112076" longitude="50.81744" latitude="66.78974"/>
 <marker id="535355392" label="Dread Aura Tier 2" category="75" did="1879079623" parentZoneId="1879112645" longitude="51.299335" latitude="66.29256"/>
 <marker id="535355393" label="Door" category="100" did="1879063859" parentZoneId="1879112645" longitude="51.387966" latitude="66.05166"/>
@@ -1440,15 +1440,22 @@
 <marker id="535417378" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879092135" longitude="50.569336" latitude="65.686386"/>
 <marker id="535417379" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879092135" longitude="50.569336" latitude="65.686386"/>
 <marker id="535417380" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879092135" longitude="50.569336" latitude="65.686386"/>
-<marker id="535437312" label="Naruhel" category="70" did="1879172568" parentZoneId="1879399990" longitude="53.17359" latitude="56.025917"/>
 <marker id="535437313" label="Créoth Disciple" category="71" did="1879413345" parentZoneId="1879399990" longitude="53.110878" latitude="56.05119"/>
 <marker id="535437314" label="Créoth Disciple" category="71" did="1879413345" parentZoneId="1879399990" longitude="53.08951" latitude="56.09422"/>
 <marker id="535437315" label="Créoth Disciple" category="71" did="1879413345" parentZoneId="1879399990" longitude="53.093357" latitude="56.144608"/>
 <marker id="535437316" label="Créoth Disciple" category="71" did="1879413345" parentZoneId="1879399990" longitude="53.267654" latitude="56.1833"/>
 <marker id="535437317" label="Créoth Disciple" category="71" did="1879413345" parentZoneId="1879399990" longitude="53.28287" latitude="56.133495"/>
 <marker id="535437318" label="Créoth Disciple" category="71" did="1879413345" parentZoneId="1879399990" longitude="53.282597" latitude="56.082615"/>
-<marker id="535437319" label="Door" category="100" did="1879063849" parentZoneId="1879399990" longitude="53.187946" latitude="56.32707"/>
-<marker id="535437320" label="Naruhel" category="71" did="1879413342" parentZoneId="1879399990" longitude="53.178318" latitude="56.04664"/>
+<marker id="535437319" label="Unstable Greater Ritual Bloodwater" category="71" did="1879414101" parentZoneId="1879399990" longitude="53.182674" latitude="56.222263"/>
+<marker id="535437320" label="Ritual Bloodwater" category="71" did="1879414102" parentZoneId="1879399990" longitude="53.207596" latitude="56.22416"/>
+<marker id="535437321" label="Naruhel's Silver Chest" category="72" did="1879415423" parentZoneId="1879399990" longitude="53.16084" latitude="56.04027"/>
+<marker id="535437322" label="Naruhel's Mithril Chest" category="72" did="1879415422" parentZoneId="1879399990" longitude="53.181717" latitude="56.030937"/>
+<marker id="535437323" label="Control Point" category="73" did="1879152429" parentZoneId="1879399990" longitude="53.177166" latitude="56.066406"/>
+<marker id="535437325" label="Unstable Greater Ritual Bloodwater" category="71" did="1879415204" parentZoneId="1879399990" longitude="53.1984" latitude="56.218925"/>
+<marker id="535437326" label="Door" category="100" did="1879063849" parentZoneId="1879399990" longitude="53.187946" latitude="56.32707"/>
+<marker id="535437327" label="Naruhel" category="71" did="1879413342" parentZoneId="1879399990" longitude="53.178318" latitude="56.04664"/>
+<marker id="535437328" label="Naruhel's Golden Chest" category="72" did="1879415424" parentZoneId="1879399990" longitude="53.171524" latitude="56.032616"/>
+<marker id="535437330" label="Naruhel" category="70" did="1879172568" parentZoneId="1879399990" longitude="53.17359" latitude="56.025917"/>
 <marker id="535461890" label="Warm Camp Fire" category="75" did="1879108044" parentZoneId="1879107610" longitude="53.18949" latitude="61.240524"/>
 <marker id="535461893" label="Saija" category="70" did="1879106425" parentZoneId="1879107610" longitude="53.175976" latitude="61.21793"/>
 <marker id="535478272" label="Dourhand Blaster" category="71" did="1879093777" parentZoneId="1879092133" longitude="53.293358" latitude="65.06996"/>

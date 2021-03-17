@@ -319,7 +319,6 @@
 <marker id="530022654" label="Theodore Gorse" category="70" did="1879401393" parentZoneId="1879204453" longitude="50.628044" latitude="-2.7768066"/>
 <marker id="530030593" label="Sarumango&#10;86-130 Level-up" category="31" did="1879301830" parentZoneId="1879140598" longitude="50.77779" latitude="-1.210244"/>
 <marker id="530030594" label="Pinion&#10;51-85 Level-up" category="31" did="1879301831" parentZoneId="1879140598" longitude="50.775173" latitude="-1.2002734"/>
-<marker id="530030600" label="Budgeford&#10;Legendary Item Store" category="38" did="1879228091" parentZoneId="1879140598" longitude="50.681717" latitude="-1.1638573"/>
 <marker id="530030601" label="Iceman&#10;Map-maker" category="38" did="1879302151" parentZoneId="1879140598" longitude="50.766308" latitude="-1.2489746"/>
 <marker id="530030604" label="Edgecase&#10;Minas Morgul Gear" category="38" did="1879302146" parentZoneId="1879140598" longitude="50.674236" latitude="-1.1854784"/>
 <marker id="530030605" label="Vastin&#10;Mordor Test Gear Vendor" category="38" did="1879302145" parentZoneId="1879140598" longitude="50.769394" latitude="-1.154121"/>
@@ -390,29 +389,31 @@
 <marker id="530030707" label="Test Durin" category="48" did="1879409144" parentZoneId="1879140598" longitude="50.84537" latitude="-1.1335645"/>
 <marker id="530030708" label="Suspicious Bookcase" category="73" did="1879205953" parentZoneId="1879140598" longitude="50.892635" latitude="-1.1336719"/>
 <marker id="530030709" label="Fantus" category="70" did="1879097488" parentZoneId="1879140598" longitude="50.677265" latitude="-1.1570507"/>
-<marker id="530030711" label="Door" category="100" did="1879063326" parentZoneId="1879140598" longitude="50.87283" latitude="-1.161914"/>
-<marker id="530030713" label="Snowlight" category="70" did="1879097168" parentZoneId="1879140598" longitude="50.733593" latitude="-1.2523925"/>
-<marker id="530030714" label="Orion" category="70" did="1879097167" parentZoneId="1879140598" longitude="50.862812" latitude="-1.127246"/>
-<marker id="530030716" label="Crafting Hall" category="48" did="1879215453" parentZoneId="1879140598" longitude="50.743847" latitude="-1.2997851"/>
-<marker id="530030718" label="Rock" category="70" did="1879228101" parentZoneId="1879140598" longitude="50.792168" latitude="-1.1288086"/>
-<marker id="530030720" label="Wilcomb&#10;Outfit Provider" category="38" did="1879149363" parentZoneId="1879140598" longitude="50.777813" latitude="-1.1799804"/>
-<marker id="530030721" label="DocOctoport" category="48" did="1879365622" parentZoneId="1879140598" longitude="50.841717" latitude="-1.12625"/>
-<marker id="530030722" label="Harmonixer" category="70" did="1879334538" parentZoneId="1879140598" longitude="50.65379" latitude="-1.1815039"/>
-<marker id="530030723" label="Moose&#10;Dwarf-holds Instance Gear" category="58" did="1879361892" parentZoneId="1879140598" longitude="50.703045" latitude="-1.2492969"/>
-<marker id="530030724" label="Dust&#10;Ash" category="38" did="1879361893" parentZoneId="1879140598" longitude="50.751854" latitude="-1.309082"/>
-<marker id="530030725" label="Seleflad&#10;Rohan Eastfold Housing Broker" category="38" did="1879399991" parentZoneId="1879140598" longitude="50.846874" latitude="-1.1683594"/>
-<marker id="530030726" label="Burginda&#10;Rohan Kingstead Housing Broker" category="38" did="1879399992" parentZoneId="1879140598" longitude="50.847324" latitude="-1.1554687"/>
-<marker id="530030727" label="Gusone" category="70" did="1879302125" parentZoneId="1879140598" longitude="50.83824" latitude="-1.3021191"/>
+<marker id="530030712" label="Door" category="100" did="1879063326" parentZoneId="1879140598" longitude="50.87283" latitude="-1.161914"/>
+<marker id="530030714" label="Snowlight" category="70" did="1879097168" parentZoneId="1879140598" longitude="50.733593" latitude="-1.2523925"/>
+<marker id="530030715" label="Orion" category="70" did="1879097167" parentZoneId="1879140598" longitude="50.862812" latitude="-1.127246"/>
+<marker id="530030717" label="Crafting Hall" category="48" did="1879215453" parentZoneId="1879140598" longitude="50.743847" latitude="-1.2997851"/>
+<marker id="530030719" label="Rock" category="70" did="1879228101" parentZoneId="1879140598" longitude="50.792168" latitude="-1.1288086"/>
+<marker id="530030720" label="Budgeford&#10;Legendary Item Store" category="38" did="1879228091" parentZoneId="1879140598" longitude="50.681717" latitude="-1.1638573"/>
+<marker id="530030721" label="Wilcomb&#10;Outfit Provider" category="38" did="1879149363" parentZoneId="1879140598" longitude="50.777813" latitude="-1.1799804"/>
+<marker id="530030722" label="DocOctoport" category="48" did="1879365622" parentZoneId="1879140598" longitude="50.841717" latitude="-1.12625"/>
+<marker id="530030723" label="Harmonixer" category="70" did="1879334538" parentZoneId="1879140598" longitude="50.65379" latitude="-1.1815039"/>
+<marker id="530030724" label="Moose&#10;Dwarf-holds Instance Gear" category="58" did="1879361892" parentZoneId="1879140598" longitude="50.703045" latitude="-1.2492969"/>
+<marker id="530030725" label="Dust&#10;Ash" category="38" did="1879361893" parentZoneId="1879140598" longitude="50.751854" latitude="-1.309082"/>
+<marker id="530030726" label="Seleflad&#10;Rohan Eastfold Housing Broker" category="38" did="1879399991" parentZoneId="1879140598" longitude="50.846874" latitude="-1.1683594"/>
+<marker id="530030727" label="Burginda&#10;Rohan Kingstead Housing Broker" category="38" did="1879399992" parentZoneId="1879140598" longitude="50.847324" latitude="-1.1554687"/>
+<marker id="530030728" label="Gusone" category="70" did="1879302125" parentZoneId="1879140598" longitude="50.83824" latitude="-1.3021191"/>
 <marker id="530030738" label="Tens" category="70" did="1879094090" parentZoneId="1879140598" longitude="50.871895" latitude="-1.134668"/>
-<marker id="530030750" label="Trennor" category="70" did="1879302136" parentZoneId="1879140598" longitude="50.815956" latitude="-1.1435742"/>
-<marker id="530030753" label="Temerity" category="70" did="1879301988" parentZoneId="1879140598" longitude="50.70545" latitude="-1.1382715"/>
+<marker id="530030752" label="Trennor" category="70" did="1879302136" parentZoneId="1879140598" longitude="50.815956" latitude="-1.1435742"/>
+<marker id="530030755" label="Temerity" category="70" did="1879301988" parentZoneId="1879140598" longitude="50.70545" latitude="-1.1382715"/>
 <marker id="530030768" label="Stumpy" category="70" did="1879159640" parentZoneId="1879140598" longitude="50.886562" latitude="-1.1096777"/>
-<marker id="530030772" label="Mithlin" category="70" did="1879200094" parentZoneId="1879140598" longitude="50.870525" latitude="-1.1226367"/>
-<marker id="530030776" label="Kehleyr" category="70" did="1879301836" parentZoneId="1879140598" longitude="50.764236" latitude="-1.1473827"/>
-<marker id="530030781" label="Istien" category="70" did="1879302159" parentZoneId="1879140598" longitude="50.877556" latitude="-1.1331543"/>
-<marker id="530030788" label="Cat" category="70" did="1879077023" parentZoneId="1879140598" longitude="50.821953" latitude="-1.1234473"/>
-<marker id="530030791" label="Lansu" category="70" did="1879357993" parentZoneId="1879140598" longitude="50.65197" latitude="-1.2142383"/>
-<marker id="530030794" label="MadeOfLions" category="70" did="1879366674" parentZoneId="1879140598" longitude="50.880936" latitude="-1.1172656"/>
+<marker id="530030773" label="Mithlin" category="70" did="1879200094" parentZoneId="1879140598" longitude="50.870525" latitude="-1.1226367"/>
+<marker id="530030777" label="Kehleyr" category="70" did="1879301836" parentZoneId="1879140598" longitude="50.764236" latitude="-1.1473827"/>
+<marker id="530030782" label="Istien" category="70" did="1879302159" parentZoneId="1879140598" longitude="50.877556" latitude="-1.1331543"/>
+<marker id="530030789" label="Cat" category="70" did="1879077023" parentZoneId="1879140598" longitude="50.821953" latitude="-1.1234473"/>
+<marker id="530030792" label="Lansu" category="70" did="1879357993" parentZoneId="1879140598" longitude="50.65197" latitude="-1.2142383"/>
+<marker id="530030795" label="MadeOfLions" category="70" did="1879366674" parentZoneId="1879140598" longitude="50.880936" latitude="-1.1172656"/>
+<marker id="530030804" label="Berthadan" category="70" did="1879414609" parentZoneId="1879140598" longitude="50.68049" latitude="-1.2459863"/>
 <marker id="530063364" label="Hunter Trainer" category="42" did="1879206653" parentZoneId="1879063919" longitude="52.11496" latitude="-7.756689"/>
 <marker id="530063365" label="Guardian Trainer" category="42" did="1879206655" parentZoneId="1879063919" longitude="52.295254" latitude="-7.7238574"/>
 <marker id="530063369" label="Rune-keeper Trainer" category="42" did="1879206664" parentZoneId="1879063919" longitude="52.276638" latitude="-7.6714745"/>

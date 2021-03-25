@@ -87,7 +87,7 @@
 <link parentId="268445087" contentLayerId="0" target="268437653" label="To: Bree-land" from="-54.565098/-30.379248"/>
 <link parentId="268445092" contentLayerId="0" target="268445087" label="To: Northern Barrow-downs" from="-54.269318/-32.932957"/>
 <link parentId="268453543" contentLayerId="0" target="268439511" label="To: Evendim" from="-62.692303/-18.969229"/>
-<link parentId="268453543" contentLayerId="0" target="268445087" label="To: Northern Barrow-downs" from="-53.769226/-15.461536"/>
+<link parentId="268453543" contentLayerId="0" target="268437634" label="To: North Downs" from="-53.75384/-15.430767"/>
 <link parentId="268453543" contentLayerId="0" target="268437653" label="To: Bree-land" from="-54.230766/-23.338459"/>
 <link parentId="268453543" contentLayerId="0" target="268437678" label="To: The Shire" from="-65.04615/-24.076921"/>
 <link parentId="268440603" contentLayerId="0" target="268437653" label="To: Bree-land" from="-45.968197/-34.699654"/>
@@ -537,6 +537,9 @@
 <link parentId="1879342004" contentLayerId="0" target="1879354367" label="To: Tower of Cirith Ungol" from="7.2266016/-60.34941" to="54.854782/70.8122" type="TO_DUNGEON"/>
 <link parentId="1879342004" contentLayerId="268436229" target="1879354367" label="To: Tower of Cirith Ungol" from="7.2266016/-60.34941" to="54.854782/70.8122" type="TO_DUNGEON"/>
 <link parentId="1879342004" contentLayerId="268436231" target="1879354367" label="To: Tower of Cirith Ungol" from="7.2266016/-60.34941" to="54.854782/70.8122" type="TO_DUNGEON"/>
+<link parentId="1879415444" contentLayerId="0" target="1879415453" label="To: Deluxe Premium House" from="-136.03056/-106.44779" to="-136.55959/-106.79988" type="TO_DUNGEON"/>
+<link parentId="1879415444" contentLayerId="0" target="1879415453" label="To: Deluxe Premium House" from="-135.98871/-106.34633" to="-136.47456/-106.68675" type="TO_DUNGEON"/>
+<link parentId="1879415444" contentLayerId="0" target="1879415453" label="To: Deluxe Premium House" from="-135.92915/-106.47368" to="-136.3877/-106.851074" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879051250" label="To: Weapons and Armour Shop" from="-134.21422/65.42234" to="53.278145/-50.816788" type="TO_DUNGEON"/>
 <link parentId="1879064015" contentLayerId="0" target="1879085887" label="To: The Lowbanks' Estate" from="-133.77605/64.201775" to="53.999725/-49.323563" type="TO_DUNGEON"/>
 <link parentId="1879064015" contentLayerId="0" target="1879232820" label="To: Artie Root's House" from="-133.43594/64.23275" to="-134.0371/63.57916" type="TO_DUNGEON"/>
@@ -1243,9 +1246,15 @@
 <link parentId="1879048687" contentLayerId="268435733" target="1879048640" label="To: The Last Homely House" from="55.316483/73.23563" to="53.696835/71.73494" type="TO_DUNGEON"/>
 <link parentId="1879048707" contentLayerId="268435516" target="1879048648" label="To: The Comb and Wattle Inn" from="55.89197/76.98763" to="54.25258/77.34856" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="0" target="1879328876" label="To: City Stables of Minas Tirith" from="-16.97203/-65.59973" to="54.84404/36.299248" type="TO_DUNGEON"/>
+<link parentId="1879413511" contentLayerId="0" target="1879416241" label="To: Zagâf Muzug" from="-135.97652/65.07043" to="-146.00443/77.16006" type="TO_DUNGEON"/>
+<link parentId="1879413511" contentLayerId="0" target="1879416136" label="To: Akrâz-zahar" from="-135.23/62.517635" to="49.1599/66.20052" type="TO_DUNGEON"/>
 <link parentId="1879400521" contentLayerId="0" target="1879405264" label="To: Scraper's Clough" from="-134.2631/14.122695" to="51.134842/32.641308" type="TO_DUNGEON"/>
 <link parentId="1879400521" contentLayerId="0" target="1879405264" label="To: Scraper's Clough" from="-134.32925/14.296269" to="51.215332/32.635654" type="TO_DUNGEON"/>
 <link parentId="1879400521" contentLayerId="0" target="1879405264" label="To: Scraper's Clough" from="-134.2719/14.445605" to="51.433086/32.63702" type="TO_DUNGEON"/>
+<link parentId="1879413511" contentLayerId="0" target="1879416211" label="To: Grop Karkas, the Depths of Atrad-zarakh" from="-134.76595/69.152794" to="-146.19826/78.32715" type="TO_DUNGEON"/>
+<link parentId="1879413511" contentLayerId="0" target="1879154048" label="To: Auction Hall" from="-125.32541/63.50752" to="51.558826/-101.15489" type="TO_DUNGEON"/>
+<link parentId="1879413511" contentLayerId="0" target="1879154049" label="To: Vault" from="-125.44078/63.57189" to="54.86037/-101.221016" type="TO_DUNGEON"/>
+<link parentId="1879413511" contentLayerId="0" target="1879154050" label="To: Crafting Hall" from="-125.29876/63.71035" to="53.331306/-101.20812" type="TO_DUNGEON"/>
 <link parentId="1879342010" contentLayerId="0" target="1879354366" label="To: Cirith Ungol" from="15.013886/32.743435" to="54.096386/74.00144" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="0" target="1879335463" label="To: City Stables of Minas Tirith" from="-16.88214/-65.53734" to="54.59775/36.315205" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="2" target="1879328474" label="To: Northern Lower Stores" from="-17.04917/-65.07467" to="53.50332/52.450096" type="TO_DUNGEON"/>

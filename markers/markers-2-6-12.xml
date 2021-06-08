@@ -334,6 +334,7 @@
 <marker id="650223916" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-68.575134" latitude="37.449608"/>
 <marker id="650223917" label="Gundabad Warrior" category="71" did="1879408102" parentZoneId="1879400512" longitude="-68.575134" latitude="37.449608"/>
 <marker id="650227712" label="Gates of Gundabad" category="41" did="1879407925" parentZoneId="1879400512" longitude="-68.43255" latitude="38.071465"/>
+<marker id="650227714" label="Gundabad, the Mountain-home" category="48" did="1879419446" parentZoneId="1879400512" longitude="-68.49006" latitude="38.108135"/>
 <marker id="650280962" label="Iron Crown Priestess" category="71" did="1879408060" parentZoneId="1879400512" longitude="-68.14234" latitude="36.10336"/>
 <marker id="650280963" label="Iron Crown Priestess" category="71" did="1879408060" parentZoneId="1879400512" longitude="-67.977745" latitude="36.173035"/>
 <marker id="650280964" label="Iron Crown Priestess" category="71" did="1879408060" parentZoneId="1879400512" longitude="-68.13033" latitude="36.26666"/>
@@ -720,165 +721,208 @@
 <marker id="650289211" label="Roaring Inferno" category="75" did="1879104049" parentZoneId="1879400512" longitude="-67.9662" latitude="37.743946"/>
 <marker id="650289212" label="Roaring Inferno" category="75" did="1879104049" parentZoneId="1879400512" longitude="-67.93866" latitude="37.81481"/>
 <marker id="650289213" label="Durin" category="70" did="1879411276" parentZoneId="1879400512" longitude="-67.68722" latitude="37.659893"/>
-<marker id="650289214" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.81698" latitude="37.614033"/>
-<marker id="650289215" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.86931" latitude="37.78954"/>
-<marker id="650289216" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.74524" latitude="37.69835"/>
-<marker id="650289217" label="Mission Reward" category="72" did="1879414902" parentZoneId="1879400512" longitude="-67.677376" latitude="37.848816"/>
-<marker id="650289218" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.73565" latitude="37.711884"/>
-<marker id="650289219" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.91082" latitude="37.726944"/>
-<marker id="650289220" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.98702" latitude="37.66574"/>
-<marker id="650289221" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.616745" latitude="37.886776"/>
-<marker id="650289222" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.74384" latitude="37.830925"/>
-<marker id="650289223" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.68532" latitude="37.76647"/>
-<marker id="650289225" label="Fierce Cold-drake" category="71" did="1879415892" parentZoneId="1879400512" longitude="-67.9118" latitude="37.66673"/>
-<marker id="650289226" label="Fierce Cold-drake" category="71" did="1879415892" parentZoneId="1879400512" longitude="-67.67581" latitude="37.67078"/>
-<marker id="650289227" label="Fierce Cold-drake" category="71" did="1879415892" parentZoneId="1879400512" longitude="-67.76348" latitude="37.5499"/>
-<marker id="650289228" label="Fierce Cold-drake" category="71" did="1879415892" parentZoneId="1879400512" longitude="-67.82661" latitude="37.875282"/>
-<marker id="650289229" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.80072" latitude="37.61819"/>
-<marker id="650289230" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.6791" latitude="37.636925"/>
-<marker id="650289231" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.92008" latitude="37.61949"/>
-<marker id="650289232" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.63348" latitude="37.935574"/>
-<marker id="650289233" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.637596" latitude="37.725574"/>
-<marker id="650289234" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.79342" latitude="37.696064"/>
-<marker id="650289235" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.77221" latitude="37.72834"/>
-<marker id="650289236" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.87669" latitude="37.77829"/>
-<marker id="650289237" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.752625" latitude="37.6871"/>
-<marker id="650289238" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.92839" latitude="37.74408"/>
-<marker id="650289239" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.901184" latitude="37.784275"/>
-<marker id="650289240" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.99072" latitude="37.691425"/>
-<marker id="650289241" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.86161" latitude="37.87416"/>
-<marker id="650289242" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.87253" latitude="37.832645"/>
-<marker id="650289243" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.96502" latitude="37.708965"/>
-<marker id="650289244" label="Longbeard Scout" category="70" did="1879414858" parentZoneId="1879400512" longitude="-67.669975" latitude="37.84498"/>
-<marker id="650289273" label="Hanksar-mokh" category="74" did="1879407917" parentZoneId="1879400512" longitude="-68.24743" latitude="37.770115"/>
-<marker id="650289274" label="Hanksar-mokh" category="74" did="1879407917" parentZoneId="1879400512" longitude="-68.02348" latitude="37.497616"/>
-<marker id="650289275" label="Hanksar-mokh" category="74" did="1879407917" parentZoneId="1879400512" longitude="-67.8334" latitude="37.4367"/>
-<marker id="650289318" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.759224" latitude="37.567432"/>
-<marker id="650289319" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.759224" latitude="37.567432"/>
-<marker id="650289320" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.759224" latitude="37.567432"/>
-<marker id="650289321" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.961555" latitude="37.683914"/>
-<marker id="650289322" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.961555" latitude="37.683914"/>
-<marker id="650289323" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.961555" latitude="37.683914"/>
-<marker id="650289324" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.654175" latitude="37.766727"/>
-<marker id="650289325" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.654175" latitude="37.766727"/>
-<marker id="650289326" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.654175" latitude="37.766727"/>
-<marker id="650289327" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.7699" latitude="37.639843"/>
-<marker id="650289328" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.7699" latitude="37.639843"/>
-<marker id="650289329" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.7699" latitude="37.639843"/>
-<marker id="650289330" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.97918" latitude="37.69652"/>
-<marker id="650289331" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.97918" latitude="37.69652"/>
-<marker id="650289332" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.97918" latitude="37.69652"/>
-<marker id="650289333" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.639244" latitude="37.752117"/>
-<marker id="650289334" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.639244" latitude="37.752117"/>
-<marker id="650289335" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.639244" latitude="37.752117"/>
-<marker id="650289336" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.7367" latitude="37.539207"/>
-<marker id="650289337" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.7367" latitude="37.539207"/>
-<marker id="650289338" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.7367" latitude="37.539207"/>
-<marker id="650289339" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.86487" latitude="37.904472"/>
-<marker id="650289340" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.86487" latitude="37.904472"/>
-<marker id="650289341" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.86487" latitude="37.904472"/>
-<marker id="650289342" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.90008" latitude="37.455048"/>
-<marker id="650289343" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.90008" latitude="37.455048"/>
-<marker id="650289344" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.90008" latitude="37.455048"/>
-<marker id="650289345" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.87071" latitude="37.453632"/>
-<marker id="650289346" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.87071" latitude="37.453632"/>
-<marker id="650289347" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.87071" latitude="37.453632"/>
-<marker id="650289348" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.87022" latitude="37.386658"/>
-<marker id="650289349" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.87022" latitude="37.386658"/>
-<marker id="650289350" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.87022" latitude="37.386658"/>
-<marker id="650289351" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.86803" latitude="37.546593"/>
-<marker id="650289352" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.86803" latitude="37.546593"/>
-<marker id="650289353" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.86803" latitude="37.546593"/>
-<marker id="650289354" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.9947" latitude="37.474434"/>
-<marker id="650289355" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.9947" latitude="37.474434"/>
-<marker id="650289356" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.9947" latitude="37.474434"/>
-<marker id="650289357" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.941895" latitude="37.533054"/>
-<marker id="650289358" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.941895" latitude="37.533054"/>
-<marker id="650289359" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.941895" latitude="37.533054"/>
-<marker id="650289360" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.13401" latitude="37.266476"/>
-<marker id="650289361" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.13401" latitude="37.266476"/>
-<marker id="650289362" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.13401" latitude="37.266476"/>
-<marker id="650289363" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.88697" latitude="37.33003"/>
-<marker id="650289364" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.88697" latitude="37.33003"/>
-<marker id="650289365" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.88697" latitude="37.33003"/>
-<marker id="650289366" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.02927" latitude="37.279472"/>
-<marker id="650289367" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.02927" latitude="37.279472"/>
-<marker id="650289368" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.02927" latitude="37.279472"/>
-<marker id="650289369" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.7066" latitude="37.94336"/>
-<marker id="650289370" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.7066" latitude="37.94336"/>
-<marker id="650289371" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.7066" latitude="37.94336"/>
-<marker id="650289372" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.16751" latitude="37.6083"/>
-<marker id="650289373" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.16751" latitude="37.6083"/>
-<marker id="650289374" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.16751" latitude="37.6083"/>
-<marker id="650289375" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.25899" latitude="37.608074"/>
-<marker id="650289376" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.25899" latitude="37.608074"/>
-<marker id="650289377" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.25899" latitude="37.608074"/>
-<marker id="650289378" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.25903" latitude="37.63034"/>
-<marker id="650289379" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.25903" latitude="37.63034"/>
-<marker id="650289380" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.25903" latitude="37.63034"/>
-<marker id="650289381" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.19598" latitude="37.68859"/>
-<marker id="650289382" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.19598" latitude="37.68859"/>
-<marker id="650289383" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.19598" latitude="37.68859"/>
-<marker id="650289384" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.15365" latitude="37.77038"/>
-<marker id="650289385" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.15365" latitude="37.77038"/>
-<marker id="650289386" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.15365" latitude="37.77038"/>
-<marker id="650289387" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.15389" latitude="37.741062"/>
-<marker id="650289388" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.15389" latitude="37.741062"/>
-<marker id="650289389" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.15389" latitude="37.741062"/>
-<marker id="650289390" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.854004" latitude="37.898182"/>
-<marker id="650289391" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.854004" latitude="37.898182"/>
-<marker id="650289392" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.854004" latitude="37.898182"/>
-<marker id="650289393" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.21851" latitude="37.788456"/>
-<marker id="650289394" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.21851" latitude="37.788456"/>
-<marker id="650289395" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.21851" latitude="37.788456"/>
-<marker id="650289396" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.19674" latitude="37.859745"/>
-<marker id="650289397" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.19674" latitude="37.859745"/>
-<marker id="650289398" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.19674" latitude="37.859745"/>
-<marker id="650289399" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.22166" latitude="37.869297"/>
-<marker id="650289400" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.22166" latitude="37.869297"/>
-<marker id="650289401" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.22166" latitude="37.869297"/>
-<marker id="650289402" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.05066" latitude="37.9792"/>
-<marker id="650289403" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.05066" latitude="37.9792"/>
-<marker id="650289404" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.05066" latitude="37.9792"/>
-<marker id="650289405" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.06793" latitude="37.981472"/>
-<marker id="650289406" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.06793" latitude="37.981472"/>
-<marker id="650289407" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.06793" latitude="37.981472"/>
-<marker id="650289408" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.208855" latitude="37.84002"/>
-<marker id="650289409" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.208855" latitude="37.84002"/>
-<marker id="650289410" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.208855" latitude="37.84002"/>
-<marker id="650289411" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.81634" latitude="37.5034"/>
-<marker id="650289412" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.81634" latitude="37.5034"/>
-<marker id="650289413" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.81634" latitude="37.5034"/>
-<marker id="650289414" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.814606" latitude="37.514942"/>
-<marker id="650289415" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.814606" latitude="37.514942"/>
-<marker id="650289416" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.814606" latitude="37.514942"/>
-<marker id="650289417" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.6153" latitude="37.86116"/>
-<marker id="650289418" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.6153" latitude="37.86116"/>
-<marker id="650289419" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.6153" latitude="37.86116"/>
-<marker id="650289420" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.666046" latitude="37.866287"/>
-<marker id="650289421" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.666046" latitude="37.866287"/>
-<marker id="650289422" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.666046" latitude="37.866287"/>
-<marker id="650289423" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.62479" latitude="37.950447"/>
-<marker id="650289424" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.62479" latitude="37.950447"/>
-<marker id="650289425" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.62479" latitude="37.950447"/>
-<marker id="650289426" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.93972" latitude="37.367813"/>
-<marker id="650289427" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.93972" latitude="37.367813"/>
-<marker id="650289428" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.93972" latitude="37.367813"/>
-<marker id="650289429" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.899925" latitude="37.35502"/>
-<marker id="650289430" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.899925" latitude="37.35502"/>
-<marker id="650289431" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.899925" latitude="37.35502"/>
-<marker id="650289432" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.01755" latitude="37.561085"/>
-<marker id="650289433" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.01755" latitude="37.561085"/>
-<marker id="650289434" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.01755" latitude="37.561085"/>
-<marker id="650289435" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.036514" latitude="37.539"/>
-<marker id="650289436" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.036514" latitude="37.539"/>
-<marker id="650289437" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.036514" latitude="37.539"/>
-<marker id="650289438" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.03982" latitude="37.571327"/>
-<marker id="650289439" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.03982" latitude="37.571327"/>
-<marker id="650289440" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.03982" latitude="37.571327"/>
-<marker id="650289441" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.36176" latitude="37.84238"/>
-<marker id="650289442" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.36176" latitude="37.84238"/>
-<marker id="650289443" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.36176" latitude="37.84238"/>
+<marker id="650289214" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.732765" latitude="37.56995"/>
+<marker id="650289215" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.87147" latitude="37.788292"/>
+<marker id="650289216" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.68705" latitude="37.877205"/>
+<marker id="650289217" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.60581" latitude="37.84371"/>
+<marker id="650289218" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.85179" latitude="37.908474"/>
+<marker id="650289219" label="Frost-bound Squall-shaper" category="71" did="1879415901" parentZoneId="1879400512" longitude="-67.81037" latitude="37.702274"/>
+<marker id="650289220" label="Mission Reward" category="72" did="1879414902" parentZoneId="1879400512" longitude="-67.64059" latitude="37.82156"/>
+<marker id="650289221" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.68863" latitude="37.89074"/>
+<marker id="650289222" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.851364" latitude="37.88613"/>
+<marker id="650289223" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.8378" latitude="37.89499"/>
+<marker id="650289224" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.61903" latitude="37.873936"/>
+<marker id="650289225" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.643234" latitude="37.893612"/>
+<marker id="650289226" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.735176" latitude="37.766865"/>
+<marker id="650289227" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.82397" latitude="37.6278"/>
+<marker id="650289228" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-68.006905" latitude="37.62547"/>
+<marker id="650289229" label="Gundabad Orc-warrior" category="71" did="1879415900" parentZoneId="1879400512" longitude="-67.81106" latitude="37.71871"/>
+<marker id="650289231" label="Fierce Cold-drake" category="71" did="1879415892" parentZoneId="1879400512" longitude="-67.85176" latitude="37.806767"/>
+<marker id="650289232" label="Fierce Cold-drake" category="71" did="1879415892" parentZoneId="1879400512" longitude="-67.776115" latitude="37.707382"/>
+<marker id="650289233" label="Fierce Cold-drake" category="71" did="1879415892" parentZoneId="1879400512" longitude="-67.73305" latitude="37.522644"/>
+<marker id="650289234" label="Fierce Cold-drake" category="71" did="1879415892" parentZoneId="1879400512" longitude="-67.92854" latitude="37.69113"/>
+<marker id="650289235" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.95367" latitude="37.680634"/>
+<marker id="650289236" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.91657" latitude="37.7153"/>
+<marker id="650289237" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.64553" latitude="37.704773"/>
+<marker id="650289238" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.90719" latitude="37.61289"/>
+<marker id="650289239" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.73084" latitude="37.930096"/>
+<marker id="650289240" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.614845" latitude="37.83701"/>
+<marker id="650289241" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.80625" latitude="37.587246"/>
+<marker id="650289242" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.64864" latitude="37.774796"/>
+<marker id="650289243" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.85361" latitude="37.83742"/>
+<marker id="650289244" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.77188" latitude="37.53957"/>
+<marker id="650289245" label="Cold-whelpling" category="71" did="1879415891" parentZoneId="1879400512" longitude="-67.75478" latitude="37.84836"/>
+<marker id="650289246" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.92839" latitude="37.74408"/>
+<marker id="650289247" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.901184" latitude="37.784275"/>
+<marker id="650289248" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.99072" latitude="37.691425"/>
+<marker id="650289249" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.86161" latitude="37.87416"/>
+<marker id="650289250" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.87253" latitude="37.832645"/>
+<marker id="650289251" label="Massive Chunk of Ice" category="73" did="1879415877" parentZoneId="1879400512" longitude="-67.96502" latitude="37.708965"/>
+<marker id="650289252" label="Longbeard Scout" category="70" did="1879414858" parentZoneId="1879400512" longitude="-67.658554" latitude="37.824306"/>
+<marker id="650289253" label="Iron Crown Gate-warden" category="71" did="1879419440" parentZoneId="1879400512" longitude="-67.931885" latitude="37.3549"/>
+<marker id="650289254" label="Iron Crown Gate-warden" category="71" did="1879419440" parentZoneId="1879400512" longitude="-67.92591" latitude="37.351788"/>
+<marker id="650289255" label="Iron Crown Gate-warden" category="71" did="1879419440" parentZoneId="1879400512" longitude="-67.921074" latitude="37.347393"/>
+<marker id="650289256" label="Fearsome Kill-beast" category="71" did="1879419441" parentZoneId="1879400512" longitude="-67.91673" latitude="37.408253"/>
+<marker id="650289257" label="Fearsome Kill-beast" category="71" did="1879419441" parentZoneId="1879400512" longitude="-67.88097" latitude="37.39567"/>
+<marker id="650289258" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-68.029236" latitude="37.86988"/>
+<marker id="650289259" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-68.04238" latitude="37.87874"/>
+<marker id="650289260" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-68.05383" latitude="37.880203"/>
+<marker id="650289261" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-68.099434" latitude="37.919685"/>
+<marker id="650289262" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-67.86971" latitude="37.816288"/>
+<marker id="650289263" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-67.88273" latitude="37.79245"/>
+<marker id="650289264" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-67.89233" latitude="37.777126"/>
+<marker id="650289265" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-68.03246" latitude="37.81707"/>
+<marker id="650289266" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-68.03533" latitude="37.827724"/>
+<marker id="650289267" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-68.048615" latitude="37.836765"/>
+<marker id="650289268" label="Longbeard" category="70" did="1879419431" parentZoneId="1879400512" longitude="-68.06547" latitude="37.84865"/>
+<marker id="650289269" label="Stóthkell" category="70" did="1879419430" parentZoneId="1879400512" longitude="-67.919" latitude="37.750214"/>
+<marker id="650289270" label="Rúvaran" category="71" did="1879419439" parentZoneId="1879400512" longitude="-67.90368" latitude="37.414333"/>
+<marker id="650289271" label="Rúvaran's Orc" category="71" did="1879419438" parentZoneId="1879400512" longitude="-67.91405" latitude="37.35288"/>
+<marker id="650289272" label="Rúvaran's Orc" category="71" did="1879419438" parentZoneId="1879400512" longitude="-67.92358" latitude="37.361015"/>
+<marker id="650289273" label="Rúvaran's Orc" category="71" did="1879419438" parentZoneId="1879400512" longitude="-67.931984" latitude="37.36794"/>
+<marker id="650289274" label="Rúvaran's Orc" category="71" did="1879419438" parentZoneId="1879400512" longitude="-67.91777" latitude="37.34993"/>
+<marker id="650289275" label="Rúvaran's Orc" category="71" did="1879419438" parentZoneId="1879400512" longitude="-67.92353" latitude="37.355537"/>
+<marker id="650289276" label="Rúvaran's Orc" category="71" did="1879419438" parentZoneId="1879400512" longitude="-67.93075" latitude="37.360226"/>
+<marker id="650289277" label="Prince Durin" category="71" did="1879419437" parentZoneId="1879400512" longitude="-67.65885" latitude="37.863174"/>
+<marker id="650289278" label="Prince Ingór" category="71" did="1879419436" parentZoneId="1879400512" longitude="-67.88883" latitude="37.731533"/>
+<marker id="650289279" label="Imák" category="70" did="1879419435" parentZoneId="1879400512" longitude="-67.87693" latitude="37.80755"/>
+<marker id="650289280" label="Bósi" category="70" did="1879419434" parentZoneId="1879400512" longitude="-67.88669" latitude="37.785213"/>
+<marker id="650289281" label="Zhélruka" category="70" did="1879419433" parentZoneId="1879400512" longitude="-68.09756" latitude="37.91047"/>
+<marker id="650289282" label="Zhélruka" category="70" did="1879419433" parentZoneId="1879400512" longitude="-68.100204" latitude="37.872158"/>
+<marker id="650289283" label="Zhélruka" category="70" did="1879419433" parentZoneId="1879400512" longitude="-68.0813" latitude="37.861504"/>
+<marker id="650289284" label="Zhélruka" category="70" did="1879419433" parentZoneId="1879400512" longitude="-68.02809" latitude="37.79913"/>
+<marker id="650289285" label="Zhélruka" category="70" did="1879419433" parentZoneId="1879400512" longitude="-67.9102" latitude="37.759502"/>
+<marker id="650289286" label="Zhélruka" category="70" did="1879419433" parentZoneId="1879400512" longitude="-67.923065" latitude="37.74247"/>
+<marker id="650289287" label="Venko" category="70" did="1879419432" parentZoneId="1879400512" longitude="-67.90372" latitude="37.766563"/>
+<marker id="650289331" label="Hanksar-mokh" category="74" did="1879407917" parentZoneId="1879400512" longitude="-68.24743" latitude="37.770115"/>
+<marker id="650289332" label="Hanksar-mokh" category="74" did="1879407917" parentZoneId="1879400512" longitude="-68.02348" latitude="37.497616"/>
+<marker id="650289333" label="Hanksar-mokh" category="74" did="1879407917" parentZoneId="1879400512" longitude="-67.8334" latitude="37.4367"/>
+<marker id="650289365" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.759224" latitude="37.567432"/>
+<marker id="650289366" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.759224" latitude="37.567432"/>
+<marker id="650289367" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.759224" latitude="37.567432"/>
+<marker id="650289368" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.961555" latitude="37.683914"/>
+<marker id="650289369" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.961555" latitude="37.683914"/>
+<marker id="650289370" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.961555" latitude="37.683914"/>
+<marker id="650289371" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.654175" latitude="37.766727"/>
+<marker id="650289372" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.654175" latitude="37.766727"/>
+<marker id="650289373" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.654175" latitude="37.766727"/>
+<marker id="650289374" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.7699" latitude="37.639843"/>
+<marker id="650289375" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.7699" latitude="37.639843"/>
+<marker id="650289376" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.7699" latitude="37.639843"/>
+<marker id="650289377" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.97918" latitude="37.69652"/>
+<marker id="650289378" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.97918" latitude="37.69652"/>
+<marker id="650289379" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.97918" latitude="37.69652"/>
+<marker id="650289380" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.639244" latitude="37.752117"/>
+<marker id="650289381" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.639244" latitude="37.752117"/>
+<marker id="650289382" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.639244" latitude="37.752117"/>
+<marker id="650289383" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.7367" latitude="37.539207"/>
+<marker id="650289384" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.7367" latitude="37.539207"/>
+<marker id="650289385" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.7367" latitude="37.539207"/>
+<marker id="650289386" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.86487" latitude="37.904472"/>
+<marker id="650289387" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.86487" latitude="37.904472"/>
+<marker id="650289388" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.86487" latitude="37.904472"/>
+<marker id="650289389" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.90008" latitude="37.455048"/>
+<marker id="650289390" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.90008" latitude="37.455048"/>
+<marker id="650289391" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.90008" latitude="37.455048"/>
+<marker id="650289392" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.87071" latitude="37.453632"/>
+<marker id="650289393" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.87071" latitude="37.453632"/>
+<marker id="650289394" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.87071" latitude="37.453632"/>
+<marker id="650289395" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.87022" latitude="37.386658"/>
+<marker id="650289396" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.87022" latitude="37.386658"/>
+<marker id="650289397" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.87022" latitude="37.386658"/>
+<marker id="650289398" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.86803" latitude="37.546593"/>
+<marker id="650289399" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.86803" latitude="37.546593"/>
+<marker id="650289400" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.86803" latitude="37.546593"/>
+<marker id="650289401" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.9947" latitude="37.474434"/>
+<marker id="650289402" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.9947" latitude="37.474434"/>
+<marker id="650289403" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.9947" latitude="37.474434"/>
+<marker id="650289404" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.941895" latitude="37.533054"/>
+<marker id="650289405" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.941895" latitude="37.533054"/>
+<marker id="650289406" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.941895" latitude="37.533054"/>
+<marker id="650289407" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.13401" latitude="37.266476"/>
+<marker id="650289408" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.13401" latitude="37.266476"/>
+<marker id="650289409" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.13401" latitude="37.266476"/>
+<marker id="650289410" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.88697" latitude="37.33003"/>
+<marker id="650289411" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.88697" latitude="37.33003"/>
+<marker id="650289412" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.88697" latitude="37.33003"/>
+<marker id="650289413" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.02927" latitude="37.279472"/>
+<marker id="650289414" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.02927" latitude="37.279472"/>
+<marker id="650289415" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.02927" latitude="37.279472"/>
+<marker id="650289416" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.7066" latitude="37.94336"/>
+<marker id="650289417" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.7066" latitude="37.94336"/>
+<marker id="650289418" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.7066" latitude="37.94336"/>
+<marker id="650289419" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.16751" latitude="37.6083"/>
+<marker id="650289420" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.16751" latitude="37.6083"/>
+<marker id="650289421" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.16751" latitude="37.6083"/>
+<marker id="650289422" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.25899" latitude="37.608074"/>
+<marker id="650289423" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.25899" latitude="37.608074"/>
+<marker id="650289424" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.25899" latitude="37.608074"/>
+<marker id="650289425" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.25903" latitude="37.63034"/>
+<marker id="650289426" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.25903" latitude="37.63034"/>
+<marker id="650289427" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.25903" latitude="37.63034"/>
+<marker id="650289428" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.19598" latitude="37.68859"/>
+<marker id="650289429" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.19598" latitude="37.68859"/>
+<marker id="650289430" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.19598" latitude="37.68859"/>
+<marker id="650289431" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.15365" latitude="37.77038"/>
+<marker id="650289432" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.15365" latitude="37.77038"/>
+<marker id="650289433" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.15365" latitude="37.77038"/>
+<marker id="650289434" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.15389" latitude="37.741062"/>
+<marker id="650289435" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.15389" latitude="37.741062"/>
+<marker id="650289436" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.15389" latitude="37.741062"/>
+<marker id="650289437" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.854004" latitude="37.898182"/>
+<marker id="650289438" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.854004" latitude="37.898182"/>
+<marker id="650289439" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.854004" latitude="37.898182"/>
+<marker id="650289440" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.21851" latitude="37.788456"/>
+<marker id="650289441" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.21851" latitude="37.788456"/>
+<marker id="650289442" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.21851" latitude="37.788456"/>
+<marker id="650289443" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.19674" latitude="37.859745"/>
+<marker id="650289444" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.19674" latitude="37.859745"/>
+<marker id="650289445" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.19674" latitude="37.859745"/>
+<marker id="650289446" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.22166" latitude="37.869297"/>
+<marker id="650289447" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.22166" latitude="37.869297"/>
+<marker id="650289448" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.22166" latitude="37.869297"/>
+<marker id="650289449" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.05066" latitude="37.9792"/>
+<marker id="650289450" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.05066" latitude="37.9792"/>
+<marker id="650289451" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.05066" latitude="37.9792"/>
+<marker id="650289452" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.06793" latitude="37.981472"/>
+<marker id="650289453" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.06793" latitude="37.981472"/>
+<marker id="650289454" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.06793" latitude="37.981472"/>
+<marker id="650289455" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.208855" latitude="37.84002"/>
+<marker id="650289456" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.208855" latitude="37.84002"/>
+<marker id="650289457" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.208855" latitude="37.84002"/>
+<marker id="650289458" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.81634" latitude="37.5034"/>
+<marker id="650289459" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.81634" latitude="37.5034"/>
+<marker id="650289460" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.81634" latitude="37.5034"/>
+<marker id="650289461" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.814606" latitude="37.514942"/>
+<marker id="650289462" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.814606" latitude="37.514942"/>
+<marker id="650289463" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.814606" latitude="37.514942"/>
+<marker id="650289464" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.6153" latitude="37.86116"/>
+<marker id="650289465" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.6153" latitude="37.86116"/>
+<marker id="650289466" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.6153" latitude="37.86116"/>
+<marker id="650289467" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.666046" latitude="37.866287"/>
+<marker id="650289468" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.666046" latitude="37.866287"/>
+<marker id="650289469" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.666046" latitude="37.866287"/>
+<marker id="650289470" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.62479" latitude="37.950447"/>
+<marker id="650289471" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.62479" latitude="37.950447"/>
+<marker id="650289472" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.62479" latitude="37.950447"/>
+<marker id="650289473" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.93972" latitude="37.367813"/>
+<marker id="650289474" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.93972" latitude="37.367813"/>
+<marker id="650289475" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.93972" latitude="37.367813"/>
+<marker id="650289476" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-67.899925" latitude="37.35502"/>
+<marker id="650289477" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-67.899925" latitude="37.35502"/>
+<marker id="650289478" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-67.899925" latitude="37.35502"/>
+<marker id="650289479" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.01755" latitude="37.561085"/>
+<marker id="650289480" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.01755" latitude="37.561085"/>
+<marker id="650289481" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.01755" latitude="37.561085"/>
+<marker id="650289482" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.036514" latitude="37.539"/>
+<marker id="650289483" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.036514" latitude="37.539"/>
+<marker id="650289484" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.036514" latitude="37.539"/>
+<marker id="650289485" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.03982" latitude="37.571327"/>
+<marker id="650289486" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.03982" latitude="37.571327"/>
+<marker id="650289487" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.03982" latitude="37.571327"/>
+<marker id="650289488" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-68.36176" latitude="37.84238"/>
+<marker id="650289489" label="Gundabad Stone-heaver" category="71" did="1879408114" parentZoneId="1879400512" longitude="-68.36176" latitude="37.84238"/>
+<marker id="650289490" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-68.36176" latitude="37.84238"/>
 <marker id="650293250" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-68.18868" latitude="38.322372"/>
 <marker id="650293251" label="Gundabad Soldier" category="71" did="1879408046" parentZoneId="1879400512" longitude="-68.18868" latitude="38.322372"/>
 <marker id="650293252" label="Gundabad Driver" category="71" did="1879408048" parentZoneId="1879400512" longitude="-68.18868" latitude="38.322372"/>
@@ -6472,10 +6516,10 @@
 <marker id="650604805" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-63.656338" latitude="35.558376"/>
 <marker id="650604806" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-63.656338" latitude="35.558376"/>
 <marker id="650604807" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-63.656338" latitude="35.558376"/>
-<marker id="650604808" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-64.3383" latitude="35.2699"/>
-<marker id="650604809" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-64.3383" latitude="35.2699"/>
-<marker id="650604810" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-64.3383" latitude="35.2699"/>
-<marker id="650604811" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-64.3383" latitude="35.2699"/>
+<marker id="650604808" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-64.343834" latitude="35.294403"/>
+<marker id="650604809" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-64.343834" latitude="35.294403"/>
+<marker id="650604810" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-64.343834" latitude="35.294403"/>
+<marker id="650604811" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-64.343834" latitude="35.294403"/>
 <marker id="650604812" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-63.6986" latitude="34.949364"/>
 <marker id="650604813" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-63.6986" latitude="34.949364"/>
 <marker id="650604814" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-63.6986" latitude="34.949364"/>
@@ -8714,10 +8758,10 @@
 <marker id="650666294" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-63.304607" latitude="34.77717"/>
 <marker id="650666295" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-63.304607" latitude="34.77717"/>
 <marker id="650666296" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-63.304607" latitude="34.77717"/>
-<marker id="650666297" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-63.032585" latitude="34.762665"/>
-<marker id="650666298" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-63.032585" latitude="34.762665"/>
-<marker id="650666299" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-63.032585" latitude="34.762665"/>
-<marker id="650666300" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-63.032585" latitude="34.762665"/>
+<marker id="650666297" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-63.046455" latitude="34.750965"/>
+<marker id="650666298" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-63.046455" latitude="34.750965"/>
+<marker id="650666299" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-63.046455" latitude="34.750965"/>
+<marker id="650666300" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-63.046455" latitude="34.750965"/>
 <marker id="650666301" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-62.944225" latitude="34.587696"/>
 <marker id="650666302" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-62.944225" latitude="34.587696"/>
 <marker id="650666303" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-62.944225" latitude="34.587696"/>
@@ -10758,7 +10802,7 @@
 <marker id="650764354" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-62.17573" latitude="40.718845"/>
 <marker id="650764355" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-62.4304" latitude="40.718494"/>
 <marker id="650764356" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-62.731308" latitude="40.95965"/>
-<marker id="650764357" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-62.587967" latitude="40.90541"/>
+<marker id="650764357" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-62.588737" latitude="40.90793"/>
 <marker id="650764359" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-62.689384" latitude="40.739998"/>
 <marker id="650764360" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-62.486736" latitude="40.608513"/>
 <marker id="650764361" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-62.51778" latitude="40.639236"/>
@@ -11476,338 +11520,338 @@
 <marker id="650788921" label="Iron Crown Scout" category="71" did="1879409935" parentZoneId="1879400512" longitude="-61.956806" latitude="32.789238"/>
 <marker id="650788922" label="Iron Crown Scout" category="71" did="1879409935" parentZoneId="1879400512" longitude="-61.908134" latitude="33.125614"/>
 <marker id="650788923" label="Iron Crown Scout" category="71" did="1879409935" parentZoneId="1879400512" longitude="-61.939724" latitude="32.491005"/>
-<marker id="650788924" label="Annâk-khurfu" category="74" did="1879407923" parentZoneId="1879400512" longitude="-61.727295" latitude="32.718925"/>
-<marker id="650788926" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788927" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788928" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788929" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788930" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788931" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788932" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788933" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788934" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788935" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788936" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788937" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788938" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788939" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788940" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788941" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788942" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
-<marker id="650788943" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788944" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788945" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788946" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788947" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788948" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788949" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788950" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788951" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788952" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788953" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788954" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788955" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788956" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788957" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788958" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788959" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
-<marker id="650788960" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788961" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788962" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788963" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788964" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788965" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788966" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788967" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788968" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788969" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788970" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788971" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788972" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788973" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788974" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788975" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788976" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
-<marker id="650788977" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788978" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788979" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788980" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788981" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788982" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788983" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788984" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788985" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788986" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788987" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788988" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788989" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788990" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788991" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788992" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788993" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
-<marker id="650788994" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650788995" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650788996" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650788997" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650788998" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650788999" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789000" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789001" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789002" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789003" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789004" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789005" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789006" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789007" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789008" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789009" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789010" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
-<marker id="650789011" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789012" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789013" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789014" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789015" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789016" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789017" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789018" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789019" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789020" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789021" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789022" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789023" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789024" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789025" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789026" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789027" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
-<marker id="650789028" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789029" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789030" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789031" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789032" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789033" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789034" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789035" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789036" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789037" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789038" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789039" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789040" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789041" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789042" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789043" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789044" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
-<marker id="650789045" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789046" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789047" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789048" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789049" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789050" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789051" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789052" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789053" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789054" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789055" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789056" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789057" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789058" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789059" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789060" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789061" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
-<marker id="650789062" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789063" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789064" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789065" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789066" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789067" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789068" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789069" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789070" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789071" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789072" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789073" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789074" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789075" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789076" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789077" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789078" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
-<marker id="650789079" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.277275" latitude="33.133858"/>
-<marker id="650789080" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.277275" latitude="33.133858"/>
-<marker id="650789081" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.277275" latitude="33.133858"/>
-<marker id="650789082" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.277275" latitude="33.133858"/>
-<marker id="650789083" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.573044" latitude="33.12076"/>
-<marker id="650789084" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.573044" latitude="33.12076"/>
-<marker id="650789085" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.573044" latitude="33.12076"/>
-<marker id="650789086" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.573044" latitude="33.12076"/>
-<marker id="650789087" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.723015" latitude="32.956043"/>
-<marker id="650789088" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.723015" latitude="32.956043"/>
-<marker id="650789089" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.723015" latitude="32.956043"/>
-<marker id="650789090" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.723015" latitude="32.956043"/>
-<marker id="650789091" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.766453" latitude="32.678123"/>
-<marker id="650789092" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.766453" latitude="32.678123"/>
-<marker id="650789093" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.766453" latitude="32.678123"/>
-<marker id="650789094" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.766453" latitude="32.678123"/>
-<marker id="650789095" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.632313" latitude="32.490974"/>
-<marker id="650789096" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.632313" latitude="32.490974"/>
-<marker id="650789097" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.632313" latitude="32.490974"/>
-<marker id="650789098" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.632313" latitude="32.490974"/>
-<marker id="650789099" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.901894" latitude="32.995674"/>
-<marker id="650789100" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.901894" latitude="32.995674"/>
-<marker id="650789101" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.901894" latitude="32.995674"/>
-<marker id="650789102" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.901894" latitude="32.995674"/>
-<marker id="650789103" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.89904" latitude="32.767254"/>
-<marker id="650789104" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.89904" latitude="32.767254"/>
-<marker id="650789105" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.89904" latitude="32.767254"/>
-<marker id="650789106" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.89904" latitude="32.767254"/>
-<marker id="650789107" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
-<marker id="650789108" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
-<marker id="650789109" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
-<marker id="650789110" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
-<marker id="650789111" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
-<marker id="650789112" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
-<marker id="650789113" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
-<marker id="650789114" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
-<marker id="650789115" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
-<marker id="650789116" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
-<marker id="650789117" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
-<marker id="650789118" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
-<marker id="650789119" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
-<marker id="650789120" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
-<marker id="650789121" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
-<marker id="650789122" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
-<marker id="650789123" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
-<marker id="650789124" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
-<marker id="650789125" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
-<marker id="650789126" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
-<marker id="650789127" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
-<marker id="650789128" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
-<marker id="650789129" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
-<marker id="650789130" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
-<marker id="650789131" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
-<marker id="650789132" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
-<marker id="650789133" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
-<marker id="650789134" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
-<marker id="650789135" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
-<marker id="650789136" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
-<marker id="650789137" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
-<marker id="650789138" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
-<marker id="650789139" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
-<marker id="650789140" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
-<marker id="650789141" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
-<marker id="650789142" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
-<marker id="650789143" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
-<marker id="650789144" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
-<marker id="650789145" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
-<marker id="650789146" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
-<marker id="650789147" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
-<marker id="650789148" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
-<marker id="650789149" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
-<marker id="650789150" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
-<marker id="650789151" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
-<marker id="650789152" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
-<marker id="650789153" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
-<marker id="650789154" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
-<marker id="650789155" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
-<marker id="650789156" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
-<marker id="650789157" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
-<marker id="650789158" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
-<marker id="650789159" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
-<marker id="650789160" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
-<marker id="650789161" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
-<marker id="650789162" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
-<marker id="650789163" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
-<marker id="650789164" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
-<marker id="650789165" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
-<marker id="650789166" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
-<marker id="650789167" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
-<marker id="650789168" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
-<marker id="650789169" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
-<marker id="650789170" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
-<marker id="650789171" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
-<marker id="650789172" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
-<marker id="650789173" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
-<marker id="650789174" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
-<marker id="650789175" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
-<marker id="650789176" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
-<marker id="650789177" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
-<marker id="650789178" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
-<marker id="650789179" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
-<marker id="650789180" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
-<marker id="650789181" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
-<marker id="650789182" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
-<marker id="650789183" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
-<marker id="650789184" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
-<marker id="650789185" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
-<marker id="650789186" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
-<marker id="650789187" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
-<marker id="650789188" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
-<marker id="650789189" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
-<marker id="650789190" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
-<marker id="650789191" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
-<marker id="650789192" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
-<marker id="650789193" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
-<marker id="650789194" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
-<marker id="650789195" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
-<marker id="650789196" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
-<marker id="650789197" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
-<marker id="650789198" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
-<marker id="650789199" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
-<marker id="650789200" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
-<marker id="650789201" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
-<marker id="650789202" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
-<marker id="650789203" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
-<marker id="650789204" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
-<marker id="650789205" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
-<marker id="650789206" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
-<marker id="650789207" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
-<marker id="650789208" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
-<marker id="650789209" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
-<marker id="650789210" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
-<marker id="650789211" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
-<marker id="650789212" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
-<marker id="650789213" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
-<marker id="650789214" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
-<marker id="650789215" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
-<marker id="650789216" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
-<marker id="650789217" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
-<marker id="650789218" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
-<marker id="650789219" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
-<marker id="650789220" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
-<marker id="650789221" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
-<marker id="650789222" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
-<marker id="650789223" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
-<marker id="650789224" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
-<marker id="650789225" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
-<marker id="650789226" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
-<marker id="650789227" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
-<marker id="650789228" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
-<marker id="650789229" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
-<marker id="650789230" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
-<marker id="650789231" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
-<marker id="650789232" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
-<marker id="650789233" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
-<marker id="650789234" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
-<marker id="650789235" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
-<marker id="650789236" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
-<marker id="650789237" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
-<marker id="650789238" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
-<marker id="650789239" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
-<marker id="650789240" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
-<marker id="650789241" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
-<marker id="650789242" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
-<marker id="650789243" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
-<marker id="650789244" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
-<marker id="650789245" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
-<marker id="650789246" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
-<marker id="650789247" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
-<marker id="650789248" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
-<marker id="650789249" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
-<marker id="650789250" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
-<marker id="650789251" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
-<marker id="650789252" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
-<marker id="650789253" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
-<marker id="650789254" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
-<marker id="650789255" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
-<marker id="650789256" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
+<marker id="650788926" label="Annâk-khurfu" category="74" did="1879407923" parentZoneId="1879400512" longitude="-61.727295" latitude="32.718925"/>
+<marker id="650788927" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788928" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788929" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788930" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788931" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788932" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788933" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788934" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788935" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788936" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788937" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788938" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788939" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788940" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788941" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788942" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788943" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.31106" latitude="33.134747"/>
+<marker id="650788944" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788945" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788946" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788947" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788948" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788949" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788950" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788951" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788952" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788953" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788954" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788955" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788956" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788957" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788958" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788959" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788960" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.471756" latitude="33.10455"/>
+<marker id="650788961" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788962" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788963" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788964" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788965" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788966" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788967" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788968" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788969" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788970" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788971" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788972" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788973" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788974" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788975" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788976" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788977" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.653065" latitude="33.124725"/>
+<marker id="650788978" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788979" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788980" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788981" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788982" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788983" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788984" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788985" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788986" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788987" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788988" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788989" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788990" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788991" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788992" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788993" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788994" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.737713" latitude="32.908348"/>
+<marker id="650788995" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650788996" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650788997" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650788998" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650788999" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789000" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789001" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789002" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789003" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789004" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789005" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789006" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789007" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789008" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789009" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789010" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789011" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.789333" latitude="32.640438"/>
+<marker id="650789012" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789013" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789014" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789015" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789016" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789017" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789018" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789019" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789020" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789021" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789022" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789023" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789024" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789025" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789026" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789027" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789028" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.918827" latitude="32.81748"/>
+<marker id="650789029" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789030" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789031" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789032" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789033" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789034" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789035" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789036" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789037" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789038" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789039" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789040" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789041" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789042" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789043" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789044" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789045" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.88873" latitude="33.028503"/>
+<marker id="650789046" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789047" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789048" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789049" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789050" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789051" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789052" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789053" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789054" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789055" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789056" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789057" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789058" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789059" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789060" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789061" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789062" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.76823" latitude="32.535583"/>
+<marker id="650789063" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789064" label="Fierce Cold-drake" category="71" did="1879408044" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789065" label="Gundabad Sentry" category="71" did="1879408073" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789066" label="Gundabad Stalker" category="71" did="1879408109" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789067" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789068" label="Scavenging Crow" category="71" did="1879408065" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789069" label="Dourhand Rebel" category="71" did="1879408038" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789070" label="Mountain Stone-claw" category="71" did="1879408064" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789071" label="Gundabad Hill-crusher" category="71" did="1879408100" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789072" label="Fierce Cold-whelpling" category="71" did="1879408034" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789073" label="Vicious Cold-worm" category="71" did="1879408131" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789074" label="Gundabad Warg" category="71" did="1879408126" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789075" label="Frost-bound Hobgoblin" category="71" did="1879408134" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789076" label="Gundabad Scout" category="71" did="1879408025" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789077" label="Fierce Whelpling" category="71" did="1879408055" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789078" label="Mountain Worm" category="71" did="1879408117" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789079" label="Gundabad Black-arrow" category="71" did="1879408119" parentZoneId="1879400512" longitude="-61.641052" latitude="32.507412"/>
+<marker id="650789080" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.277275" latitude="33.133858"/>
+<marker id="650789081" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.277275" latitude="33.133858"/>
+<marker id="650789082" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.277275" latitude="33.133858"/>
+<marker id="650789083" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.277275" latitude="33.133858"/>
+<marker id="650789084" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.573044" latitude="33.12076"/>
+<marker id="650789085" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.573044" latitude="33.12076"/>
+<marker id="650789086" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.573044" latitude="33.12076"/>
+<marker id="650789087" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.573044" latitude="33.12076"/>
+<marker id="650789088" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.723015" latitude="32.956043"/>
+<marker id="650789089" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.723015" latitude="32.956043"/>
+<marker id="650789090" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.723015" latitude="32.956043"/>
+<marker id="650789091" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.723015" latitude="32.956043"/>
+<marker id="650789092" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.766453" latitude="32.678123"/>
+<marker id="650789093" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.766453" latitude="32.678123"/>
+<marker id="650789094" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.766453" latitude="32.678123"/>
+<marker id="650789095" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.766453" latitude="32.678123"/>
+<marker id="650789096" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.632313" latitude="32.490974"/>
+<marker id="650789097" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.632313" latitude="32.490974"/>
+<marker id="650789098" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.632313" latitude="32.490974"/>
+<marker id="650789099" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.632313" latitude="32.490974"/>
+<marker id="650789100" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.901894" latitude="32.995674"/>
+<marker id="650789101" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.901894" latitude="32.995674"/>
+<marker id="650789102" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.901894" latitude="32.995674"/>
+<marker id="650789103" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.901894" latitude="32.995674"/>
+<marker id="650789104" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.89904" latitude="32.767254"/>
+<marker id="650789105" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.89904" latitude="32.767254"/>
+<marker id="650789106" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.89904" latitude="32.767254"/>
+<marker id="650789107" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.89904" latitude="32.767254"/>
+<marker id="650789108" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
+<marker id="650789109" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
+<marker id="650789110" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
+<marker id="650789111" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
+<marker id="650789112" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
+<marker id="650789113" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.352566" latitude="32.936153"/>
+<marker id="650789114" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
+<marker id="650789115" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
+<marker id="650789116" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
+<marker id="650789117" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
+<marker id="650789118" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
+<marker id="650789119" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.93233" latitude="32.44321"/>
+<marker id="650789120" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
+<marker id="650789121" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
+<marker id="650789122" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
+<marker id="650789123" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
+<marker id="650789124" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
+<marker id="650789125" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.675995" latitude="32.443542"/>
+<marker id="650789126" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
+<marker id="650789127" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
+<marker id="650789128" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
+<marker id="650789129" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
+<marker id="650789130" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
+<marker id="650789131" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.713505" latitude="32.443954"/>
+<marker id="650789132" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
+<marker id="650789133" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
+<marker id="650789134" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
+<marker id="650789135" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
+<marker id="650789136" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
+<marker id="650789137" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.56523" latitude="32.455215"/>
+<marker id="650789138" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
+<marker id="650789139" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
+<marker id="650789140" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
+<marker id="650789141" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
+<marker id="650789142" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
+<marker id="650789143" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.49918" latitude="32.438915"/>
+<marker id="650789144" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
+<marker id="650789145" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
+<marker id="650789146" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
+<marker id="650789147" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
+<marker id="650789148" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
+<marker id="650789149" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.816963" latitude="32.442078"/>
+<marker id="650789150" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
+<marker id="650789151" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
+<marker id="650789152" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
+<marker id="650789153" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
+<marker id="650789154" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
+<marker id="650789155" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.613525" latitude="32.93417"/>
+<marker id="650789156" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
+<marker id="650789157" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
+<marker id="650789158" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
+<marker id="650789159" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
+<marker id="650789160" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
+<marker id="650789161" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.63703" latitude="33.19287"/>
+<marker id="650789162" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
+<marker id="650789163" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
+<marker id="650789164" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
+<marker id="650789165" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
+<marker id="650789166" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
+<marker id="650789167" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.3583" latitude="33.02991"/>
+<marker id="650789168" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
+<marker id="650789169" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
+<marker id="650789170" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
+<marker id="650789171" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
+<marker id="650789172" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
+<marker id="650789173" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.30114" latitude="33.035076"/>
+<marker id="650789174" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
+<marker id="650789175" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
+<marker id="650789176" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
+<marker id="650789177" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
+<marker id="650789178" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
+<marker id="650789179" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.29248" latitude="33.122547"/>
+<marker id="650789180" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
+<marker id="650789181" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
+<marker id="650789182" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
+<marker id="650789183" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
+<marker id="650789184" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
+<marker id="650789185" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.65458" latitude="32.95233"/>
+<marker id="650789186" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
+<marker id="650789187" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
+<marker id="650789188" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
+<marker id="650789189" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
+<marker id="650789190" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
+<marker id="650789191" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.7886" latitude="32.66115"/>
+<marker id="650789192" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
+<marker id="650789193" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
+<marker id="650789194" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
+<marker id="650789195" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
+<marker id="650789196" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
+<marker id="650789197" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.748447" latitude="32.5162"/>
+<marker id="650789198" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
+<marker id="650789199" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
+<marker id="650789200" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
+<marker id="650789201" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
+<marker id="650789202" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
+<marker id="650789203" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.72908" latitude="32.562862"/>
+<marker id="650789204" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
+<marker id="650789205" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
+<marker id="650789206" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
+<marker id="650789207" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
+<marker id="650789208" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
+<marker id="650789209" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.53035" latitude="32.484695"/>
+<marker id="650789210" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
+<marker id="650789211" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
+<marker id="650789212" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
+<marker id="650789213" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
+<marker id="650789214" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
+<marker id="650789215" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.63374" latitude="32.565594"/>
+<marker id="650789216" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
+<marker id="650789217" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
+<marker id="650789218" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
+<marker id="650789219" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
+<marker id="650789220" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
+<marker id="650789221" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.67877" latitude="32.76826"/>
+<marker id="650789222" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
+<marker id="650789223" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
+<marker id="650789224" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
+<marker id="650789225" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
+<marker id="650789226" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
+<marker id="650789227" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.58945" latitude="33.06164"/>
+<marker id="650789228" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
+<marker id="650789229" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
+<marker id="650789230" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
+<marker id="650789231" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
+<marker id="650789232" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
+<marker id="650789233" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.8274" latitude="33.16295"/>
+<marker id="650789234" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
+<marker id="650789235" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
+<marker id="650789236" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
+<marker id="650789237" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
+<marker id="650789238" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
+<marker id="650789239" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.88426" latitude="32.90325"/>
+<marker id="650789240" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
+<marker id="650789241" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
+<marker id="650789242" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
+<marker id="650789243" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
+<marker id="650789244" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
+<marker id="650789245" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.431015" latitude="33.09379"/>
+<marker id="650789246" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
+<marker id="650789247" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
+<marker id="650789248" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
+<marker id="650789249" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
+<marker id="650789250" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
+<marker id="650789251" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.222313" latitude="33.174316"/>
+<marker id="650789252" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
+<marker id="650789253" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
+<marker id="650789254" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
+<marker id="650789255" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
+<marker id="650789256" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
+<marker id="650789257" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.2803" latitude="33.018806"/>
 <marker id="650792960" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.50697" latitude="33.58943"/>
 <marker id="650792962" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-61.37285" latitude="33.83006"/>
 <marker id="650792963" label="Mountain Ram" category="71" did="1879408041" parentZoneId="1879400512" longitude="-61.37285" latitude="33.83006"/>
@@ -14543,57 +14587,62 @@
 <marker id="650850795" label="Chest" category="72" did="1879396381" parentZoneId="1879400537" longitude="-61.04325" latitude="31.88251"/>
 <marker id="650850796" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400537" longitude="-61.04325" latitude="31.88251"/>
 <marker id="650854401" label="Stable-master" category="23" did="1879409984" parentZoneId="1879400512" longitude="-60.927616" latitude="32.6837"/>
+<marker id="650854402" label="Tasks Bulletin Board" category="27" did="1879411107" parentZoneId="1879400512" longitude="-61.05415" latitude="32.81011"/>
+<marker id="650854403" label="Amdân Dammul Quartermaster" category="58" did="1879412200" parentZoneId="1879400512" longitude="-60.997566" latitude="32.863064"/>
 <marker id="650854404" label="Door" category="100" did="1879139142" parentZoneId="1879400512" longitude="-61.16621" latitude="32.771046"/>
 <marker id="650854405" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.825527" latitude="32.819874"/>
 <marker id="650854408" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.825527" latitude="32.819874"/>
 <marker id="650854409" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.825527" latitude="32.819874"/>
-<marker id="650854412" label="Tasks" category="27" did="1879411107" parentZoneId="1879400512" longitude="-61.05415" latitude="32.81011"/>
-<marker id="650854413" label="Amdân Dammul Quartermaster" category="58" did="1879412200" parentZoneId="1879400512" longitude="-60.981884" latitude="32.832012"/>
-<marker id="650854417" label="Dwarf Scout" category="70" did="1879409735" parentZoneId="1879400512" longitude="-60.881073" latitude="32.56037"/>
-<marker id="650854418" label="Dwarf Scout" category="70" did="1879409735" parentZoneId="1879400512" longitude="-61.05653" latitude="32.444756"/>
-<marker id="650854419" label="Dwarf Scout" category="70" did="1879409735" parentZoneId="1879400512" longitude="-60.93745" latitude="32.450733"/>
-<marker id="650854420" label="Lúkhag" category="70" did="1879409734" parentZoneId="1879400512" longitude="-61.03909" latitude="32.731865"/>
-<marker id="650854425" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879400512" longitude="-60.938328" latitude="32.64323"/>
-<marker id="650854426" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879400512" longitude="-61.142967" latitude="32.706062"/>
-<marker id="650854427" label="Shakalush Quartermaster" category="70" did="1879415659" parentZoneId="1879400512" longitude="-60.985252" latitude="32.824677"/>
-<marker id="650854434" label="Tasks Collection Box" category="70" did="1879396435" parentZoneId="1879400512" longitude="-61.048954" latitude="32.817146"/>
-<marker id="650854440" label="Léothred" category="70" did="1879408008" parentZoneId="1879400512" longitude="-60.976326" latitude="32.594696"/>
-<marker id="650854442" label="Scatha's Tooth" category="73" did="1879409350" parentZoneId="1879400512" longitude="-60.981026" latitude="32.586414"/>
-<marker id="650854443" label="Fróthi" category="70" did="1879408000" parentZoneId="1879400512" longitude="-60.985867" latitude="32.588818"/>
-<marker id="650854445" label="A good place for a banner" category="73" did="1879409601" parentZoneId="1879400512" longitude="-60.45871" latitude="33.070927"/>
-<marker id="650854449" label="Agátur the Boastful" category="70" did="1879409613" parentZoneId="1879400512" longitude="-60.983124" latitude="32.813816"/>
-<marker id="650854456" label="Rékkur" category="70" did="1879409728" parentZoneId="1879400512" longitude="-61.13783" latitude="32.791775"/>
-<marker id="650854457" label="Aighrig" category="70" did="1879409729" parentZoneId="1879400512" longitude="-61.03033" latitude="32.72292"/>
-<marker id="650854464" label="Annâk-khurfu" category="41" did="1879407923" parentZoneId="1879400512" longitude="-61.140194" latitude="32.77078"/>
-<marker id="650854465" label="Annâk-khurfu" category="74" did="1879407923" parentZoneId="1879400512" longitude="-60.488953" latitude="32.725574"/>
-<marker id="650854466" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.488827" latitude="32.558224"/>
-<marker id="650854467" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.488827" latitude="32.558224"/>
-<marker id="650854468" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.488827" latitude="32.558224"/>
-<marker id="650854469" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.488827" latitude="32.558224"/>
-<marker id="650854470" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.722214" latitude="32.77524"/>
-<marker id="650854471" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.722214" latitude="32.77524"/>
-<marker id="650854472" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.722214" latitude="32.77524"/>
-<marker id="650854473" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.722214" latitude="32.77524"/>
-<marker id="650854474" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.99492" latitude="33.0542"/>
-<marker id="650854475" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.99492" latitude="33.0542"/>
-<marker id="650854476" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.99492" latitude="33.0542"/>
-<marker id="650854477" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.99492" latitude="33.0542"/>
-<marker id="650854478" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.61697" latitude="33.15463"/>
-<marker id="650854479" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.61697" latitude="33.15463"/>
-<marker id="650854480" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.61697" latitude="33.15463"/>
-<marker id="650854481" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.61697" latitude="33.15463"/>
-<marker id="650854482" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.53702" latitude="32.957325"/>
-<marker id="650854483" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.53702" latitude="32.957325"/>
-<marker id="650854484" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.53702" latitude="32.957325"/>
-<marker id="650854485" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.53702" latitude="32.957325"/>
-<marker id="650854486" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.738358" latitude="32.47372"/>
-<marker id="650854487" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.738358" latitude="32.47372"/>
-<marker id="650854488" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.738358" latitude="32.47372"/>
-<marker id="650854489" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.738358" latitude="32.47372"/>
-<marker id="650854490" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.101376" latitude="32.50675"/>
-<marker id="650854491" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.101376" latitude="32.50675"/>
-<marker id="650854492" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.101376" latitude="32.50675"/>
-<marker id="650854493" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.101376" latitude="32.50675"/>
+<marker id="650854422" label="Dwarf Scout" category="70" did="1879409735" parentZoneId="1879400512" longitude="-60.881073" latitude="32.56037"/>
+<marker id="650854423" label="Dwarf Scout" category="70" did="1879409735" parentZoneId="1879400512" longitude="-61.05653" latitude="32.444756"/>
+<marker id="650854424" label="Dwarf Scout" category="70" did="1879409735" parentZoneId="1879400512" longitude="-60.93745" latitude="32.450733"/>
+<marker id="650854425" label="Lúkhag" category="70" did="1879409734" parentZoneId="1879400512" longitude="-61.03909" latitude="32.731865"/>
+<marker id="650854430" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879400512" longitude="-60.938328" latitude="32.64323"/>
+<marker id="650854431" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879400512" longitude="-61.142967" latitude="32.706062"/>
+<marker id="650854432" label="Shakalush Quartermaster" category="70" did="1879415659" parentZoneId="1879400512" longitude="-61.000927" latitude="32.85574"/>
+<marker id="650854446" label="Léothred" category="70" did="1879408008" parentZoneId="1879400512" longitude="-60.976326" latitude="32.594696"/>
+<marker id="650854447" label="Scatha's Tooth" category="73" did="1879409350" parentZoneId="1879400512" longitude="-60.981026" latitude="32.586414"/>
+<marker id="650854448" label="Fróthi" category="70" did="1879408000" parentZoneId="1879400512" longitude="-60.985867" latitude="32.588818"/>
+<marker id="650854450" label="A good place for a banner" category="73" did="1879409601" parentZoneId="1879400512" longitude="-60.45871" latitude="33.070927"/>
+<marker id="650854454" label="Agátur the Boastful" category="70" did="1879409613" parentZoneId="1879400512" longitude="-60.983124" latitude="32.813816"/>
+<marker id="650854459" label="Rékkur" category="70" did="1879409728" parentZoneId="1879400512" longitude="-61.13783" latitude="32.791775"/>
+<marker id="650854462" label="Aighrig" category="70" did="1879409729" parentZoneId="1879400512" longitude="-61.03033" latitude="32.72292"/>
+<marker id="650854464" label="Tasks Collection Box" category="70" did="1879396435" parentZoneId="1879400512" longitude="-61.048954" latitude="32.817146"/>
+<marker id="650854472" label="Parcel" category="73" did="1879418069" parentZoneId="1879400512" longitude="-60.927517" latitude="32.716553"/>
+<marker id="650854474" label="Parcel" category="73" did="1879418069" parentZoneId="1879400512" longitude="-60.927135" latitude="32.66749"/>
+<marker id="650854476" label="Parcel" category="73" did="1879418069" parentZoneId="1879400512" longitude="-60.92865" latitude="32.671074"/>
+<marker id="650854477" label="Annâk-khurfu" category="41" did="1879407923" parentZoneId="1879400512" longitude="-61.140194" latitude="32.77078"/>
+<marker id="650854478" label="Annâk-khurfu" category="74" did="1879407923" parentZoneId="1879400512" longitude="-60.488953" latitude="32.725574"/>
+<marker id="650854479" label="Hermáth Stormhammer" category="70" did="1879420610" parentZoneId="1879400512" longitude="-60.950573" latitude="32.79006"/>
+<marker id="650854480" label="Hersegg" category="70" did="1879420612" parentZoneId="1879400512" longitude="-60.97746" latitude="32.786552"/>
+<marker id="650854485" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.488827" latitude="32.558224"/>
+<marker id="650854486" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.488827" latitude="32.558224"/>
+<marker id="650854487" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.488827" latitude="32.558224"/>
+<marker id="650854488" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.488827" latitude="32.558224"/>
+<marker id="650854489" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.722214" latitude="32.77524"/>
+<marker id="650854490" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.722214" latitude="32.77524"/>
+<marker id="650854491" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.722214" latitude="32.77524"/>
+<marker id="650854492" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.722214" latitude="32.77524"/>
+<marker id="650854493" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.99492" latitude="33.0542"/>
+<marker id="650854494" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.99492" latitude="33.0542"/>
+<marker id="650854495" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.99492" latitude="33.0542"/>
+<marker id="650854496" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.99492" latitude="33.0542"/>
+<marker id="650854497" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.61697" latitude="33.15463"/>
+<marker id="650854498" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.61697" latitude="33.15463"/>
+<marker id="650854499" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.61697" latitude="33.15463"/>
+<marker id="650854500" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.61697" latitude="33.15463"/>
+<marker id="650854501" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.53702" latitude="32.957325"/>
+<marker id="650854502" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.53702" latitude="32.957325"/>
+<marker id="650854503" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.53702" latitude="32.957325"/>
+<marker id="650854504" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.53702" latitude="32.957325"/>
+<marker id="650854505" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-60.738358" latitude="32.47372"/>
+<marker id="650854506" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-60.738358" latitude="32.47372"/>
+<marker id="650854507" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.738358" latitude="32.47372"/>
+<marker id="650854508" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-60.738358" latitude="32.47372"/>
+<marker id="650854509" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879400512" longitude="-61.101376" latitude="32.50675"/>
+<marker id="650854510" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400512" longitude="-61.101376" latitude="32.50675"/>
+<marker id="650854511" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-61.101376" latitude="32.50675"/>
+<marker id="650854512" label="Northern Squirrel" category="78" did="1879363823" parentZoneId="1879400512" longitude="-61.101376" latitude="32.50675"/>
 <marker id="650858496" label="Edible Indigo Leaf" category="77" did="1879410562" parentZoneId="1879400512" longitude="-60.595284" latitude="33.798428"/>
 <marker id="650858497" label="Dwarf-marker" category="73" did="1879407937" parentZoneId="1879400512" longitude="-60.489735" latitude="33.697998"/>
 <marker id="650858498" label="Fierce Mountain-drake" category="71" did="1879408045" parentZoneId="1879400512" longitude="-60.695576" latitude="33.50785"/>
@@ -15259,10 +15308,10 @@
 <marker id="650866828" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-61.08665" latitude="34.928436"/>
 <marker id="650866829" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-61.08665" latitude="34.928436"/>
 <marker id="650866830" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-61.08665" latitude="34.928436"/>
-<marker id="650866831" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-60.954666" latitude="35.030544"/>
-<marker id="650866832" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-60.954666" latitude="35.030544"/>
-<marker id="650866833" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-60.954666" latitude="35.030544"/>
-<marker id="650866834" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-60.954666" latitude="35.030544"/>
+<marker id="650866831" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-60.981766" latitude="35.00829"/>
+<marker id="650866832" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-60.981766" latitude="35.00829"/>
+<marker id="650866833" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-60.981766" latitude="35.00829"/>
+<marker id="650866834" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-60.981766" latitude="35.00829"/>
 <marker id="650866835" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-60.994335" latitude="35.12736"/>
 <marker id="650866836" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-60.994335" latitude="35.12736"/>
 <marker id="650866837" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-60.994335" latitude="35.12736"/>
@@ -16545,12 +16594,12 @@
 <marker id="650920093" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-60.32624" latitude="32.90036"/>
 <marker id="650920094" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-60.32624" latitude="32.90036"/>
 <marker id="650920095" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-60.32624" latitude="32.90036"/>
-<marker id="650920096" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-60.239483" latitude="32.795166"/>
-<marker id="650920097" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-60.239483" latitude="32.795166"/>
-<marker id="650920098" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-60.239483" latitude="32.795166"/>
-<marker id="650920099" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-60.239483" latitude="32.795166"/>
-<marker id="650920100" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-60.239483" latitude="32.795166"/>
-<marker id="650920101" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-60.239483" latitude="32.795166"/>
+<marker id="650920096" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-60.218193" latitude="32.82414"/>
+<marker id="650920097" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-60.218193" latitude="32.82414"/>
+<marker id="650920098" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-60.218193" latitude="32.82414"/>
+<marker id="650920099" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-60.218193" latitude="32.82414"/>
+<marker id="650920100" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-60.218193" latitude="32.82414"/>
+<marker id="650920101" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-60.218193" latitude="32.82414"/>
 <marker id="650920102" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-59.63439" latitude="32.89214"/>
 <marker id="650920103" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-59.63439" latitude="32.89214"/>
 <marker id="650920104" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.63439" latitude="32.89214"/>
@@ -16563,12 +16612,12 @@
 <marker id="650920111" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-60.039764" latitude="32.865017"/>
 <marker id="650920112" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-60.039764" latitude="32.865017"/>
 <marker id="650920113" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-60.039764" latitude="32.865017"/>
-<marker id="650920114" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-59.88568" latitude="32.835682"/>
-<marker id="650920115" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-59.88568" latitude="32.835682"/>
-<marker id="650920116" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.88568" latitude="32.835682"/>
-<marker id="650920117" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.88568" latitude="32.835682"/>
-<marker id="650920118" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-59.88568" latitude="32.835682"/>
-<marker id="650920119" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-59.88568" latitude="32.835682"/>
+<marker id="650920114" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-59.889072" latitude="32.84794"/>
+<marker id="650920115" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-59.889072" latitude="32.84794"/>
+<marker id="650920116" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.889072" latitude="32.84794"/>
+<marker id="650920117" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.889072" latitude="32.84794"/>
+<marker id="650920118" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-59.889072" latitude="32.84794"/>
+<marker id="650920119" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-59.889072" latitude="32.84794"/>
 <marker id="650920120" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-60.031494" latitude="32.920067"/>
 <marker id="650920121" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-60.031494" latitude="32.920067"/>
 <marker id="650920122" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-60.031494" latitude="32.920067"/>
@@ -16611,12 +16660,12 @@
 <marker id="650920159" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.694424" latitude="32.80738"/>
 <marker id="650920160" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-59.694424" latitude="32.80738"/>
 <marker id="650920161" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-59.694424" latitude="32.80738"/>
-<marker id="650920162" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-59.80571" latitude="32.844845"/>
-<marker id="650920163" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-59.80571" latitude="32.844845"/>
-<marker id="650920164" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.80571" latitude="32.844845"/>
-<marker id="650920165" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.80571" latitude="32.844845"/>
-<marker id="650920166" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-59.80571" latitude="32.844845"/>
-<marker id="650920167" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-59.80571" latitude="32.844845"/>
+<marker id="650920162" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-59.813435" latitude="32.84121"/>
+<marker id="650920163" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-59.813435" latitude="32.84121"/>
+<marker id="650920164" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.813435" latitude="32.84121"/>
+<marker id="650920165" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.813435" latitude="32.84121"/>
+<marker id="650920166" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879400512" longitude="-59.813435" latitude="32.84121"/>
+<marker id="650920167" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-59.813435" latitude="32.84121"/>
 <marker id="650920168" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879400512" longitude="-60.276455" latitude="32.665066"/>
 <marker id="650920169" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-60.276455" latitude="32.665066"/>
 <marker id="650920170" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-60.276455" latitude="32.665066"/>
@@ -19166,10 +19215,10 @@
 <marker id="650989913" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.353405" latitude="33.791416"/>
 <marker id="650989914" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.353405" latitude="33.791416"/>
 <marker id="650989915" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-59.353405" latitude="33.791416"/>
-<marker id="650989916" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-59.3241" latitude="33.659286"/>
-<marker id="650989917" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.3241" latitude="33.659286"/>
-<marker id="650989918" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.3241" latitude="33.659286"/>
-<marker id="650989919" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-59.3241" latitude="33.659286"/>
+<marker id="650989916" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-59.316345" latitude="33.636757"/>
+<marker id="650989917" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.316345" latitude="33.636757"/>
+<marker id="650989918" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.316345" latitude="33.636757"/>
+<marker id="650989919" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400512" longitude="-59.316345" latitude="33.636757"/>
 <marker id="650989920" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400512" longitude="-59.189472" latitude="33.47587"/>
 <marker id="650989921" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879400512" longitude="-59.189472" latitude="33.47587"/>
 <marker id="650989922" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400512" longitude="-59.189472" latitude="33.47587"/>

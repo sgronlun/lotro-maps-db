@@ -493,7 +493,6 @@
 <marker id="460505110" label="Register of Heroes" category="70" did="1879407643" parentZoneId="1879063941" longitude="-4.017197" latitude="-24.781307"/>
 <marker id="460505111" label="Tasks" category="27" did="1879196540" parentZoneId="1879063941" longitude="-4.1011424" latitude="-24.687773"/>
 <marker id="460505115" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-3.8808496" latitude="-24.806503"/>
-<marker id="460505116" label="Gabil'akkâ Stable-master&#10;War Effort Stable-master" category="23" did="1879410941" parentZoneId="1879063941" longitude="-3.9656835" latitude="-24.904589"/>
 <marker id="460505119" label="Gwaemithrin" category="70" did="1879052270" parentZoneId="1879063941" longitude="-4.045664" latitude="-24.778261"/>
 <marker id="460505120" label="Weather-driven Beast" category="71" did="1879413510" parentZoneId="1879063941" longitude="-3.6068554" latitude="-24.679024"/>
 <marker id="460505121" label="Weather-driven Beast" category="71" did="1879413510" parentZoneId="1879063941" longitude="-3.6059668" latitude="-24.526758"/>
@@ -529,6 +528,7 @@
 <marker id="460505454" label="Spalvi" category="70" did="1879322507" parentZoneId="1879063941" longitude="-3.868291" latitude="-24.81416"/>
 <marker id="460505455" label="Glóin" category="70" did="1879052237" parentZoneId="1879063941" longitude="-4.122607" latitude="-24.883583"/>
 <marker id="460505458" label="Longbeard Stable-master" category="70" did="1879412297" parentZoneId="1879063941" longitude="-3.9629102" latitude="-24.895555"/>
+<marker id="460505459" label="Mission Recruiter&#10;War Effort Stable-master" category="23" did="1879410941" parentZoneId="1879063941" longitude="-3.9656835" latitude="-24.904589"/>
 <marker id="460513280" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
 <marker id="460513281" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
 <marker id="460513282" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
@@ -2470,219 +2470,240 @@
 <marker id="460808328" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.34430665" latitude="-29.240585"/>
 <marker id="460808329" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.34430665" latitude="-29.240585"/>
 <marker id="460808330" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.34430665" latitude="-29.240585"/>
-<marker id="460812288" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
-<marker id="460812289" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.039472654" latitude="-29.093935"/>
-<marker id="460812290" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
-<marker id="460812291" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.039472654" latitude="-29.093935"/>
-<marker id="460812292" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
-<marker id="460812293" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
-<marker id="460812294" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.26371095" latitude="-29.086473"/>
-<marker id="460812295" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.26371095" latitude="-29.086473"/>
-<marker id="460812296" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.26371095" latitude="-29.086473"/>
-<marker id="460812297" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.26371095" latitude="-29.086473"/>
-<marker id="460812298" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
-<marker id="460812299" label="Gabilazan" category="74" did="1879063832" parentZoneId="1879063945" longitude="0.050214842" latitude="-28.431503"/>
-<marker id="460812300" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.08661132" latitude="-28.62284"/>
-<marker id="460812301" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.08661132" latitude="-28.62284"/>
-<marker id="460812302" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.08661132" latitude="-28.62284"/>
-<marker id="460812303" label="Hogni Cleave-shank" category="71" did="1879053076" parentZoneId="1879063945" longitude="0.14546874" latitude="-28.700312"/>
-<marker id="460812304" label="Mission Reward" category="72" did="1879414902" parentZoneId="1879063945" longitude="0.078339845" latitude="-28.653349"/>
-<marker id="460812305" label="Longbeard Scout" category="70" did="1879414858" parentZoneId="1879063945" longitude="0.084238276" latitude="-28.647451"/>
-<marker id="460812309" label="Gabilazan" category="74" did="1879063832" parentZoneId="1879063945" longitude="0.07892578" latitude="-28.749033"/>
-<marker id="460812317" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.17516601" latitude="-28.763964"/>
-<marker id="460812318" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.17516601" latitude="-28.763964"/>
-<marker id="460812319" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.17516601" latitude="-28.763964"/>
-<marker id="460812320" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.17516601" latitude="-28.763964"/>
-<marker id="460812321" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.179375" latitude="-28.794287"/>
-<marker id="460812322" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.179375" latitude="-28.794287"/>
-<marker id="460812323" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.179375" latitude="-28.794287"/>
-<marker id="460812324" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.179375" latitude="-28.794287"/>
-<marker id="460812325" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.0587207" latitude="-28.62084"/>
-<marker id="460812326" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.0587207" latitude="-28.62084"/>
-<marker id="460812327" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.0587207" latitude="-28.62084"/>
-<marker id="460812328" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.0587207" latitude="-28.62084"/>
-<marker id="460812329" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.059355468" latitude="-28.650967"/>
-<marker id="460812330" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.059355468" latitude="-28.650967"/>
-<marker id="460812331" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.059355468" latitude="-28.650967"/>
-<marker id="460812332" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.059355468" latitude="-28.650967"/>
-<marker id="460812333" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.057646483" latitude="-28.526367"/>
-<marker id="460812334" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.057646483" latitude="-28.526367"/>
-<marker id="460812335" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.057646483" latitude="-28.526367"/>
-<marker id="460812336" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.057646483" latitude="-28.526367"/>
-<marker id="460812337" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.32583985" latitude="-29.081738"/>
-<marker id="460812338" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.32583985" latitude="-29.081738"/>
-<marker id="460812339" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.32583985" latitude="-29.081738"/>
-<marker id="460812340" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.32583985" latitude="-29.081738"/>
-<marker id="460812341" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.24749999" latitude="-29.170185"/>
-<marker id="460812342" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.24749999" latitude="-29.170185"/>
-<marker id="460812343" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.24749999" latitude="-29.170185"/>
-<marker id="460812344" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.24749999" latitude="-29.170185"/>
-<marker id="460812345" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.36441407" latitude="-28.894403"/>
-<marker id="460812346" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.36441407" latitude="-28.894403"/>
-<marker id="460812347" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.36441407" latitude="-28.894403"/>
-<marker id="460812348" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.36441407" latitude="-28.894403"/>
-<marker id="460812349" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.12009765" latitude="-28.946358"/>
-<marker id="460812350" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.12009765" latitude="-28.946358"/>
-<marker id="460812351" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.12009765" latitude="-28.946358"/>
-<marker id="460812352" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.12009765" latitude="-28.946358"/>
-<marker id="460812353" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
-<marker id="460812354" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
-<marker id="460812355" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
-<marker id="460812356" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
-<marker id="460812357" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
-<marker id="460812358" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
-<marker id="460812359" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
-<marker id="460812360" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
-<marker id="460812361" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
-<marker id="460812362" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
-<marker id="460812363" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
-<marker id="460812364" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
-<marker id="460812365" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
-<marker id="460812366" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
-<marker id="460812367" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
-<marker id="460812368" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
-<marker id="460812369" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
-<marker id="460812370" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
-<marker id="460812371" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
-<marker id="460812372" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
-<marker id="460812373" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
-<marker id="460812374" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
-<marker id="460812375" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
-<marker id="460812376" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
-<marker id="460812377" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
-<marker id="460812378" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
-<marker id="460812379" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
-<marker id="460812380" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
-<marker id="460812381" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
-<marker id="460812382" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
-<marker id="460812383" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
-<marker id="460812384" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
-<marker id="460812385" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
-<marker id="460812386" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
-<marker id="460812387" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
-<marker id="460812388" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
-<marker id="460812389" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
-<marker id="460812390" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
-<marker id="460812391" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
-<marker id="460812392" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
-<marker id="460812393" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
-<marker id="460812394" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
-<marker id="460816384" label="Door" category="100" did="1879063337" parentZoneId="1879063944" longitude="0.21706054" latitude="-28.294922"/>
-<marker id="460816385" label="Hjortur" category="71" did="1879062580" parentZoneId="1879063944" longitude="-0.1090625" latitude="-28.028778"/>
-<marker id="460816386" label="Gabilazan" category="74" did="1879063832" parentZoneId="1879063944" longitude="0.03836914" latitude="-27.960274"/>
-<marker id="460816387" label="Hjortur's Chest" category="73" did="1879089942" parentZoneId="1879063944" longitude="-0.11584961" latitude="-28.028543"/>
-<marker id="460816388" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.08481445" latitude="-27.818876"/>
-<marker id="460816389" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="0.093974605" latitude="-28.079277"/>
-<marker id="460816390" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.08481445" latitude="-27.818876"/>
-<marker id="460816391" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.08481445" latitude="-27.818876"/>
-<marker id="460816392" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.06385742" latitude="-27.788437"/>
-<marker id="460816393" label="Dourhand Captor" category="71" did="1879322788" parentZoneId="1879063944" longitude="0.21033202" latitude="-28.051376"/>
-<marker id="460816394" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="0.11161133" latitude="-27.673222"/>
-<marker id="460816395" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="3.125E-4" latitude="-27.825205"/>
-<marker id="460816396" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="-0.04408203" latitude="-27.858456"/>
-<marker id="460816397" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="-0.049941406" latitude="-27.618242"/>
-<marker id="460816398" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="0.0015820313" latitude="-27.690302"/>
-<marker id="460816399" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="0.3088867" latitude="-27.66949"/>
-<marker id="460816400" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="0.31370115" latitude="-27.825283"/>
-<marker id="460816402" label="Gabilazan Captain" category="71" did="1879080519" parentZoneId="1879063944" longitude="0.08166992" latitude="-27.740858"/>
-<marker id="460816403" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.081074215" latitude="-27.731815"/>
-<marker id="460816404" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.05068359" latitude="-27.615332"/>
-<marker id="460816405" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.077597655" latitude="-27.61629"/>
-<marker id="460816406" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.08213867" latitude="-27.750223"/>
-<marker id="460816407" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.06408203" latitude="-27.64703"/>
-<marker id="460816408" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.07225586" latitude="-27.630615"/>
-<marker id="460816409" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.05953125" latitude="-27.631151"/>
-<marker id="460816410" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.19069335" latitude="-27.737139"/>
-<marker id="460816411" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.22625" latitude="-27.881308"/>
-<marker id="460816415" label="Prisoner Cage" category="73" did="1879322541" parentZoneId="1879063944" longitude="0.23385742" latitude="-28.02618"/>
-<marker id="460816424" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.053906247" latitude="-27.65087"/>
-<marker id="460816425" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.053906247" latitude="-27.65087"/>
-<marker id="460816426" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.053906247" latitude="-27.65087"/>
-<marker id="460816427" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.053906247" latitude="-27.65087"/>
-<marker id="460816428" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.2972168" latitude="-27.738642"/>
-<marker id="460816429" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.2972168" latitude="-27.738642"/>
-<marker id="460816430" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.2972168" latitude="-27.738642"/>
-<marker id="460816431" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.2972168" latitude="-27.738642"/>
-<marker id="460816432" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.020234374" latitude="-27.802284"/>
-<marker id="460816433" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.020234374" latitude="-27.802284"/>
-<marker id="460816434" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.020234374" latitude="-27.802284"/>
-<marker id="460816435" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.020234374" latitude="-27.802284"/>
-<marker id="460816436" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.056474607" latitude="-27.837206"/>
-<marker id="460816437" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.056474607" latitude="-27.837206"/>
-<marker id="460816438" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.056474607" latitude="-27.837206"/>
-<marker id="460816439" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.056474607" latitude="-27.837206"/>
-<marker id="460816440" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.053359374" latitude="-27.649658"/>
-<marker id="460816441" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.053359374" latitude="-27.649658"/>
-<marker id="460816442" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.053359374" latitude="-27.649658"/>
-<marker id="460816443" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.053359374" latitude="-27.649658"/>
-<marker id="460816444" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.027304687" latitude="-27.681347"/>
-<marker id="460816445" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.027304687" latitude="-27.681347"/>
-<marker id="460816446" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.027304687" latitude="-27.681347"/>
-<marker id="460816447" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.027304687" latitude="-27.681347"/>
-<marker id="460816448" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.088515624" latitude="-27.910429"/>
-<marker id="460816449" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.088515624" latitude="-27.910429"/>
-<marker id="460816450" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.088515624" latitude="-27.910429"/>
-<marker id="460816451" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.088515624" latitude="-27.910429"/>
-<marker id="460816452" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.11482421" latitude="-27.911346"/>
-<marker id="460816453" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.11482421" latitude="-27.911346"/>
-<marker id="460816454" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.11482421" latitude="-27.911346"/>
-<marker id="460816455" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.11482421" latitude="-27.911346"/>
-<marker id="460816456" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.11743164" latitude="-27.985107"/>
-<marker id="460816457" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.11743164" latitude="-27.985107"/>
-<marker id="460816458" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.11743164" latitude="-27.985107"/>
-<marker id="460816459" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.11743164" latitude="-27.985107"/>
-<marker id="460816460" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.09958984" latitude="-27.64369"/>
-<marker id="460816461" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.09958984" latitude="-27.64369"/>
-<marker id="460816462" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.09958984" latitude="-27.64369"/>
-<marker id="460816463" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.09958984" latitude="-27.64369"/>
-<marker id="460816464" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.09858398" latitude="-27.831747"/>
-<marker id="460816465" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.09858398" latitude="-27.831747"/>
-<marker id="460816466" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.09858398" latitude="-27.831747"/>
-<marker id="460816467" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.09858398" latitude="-27.831747"/>
-<marker id="460816468" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.03602539" latitude="-28.173641"/>
-<marker id="460816469" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.03602539" latitude="-28.173641"/>
-<marker id="460816470" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.03602539" latitude="-28.173641"/>
-<marker id="460816471" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.03602539" latitude="-28.173641"/>
-<marker id="460816472" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.04213867" latitude="-28.198174"/>
-<marker id="460816473" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.04213867" latitude="-28.198174"/>
-<marker id="460816474" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.04213867" latitude="-28.198174"/>
-<marker id="460816475" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.04213867" latitude="-28.198174"/>
-<marker id="460816476" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.2284375" latitude="-27.887997"/>
-<marker id="460816477" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.2284375" latitude="-27.887997"/>
-<marker id="460816478" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.2284375" latitude="-27.887997"/>
-<marker id="460816479" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.2284375" latitude="-27.887997"/>
-<marker id="460816480" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.25474608" latitude="-27.88708"/>
-<marker id="460816481" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.25474608" latitude="-27.88708"/>
-<marker id="460816482" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.25474608" latitude="-27.88708"/>
-<marker id="460816483" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.25474608" latitude="-27.88708"/>
-<marker id="460816484" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.24850586" latitude="-27.930927"/>
-<marker id="460816485" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.24850586" latitude="-27.930927"/>
-<marker id="460816486" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.24850586" latitude="-27.930927"/>
-<marker id="460816487" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.24850586" latitude="-27.930927"/>
-<marker id="460816488" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.06936523" latitude="-28.204746"/>
-<marker id="460816489" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.06936523" latitude="-28.204746"/>
-<marker id="460816490" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.06936523" latitude="-28.204746"/>
-<marker id="460816491" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.06936523" latitude="-28.204746"/>
-<marker id="460816492" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="0.22966796" latitude="-28.269238"/>
-<marker id="460816493" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="-0.06839844" latitude="-28.153934"/>
-<marker id="460816494" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="0.25648436" latitude="-28.050606"/>
-<marker id="460816495" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="-0.1375293" latitude="-28.041473"/>
-<marker id="460816496" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="-4.4921873E-4" latitude="-27.860586"/>
-<marker id="460816497" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="-6.8359374E-4" latitude="-27.620527"/>
-<marker id="460816498" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.0730957" latitude="-27.61997"/>
-<marker id="460816499" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.024023438" latitude="-27.614834"/>
-<marker id="460816500" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.11370117" latitude="-27.673388"/>
-<marker id="460816501" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.11549804" latitude="-27.776014"/>
-<marker id="460816502" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.020683594" latitude="-27.867598"/>
-<marker id="460816503" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.07417969" latitude="-27.863535"/>
-<marker id="460816504" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.20665039" latitude="-27.636688"/>
-<marker id="460816505" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.25692382" latitude="-27.987627"/>
-<marker id="460816506" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.20447265" latitude="-27.91201"/>
-<marker id="460816507" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.26163086" latitude="-27.939404"/>
-<marker id="460816508" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.030126952" latitude="-27.913612"/>
-<marker id="460816509" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.093974605" latitude="-27.912598"/>
-<marker id="460816510" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.07571289" latitude="-28.206766"/>
-<marker id="460816511" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.19862305" latitude="-28.311846"/>
+<marker id="460812288" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.039472654" latitude="-29.093935"/>
+<marker id="460812289" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.039472654" latitude="-29.093935"/>
+<marker id="460812291" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
+<marker id="460812292" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.08661132" latitude="-28.62284"/>
+<marker id="460812293" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.08661132" latitude="-28.62284"/>
+<marker id="460812294" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
+<marker id="460812295" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.08661132" latitude="-28.62284"/>
+<marker id="460812296" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
+<marker id="460812297" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
+<marker id="460812298" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.26371095" latitude="-29.086473"/>
+<marker id="460812299" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.26371095" latitude="-29.086473"/>
+<marker id="460812300" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.26371095" latitude="-29.086473"/>
+<marker id="460812301" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.26371095" latitude="-29.086473"/>
+<marker id="460812302" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.19163086" latitude="-28.991474"/>
+<marker id="460812304" label="Door" category="100" did="1879368139" parentZoneId="1879063945" longitude="0.16996093" latitude="-28.756952"/>
+<marker id="460812305" label="Mission Reward" category="72" did="1879414902" parentZoneId="1879063945" longitude="0.16876952" latitude="-28.726728"/>
+<marker id="460812306" label="Meddlesome Stone-giant" category="71" did="1879415896" parentZoneId="1879063945" longitude="0.14219727" latitude="-28.747782"/>
+<marker id="460812307" label="Invasive Snow-beast" category="71" did="1879415884" parentZoneId="1879063945" longitude="0.09786133" latitude="-28.525536"/>
+<marker id="460812308" label="Invasive Snow-beast" category="71" did="1879415884" parentZoneId="1879063945" longitude="0.04666992" latitude="-28.630243"/>
+<marker id="460812309" label="Invasive Snow-beast" category="71" did="1879415885" parentZoneId="1879063945" longitude="0.04086914" latitude="-28.59749"/>
+<marker id="460812310" label="Invasive Snow-beast" category="71" did="1879415885" parentZoneId="1879063945" longitude="-0.002861328" latitude="-28.439901"/>
+<marker id="460812311" label="Invasive Snow-beast" category="71" did="1879415885" parentZoneId="1879063945" longitude="0.11453125" latitude="-28.5995"/>
+<marker id="460812316" label="Longbeard Scout" category="70" did="1879414858" parentZoneId="1879063945" longitude="0.1675586" latitude="-28.71498"/>
+<marker id="460812320" label="Gabilazan" category="74" did="1879063832" parentZoneId="1879063945" longitude="0.050214842" latitude="-28.431503"/>
+<marker id="460812321" label="Gabilazan" category="74" did="1879063832" parentZoneId="1879063945" longitude="0.07892578" latitude="-28.749033"/>
+<marker id="460812323" label="Hogni Cleave-shank" category="71" did="1879053076" parentZoneId="1879063945" longitude="0.14546874" latitude="-28.700312"/>
+<marker id="460812329" label="Vicious Cold" category="71" did="1879415883" parentZoneId="1879063945" longitude="0.055849608" latitude="-28.712948"/>
+<marker id="460812330" label="Vicious Cold" category="71" did="1879415883" parentZoneId="1879063945" longitude="0.07861328" latitude="-28.477364"/>
+<marker id="460812331" label="Vicious Cold" category="71" did="1879415883" parentZoneId="1879063945" longitude="0.12836914" latitude="-28.645136"/>
+<marker id="460812332" label="Vicious Cold" category="71" did="1879415883" parentZoneId="1879063945" longitude="-0.050205078" latitude="-28.545458"/>
+<marker id="460812333" label="Gate-mechanism" category="73" did="1879415873" parentZoneId="1879063945" longitude="0.12979493" latitude="-28.758984"/>
+<marker id="460812334" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.17516601" latitude="-28.763964"/>
+<marker id="460812335" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.17516601" latitude="-28.763964"/>
+<marker id="460812336" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.17516601" latitude="-28.763964"/>
+<marker id="460812337" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.17516601" latitude="-28.763964"/>
+<marker id="460812338" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.179375" latitude="-28.794287"/>
+<marker id="460812339" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.179375" latitude="-28.794287"/>
+<marker id="460812340" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.179375" latitude="-28.794287"/>
+<marker id="460812341" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.179375" latitude="-28.794287"/>
+<marker id="460812342" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.0587207" latitude="-28.62084"/>
+<marker id="460812343" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.0587207" latitude="-28.62084"/>
+<marker id="460812344" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.0587207" latitude="-28.62084"/>
+<marker id="460812345" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.0587207" latitude="-28.62084"/>
+<marker id="460812346" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.059355468" latitude="-28.650967"/>
+<marker id="460812347" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.059355468" latitude="-28.650967"/>
+<marker id="460812348" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.059355468" latitude="-28.650967"/>
+<marker id="460812349" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.059355468" latitude="-28.650967"/>
+<marker id="460812350" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063945" longitude="0.057646483" latitude="-28.526367"/>
+<marker id="460812351" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063945" longitude="0.057646483" latitude="-28.526367"/>
+<marker id="460812352" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063945" longitude="0.057646483" latitude="-28.526367"/>
+<marker id="460812353" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.057646483" latitude="-28.526367"/>
+<marker id="460812354" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.32583985" latitude="-29.081738"/>
+<marker id="460812355" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.32583985" latitude="-29.081738"/>
+<marker id="460812356" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.32583985" latitude="-29.081738"/>
+<marker id="460812357" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.32583985" latitude="-29.081738"/>
+<marker id="460812358" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.24749999" latitude="-29.170185"/>
+<marker id="460812359" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.24749999" latitude="-29.170185"/>
+<marker id="460812360" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.24749999" latitude="-29.170185"/>
+<marker id="460812361" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.24749999" latitude="-29.170185"/>
+<marker id="460812362" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.36441407" latitude="-28.894403"/>
+<marker id="460812363" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.36441407" latitude="-28.894403"/>
+<marker id="460812364" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.36441407" latitude="-28.894403"/>
+<marker id="460812365" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.36441407" latitude="-28.894403"/>
+<marker id="460812366" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063945" longitude="0.12009765" latitude="-28.946358"/>
+<marker id="460812367" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063945" longitude="0.12009765" latitude="-28.946358"/>
+<marker id="460812368" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063945" longitude="0.12009765" latitude="-28.946358"/>
+<marker id="460812369" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063945" longitude="0.12009765" latitude="-28.946358"/>
+<marker id="460812370" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
+<marker id="460812371" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
+<marker id="460812372" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
+<marker id="460812373" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
+<marker id="460812374" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
+<marker id="460812375" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
+<marker id="460812376" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.36993164" latitude="-29.141493"/>
+<marker id="460812377" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
+<marker id="460812378" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
+<marker id="460812379" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
+<marker id="460812380" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
+<marker id="460812381" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
+<marker id="460812382" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
+<marker id="460812383" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.3067871" latitude="-28.957188"/>
+<marker id="460812384" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
+<marker id="460812385" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
+<marker id="460812386" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
+<marker id="460812387" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
+<marker id="460812388" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
+<marker id="460812389" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
+<marker id="460812390" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="-0.037109375" latitude="-29.191319"/>
+<marker id="460812391" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
+<marker id="460812392" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
+<marker id="460812393" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
+<marker id="460812394" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
+<marker id="460812395" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
+<marker id="460812396" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
+<marker id="460812397" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.21540038" latitude="-29.106768"/>
+<marker id="460812398" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
+<marker id="460812399" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
+<marker id="460812400" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
+<marker id="460812401" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
+<marker id="460812402" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
+<marker id="460812403" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
+<marker id="460812404" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.13995117" latitude="-28.973242"/>
+<marker id="460812405" label="Curr-olog" category="71" did="1879080501" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
+<marker id="460812406" label="Frost Mammoth" category="71" did="1879080510" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
+<marker id="460812407" label="Curr-olog Thrower" category="71" did="1879080369" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
+<marker id="460812408" label="Giant Snow-bear" category="71" did="1879080508" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
+<marker id="460812409" label="Mammoth Bull" category="71" did="1879080509" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
+<marker id="460812410" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
+<marker id="460812411" label="Frost-giant Rockhurler" category="71" did="1879080507" parentZoneId="1879063945" longitude="0.016230468" latitude="-29.106161"/>
+<marker id="460816384" label="Invasive Snow-beast" category="71" did="1879415884" parentZoneId="1879063944" longitude="-0.06297851" latitude="-28.188944"/>
+<marker id="460816385" label="Invasive Snow-beast" category="71" did="1879415885" parentZoneId="1879063944" longitude="-0.060791016" latitude="-28.144531"/>
+<marker id="460816386" label="Vicious Cold" category="71" did="1879415883" parentZoneId="1879063944" longitude="-0.054453123" latitude="-28.320028"/>
+<marker id="460816387" label="Door" category="100" did="1879063337" parentZoneId="1879063944" longitude="0.21706054" latitude="-28.294922"/>
+<marker id="460816388" label="Hjortur" category="71" did="1879062580" parentZoneId="1879063944" longitude="-0.1090625" latitude="-28.028778"/>
+<marker id="460816389" label="Gabilazan" category="74" did="1879063832" parentZoneId="1879063944" longitude="0.03836914" latitude="-27.960274"/>
+<marker id="460816390" label="Hjortur's Chest" category="73" did="1879089942" parentZoneId="1879063944" longitude="-0.11584961" latitude="-28.028543"/>
+<marker id="460816391" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.08481445" latitude="-27.818876"/>
+<marker id="460816392" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="0.093974605" latitude="-28.079277"/>
+<marker id="460816393" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.08481445" latitude="-27.818876"/>
+<marker id="460816394" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.08481445" latitude="-27.818876"/>
+<marker id="460816395" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.06385742" latitude="-27.788437"/>
+<marker id="460816396" label="Dourhand Captor" category="71" did="1879322788" parentZoneId="1879063944" longitude="0.21033202" latitude="-28.051376"/>
+<marker id="460816397" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="0.11161133" latitude="-27.673222"/>
+<marker id="460816398" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="3.125E-4" latitude="-27.825205"/>
+<marker id="460816399" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="-0.04408203" latitude="-27.858456"/>
+<marker id="460816400" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="-0.049941406" latitude="-27.618242"/>
+<marker id="460816401" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="0.0015820313" latitude="-27.690302"/>
+<marker id="460816402" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="0.3088867" latitude="-27.66949"/>
+<marker id="460816403" label="Bundle of Food" category="73" did="1879322545" parentZoneId="1879063944" longitude="0.31370115" latitude="-27.825283"/>
+<marker id="460816404" label="Prisoner Cage" category="73" did="1879322541" parentZoneId="1879063944" longitude="0.23385742" latitude="-28.02618"/>
+<marker id="460816405" label="Gabilazan Captain" category="71" did="1879080519" parentZoneId="1879063944" longitude="0.08166992" latitude="-27.740858"/>
+<marker id="460816406" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.081074215" latitude="-27.731815"/>
+<marker id="460816407" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.05068359" latitude="-27.615332"/>
+<marker id="460816408" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.077597655" latitude="-27.61629"/>
+<marker id="460816409" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.08213867" latitude="-27.750223"/>
+<marker id="460816410" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.06408203" latitude="-27.64703"/>
+<marker id="460816411" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.07225586" latitude="-27.630615"/>
+<marker id="460816412" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.05953125" latitude="-27.631151"/>
+<marker id="460816413" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.19069335" latitude="-27.737139"/>
+<marker id="460816414" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.22625" latitude="-27.881308"/>
+<marker id="460816415" label="Vighar Roadwalker" category="71" did="1879415906" parentZoneId="1879063944" longitude="0.05198242" latitude="-27.991396"/>
+<marker id="460816416" label="Gabilazan Guard" category="71" did="1879415907" parentZoneId="1879063944" longitude="0.07926758" latitude="-27.971405"/>
+<marker id="460816417" label="Gabilazan Guard" category="71" did="1879415907" parentZoneId="1879063944" longitude="0.03173828" latitude="-27.968916"/>
+<marker id="460816431" label="Vicious Cold" category="71" did="1879415883" parentZoneId="1879063944" longitude="0.07261719" latitude="-28.164032"/>
+<marker id="460816432" label="Vicious Cold" category="71" did="1879415883" parentZoneId="1879063944" longitude="0.2047754" latitude="-28.180624"/>
+<marker id="460816433" label="Vicious Cold" category="71" did="1879415883" parentZoneId="1879063944" longitude="0.17161132" latitude="-28.35787"/>
+<marker id="460816434" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.053906247" latitude="-27.65087"/>
+<marker id="460816435" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.053906247" latitude="-27.65087"/>
+<marker id="460816436" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.053906247" latitude="-27.65087"/>
+<marker id="460816437" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.053906247" latitude="-27.65087"/>
+<marker id="460816438" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.2972168" latitude="-27.738642"/>
+<marker id="460816439" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.2972168" latitude="-27.738642"/>
+<marker id="460816440" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.2972168" latitude="-27.738642"/>
+<marker id="460816441" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.2972168" latitude="-27.738642"/>
+<marker id="460816442" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.020234374" latitude="-27.802284"/>
+<marker id="460816443" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.020234374" latitude="-27.802284"/>
+<marker id="460816444" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.020234374" latitude="-27.802284"/>
+<marker id="460816445" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.020234374" latitude="-27.802284"/>
+<marker id="460816446" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.056474607" latitude="-27.837206"/>
+<marker id="460816447" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.056474607" latitude="-27.837206"/>
+<marker id="460816448" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.056474607" latitude="-27.837206"/>
+<marker id="460816449" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.056474607" latitude="-27.837206"/>
+<marker id="460816450" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.053359374" latitude="-27.649658"/>
+<marker id="460816451" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.053359374" latitude="-27.649658"/>
+<marker id="460816452" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.053359374" latitude="-27.649658"/>
+<marker id="460816453" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.053359374" latitude="-27.649658"/>
+<marker id="460816454" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.027304687" latitude="-27.681347"/>
+<marker id="460816455" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.027304687" latitude="-27.681347"/>
+<marker id="460816456" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.027304687" latitude="-27.681347"/>
+<marker id="460816457" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.027304687" latitude="-27.681347"/>
+<marker id="460816458" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.088515624" latitude="-27.910429"/>
+<marker id="460816459" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.088515624" latitude="-27.910429"/>
+<marker id="460816460" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.088515624" latitude="-27.910429"/>
+<marker id="460816461" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.088515624" latitude="-27.910429"/>
+<marker id="460816462" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.11482421" latitude="-27.911346"/>
+<marker id="460816463" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.11482421" latitude="-27.911346"/>
+<marker id="460816464" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.11482421" latitude="-27.911346"/>
+<marker id="460816465" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.11482421" latitude="-27.911346"/>
+<marker id="460816466" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.11743164" latitude="-27.985107"/>
+<marker id="460816467" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.11743164" latitude="-27.985107"/>
+<marker id="460816468" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.11743164" latitude="-27.985107"/>
+<marker id="460816469" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.11743164" latitude="-27.985107"/>
+<marker id="460816470" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.09958984" latitude="-27.64369"/>
+<marker id="460816471" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.09958984" latitude="-27.64369"/>
+<marker id="460816472" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.09958984" latitude="-27.64369"/>
+<marker id="460816473" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.09958984" latitude="-27.64369"/>
+<marker id="460816474" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.09858398" latitude="-27.831747"/>
+<marker id="460816475" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.09858398" latitude="-27.831747"/>
+<marker id="460816476" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.09858398" latitude="-27.831747"/>
+<marker id="460816477" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.09858398" latitude="-27.831747"/>
+<marker id="460816478" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.03602539" latitude="-28.173641"/>
+<marker id="460816479" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.03602539" latitude="-28.173641"/>
+<marker id="460816480" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.03602539" latitude="-28.173641"/>
+<marker id="460816481" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.03602539" latitude="-28.173641"/>
+<marker id="460816482" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="-0.04213867" latitude="-28.198174"/>
+<marker id="460816483" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="-0.04213867" latitude="-28.198174"/>
+<marker id="460816484" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="-0.04213867" latitude="-28.198174"/>
+<marker id="460816485" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="-0.04213867" latitude="-28.198174"/>
+<marker id="460816486" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.2284375" latitude="-27.887997"/>
+<marker id="460816487" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.2284375" latitude="-27.887997"/>
+<marker id="460816488" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.2284375" latitude="-27.887997"/>
+<marker id="460816489" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.2284375" latitude="-27.887997"/>
+<marker id="460816490" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.25474608" latitude="-27.88708"/>
+<marker id="460816491" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.25474608" latitude="-27.88708"/>
+<marker id="460816492" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.25474608" latitude="-27.88708"/>
+<marker id="460816493" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.25474608" latitude="-27.88708"/>
+<marker id="460816494" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.24850586" latitude="-27.930927"/>
+<marker id="460816495" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.24850586" latitude="-27.930927"/>
+<marker id="460816496" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.24850586" latitude="-27.930927"/>
+<marker id="460816497" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.24850586" latitude="-27.930927"/>
+<marker id="460816498" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.06936523" latitude="-28.204746"/>
+<marker id="460816499" label="Gabilazan Lieutenant" category="71" did="1879080516" parentZoneId="1879063944" longitude="0.06936523" latitude="-28.204746"/>
+<marker id="460816500" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="0.06936523" latitude="-28.204746"/>
+<marker id="460816501" label="Frost-giant" category="71" did="1879080506" parentZoneId="1879063944" longitude="0.06936523" latitude="-28.204746"/>
+<marker id="460816502" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="0.22966796" latitude="-28.269238"/>
+<marker id="460816503" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="-0.06839844" latitude="-28.153934"/>
+<marker id="460816504" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="0.25648436" latitude="-28.050606"/>
+<marker id="460816505" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="-0.1375293" latitude="-28.041473"/>
+<marker id="460816506" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="-4.4921873E-4" latitude="-27.860586"/>
+<marker id="460816507" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="-6.8359374E-4" latitude="-27.620527"/>
+<marker id="460816508" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.0730957" latitude="-27.61997"/>
+<marker id="460816509" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.024023438" latitude="-27.614834"/>
+<marker id="460816510" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.11370117" latitude="-27.673388"/>
+<marker id="460816511" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.11549804" latitude="-27.776014"/>
+<marker id="460816512" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.020683594" latitude="-27.867598"/>
+<marker id="460816513" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.07417969" latitude="-27.863535"/>
+<marker id="460816514" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.20665039" latitude="-27.636688"/>
+<marker id="460816515" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.25692382" latitude="-27.987627"/>
+<marker id="460816516" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.20447265" latitude="-27.91201"/>
+<marker id="460816517" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.26163086" latitude="-27.939404"/>
+<marker id="460816518" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.030126952" latitude="-27.913612"/>
+<marker id="460816519" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.093974605" latitude="-27.912598"/>
+<marker id="460816520" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="-0.07571289" latitude="-28.206766"/>
+<marker id="460816521" label="Ancient Vase" category="50" did="1879080462" parentZoneId="1879063944" longitude="0.19862305" latitude="-28.311846"/>
 <marker id="460820480" label="Door" category="100" did="1879063337" parentZoneId="1879063944" longitude="0.0015332031" latitude="-27.315693"/>
 <marker id="460820482" label="Supply Crate" category="72" did="1879080521" parentZoneId="1879063944" longitude="0.10443359" latitude="-27.359482"/>
 <marker id="460820483" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="0.09829102" latitude="-27.157665"/>

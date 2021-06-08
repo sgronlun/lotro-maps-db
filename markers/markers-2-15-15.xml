@@ -191,62 +191,83 @@
 <marker id="804462601" label="Supplier" category="38" did="1879368437" parentZoneId="1879409238" longitude="47.71117" latitude="69.11619"/>
 <marker id="804462605" label="Auctioneer" category="53" did="1879063824" parentZoneId="1879409238" longitude="47.47162" latitude="69.14039"/>
 <marker id="804462607" label="Quartermaster" category="61" did="1879411454" parentZoneId="1879409237" longitude="47.531425" latitude="69.35224"/>
-<marker id="804462609" label="Adventurer's Quartermaster&#10;A quartermaster who deals in Embers of Enchantment. Adventurer's gear" category="58" did="1879381070" parentZoneId="1879409237" longitude="47.705486" latitude="69.39193"/>
-<marker id="804462610" label="Traveller's Quartermaster&#10;A quartermaster who deals in Motes of Enchantment. Traveller's gear" category="58" did="1879381066" parentZoneId="1879409237" longitude="47.521133" latitude="69.34096"/>
 <marker id="804462615" label="Longbeard Guard" category="70" did="1879409072" parentZoneId="1879409238" longitude="47.581875" latitude="68.87754"/>
-<marker id="804462620" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879409238" longitude="47.53324" latitude="69.04898"/>
-<marker id="804462621" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879409238" longitude="47.726288" latitude="69.13593"/>
-<marker id="804462622" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879409238" longitude="47.4983" latitude="69.061424"/>
-<marker id="804462623" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879409238" longitude="47.55955" latitude="68.97723"/>
 <marker id="804462642" label="Longbeard Guard" category="70" did="1879409072" parentZoneId="1879409237" longitude="47.619316" latitude="68.96965"/>
-<marker id="804462643" label="Vorthur Smokebreath" category="70" did="1879414859" parentZoneId="1879409237" longitude="47.68119" latitude="69.24879"/>
-<marker id="804462645" label="Laugi" category="70" did="1879409581" parentZoneId="1879409238" longitude="47.70131" latitude="69.005646"/>
-<marker id="804462647" label="Vault-keeper" category="40" did="1879409014" parentZoneId="1879409238" longitude="47.72295" latitude="68.957985"/>
-<marker id="804462648" label="Longbeard Guard" category="70" did="1879409072" parentZoneId="1879409238" longitude="47.616776" latitude="68.87701"/>
-<marker id="804462649" label="Longbeard Guard" category="70" did="1879409072" parentZoneId="1879409237" longitude="47.578827" latitude="68.96978"/>
-<marker id="804462650" label="Relic-master" category="29" did="1879348267" parentZoneId="1879409238" longitude="47.588337" latitude="69.104416"/>
-<marker id="804462651" label="Forge-master" category="29" did="1879348268" parentZoneId="1879409238" longitude="47.553516" latitude="69.10049"/>
-<marker id="804462653" label="Stable-master" category="51" did="1879409985" parentZoneId="1879409237" longitude="47.58443" latitude="68.88738"/>
-<marker id="804462654" label="Workbench" category="75" did="1879063073" parentZoneId="1879409238" longitude="47.741425" latitude="68.99859"/>
-<marker id="804462655" label="Workbench" category="73" did="1879063072" parentZoneId="1879409238" longitude="47.717518" latitude="68.98277"/>
-<marker id="804462656" label="Oven" category="75" did="1879063058" parentZoneId="1879409238" longitude="47.452774" latitude="69.000015"/>
-<marker id="804462657" label="Study" category="75" did="1879063060" parentZoneId="1879409238" longitude="47.45449" latitude="69.09285"/>
-<marker id="804462658" label="Forge" category="75" did="1879063062" parentZoneId="1879409238" longitude="47.60119" latitude="69.11988"/>
-<marker id="804462661" label="Study" category="73" did="1879063729" parentZoneId="1879409238" longitude="47.457478" latitude="69.065704"/>
-<marker id="804462662" label="Oven" category="73" did="1879063882" parentZoneId="1879409238" longitude="47.458416" latitude="68.97103"/>
-<marker id="804462676" label="Blazon of the Gabil'akkâ" category="48" did="1879411946" parentZoneId="1879409237" longitude="47.63488" latitude="69.38959"/>
-<marker id="804462677" label="Dréri" category="70" did="1879411731" parentZoneId="1879409237" longitude="47.62584" latitude="69.064415"/>
-<marker id="804462678" label="Órug" category="70" did="1879411735" parentZoneId="1879409237" longitude="47.588963" latitude="69.19699"/>
-<marker id="804462679" label="Malek" category="70" did="1879411733" parentZoneId="1879409237" longitude="47.579178" latitude="69.02828"/>
-<marker id="804462680" label="Agnar Brokentooth" category="70" did="1879411722" parentZoneId="1879409237" longitude="47.5007" latitude="69.22047"/>
-<marker id="804462681" label="Reithvald Red-ember" category="70" did="1879411720" parentZoneId="1879409237" longitude="47.496677" latitude="69.23181"/>
-<marker id="804462682" label="Lági Helmbiter" category="70" did="1879411714" parentZoneId="1879409237" longitude="47.488865" latitude="69.228165"/>
-<marker id="804462684" label="Líkmund" category="70" did="1879409527" parentZoneId="1879409238" longitude="47.561462" latitude="69.031525"/>
-<marker id="804462691" label="Thettmárr" category="70" did="1879409513" parentZoneId="1879409238" longitude="47.560642" latitude="69.0456"/>
-<marker id="804462777" label="Lóssi" category="70" did="1879409618" parentZoneId="1879409238" longitude="47.582577" latitude="68.92576"/>
-<marker id="804462779" label="Prince Ingór" category="70" did="1879409535" parentZoneId="1879409238" longitude="47.48328" latitude="69.111465"/>
-<marker id="804462780" label="Stóthkell" category="70" did="1879409515" parentZoneId="1879409238" longitude="47.612324" latitude="69.07805"/>
-<marker id="804462781" label="Afwald" category="70" did="1879409541" parentZoneId="1879409238" longitude="47.72453" latitude="69.0949"/>
-<marker id="804462782" label="Thorgest" category="70" did="1879409528" parentZoneId="1879409238" longitude="47.723633" latitude="69.104454"/>
-<marker id="804462783" label="Eywind" category="70" did="1879409548" parentZoneId="1879409237" longitude="47.56285" latitude="69.15883"/>
-<marker id="804462784" label="Slagvi" category="70" did="1879409516" parentZoneId="1879409237" longitude="47.626522" latitude="69.3114"/>
-<marker id="804462785" label="Trausti" category="70" did="1879409540" parentZoneId="1879409237" longitude="47.63164" latitude="69.15943"/>
-<marker id="804462788" label="Bósi" category="70" did="1879409525" parentZoneId="1879409238" longitude="47.599102" latitude="68.90113"/>
-<marker id="804462789" label="Bori" category="70" did="1879409523" parentZoneId="1879409238" longitude="47.60627" latitude="68.89025"/>
-<marker id="804462790" label="Bróin" category="70" did="1879409559" parentZoneId="1879409238" longitude="47.590565" latitude="68.89104"/>
-<marker id="804462791" label="Durin" category="70" did="1879409530" parentZoneId="1879409237" longitude="47.608963" latitude="69.35697"/>
-<marker id="804462793" label="Bósi" category="70" did="1879409560" parentZoneId="1879409237" longitude="47.604023" latitude="69.09197"/>
-<marker id="804462795" label="Bori" category="70" did="1879409534" parentZoneId="1879409237" longitude="47.59236" latitude="69.084335"/>
-<marker id="804462802" label="An air-tight chest" category="73" did="1879409631" parentZoneId="1879409238" longitude="47.635155" latitude="69.08541"/>
-<marker id="804462817" label="Gunvald" category="70" did="1879409583" parentZoneId="1879409237" longitude="47.680878" latitude="69.09572"/>
-<marker id="804462838" label="Elóf" category="70" did="1879410511" parentZoneId="1879409237" longitude="47.56076" latitude="69.386856"/>
-<marker id="804462855" label="Stálskeg Ironbeard" category="70" did="1879410510" parentZoneId="1879409237" longitude="47.63002" latitude="69.36533"/>
-<marker id="804462856" label="Mother Amma" category="70" did="1879409706" parentZoneId="1879409238" longitude="47.6241" latitude="69.07703"/>
-<marker id="804462865" label="Hórin" category="70" did="1879408293" parentZoneId="1879409237" longitude="47.57115" latitude="69.37688"/>
-<marker id="804462867" label="Scout-master Ausma" category="70" did="1879408296" parentZoneId="1879409237" longitude="47.58066" latitude="69.38638"/>
-<marker id="804462869" label="Glóin" category="70" did="1879408294" parentZoneId="1879409237" longitude="47.582245" latitude="69.36138"/>
-<marker id="804462871" label="Hlóthi" category="70" did="1879410512" parentZoneId="1879409237" longitude="47.641914" latitude="69.36498"/>
-<marker id="804462872" label="Quartermaster" category="61" did="1879407807" parentZoneId="1879409237" longitude="47.668514" latitude="69.373085"/>
+<marker id="804462644" label="Laugi" category="70" did="1879409581" parentZoneId="1879409238" longitude="47.70131" latitude="69.005646"/>
+<marker id="804462646" label="Vault-keeper" category="40" did="1879409014" parentZoneId="1879409238" longitude="47.72295" latitude="68.957985"/>
+<marker id="804462647" label="Longbeard Guard" category="70" did="1879409072" parentZoneId="1879409238" longitude="47.616776" latitude="68.87701"/>
+<marker id="804462648" label="Longbeard Guard" category="70" did="1879409072" parentZoneId="1879409237" longitude="47.578827" latitude="68.96978"/>
+<marker id="804462649" label="Relic-master" category="29" did="1879348267" parentZoneId="1879409238" longitude="47.588337" latitude="69.104416"/>
+<marker id="804462650" label="Forge-master" category="29" did="1879348268" parentZoneId="1879409238" longitude="47.553516" latitude="69.10049"/>
+<marker id="804462652" label="Stable-master" category="51" did="1879409985" parentZoneId="1879409237" longitude="47.58443" latitude="68.88738"/>
+<marker id="804462653" label="Workbench" category="75" did="1879063073" parentZoneId="1879409238" longitude="47.741425" latitude="68.99859"/>
+<marker id="804462654" label="Workbench" category="73" did="1879063072" parentZoneId="1879409238" longitude="47.717518" latitude="68.98277"/>
+<marker id="804462655" label="Oven" category="75" did="1879063058" parentZoneId="1879409238" longitude="47.452774" latitude="69.000015"/>
+<marker id="804462656" label="Study" category="75" did="1879063060" parentZoneId="1879409238" longitude="47.45449" latitude="69.09285"/>
+<marker id="804462657" label="Forge" category="75" did="1879063062" parentZoneId="1879409238" longitude="47.60119" latitude="69.11988"/>
+<marker id="804462660" label="Study" category="73" did="1879063729" parentZoneId="1879409238" longitude="47.457478" latitude="69.065704"/>
+<marker id="804462661" label="Oven" category="73" did="1879063882" parentZoneId="1879409238" longitude="47.458416" latitude="68.97103"/>
+<marker id="804462695" label="Blazon of the Gabil'akkâ" category="48" did="1879411946" parentZoneId="1879409237" longitude="47.63488" latitude="69.38959"/>
+<marker id="804462696" label="Dréri" category="70" did="1879411731" parentZoneId="1879409237" longitude="47.62584" latitude="69.064415"/>
+<marker id="804462697" label="Órug" category="70" did="1879411735" parentZoneId="1879409237" longitude="47.588963" latitude="69.19699"/>
+<marker id="804462698" label="Mézto" category="70" did="1879411733" parentZoneId="1879409237" longitude="47.579178" latitude="69.02828"/>
+<marker id="804462699" label="Agnar Brokentooth" category="70" did="1879411722" parentZoneId="1879409237" longitude="47.5007" latitude="69.22047"/>
+<marker id="804462700" label="Reithvald Red-ember" category="70" did="1879411720" parentZoneId="1879409237" longitude="47.496677" latitude="69.23181"/>
+<marker id="804462701" label="Lági Helmbiter" category="70" did="1879411714" parentZoneId="1879409237" longitude="47.488865" latitude="69.228165"/>
+<marker id="804462703" label="Líkmund" category="70" did="1879409527" parentZoneId="1879409238" longitude="47.561462" latitude="69.031525"/>
+<marker id="804462710" label="Thettmárr" category="70" did="1879409513" parentZoneId="1879409238" longitude="47.560642" latitude="69.0456"/>
+<marker id="804462721" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879409238" longitude="47.53324" latitude="69.04898"/>
+<marker id="804462722" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879409238" longitude="47.726288" latitude="69.13593"/>
+<marker id="804462723" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879409238" longitude="47.4983" latitude="69.061424"/>
+<marker id="804462724" label="Dwarf Scout" category="70" did="1879410067" parentZoneId="1879409238" longitude="47.55955" latitude="68.97723"/>
+<marker id="804462725" label="Hermáth Stormhammer" category="70" did="1879416346" parentZoneId="1879409237" longitude="47.613125" latitude="69.366135"/>
+<marker id="804462726" label="Hersegg" category="70" did="1879416343" parentZoneId="1879409237" longitude="47.546093" latitude="69.33549"/>
+<marker id="804462727" label="Adventurer's Quartermaster&#10;A quartermaster who deals in Embers of Enchantment. Adventurer's gear" category="58" did="1879381070" parentZoneId="1879409237" longitude="47.705486" latitude="69.39193"/>
+<marker id="804462728" label="Traveller's Quartermaster&#10;A quartermaster who deals in Motes of Enchantment. Traveller's gear" category="58" did="1879381066" parentZoneId="1879409237" longitude="47.521133" latitude="69.34096"/>
+<marker id="804462800" label="Stóthkell" category="70" did="1879409515" parentZoneId="1879409238" longitude="47.612324" latitude="69.07805"/>
+<marker id="804462801" label="Afwald" category="70" did="1879409541" parentZoneId="1879409238" longitude="47.72453" latitude="69.0949"/>
+<marker id="804462802" label="Thorgest" category="70" did="1879409528" parentZoneId="1879409238" longitude="47.723633" latitude="69.104454"/>
+<marker id="804462803" label="Eywind" category="70" did="1879409548" parentZoneId="1879409237" longitude="47.56285" latitude="69.15883"/>
+<marker id="804462804" label="Slagvi" category="70" did="1879409516" parentZoneId="1879409237" longitude="47.626522" latitude="69.3114"/>
+<marker id="804462805" label="Trausti" category="70" did="1879409540" parentZoneId="1879409237" longitude="47.63164" latitude="69.15943"/>
+<marker id="804462808" label="Bósi" category="70" did="1879409525" parentZoneId="1879409238" longitude="47.599102" latitude="68.90113"/>
+<marker id="804462809" label="Bori" category="70" did="1879409523" parentZoneId="1879409238" longitude="47.60627" latitude="68.89025"/>
+<marker id="804462810" label="Bróin" category="70" did="1879409559" parentZoneId="1879409238" longitude="47.590565" latitude="68.89104"/>
+<marker id="804462812" label="Bósi" category="70" did="1879409560" parentZoneId="1879409237" longitude="47.604023" latitude="69.09197"/>
+<marker id="804462814" label="Bori" category="70" did="1879409534" parentZoneId="1879409237" longitude="47.59236" latitude="69.084335"/>
+<marker id="804462818" label="Prince Ingór" category="70" did="1879409535" parentZoneId="1879409238" longitude="47.48328" latitude="69.111465"/>
+<marker id="804462823" label="An air-tight chest" category="73" did="1879409631" parentZoneId="1879409238" longitude="47.635155" latitude="69.08541"/>
+<marker id="804462835" label="Lóssi" category="70" did="1879409618" parentZoneId="1879409238" longitude="47.582577" latitude="68.92576"/>
+<marker id="804462858" label="Elóf" category="70" did="1879410511" parentZoneId="1879409237" longitude="47.56076" latitude="69.386856"/>
+<marker id="804462859" label="Gunvald" category="70" did="1879409583" parentZoneId="1879409237" longitude="47.680878" latitude="69.09572"/>
+<marker id="804462875" label="Stálskeg Ironbeard" category="70" did="1879410510" parentZoneId="1879409237" longitude="47.63002" latitude="69.36533"/>
+<marker id="804462876" label="Mother Amma" category="70" did="1879409706" parentZoneId="1879409238" longitude="47.6241" latitude="69.07703"/>
+<marker id="804462882" label="Hórin" category="70" did="1879408293" parentZoneId="1879409237" longitude="47.57115" latitude="69.37688"/>
+<marker id="804462888" label="Scout-master Ausma" category="70" did="1879408296" parentZoneId="1879409237" longitude="47.58066" latitude="69.38638"/>
+<marker id="804462890" label="Glóin" category="70" did="1879408294" parentZoneId="1879409237" longitude="47.582245" latitude="69.36138"/>
+<marker id="804462891" label="Hlóthi" category="70" did="1879410512" parentZoneId="1879409237" longitude="47.641914" latitude="69.36498"/>
+<marker id="804462892" label="Quartermaster" category="61" did="1879407807" parentZoneId="1879409237" longitude="47.668514" latitude="69.373085"/>
+<marker id="804462894" label="Durin" category="70" did="1879409530" parentZoneId="1879409237" longitude="47.608963" latitude="69.35697"/>
+<marker id="804462895" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.498573" latitude="69.12053"/>
+<marker id="804462896" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.70615" latitude="69.18043"/>
+<marker id="804462897" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.696796" latitude="69.177185"/>
+<marker id="804462898" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.692207" latitude="69.16492"/>
+<marker id="804462899" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.6975" latitude="69.13707"/>
+<marker id="804462900" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.69709" latitude="69.14412"/>
+<marker id="804462901" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.505917" latitude="69.13795"/>
+<marker id="804462902" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.506092" latitude="69.144646"/>
+<marker id="804462903" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.49871" latitude="69.15176"/>
+<marker id="804462904" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.505665" latitude="69.16972"/>
+<marker id="804462905" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.49869" latitude="69.18334"/>
+<marker id="804462906" label="Letter" category="73" did="1879418068" parentZoneId="1879409237" longitude="47.68662" latitude="69.13309"/>
+<marker id="804462907" label="Parcel" category="73" did="1879418069" parentZoneId="1879409237" longitude="47.621582" latitude="68.85623"/>
+<marker id="804462908" label="Parcel" category="73" did="1879418069" parentZoneId="1879409237" longitude="47.59836" latitude="68.85924"/>
+<marker id="804462909" label="Parcel" category="73" did="1879418069" parentZoneId="1879409237" longitude="47.595097" latitude="68.85552"/>
+<marker id="804462910" label="Parcel" category="73" did="1879418069" parentZoneId="1879409238" longitude="47.738457" latitude="68.989586"/>
+<marker id="804462911" label="Parcel" category="73" did="1879418069" parentZoneId="1879409238" longitude="47.483574" latitude="69.14394"/>
+<marker id="804462933" label="Parcel" category="73" did="1879418069" parentZoneId="1879409238" longitude="47.661053" latitude="69.08768"/>
+<marker id="804462934" label="Parcel" category="73" did="1879418069" parentZoneId="1879409238" longitude="47.574608" latitude="68.959724"/>
+<marker id="804462935" label="Parcel" category="73" did="1879418069" parentZoneId="1879409238" longitude="47.713223" latitude="68.95851"/>
 <marker id="804470784" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879409230" longitude="47.532364" latitude="70.797676"/>
 <marker id="804470789" label="A scroll about dragons" category="73" did="1879410980" parentZoneId="1879409230" longitude="47.60197" latitude="70.83385"/>
 <marker id="804470790" label="A scroll about dragons" category="73" did="1879410980" parentZoneId="1879409230" longitude="47.611755" latitude="70.77111"/>

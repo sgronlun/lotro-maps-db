@@ -14,11 +14,11 @@
 <max longitude="1024.0" latitude="0.0"/>
 </map>
 <map id="268437576" name="Ered Luin" imageId="1090552108">
-<geo factor="45.625">
-<point longitude="-110.010956" latitude="-12.389043"/>
+<geo factor="43.4375">
+<point longitude="-110.00575" latitude="-12.388486"/>
 </geo>
-<min longitude="-110.010956" latitude="-29.22192"/>
-<max longitude="-87.56712" latitude="-12.389043"/>
+<min longitude="-110.00575" latitude="-30.069061"/>
+<max longitude="-86.431656" latitude="-12.388486"/>
 </map>
 <map id="268437592" name="Trollshaws" imageId="1090552110">
 <geo factor="37.5">
@@ -182,11 +182,11 @@
 <max longitude="-1.6108537" latitude="-48.4883"/>
 </map>
 <map id="268442330" name="Lothlórien" imageId="1091471111">
-<geo factor="48.75">
-<point longitude="-82.0" latitude="-4.646152"/>
+<geo factor="43.75">
+<point longitude="-82.52571" latitude="-4.125713"/>
 </geo>
-<min longitude="-82.0" latitude="-20.4"/>
-<max longitude="-60.994873" latitude="-4.646152"/>
+<min longitude="-82.52571" latitude="-21.679998"/>
+<max longitude="-59.119995" latitude="-4.125713"/>
 </map>
 <map id="268442341" name="Foundations of Stone" imageId="1091471125">
 <geo factor="132.5">
@@ -1167,6 +1167,20 @@
 </geo>
 <min longitude="-68.07692" latitude="-25.861538"/>
 <max longitude="-52.323074" latitude="-14.046152"/>
+</map>
+<map id="268453555" name="Azanulbizar, T.A. 2799" imageId="1092669467">
+<geo factor="68.75">
+<point longitude="-143.59999" latitude="72.37092"/>
+</geo>
+<min longitude="-143.59999" latitude="61.20001"/>
+<max longitude="-128.70544" latitude="72.37092"/>
+</map>
+<map id="268453582" name="Nud-melek T.A. 1981" imageId="1092682130">
+<geo factor="100.0">
+<point longitude="-143.75" latitude="42.09"/>
+</geo>
+<min longitude="-143.75" latitude="34.41"/>
+<max longitude="-133.51" latitude="42.09"/>
 </map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
@@ -8064,7 +8078,7 @@
 <max longitude="49.42167" latitude="72.95"/>
 </map>
 <map id="1879409233" name="Drenghól" imageId="1092561552">
-<geo factor="600.00006">
+<geo factor="600.0">
 <point longitude="-66.71667" latitude="38.524998"/>
 </geo>
 <min longitude="-66.71667" latitude="37.524998"/>
@@ -8072,17 +8086,17 @@
 </map>
 <map id="1879409234" name="Zudramdân" imageId="1092561553">
 <geo factor="600.0">
-<point longitude="-20.16667" latitude="-96.63167"/>
+<point longitude="-65.76666" latitude="36.96833"/>
 </geo>
-<min longitude="-20.16667" latitude="-97.63167"/>
-<max longitude="-18.833336" latitude="-96.63167"/>
+<min longitude="-65.76666" latitude="35.96833"/>
+<max longitude="-64.43333" latitude="36.96833"/>
 </map>
 <map id="1879409235" name="Howlers' Notch" imageId="1092561554">
 <geo factor="800.0001">
-<point longitude="-17.699999" latitude="-97.625"/>
+<point longitude="-63.3" latitude="35.975"/>
 </geo>
-<min longitude="-17.699999" latitude="-98.375"/>
-<max longitude="-16.699999" latitude="-97.625"/>
+<min longitude="-63.3" latitude="35.225"/>
+<max longitude="-62.3" latitude="35.975"/>
 </map>
 <map id="1879409236" name="Deep-burrows of Klórgren" imageId="1092561555">
 <geo factor="600.0">
@@ -8238,19 +8252,19 @@
 <min longitude="50.93334" latitude="27.099998"/>
 <max longitude="52.26667" latitude="28.099998"/>
 </map>
-<map id="1879412251" name="Tûr Ágal" imageId="1092561558">
+<map id="1879412251" name="Tûr Ágal" imageId="1092672851">
 <geo factor="600.00006">
-<point longitude="46.93334" latitude="71.299995"/>
+<point longitude="45.33334" latitude="71.299995"/>
 </geo>
-<min longitude="46.93334" latitude="70.299995"/>
-<max longitude="48.26667" latitude="71.299995"/>
+<min longitude="45.33334" latitude="70.299995"/>
+<max longitude="46.66667" latitude="71.299995"/>
 </map>
-<map id="1879412693" name="Drenghól" imageId="1092561552">
-<geo factor="600.00006">
-<point longitude="-66.71667" latitude="38.524998"/>
+<map id="1879412693" name="Drenghól" imageId="1092672843">
+<geo factor="600.0">
+<point longitude="-21.116669" latitude="-95.075"/>
 </geo>
-<min longitude="-66.71667" latitude="37.524998"/>
-<max longitude="-65.38333" latitude="38.524998"/>
+<min longitude="-21.116669" latitude="-96.075"/>
+<max longitude="-19.783335" latitude="-95.075"/>
 </map>
 <map id="1879413346" name="Writhenset" imageId="1092621380">
 <geo factor="600.00006">
@@ -8275,10 +8289,10 @@
 </map>
 <map id="1879415453" name="Deluxe Premium House" imageId="1092640809">
 <geo factor="600.0">
-<point longitude="-137.23999" latitude="-106.27167"/>
+<point longitude="-137.14667" latitude="-106.27167"/>
 </geo>
-<min longitude="-137.23999" latitude="-107.27167"/>
-<max longitude="-135.90666" latitude="-106.27167"/>
+<min longitude="-137.14667" latitude="-107.27167"/>
+<max longitude="-135.81334" latitude="-106.27167"/>
 </map>
 <map id="1879415559" name="TBD - PRISTINE STEEPSET" imageId="1092642008">
 <geo factor="300.0">
@@ -8321,5 +8335,159 @@
 </geo>
 <min longitude="49.33334" latitude="62.149998"/>
 <max longitude="50.66667" latitude="63.149998"/>
+</map>
+<map id="1879417302" name="TBD - GOBLIN DWELLING" imageId="1092667345">
+<geo factor="600.0">
+<point longitude="46.14" latitude="63.29834"/>
+</geo>
+<min longitude="46.14" latitude="62.29834"/>
+<max longitude="47.47333" latitude="63.29834"/>
+</map>
+<map id="1879417581" name="TBD - Zhelruka Allegiance Hall" imageId="1092667829">
+<geo factor="300.0">
+<point longitude="47.33334" latitude="63.199997"/>
+</geo>
+<min longitude="47.33334" latitude="59.199997"/>
+<max longitude="52.66667" latitude="63.199997"/>
+</map>
+<map id="1879417813" name="TBD - GBD MISSION - Cave-Claw" imageId="1092668165">
+<geo factor="600.0">
+<point longitude="47.44" latitude="61.899998"/>
+</geo>
+<min longitude="47.44" latitude="59.899998"/>
+<max longitude="50.106667" latitude="61.899998"/>
+</map>
+<map id="1879417814" name="TBD - GBD MISSION - Dwarf Tomb" imageId="1092668164">
+<geo factor="599.99994">
+<point longitude="45.985" latitude="61.699997"/>
+</geo>
+<min longitude="45.985" latitude="60.699997"/>
+<max longitude="47.318333" latitude="61.699997"/>
+</map>
+<map id="1879418183" name="TBD - GBD MISSION - NAMELESS PIT" imageId="1092670001">
+<geo factor="299.99997">
+<point longitude="48.66666" latitude="60.75"/>
+</geo>
+<min longitude="48.66666" latitude="58.75"/>
+<max longitude="51.33333" latitude="60.75"/>
+</map>
+<map id="1879418184" name="TBD - GBD MISSION - CRYSTAL CAVE" imageId="1092669999">
+<geo factor="300.0">
+<point longitude="45.51" latitude="60.649998"/>
+</geo>
+<min longitude="45.51" latitude="58.649998"/>
+<max longitude="48.176666" latitude="60.649998"/>
+</map>
+<map id="1879418185" name="TBD - GBD MISSION - CRYSTAL CAVE" imageId="1092670000">
+<geo factor="300.00003">
+<point longitude="46.73" latitude="60.559998"/>
+</geo>
+<min longitude="46.73" latitude="58.559998"/>
+<max longitude="49.396667" latitude="60.559998"/>
+</map>
+<map id="1879418226" name="TBD - GBD MISSION - STONE GIANT" imageId="1092670064">
+<geo factor="300.0">
+<point longitude="48.616657" latitude="59.046658"/>
+</geo>
+<min longitude="48.616657" latitude="57.046658"/>
+<max longitude="51.283325" latitude="59.046658"/>
+</map>
+<map id="1879418435" name="TBD - GBD MISSION - CAVE TROLLS" imageId="1092670122">
+<geo factor="300.00003">
+<point longitude="46.91666" latitude="59.0"/>
+</geo>
+<min longitude="46.91666" latitude="57.0"/>
+<max longitude="49.58333" latitude="59.0"/>
+</map>
+<map id="1879418494" name="TBD - GBD MISSION - ICY HALL" imageId="1092670148">
+<geo factor="360.0">
+<point longitude="46.286114" latitude="58.980545"/>
+</geo>
+<min longitude="46.286114" latitude="57.313877"/>
+<max longitude="48.508335" latitude="58.980545"/>
+</map>
+<map id="1879418519" name="TBD - GBD MISSION - WARG KENNEL" imageId="1092671956">
+<geo factor="300.0">
+<point longitude="48.706657" latitude="57.323338"/>
+</geo>
+<min longitude="48.706657" latitude="55.323338"/>
+<max longitude="51.373325" latitude="57.323338"/>
+</map>
+<map id="1879418729" name="TBD - GBD MISSION - DWARVEN VAULT" imageId="1092672711">
+<geo factor="300.0">
+<point longitude="48.66666" latitude="55.25"/>
+</geo>
+<min longitude="48.66666" latitude="53.25"/>
+<max longitude="51.33333" latitude="55.25"/>
+</map>
+<map id="1879418730" name="TBD - GBD MISSION - GRODBOG HIVE" imageId="1092672710">
+<geo factor="299.99997">
+<point longitude="45.56334" latitude="57.44666"/>
+</geo>
+<min longitude="45.56334" latitude="55.44666"/>
+<max longitude="48.230007" latitude="57.44666"/>
+</map>
+<map id="1879418770" name="Zudramdân" imageId="1092672852">
+<geo factor="600.0">
+<point longitude="-20.16667" latitude="-96.63167"/>
+</geo>
+<min longitude="-20.16667" latitude="-97.63167"/>
+<max longitude="-18.833336" latitude="-96.63167"/>
+</map>
+<map id="1879418771" name="Howlers' Notch" imageId="1092672853">
+<geo factor="800.0001">
+<point longitude="-17.699999" latitude="-97.625"/>
+</geo>
+<min longitude="-17.699999" latitude="-98.375"/>
+<max longitude="-16.699999" latitude="-97.625"/>
+</map>
+<map id="1879419602" name="TBD - DEEPSCRAVE ORC VILLAGE" imageId="1092680206">
+<geo factor="300.0">
+<point longitude="46.69334" latitude="55.65334"/>
+</geo>
+<min longitude="46.69334" latitude="53.65334"/>
+<max longitude="49.36001" latitude="55.65334"/>
+</map>
+<map id="1879419603" name="TBD - GBD MISSION - FLOODED HALLS" imageId="1092680207">
+<geo factor="300.0">
+<point longitude="47.366657" latitude="57.47334"/>
+</geo>
+<min longitude="47.366657" latitude="55.47334"/>
+<max longitude="50.033325" latitude="57.47334"/>
+</map>
+<map id="1879420179" name="TBD - CAR BRONACH BARROWS" imageId="1092681101">
+<geo factor="300.0">
+<point longitude="-67.67667" latitude="51.8"/>
+</geo>
+<min longitude="-67.67667" latitude="49.8"/>
+<max longitude="-65.01" latitude="51.8"/>
+</map>
+<map id="1879420251" name="TBD - CAR BRONACH BAT CAVE" imageId="1092681314">
+<geo factor="300.0">
+<point longitude="-76.63333" latitude="52.796658"/>
+</geo>
+<min longitude="-76.63333" latitude="50.796658"/>
+<max longitude="-73.96667" latitude="52.796658"/>
+</map>
+<map id="1879420335" name="TBD - CAR BRONACH BAT CAVE" imageId="1092681425">
+<geo factor="300.0">
+<point longitude="-72.683334" latitude="56.85"/>
+</geo>
+<min longitude="-72.683334" latitude="54.85"/>
+<max longitude="-70.01667" latitude="56.85"/>
+</map>
+<map id="1879420804" name="TBD - DEEPSCRAVE FORGE HALL" imageId="1092682128">
+<geo factor="600.0">
+<point longitude="-116.314995" latitude="-51.05"/>
+</geo>
+<min longitude="-116.314995" latitude="-52.05"/>
+<max longitude="-114.98166" latitude="-51.05"/>
+</map>
+<map id="1879420866" name="TBD - ENDGAME WAY OF SMITHS 2.0" imageId="1092682376">
+<geo factor="300.0">
+<point longitude="44.129997" latitude="56.76666"/>
+</geo>
+<min longitude="44.129997" latitude="52.76666"/>
+<max longitude="49.46333" latitude="56.76666"/>
 </map>
 </maps>

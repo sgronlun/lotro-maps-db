@@ -160,13 +160,6 @@
 <min longitude="-73.45185" latitude="-21.2"/>
 <max longitude="-65.86667" latitude="-15.511113"/>
 </map>
-<map id="268442224" name="Rhovanion" imageId="1092365796">
-<geo factor="1.0">
-<point longitude="0.0" latitude="0.0"/>
-</geo>
-<min longitude="0.0" latitude="-768.0"/>
-<max longitude="1024.0" latitude="0.0"/>
-</map>
 <map id="268442268" name="Eregion" imageId="1091470982">
 <geo factor="33.75">
 <point longitude="-23.807402" latitude="-35.244442"/>
@@ -601,13 +594,6 @@
 <min longitude="-90.25263" latitude="-82.84211"/>
 <max longitude="-47.13684" latitude="-50.505264"/>
 </map>
-<map id="268450723" name="Gondor" imageId="1091912502">
-<geo factor="1.0">
-<point longitude="0.0" latitude="0.0"/>
-</geo>
-<min longitude="0.0" latitude="-768.0"/>
-<max longitude="1024.0" latitude="0.0"/>
-</map>
 <map id="268450757" name="Paths of the Dead" imageId="1091914804">
 <geo factor="160.0">
 <point longitude="-78.29375" latitude="-42.01875"/>
@@ -712,6 +698,13 @@
 </geo>
 <min longitude="-131.11186" latitude="-4.63051"/>
 <max longitude="-124.16949" latitude="0.5762695"/>
+</map>
+<map id="268450901" name="Gondor" imageId="1091912502">
+<geo factor="1.0">
+<point longitude="0.0" latitude="0.0"/>
+</geo>
+<min longitude="0.0" latitude="-768.0"/>
+<max longitude="1024.0" latitude="0.0"/>
 </map>
 <map id="268450932" name="Eastern Gondor" imageId="1091956277">
 <geo factor="27.5">
@@ -873,13 +866,6 @@
 </geo>
 <min longitude="-24.115557" latitude="-68.977776"/>
 <max longitude="-15.013334" latitude="-62.15111"/>
-</map>
-<map id="268451777" name="Mordor" imageId="1092240179">
-<geo factor="1.0">
-<point longitude="0.0" latitude="0.0"/>
-</geo>
-<min longitude="0.0" latitude="-768.0"/>
-<max longitude="1024.0" latitude="0.0"/>
 </map>
 <map id="268451783" name="Cape of Belfalas Homesteads" imageId="1092284242">
 <geo factor="52.499996">
@@ -1181,6 +1167,90 @@
 </geo>
 <min longitude="-143.75" latitude="34.41"/>
 <max longitude="-133.51" latitude="42.09"/>
+</map>
+<map id="268453619" name="Rhovanion" imageId="1092365796">
+<geo factor="1.0">
+<point longitude="0.0" latitude="0.0"/>
+</geo>
+<min longitude="0.0" latitude="-768.0"/>
+<max longitude="1024.0" latitude="0.0"/>
+</map>
+<map id="268453620" name="Mordor" imageId="1092240179">
+<geo factor="1.0">
+<point longitude="0.0" latitude="0.0"/>
+</geo>
+<min longitude="0.0" latitude="-768.0"/>
+<max longitude="1024.0" latitude="0.0"/>
+</map>
+<map id="268453621" name="Rohan" imageId="1092365797">
+<geo factor="1.0">
+<point longitude="0.0" latitude="0.0"/>
+</geo>
+<min longitude="0.0" latitude="-768.0"/>
+<max longitude="1024.0" latitude="0.0"/>
+</map>
+<map id="268453641" name="Gundabad" imageId="1092687466">
+<geo factor="28.125">
+<point longitude="-82.33777" latitude="58.10666"/>
+</geo>
+<min longitude="-82.33777" latitude="30.799992"/>
+<max longitude="-45.92888" latitude="58.10666"/>
+</map>
+<map id="268453645" name="Welkin-lofts" imageId="1092687470">
+<geo factor="60.000004">
+<point longitude="-85.15" latitude="52.399998"/>
+</geo>
+<min longitude="-85.15" latitude="39.6"/>
+<max longitude="-68.083336" latitude="52.399998"/>
+</map>
+<map id="268453649" name="Câr Bronach" imageId="1092687464">
+<geo factor="53.750004">
+<point longitude="-77.2" latitude="59.041855"/>
+</geo>
+<min longitude="-77.2" latitude="44.753487"/>
+<max longitude="-58.148834" latitude="59.041855"/>
+</map>
+<map id="268453653" name="Delvings of Gundabad" imageId="1092687471">
+<geo factor="36.875">
+<point longitude="-133.76949" latitude="-32.37288"/>
+</geo>
+<min longitude="-133.76949" latitude="-53.199997"/>
+<max longitude="-105.99999" latitude="-32.37288"/>
+</map>
+<map id="268453656" name="Clovengap" imageId="1092687467">
+<geo factor="67.5">
+<point longitude="-131.15555" latitude="-32.222225"/>
+</geo>
+<min longitude="-131.15555" latitude="-43.600002"/>
+<max longitude="-115.985176" latitude="-32.222225"/>
+</map>
+<map id="268453669" name="Gloomingtarn" imageId="1092687472">
+<geo factor="87.1875">
+<point longitude="-128.23943" latitude="-42.791397"/>
+</geo>
+<min longitude="-128.23943" latitude="-51.6"/>
+<max longitude="-116.49462" latitude="-42.791397"/>
+</map>
+<map id="268453670" name="Deepscrave" imageId="1092687469">
+<geo factor="86.875">
+<point longitude="-124.25036" latitude="-44.35971"/>
+</geo>
+<min longitude="-124.25036" latitude="-53.199997"/>
+<max longitude="-112.46331" latitude="-44.35971"/>
+</map>
+<map id="268453671" name="Máttugard" imageId="1092687465">
+<geo factor="86.875">
+<point longitude="-117.62014" latitude="-43.55971"/>
+</geo>
+<min longitude="-117.62014" latitude="-52.4"/>
+<max longitude="-105.83309" latitude="-43.55971"/>
+</map>
+<map id="268453673" name="Pit of Stonejaws" imageId="1092687468">
+<geo factor="86.875">
+<point longitude="-117.92517" latitude="-36.359707"/>
+</geo>
+<min longitude="-117.92517" latitude="-45.199997"/>
+<max longitude="-106.13812" latitude="-36.359707"/>
 </map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
@@ -7363,7 +7433,7 @@
 <min longitude="50.94666" latitude="51.135"/>
 <max longitude="52.27999" latitude="52.135"/>
 </map>
-<map id="1879369400" name="Agshar-mazal&#10;The Scholar's Abode" imageId="1092389700">
+<map id="1879369400" name="Mazalu Ugshar&#10;The Scholar's Abode" imageId="1092389700">
 <geo factor="600.0">
 <point longitude="50.89" latitude="50.378338"/>
 </geo>
@@ -8294,7 +8364,7 @@
 <min longitude="-137.14667" latitude="-107.27167"/>
 <max longitude="-135.81334" latitude="-106.27167"/>
 </map>
-<map id="1879415559" name="TBD - PRISTINE STEEPSET" imageId="1092642008">
+<map id="1879415559" name="Royal Hall of Gundabad" imageId="1092642008">
 <geo factor="300.0">
 <point longitude="46.15334" latitude="72.5"/>
 </geo>
@@ -8329,14 +8399,14 @@
 <min longitude="-146.71666" latitude="76.35"/>
 <max longitude="-145.38333" latitude="77.35"/>
 </map>
-<map id="1879416843" name="TBD- MOSAIC ROOM" imageId="1092667028">
+<map id="1879416843" name="Zul-mazal" imageId="1092667028">
 <geo factor="600.0">
 <point longitude="49.33334" latitude="63.149998"/>
 </geo>
 <min longitude="49.33334" latitude="62.149998"/>
 <max longitude="50.66667" latitude="63.149998"/>
 </map>
-<map id="1879417302" name="TBD - GOBLIN DWELLING" imageId="1092667345">
+<map id="1879417302" name="Filthy Goblin-den" imageId="1092667345">
 <geo factor="600.0">
 <point longitude="46.14" latitude="63.29834"/>
 </geo>
@@ -8357,7 +8427,7 @@
 <min longitude="47.44" latitude="59.899998"/>
 <max longitude="50.106667" latitude="61.899998"/>
 </map>
-<map id="1879417814" name="TBD - GBD MISSION - Dwarf Tomb" imageId="1092668164">
+<map id="1879417814" name="Atkât-darag" imageId="1092668164">
 <geo factor="599.99994">
 <point longitude="45.985" latitude="61.699997"/>
 </geo>
@@ -8371,14 +8441,14 @@
 <min longitude="48.66666" latitude="58.75"/>
 <max longitude="51.33333" latitude="60.75"/>
 </map>
-<map id="1879418184" name="TBD - GBD MISSION - TORTURE CHAMBER" imageId="1092669999">
+<map id="1879418184" name="The Cradle of Pain" imageId="1092669999">
 <geo factor="300.0">
 <point longitude="45.51" latitude="60.649998"/>
 </geo>
 <min longitude="45.51" latitude="58.649998"/>
 <max longitude="48.176666" latitude="60.649998"/>
 </map>
-<map id="1879418185" name="TBD - GBD MISSION - CRYSTAL CAVE" imageId="1092670000">
+<map id="1879418185" name="Mesem-gairu" imageId="1092670000">
 <geo factor="300.00003">
 <point longitude="46.73" latitude="60.559998"/>
 </geo>
@@ -8392,28 +8462,28 @@
 <min longitude="48.616657" latitude="57.046658"/>
 <max longitude="51.283325" latitude="59.046658"/>
 </map>
-<map id="1879418435" name="TBD - GBD MISSION - CAVE TROLLS" imageId="1092670122">
+<map id="1879418435" name="Hadnul-zahar" imageId="1092670122">
 <geo factor="300.00003">
 <point longitude="46.91666" latitude="59.0"/>
 </geo>
 <min longitude="46.91666" latitude="57.0"/>
 <max longitude="49.58333" latitude="59.0"/>
 </map>
-<map id="1879418494" name="TBD - GBD MISSION - ICY HALL" imageId="1092670148">
+<map id="1879418494" name="Kallamdâm" imageId="1092670148">
 <geo factor="360.0">
 <point longitude="46.286114" latitude="58.980545"/>
 </geo>
 <min longitude="46.286114" latitude="57.313877"/>
 <max longitude="48.508335" latitude="58.980545"/>
 </map>
-<map id="1879418519" name="TBD - GBD MISSION - WARG KENNEL" imageId="1092671956">
+<map id="1879418519" name="Cútaig" imageId="1092671956">
 <geo factor="300.0">
 <point longitude="48.706657" latitude="57.323338"/>
 </geo>
 <min longitude="48.706657" latitude="55.323338"/>
 <max longitude="51.373325" latitude="57.323338"/>
 </map>
-<map id="1879418729" name="TBD - GBD MISSION - DWARVEN VAULT" imageId="1092672711">
+<map id="1879418729" name="Agbash-khalt" imageId="1092672711">
 <geo factor="300.0">
 <point longitude="48.66666" latitude="55.25"/>
 </geo>
@@ -8441,42 +8511,42 @@
 <min longitude="-17.699999" latitude="-98.375"/>
 <max longitude="-16.699999" latitude="-97.625"/>
 </map>
-<map id="1879419602" name="TBD - DEEPSCRAVE ORC VILLAGE" imageId="1092680206">
+<map id="1879419602" name="Dalugronk" imageId="1092680206">
 <geo factor="300.0">
 <point longitude="46.69334" latitude="55.65334"/>
 </geo>
 <min longitude="46.69334" latitude="53.65334"/>
 <max longitude="49.36001" latitude="55.65334"/>
 </map>
-<map id="1879419603" name="TBD - GBD MISSION - FLOODED HALLS" imageId="1092680207">
+<map id="1879419603" name="Shalakâm" imageId="1092680207">
 <geo factor="300.0">
 <point longitude="47.366657" latitude="57.47334"/>
 </geo>
 <min longitude="47.366657" latitude="55.47334"/>
 <max longitude="50.033325" latitude="57.47334"/>
 </map>
-<map id="1879420179" name="TBD - CAR BRONACH BARROWS" imageId="1092681101">
+<map id="1879420179" name="Skáilag" imageId="1092681101">
 <geo factor="300.0">
 <point longitude="-67.67667" latitude="51.8"/>
 </geo>
 <min longitude="-67.67667" latitude="49.8"/>
 <max longitude="-65.01" latitude="51.8"/>
 </map>
-<map id="1879420251" name="TBD - CAR BRONACH BAT CAVE" imageId="1092681314">
+<map id="1879420251" name="Toll Oivas" imageId="1092681314">
 <geo factor="300.0">
 <point longitude="-76.63333" latitude="52.796658"/>
 </geo>
 <min longitude="-76.63333" latitude="50.796658"/>
 <max longitude="-73.96667" latitude="52.796658"/>
 </map>
-<map id="1879420335" name="TBD - CAR BRONACH BAT CAVE" imageId="1092681425">
+<map id="1879420335" name="Eiricháv" imageId="1092681425">
 <geo factor="300.0">
 <point longitude="-72.683334" latitude="56.85"/>
 </geo>
 <min longitude="-72.683334" latitude="54.85"/>
 <max longitude="-70.01667" latitude="56.85"/>
 </map>
-<map id="1879420804" name="TBD - DEEPSCRAVE FORGE HALL" imageId="1092682128">
+<map id="1879420804" name="Durbángh" imageId="1092682128">
 <geo factor="600.0">
 <point longitude="-116.314995" latitude="-51.05"/>
 </geo>
@@ -8490,124 +8560,152 @@
 <min longitude="44.129997" latitude="52.76666"/>
 <max longitude="49.46333" latitude="56.76666"/>
 </map>
-<map id="1879421176" name="Vision of Kordkoth" imageId="1092683124">
+<map id="1879421176" name="Vision of Pughlak" imageId="1092683124">
 <geo factor="150.0">
 <point longitude="45.039997" latitude="56.78"/>
 </geo>
 <min longitude="45.039997" latitude="48.78"/>
 <max longitude="55.706665" latitude="56.78"/>
 </map>
-<map id="1879421177" name="Den of Kordkoth" imageId="1092683126">
+<map id="1879421177" name="Den of Pughlak" imageId="1092683126">
 <geo factor="150.0">
 <point longitude="45.039997" latitude="56.78"/>
 </geo>
 <min longitude="45.039997" latitude="48.78"/>
 <max longitude="55.706665" latitude="56.78"/>
 </map>
-<map id="1879421178" name="Vision of Kordkoth" imageId="1092683127">
+<map id="1879421178" name="Vision of Pughlak" imageId="1092683127">
 <geo factor="150.0">
 <point longitude="45.039997" latitude="56.78"/>
 </geo>
 <min longitude="45.039997" latitude="48.78"/>
 <max longitude="55.706665" latitude="56.78"/>
 </map>
-<map id="1879421179" name="Vision of Kordkoth" imageId="1092683128">
+<map id="1879421179" name="Vision of Pughlak" imageId="1092683128">
 <geo factor="150.0">
 <point longitude="45.039997" latitude="56.78"/>
 </geo>
 <min longitude="45.039997" latitude="48.78"/>
 <max longitude="55.706665" latitude="56.78"/>
 </map>
-<map id="1879421180" name="Vision of Kordkoth" imageId="1092683129">
+<map id="1879421180" name="Vision of Pughlak" imageId="1092683129">
 <geo factor="150.0">
 <point longitude="45.039997" latitude="56.78"/>
 </geo>
 <min longitude="45.039997" latitude="48.78"/>
 <max longitude="55.706665" latitude="56.78"/>
 </map>
-<map id="1879421181" name="Vision of Kordkoth" imageId="1092683130">
+<map id="1879421181" name="Vision of Pughlak" imageId="1092683130">
 <geo factor="150.0">
 <point longitude="45.039997" latitude="56.78"/>
 </geo>
 <min longitude="45.039997" latitude="48.78"/>
 <max longitude="55.706665" latitude="56.78"/>
 </map>
-<map id="1879421182" name="Vision of Kordkoth" imageId="1092683131">
+<map id="1879421182" name="Vision of Pughlak" imageId="1092683131">
 <geo factor="150.0">
 <point longitude="45.039997" latitude="56.78"/>
 </geo>
 <min longitude="45.039997" latitude="48.78"/>
 <max longitude="55.706665" latitude="56.78"/>
 </map>
-<map id="1879421183" name="Den of Kordkoth" imageId="1092683125">
+<map id="1879421183" name="Den of Pughlak" imageId="1092683125">
 <geo factor="150.0">
 <point longitude="45.039997" latitude="56.78"/>
 </geo>
 <min longitude="45.039997" latitude="48.78"/>
 <max longitude="55.706665" latitude="56.78"/>
 </map>
-<map id="1879421479" name="TBD - GORGARS MUSEUM" imageId="1092683766">
+<map id="1879421479" name="Dhúrstrok" imageId="1092683766">
 <geo factor="300.0">
 <point longitude="45.71" latitude="55.47334"/>
 </geo>
 <min longitude="45.71" latitude="51.47334"/>
 <max longitude="51.04333" latitude="55.47334"/>
 </map>
-<map id="1879421497" name="TBD - WATERFALL HOUSE" imageId="1092683941">
+<map id="1879421497" name="Hideout" imageId="1092683941">
 <geo factor="600.0">
 <point longitude="-118.666664" latitude="-47.116665"/>
 </geo>
 <min longitude="-118.666664" latitude="-48.116665"/>
 <max longitude="-117.33333" latitude="-47.116665"/>
 </map>
-<map id="1879421498" name="TBD - WORM CAVE" imageId="1092683942">
+<map id="1879421498" name="Skrizagáf" imageId="1092683942">
 <geo factor="360.0">
 <point longitude="-118.70833" latitude="-47.613884"/>
 </geo>
 <min longitude="-118.70833" latitude="-49.280552"/>
 <max longitude="-116.48611" latitude="-47.613884"/>
 </map>
-<map id="1879422012" name="TBD - MATTUBARD TROLL HOUSE" imageId="1092683972">
+<map id="1879422012" name="Máttugard Troll-den" imageId="1092683972">
 <geo factor="300.00003">
 <point longitude="-116.13332" latitude="-48.32"/>
 </geo>
 <min longitude="-116.13332" latitude="-50.32"/>
 <max longitude="-113.46666" latitude="-48.32"/>
 </map>
-<map id="1879422155" name="TBD - ICE GIANT CAVE" imageId="1092684649">
-<geo factor="300.00003">
-<point longitude="-78.60667" latitude="46.27334"/>
+<map id="1879422155" name="Thyrstáth" imageId="1092684649">
+<geo factor="600.0">
+<point longitude="-78.60833" latitude="46.12666"/>
 </geo>
-<min longitude="-78.60667" latitude="44.27334"/>
-<max longitude="-75.94" latitude="46.27334"/>
+<min longitude="-78.60833" latitude="44.12666"/>
+<max longitude="-75.941666" latitude="46.12666"/>
 </map>
-<map id="1879422235" name="TBD - DWARF FORTRESS" imageId="1092685077">
+<map id="1879422235" name="Bagud-dum" imageId="1092685077">
 <geo factor="600.0">
 <point longitude="-74.581665" latitude="44.89834"/>
 </geo>
 <min longitude="-74.581665" latitude="42.89834"/>
 <max longitude="-71.915" latitude="44.89834"/>
 </map>
-<map id="1879422236" name="TBD - SECRET STAIRS" imageId="1092685078">
+<map id="1879422236" name="The Secret Stair" imageId="1092685078">
 <geo factor="600.0">
 <point longitude="-74.581665" latitude="44.89834"/>
 </geo>
 <min longitude="-74.581665" latitude="42.89834"/>
 <max longitude="-71.915" latitude="44.89834"/>
 </map>
-<map id="1879422240" name="TBD - WOLF CAVE" imageId="1092685103">
+<map id="1879422240" name="Draurákh" imageId="1092685103">
 <geo factor="600.00006">
 <point longitude="-77.74333" latitude="49.175"/>
 </geo>
 <min longitude="-77.74333" latitude="48.175"/>
 <max longitude="-76.409996" latitude="49.175"/>
 </map>
-<map id="1879422284" name="TBD - SHAKUJAT THRONE ROOM" imageId="1092685335">
+<map id="1879422284" name="Shakhajât Throne-room" imageId="1092685335">
 <geo factor="300.0">
 <point longitude="44.379997" latitude="55.253338"/>
 </geo>
 <min longitude="44.379997" latitude="51.253338"/>
 <max longitude="49.71333" latitude="55.253338"/>
+</map>
+<map id="1879426050" name="Tûr Fúar, the Drearspire" imageId="1092687105">
+<geo factor="300.0">
+<point longitude="45.733337" latitude="53.6"/>
+</geo>
+<min longitude="45.733337" latitude="49.6"/>
+<max longitude="51.06667" latitude="53.6"/>
+</map>
+<map id="1879426637" name="Min Návaid" imageId="1092687473">
+<geo factor="400.0">
+<point longitude="43.4375" latitude="52.96"/>
+</geo>
+<min longitude="43.4375" latitude="49.96"/>
+<max longitude="47.4375" latitude="52.96"/>
+</map>
+<map id="1879427492" name="Tûr Fúar, the Drearspire" imageId="1092692917">
+<geo factor="600.0">
+<point longitude="47.75834" latitude="63.31834"/>
+</geo>
+<min longitude="47.75834" latitude="62.31834"/>
+<max longitude="49.09167" latitude="63.31834"/>
+</map>
+<map id="1879427493" name="Tûr Fúar, the Drearspire" imageId="1092692919">
+<geo factor="300.0">
+<point longitude="47.739998" latitude="53.62666"/>
+</geo>
+<min longitude="47.739998" latitude="49.62666"/>
+<max longitude="53.07333" latitude="53.62666"/>
 </map>
 <map id="1879428177" name="Gobeth Teithian, the Archive of Traceries" imageId="1092693598">
 <geo factor="1200.0001">
@@ -8615,5 +8713,26 @@
 </geo>
 <min longitude="54.503338" latitude="59.547497"/>
 <max longitude="55.170006" latitude="60.047497"/>
+</map>
+<map id="1879438603" name="Shakhajât" imageId="1092695925">
+<geo factor="300.0">
+<point longitude="42.61666" latitude="55.56334"/>
+</geo>
+<min longitude="42.61666" latitude="51.56334"/>
+<max longitude="47.949993" latitude="55.56334"/>
+</map>
+<map id="1879439215" name="Ormgren" imageId="1092697811">
+<geo factor="600.0">
+<point longitude="43.23166" latitude="68.848335"/>
+</geo>
+<min longitude="43.23166" latitude="66.848335"/>
+<max longitude="45.898327" latitude="68.848335"/>
+</map>
+<map id="1879439216" name="Glittengrof" imageId="1092697812">
+<geo factor="500.00006">
+<point longitude="41.93" latitude="71.42"/>
+</geo>
+<min longitude="41.93" latitude="67.82"/>
+<max longitude="46.73" latitude="71.42"/>
 </map>
 </maps>

@@ -880,7 +880,6 @@
 <marker id="559935547" label="Lokur" category="70" did="1879430163" parentZoneId="1879410820" longitude="-121.81958" latitude="-47.742115"/>
 <marker id="559935548" label="Hermáth Stormhammer" category="70" did="1879430162" parentZoneId="1879410820" longitude="-121.887505" latitude="-47.696274"/>
 <marker id="559935549" label="Hersegg" category="70" did="1879430161" parentZoneId="1879410820" longitude="-121.88681" latitude="-47.687054"/>
-<marker id="559935550" label="Orti" category="70" did="1879430160" parentZoneId="1879410820" longitude="-121.86005" latitude="-47.647915"/>
 <marker id="559935557" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.57343" latitude="-48.038647"/>
 <marker id="559935558" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.57343" latitude="-48.038647"/>
 <marker id="559935559" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.57343" latitude="-48.038647"/>
@@ -912,110 +911,111 @@
 <marker id="559935601" label="Crystals" category="73" did="1879418137" parentZoneId="1879410820" longitude="-121.66829" latitude="-47.97568"/>
 <marker id="559935602" label="Crystals" category="73" did="1879418137" parentZoneId="1879410820" longitude="-121.74392" latitude="-48.11611"/>
 <marker id="559935603" label="Crystals" category="73" did="1879418137" parentZoneId="1879410820" longitude="-121.77446" latitude="-48.29726"/>
-<marker id="559935612" label="Durthuzâram, the Dark Lake" category="74" did="1879422046" parentZoneId="1879410820" longitude="-121.6" latitude="-48.0"/>
-<marker id="559935613" label="Durthuzâram, the Dark Lake" category="74" did="1879422046" parentZoneId="1879410820" longitude="-121.48512" latitude="-47.931908"/>
-<marker id="559935614" label="Watchers' Roost" category="43" did="1879422056" parentZoneId="1879410820" longitude="-121.905174" latitude="-47.71903"/>
-<marker id="559935636" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.69221" latitude="-48.023228"/>
-<marker id="559935637" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.69221" latitude="-48.023228"/>
-<marker id="559935638" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.717514" latitude="-48.148"/>
-<marker id="559935639" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.717514" latitude="-48.148"/>
-<marker id="559935640" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.63117" latitude="-47.905415"/>
-<marker id="559935641" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.63117" latitude="-47.905415"/>
-<marker id="559935642" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.65854" latitude="-47.709023"/>
-<marker id="559935643" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.65854" latitude="-47.709023"/>
-<marker id="559935644" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.74477" latitude="-48.333584"/>
-<marker id="559935645" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.74477" latitude="-48.333584"/>
-<marker id="559935646" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.78198" latitude="-48.185913"/>
-<marker id="559935647" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.78198" latitude="-48.185913"/>
-<marker id="559935648" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.68262" latitude="-48.07202"/>
-<marker id="559935649" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.68262" latitude="-48.07202"/>
-<marker id="559935650" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.61298" latitude="-47.87009"/>
-<marker id="559935651" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.61298" latitude="-47.87009"/>
-<marker id="559935652" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935653" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935654" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935655" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935656" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935657" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935658" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935659" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935660" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
-<marker id="559935661" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935662" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935663" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935664" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935665" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935666" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935667" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935668" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935669" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
-<marker id="559935670" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935671" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935672" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935673" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935674" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935675" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935676" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935677" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935678" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
-<marker id="559935679" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935680" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935681" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935682" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935683" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935684" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935685" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935686" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935687" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
-<marker id="559935688" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935689" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935690" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935691" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935692" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935693" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935694" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935695" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935696" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
-<marker id="559935697" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935698" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935699" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935700" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935701" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935702" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935703" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935704" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935705" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
-<marker id="559935706" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935707" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935708" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935709" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935710" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935711" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935712" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935713" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935714" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
-<marker id="559935715" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
-<marker id="559935716" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
-<marker id="559935717" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
-<marker id="559935718" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
-<marker id="559935719" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
-<marker id="559935720" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
-<marker id="559935721" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
-<marker id="559935722" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
-<marker id="559935723" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
-<marker id="559935724" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
-<marker id="559935725" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
-<marker id="559935726" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
-<marker id="559935727" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
-<marker id="559935728" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
-<marker id="559935729" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
-<marker id="559935730" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
-<marker id="559935731" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
-<marker id="559935732" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
-<marker id="559935733" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
-<marker id="559935734" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
-<marker id="559935735" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
-<marker id="559935736" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
-<marker id="559935737" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
-<marker id="559935738" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
+<marker id="559935612" label="Orti" category="70" did="1879430160" parentZoneId="1879410820" longitude="-121.86005" latitude="-47.647915"/>
+<marker id="559935613" label="Durthuzâram, the Dark Lake" category="74" did="1879422046" parentZoneId="1879410820" longitude="-121.6" latitude="-48.0"/>
+<marker id="559935614" label="Durthuzâram, the Dark Lake" category="74" did="1879422046" parentZoneId="1879410820" longitude="-121.48512" latitude="-47.931908"/>
+<marker id="559935615" label="Watchers' Roost" category="43" did="1879422056" parentZoneId="1879410820" longitude="-121.905174" latitude="-47.71903"/>
+<marker id="559935637" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.69221" latitude="-48.023228"/>
+<marker id="559935638" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.69221" latitude="-48.023228"/>
+<marker id="559935639" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.717514" latitude="-48.148"/>
+<marker id="559935640" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.717514" latitude="-48.148"/>
+<marker id="559935641" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.63117" latitude="-47.905415"/>
+<marker id="559935642" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.63117" latitude="-47.905415"/>
+<marker id="559935643" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.65854" latitude="-47.709023"/>
+<marker id="559935644" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.65854" latitude="-47.709023"/>
+<marker id="559935645" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.74477" latitude="-48.333584"/>
+<marker id="559935646" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.74477" latitude="-48.333584"/>
+<marker id="559935647" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.78198" latitude="-48.185913"/>
+<marker id="559935648" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.78198" latitude="-48.185913"/>
+<marker id="559935649" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.68262" latitude="-48.07202"/>
+<marker id="559935650" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.68262" latitude="-48.07202"/>
+<marker id="559935651" label="Rich Gundabad Skarn Deposit" category="50" did="1879430431" parentZoneId="1879410820" longitude="-121.61298" latitude="-47.87009"/>
+<marker id="559935652" label="Gundabad Skarn Deposit" category="50" did="1879430435" parentZoneId="1879410820" longitude="-121.61298" latitude="-47.87009"/>
+<marker id="559935653" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935654" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935655" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935656" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935657" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935658" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935659" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935660" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935661" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.717125" latitude="-48.250145"/>
+<marker id="559935662" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935663" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935664" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935665" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935666" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935667" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935668" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935669" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935670" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.58093" latitude="-48.330036"/>
+<marker id="559935671" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935672" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935673" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935674" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935675" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935676" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935677" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935678" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935679" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.53414" latitude="-48.19724"/>
+<marker id="559935680" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935681" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935682" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935683" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935684" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935685" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935686" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935687" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935688" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.62296" latitude="-48.07171"/>
+<marker id="559935689" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935690" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935691" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935692" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935693" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935694" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935695" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935696" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935697" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.54173" latitude="-47.97534"/>
+<marker id="559935698" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935699" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935700" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935701" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935702" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935703" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935704" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935705" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935706" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.51687" latitude="-47.799583"/>
+<marker id="559935707" label="Ukhrash Pale-moult" category="71" did="1879430821" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935708" label="Maddened Deep-toad" category="71" did="1879423192" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935709" label="Deep-toad" category="71" did="1879423193" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935710" label="Glow-wormlet" category="71" did="1879423224" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935711" label="Glow-worm" category="71" did="1879423225" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935712" label="Glass-spider Recluse" category="71" did="1879423189" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935713" label="Glass-spider Weaver" category="71" did="1879430827" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935714" label="Ukhrash Gloom-scuttler" category="71" did="1879423190" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935715" label="Crystal-grim" category="71" did="1879430830" parentZoneId="1879410820" longitude="-121.54191" latitude="-47.64748"/>
+<marker id="559935716" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
+<marker id="559935717" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
+<marker id="559935718" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
+<marker id="559935719" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
+<marker id="559935720" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
+<marker id="559935721" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410820" longitude="-121.66631" latitude="-48.29688"/>
+<marker id="559935722" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
+<marker id="559935723" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
+<marker id="559935724" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
+<marker id="559935725" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
+<marker id="559935726" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
+<marker id="559935727" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410820" longitude="-121.52501" latitude="-48.098083"/>
+<marker id="559935728" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
+<marker id="559935729" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
+<marker id="559935730" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
+<marker id="559935731" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
+<marker id="559935732" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
+<marker id="559935733" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410820" longitude="-121.530235" latitude="-47.74245"/>
+<marker id="559935734" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
+<marker id="559935735" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
+<marker id="559935736" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
+<marker id="559935737" label="Lizard" category="78" did="1879419332" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
+<marker id="559935738" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
+<marker id="559935739" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410820" longitude="-121.95293" latitude="-48.016926"/>
 </markers>

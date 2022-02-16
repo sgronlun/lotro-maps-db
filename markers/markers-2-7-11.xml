@@ -4405,7 +4405,7 @@
 <marker id="665931923" label="Cow" category="70" did="1879077785" parentZoneId="1879400521" longitude="-56.007168" latitude="20.665253"/>
 <marker id="665931924" label="Cow" category="70" did="1879077785" parentZoneId="1879400521" longitude="-56.022568" latitude="20.687557"/>
 <marker id="665931925" label="Cow" category="70" did="1879077785" parentZoneId="1879400521" longitude="-56.038574" latitude="20.663105"/>
-<marker id="665931926" label="Tasks Collection Box" category="70" did="1879396435" parentZoneId="1879400521" longitude="-55.901787" latitude="20.951689"/>
+<marker id="665931926" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879400521" longitude="-55.901787" latitude="20.951689"/>
 <marker id="665931931" label="Imák" category="70" did="1879404028" parentZoneId="1879400521" longitude="-56.15816" latitude="21.10536"/>
 <marker id="665931932" label="Glóin" category="70" did="1879404035" parentZoneId="1879400521" longitude="-55.67872" latitude="20.616493"/>
 <marker id="665931933" label="Venko" category="70" did="1879404015" parentZoneId="1879400521" longitude="-56.18824" latitude="21.083427"/>
@@ -15327,28 +15327,28 @@
 <marker id="666779655" label="Torech Emel" category="43" did="1879362346" parentZoneId="1879362295" longitude="-45.745186" latitude="19.797665"/>
 <marker id="666783748" label="Torech Emel" category="74" did="1879362346" parentZoneId="1879362295" longitude="-45.872803" latitude="20.68375"/>
 <marker id="666783750" label="King Thranduil" category="71" did="1879367069" parentZoneId="1879362295" longitude="-45.477528" latitude="20.81036"/>
-<marker id="666787841" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.46214" latitude="21.805292"/>
-<marker id="666787842" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.44915" latitude="21.760204"/>
-<marker id="666787843" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.44745" latitude="21.75663"/>
-<marker id="666787844" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.521492" latitude="21.790606"/>
-<marker id="666787845" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.47077" latitude="21.734121"/>
-<marker id="666787846" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.452175" latitude="21.753672"/>
-<marker id="666787847" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.44787" latitude="21.828447"/>
-<marker id="666787848" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.480537" latitude="21.76747"/>
-<marker id="666787849" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.462967" latitude="21.750175"/>
-<marker id="666787850" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.495888" latitude="21.792685"/>
-<marker id="666787851" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.47781" latitude="21.745731"/>
-<marker id="666787852" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.47824" latitude="21.785957"/>
-<marker id="666787853" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.476387" latitude="21.757568"/>
-<marker id="666787854" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.472908" latitude="21.793758"/>
-<marker id="666787855" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.458233" latitude="21.731953"/>
-<marker id="666787856" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.488377" latitude="21.775087"/>
-<marker id="666787857" label="Iphantemel, the Old Mother" category="71" did="1879365683" parentZoneId="1879362295" longitude="-45.328945" latitude="21.94161"/>
-<marker id="666787858" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.536366" latitude="21.719501"/>
-<marker id="666787859" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.54275" latitude="21.747099"/>
-<marker id="666787860" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.55246" latitude="21.745996"/>
-<marker id="666787861" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.531475" latitude="21.728144"/>
-<marker id="666787862" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.53821" latitude="21.73747"/>
+<marker id="666787841" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.536366" latitude="21.719501"/>
+<marker id="666787842" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.54275" latitude="21.747099"/>
+<marker id="666787843" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.55246" latitude="21.745996"/>
+<marker id="666787844" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.531475" latitude="21.728144"/>
+<marker id="666787845" label="Elf" category="71" did="1879367070" parentZoneId="1879362295" longitude="-45.53821" latitude="21.73747"/>
+<marker id="666787846" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.46214" latitude="21.805292"/>
+<marker id="666787847" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.44915" latitude="21.760204"/>
+<marker id="666787848" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.44745" latitude="21.75663"/>
+<marker id="666787849" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.521492" latitude="21.790606"/>
+<marker id="666787850" label="Lingering Weaver" category="71" did="1879365684" parentZoneId="1879362295" longitude="-45.47077" latitude="21.734121"/>
+<marker id="666787851" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.452175" latitude="21.753672"/>
+<marker id="666787852" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.44787" latitude="21.828447"/>
+<marker id="666787853" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.480537" latitude="21.76747"/>
+<marker id="666787854" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.462967" latitude="21.750175"/>
+<marker id="666787855" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.495888" latitude="21.792685"/>
+<marker id="666787856" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.47781" latitude="21.745731"/>
+<marker id="666787857" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.47824" latitude="21.785957"/>
+<marker id="666787858" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.476387" latitude="21.757568"/>
+<marker id="666787859" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.472908" latitude="21.793758"/>
+<marker id="666787860" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.458233" latitude="21.731953"/>
+<marker id="666787861" label="Lingering Ambusher" category="71" did="1879365685" parentZoneId="1879362295" longitude="-45.488377" latitude="21.775087"/>
+<marker id="666787862" label="Iphantemel, the Old Mother" category="71" did="1879365683" parentZoneId="1879362295" longitude="-45.328945" latitude="21.94161"/>
 <marker id="666787863" label="Torech Emel" category="74" did="1879362346" parentZoneId="1879362295" longitude="-45.5783" latitude="21.572529"/>
 <marker id="666828800" label="Deer" category="78" did="1879080635" parentZoneId="1879362295" longitude="-44.735527" latitude="16.785566"/>
 <marker id="666828801" label="Rabbit" category="78" did="1879079062" parentZoneId="1879362295" longitude="-44.735527" latitude="16.785566"/>

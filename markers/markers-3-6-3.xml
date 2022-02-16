@@ -3896,33 +3896,35 @@
 <marker id="909312000" label="---" category="100" did="1879095077" parentZoneId="1879338084" longitude="-67.471214" latitude="-85.87486"/>
 <marker id="909312001" label="---" category="100" did="1879095077" parentZoneId="1879338084" longitude="-67.134796" latitude="-85.69435"/>
 <marker id="909312002" label="---" category="100" did="1879095077" parentZoneId="1879338084" longitude="-67.365364" latitude="-85.50687"/>
-<marker id="909312003" label="Small Yard" category="100" did="1879338336" parentZoneId="1879338084" longitude="-67.5504" latitude="-85.48605"/>
-<marker id="909312004" label="Large Yard" category="100" did="1879338338" parentZoneId="1879338084" longitude="-66.96803" latitude="-85.74707"/>
-<marker id="909312005" label="Large Yard" category="100" did="1879338339" parentZoneId="1879338084" longitude="-67.04067" latitude="-85.81693"/>
-<marker id="909312006" label="Small Yard" category="100" did="1879338340" parentZoneId="1879338084" longitude="-67.2667" latitude="-85.7753"/>
-<marker id="909312007" label="Small Yard" category="100" did="1879338341" parentZoneId="1879338084" longitude="-67.481" latitude="-85.70715"/>
-<marker id="909312008" label="Small Yard" category="100" did="1879338345" parentZoneId="1879338084" longitude="-67.30489" latitude="-85.81693"/>
-<marker id="909312009" label="Small Yard" category="100" did="1879338348" parentZoneId="1879338084" longitude="-67.51618" latitude="-85.60756"/>
+<marker id="909312003" label="Yard" category="100" did="1879338336" parentZoneId="1879338084" longitude="-67.5504" latitude="-85.48605"/>
+<marker id="909312004" label="Yard" category="100" did="1879338338" parentZoneId="1879338084" longitude="-66.96803" latitude="-85.74707"/>
+<marker id="909312005" label="Yard" category="100" did="1879338339" parentZoneId="1879338084" longitude="-67.04067" latitude="-85.81693"/>
+<marker id="909312006" label="Yard" category="100" did="1879338340" parentZoneId="1879338084" longitude="-67.2667" latitude="-85.7753"/>
+<marker id="909312007" label="Yard" category="100" did="1879338341" parentZoneId="1879338084" longitude="-67.481" latitude="-85.70715"/>
+<marker id="909312008" label="Yard" category="100" did="1879338345" parentZoneId="1879338084" longitude="-67.30489" latitude="-85.81693"/>
+<marker id="909312009" label="Yard" category="100" did="1879338348" parentZoneId="1879338084" longitude="-67.51618" latitude="-85.60756"/>
 <marker id="909312010" label="Mailbox" category="73" did="1879338330" parentZoneId="1879338084" longitude="-67.31515" latitude="-85.55172"/>
-<marker id="909312011" label="HouseKeeper" category="100" did="1879093790" parentZoneId="1879338084" longitude="-67.31026" latitude="-85.60557"/>
-<marker id="909312012" label="Small Yard" category="100" did="1879096940" parentZoneId="1879338084" longitude="-67.26801" latitude="-85.73272"/>
-<marker id="909312013" label="Small Yard" category="100" did="1879096939" parentZoneId="1879338084" longitude="-67.30288" latitude="-85.694214"/>
-<marker id="909312014" label="Small Yard" category="100" did="1879096938" parentZoneId="1879338084" longitude="-67.477715" latitude="-85.5579"/>
-<marker id="909312015" label="Small Yard" category="100" did="1879096937" parentZoneId="1879338084" longitude="-67.43992" latitude="-85.86196"/>
-<marker id="909312016" label="Small Yard" category="100" did="1879096935" parentZoneId="1879338084" longitude="-67.39745" latitude="-85.60754"/>
-<marker id="909312017" label="Large Yard" category="100" did="1879096931" parentZoneId="1879338084" longitude="-67.04146" latitude="-85.6758"/>
-<marker id="909312018" label="Large Yard" category="100" did="1879096930" parentZoneId="1879338084" longitude="-67.18928" latitude="-85.8644"/>
-<marker id="909312019" label="Large Yard" category="100" did="1879096929" parentZoneId="1879338084" longitude="-67.130196" latitude="-85.86308"/>
-<marker id="909312020" label="Large Yard" category="100" did="1879096928" parentZoneId="1879338084" longitude="-67.52837" latitude="-85.706474"/>
-<marker id="909312021" label="Huge Yard" category="100" did="1879096911" parentZoneId="1879338084" longitude="-67.48699" latitude="-85.49455"/>
-<marker id="909312022" label="Huge Yard" category="100" did="1879096910" parentZoneId="1879338084" longitude="-67.03645" latitude="-85.74638"/>
-<marker id="909312023" label="Large Yard" category="100" did="1879096925" parentZoneId="1879338084" longitude="-67.13177" latitude="-85.649704"/>
-<marker id="909312024" label="Large Yard" category="100" did="1879096927" parentZoneId="1879338084" longitude="-67.41462" latitude="-85.53422"/>
-<marker id="909312025" label="Doormat" category="100" did="1879096920" parentZoneId="1879338084" longitude="-67.28543" latitude="-85.51145"/>
-<marker id="909312026" label="Huge Yard" category="100" did="1879096912" parentZoneId="1879338084" longitude="-67.5114" latitude="-85.79387"/>
-<marker id="909312027" label="Huge Yard" category="100" did="1879096913" parentZoneId="1879338084" longitude="-67.51151" latitude="-85.92272"/>
-<marker id="909312028" label="Enormous Yard" category="100" did="1879096915" parentZoneId="1879338084" longitude="-67.17222" latitude="-85.757065"/>
-<marker id="909312029" label="Door" category="100" did="1879328998" parentZoneId="1879338084" longitude="-67.28575" latitude="-85.50205"/>
+<marker id="909312011" label="Ambient Environment" category="100" did="1879443349" parentZoneId="1879338084" longitude="-67.29736" latitude="-85.508415"/>
+<marker id="909312012" label="HouseKeeper" category="100" did="1879093790" parentZoneId="1879338084" longitude="-67.31026" latitude="-85.60557"/>
+<marker id="909312013" label="Yard" category="100" did="1879096940" parentZoneId="1879338084" longitude="-67.26801" latitude="-85.73272"/>
+<marker id="909312014" label="Yard" category="100" did="1879096939" parentZoneId="1879338084" longitude="-67.30288" latitude="-85.694214"/>
+<marker id="909312015" label="Yard" category="100" did="1879096938" parentZoneId="1879338084" longitude="-67.477715" latitude="-85.5579"/>
+<marker id="909312016" label="Yard" category="100" did="1879096937" parentZoneId="1879338084" longitude="-67.43992" latitude="-85.86196"/>
+<marker id="909312017" label="Yard" category="100" did="1879096935" parentZoneId="1879338084" longitude="-67.39745" latitude="-85.60754"/>
+<marker id="909312018" label="Yard" category="100" did="1879096931" parentZoneId="1879338084" longitude="-67.04146" latitude="-85.6758"/>
+<marker id="909312019" label="Yard" category="100" did="1879096930" parentZoneId="1879338084" longitude="-67.18928" latitude="-85.8644"/>
+<marker id="909312020" label="Yard" category="100" did="1879096929" parentZoneId="1879338084" longitude="-67.130196" latitude="-85.86308"/>
+<marker id="909312021" label="Yard" category="100" did="1879096928" parentZoneId="1879338084" longitude="-67.52837" latitude="-85.706474"/>
+<marker id="909312022" label="Huge Yard" category="100" did="1879096911" parentZoneId="1879338084" longitude="-67.48699" latitude="-85.49455"/>
+<marker id="909312023" label="Huge Yard" category="100" did="1879096910" parentZoneId="1879338084" longitude="-67.03645" latitude="-85.74638"/>
+<marker id="909312024" label="Yard" category="100" did="1879096925" parentZoneId="1879338084" longitude="-67.13177" latitude="-85.649704"/>
+<marker id="909312025" label="Yard" category="100" did="1879096927" parentZoneId="1879338084" longitude="-67.41462" latitude="-85.53422"/>
+<marker id="909312026" label="Doormat" category="100" did="1879096920" parentZoneId="1879338084" longitude="-67.28543" latitude="-85.51145"/>
+<marker id="909312027" label="Huge Yard" category="100" did="1879096912" parentZoneId="1879338084" longitude="-67.5114" latitude="-85.79387"/>
+<marker id="909312028" label="Huge Yard" category="100" did="1879096913" parentZoneId="1879338084" longitude="-67.51151" latitude="-85.92272"/>
+<marker id="909312029" label="Enormous Yard" category="100" did="1879096915" parentZoneId="1879338084" longitude="-67.17222" latitude="-85.757065"/>
+<marker id="909312030" label="Door" category="100" did="1879328998" parentZoneId="1879338084" longitude="-67.28575" latitude="-85.50205"/>
+<marker id="909312031" label="Ambient Music" category="100" did="1879415401" parentZoneId="1879338084" longitude="-67.29752" latitude="-85.50517"/>
 <marker id="909316098" label="Emyn Ernil Pine" category="71" did="1879338077" parentZoneId="1879338084" longitude="-67.06295" latitude="-84.429214"/>
 <marker id="909320193" label="Emyn Ernil Pine" category="71" did="1879338077" parentZoneId="1879338084" longitude="-66.95315" latitude="-84.20937"/>
 <marker id="909320196" label="Emyn Ernil Pine" category="71" did="1879338077" parentZoneId="1879338084" longitude="-67.540985" latitude="-84.21627"/>
@@ -8637,7 +8639,7 @@
 <marker id="909762683" label="Supply Crate" category="73" did="1879314107" parentZoneId="1879305739" longitude="-62.186104" latitude="-74.19531"/>
 <marker id="909762684" label="Supply Crate" category="73" did="1879314107" parentZoneId="1879305739" longitude="-62.3466" latitude="-74.28038"/>
 <marker id="909762688" label="Bruidis" category="70" did="1879313278" parentZoneId="1879305739" longitude="-62.676758" latitude="-74.37734"/>
-<marker id="909762744" label="Tasks Collection Box" category="70" did="1879366262" parentZoneId="1879305739" longitude="-62.127598" latitude="-74.08595"/>
+<marker id="909762744" label="Task Collection Box" category="70" did="1879366262" parentZoneId="1879305739" longitude="-62.127598" latitude="-74.08595"/>
 <marker id="909766657" label="Farmland" category="75" did="1879063085" parentZoneId="1879305739" longitude="-62.002842" latitude="-73.95245"/>
 <marker id="909766658" label="Farmland" category="45" did="1879063085" parentZoneId="1879305739" longitude="-62.050858" latitude="-73.978714"/>
 <marker id="909766659" label="Farmland" category="75" did="1879063084" parentZoneId="1879305739" longitude="-62.049843" latitude="-73.99825"/>

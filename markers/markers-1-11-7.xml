@@ -364,7 +364,8 @@
 <marker id="460390492" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063938" longitude="-4.8924513" latitude="-34.57862"/>
 <marker id="460390493" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063938" longitude="-4.8924513" latitude="-34.57862"/>
 <marker id="460410880" label="Milestone" category="55" did="1879063393" parentZoneId="1879063939" longitude="-4.4333005" latitude="-30.05996"/>
-<marker id="460410881" label="The Bridge of Rivendell" category="43" did="1879063808" parentZoneId="1879063939" longitude="-4.4789453" latitude="-30.278837"/>
+<marker id="460410882" label="Human Roadsign" category="73" did="1879077026" parentZoneId="1879063939" longitude="-4.4730954" latitude="-30.46126"/>
+<marker id="460410884" label="The Bridge of Rivendell" category="43" did="1879063808" parentZoneId="1879063939" longitude="-4.4789453" latitude="-30.278837"/>
 <marker id="460414976" label="Celeblas&#10;Champion Trainer" category="42" did="1879059912" parentZoneId="1879063939" longitude="-4.6931443" latitude="-29.84253"/>
 <marker id="460414978" label="Mailbox" category="34" did="1879084181" parentZoneId="1879063939" longitude="-4.6008887" latitude="-29.900723"/>
 <marker id="460414979" label="Jeb Wheaton&#10;Warden Trainer" category="42" did="1879136694" parentZoneId="1879063939" longitude="-4.7181153" latitude="-29.910654"/>
@@ -453,21 +454,22 @@
 <marker id="460476424" label="Bingo Boffin" category="70" did="1879320557" parentZoneId="1879063939" longitude="-3.886963" latitude="-30.154228"/>
 <marker id="460476432" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-3.9296875" latitude="-30.15373"/>
 <marker id="460476433" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-3.9246874" latitude="-30.15373"/>
-<marker id="460480513" label="Aegúrel&#10;Town Crier" category="31" did="1879114230" parentZoneId="1879063939" longitude="-3.7212207" latitude="-29.764471"/>
 <marker id="460480515" label="Glorielhen&#10;Notary" category="38" did="1879148687" parentZoneId="1879063939" longitude="-3.857373" latitude="-29.546797"/>
 <marker id="460480516" label="Anniversary Vendor&#10;Keeper of Gifts" category="58" did="1879201663" parentZoneId="1879063939" longitude="-3.698662" latitude="-29.72209"/>
-<marker id="460480517" label="Trollshaws Reflecting Pool&#10;Reflecting Pool" category="52" did="1879080455" parentZoneId="1879063939" longitude="-3.777334" latitude="-29.469257"/>
-<marker id="460480519" label="Tutorial - Reflecting Pools" category="75" did="1879077650" parentZoneId="1879063939" longitude="-3.777334" latitude="-29.469257"/>
-<marker id="460480520" label="Watcher" category="70" did="1879077006" parentZoneId="1879063939" longitude="-4.0748925" latitude="-29.263105"/>
-<marker id="460480522" label="The Last Homely House" category="74" did="1879063822" parentZoneId="1879063939" longitude="-3.634209" latitude="-29.68786"/>
-<marker id="460480523" label="Sam" category="70" did="1879062511" parentZoneId="1879063939" longitude="-4.03791" latitude="-29.791513"/>
-<marker id="460480528" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-3.6933105" latitude="-29.700663"/>
-<marker id="460480529" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-3.6883104" latitude="-29.700663"/>
-<marker id="460480530" label="Celeblír" category="70" did="1879413295" parentZoneId="1879063939" longitude="-3.7077832" latitude="-29.6229"/>
-<marker id="460480531" label="Celeblír" category="70" did="1879413284" parentZoneId="1879063939" longitude="-3.660742" latitude="-29.616718"/>
-<marker id="460480532" label="Taidbes&#10;Sage of Eriador" category="58" did="1879124399" parentZoneId="1879063939" longitude="-3.7955174" latitude="-29.481123"/>
-<marker id="460480537" label="Faimir" category="70" did="1879060065" parentZoneId="1879063939" longitude="-3.6528904" latitude="-29.897236"/>
-<marker id="460480539" label="Rabbit" category="78" did="1879079062" parentZoneId="1879063939" longitude="-4.161875" latitude="-29.679688"/>
+<marker id="460480518" label="Trollshaws Reflecting Pool&#10;Reflecting Pool" category="52" did="1879080455" parentZoneId="1879063939" longitude="-3.777334" latitude="-29.469257"/>
+<marker id="460480520" label="Tutorial - Reflecting Pools" category="75" did="1879077650" parentZoneId="1879063939" longitude="-3.777334" latitude="-29.469257"/>
+<marker id="460480521" label="Watcher" category="70" did="1879077006" parentZoneId="1879063939" longitude="-4.0748925" latitude="-29.263105"/>
+<marker id="460480523" label="The Last Homely House" category="74" did="1879063822" parentZoneId="1879063939" longitude="-3.634209" latitude="-29.68786"/>
+<marker id="460480524" label="Sam" category="70" did="1879062511" parentZoneId="1879063939" longitude="-4.03791" latitude="-29.791513"/>
+<marker id="460480528" label="Stable-master" category="51" did="1879444660" parentZoneId="1879063939" longitude="-4.068779" latitude="-29.808895"/>
+<marker id="460480529" label="Aegúrel&#10;Town Crier" category="31" did="1879114230" parentZoneId="1879063939" longitude="-3.7212207" latitude="-29.764471"/>
+<marker id="460480530" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-3.6933105" latitude="-29.700663"/>
+<marker id="460480531" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-3.6883104" latitude="-29.700663"/>
+<marker id="460480532" label="Celeblír" category="70" did="1879413295" parentZoneId="1879063939" longitude="-3.7077832" latitude="-29.6229"/>
+<marker id="460480533" label="Celeblír" category="70" did="1879413284" parentZoneId="1879063939" longitude="-3.660742" latitude="-29.616718"/>
+<marker id="460480534" label="Taidbes&#10;Sage of Eriador" category="58" did="1879124399" parentZoneId="1879063939" longitude="-3.7955174" latitude="-29.481123"/>
+<marker id="460480540" label="Faimir" category="70" did="1879060065" parentZoneId="1879063939" longitude="-3.6528904" latitude="-29.897236"/>
+<marker id="460480541" label="Rabbit" category="78" did="1879079062" parentZoneId="1879063939" longitude="-4.161875" latitude="-29.679688"/>
 <marker id="460484611" label="Townsperson" category="70" did="1879077007" parentZoneId="1879063939" longitude="-4.2188478" latitude="-28.826729"/>
 <marker id="460484612" label="The Haven of Orladion" category="43" did="1879063818" parentZoneId="1879063939" longitude="-3.7148633" latitude="-28.896376"/>
 <marker id="460484613" label="Heath Wheaton&#10;Captain Trainer" category="42" did="1879053085" parentZoneId="1879063939" longitude="-4.2071486" latitude="-28.762226"/>
@@ -522,7 +524,7 @@
 <marker id="460505145" label="Longbeard Warrior" category="71" did="1879413339" parentZoneId="1879063941" longitude="-3.7341504" latitude="-24.66294"/>
 <marker id="460505146" label="Longbeard Warrior" category="71" did="1879413339" parentZoneId="1879063941" longitude="-3.730957" latitude="-24.68085"/>
 <marker id="460505147" label="Glóin" category="71" did="1879413337" parentZoneId="1879063941" longitude="-4.126953" latitude="-24.894053"/>
-<marker id="460505357" label="Tasks Collection Box" category="70" did="1879233909" parentZoneId="1879063941" longitude="-4.0932226" latitude="-24.682587"/>
+<marker id="460505357" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879063941" longitude="-4.0932226" latitude="-24.682587"/>
 <marker id="460505451" label="Authi&#10;Roving Threat Quartermaster" category="58" did="1879320704" parentZoneId="1879063941" longitude="-4.132344" latitude="-24.719873"/>
 <marker id="460505452" label="Bingo Boffin" category="70" did="1879322518" parentZoneId="1879063941" longitude="-4.0472655" latitude="-24.852577"/>
 <marker id="460505454" label="Spalvi" category="70" did="1879322507" parentZoneId="1879063941" longitude="-3.868291" latitude="-24.81416"/>
@@ -3749,8 +3751,8 @@
 <marker id="460881924" label="Gabilazan Champion" category="71" did="1879080545" parentZoneId="1879063944" longitude="0.7960254" latitude="-27.981346"/>
 <marker id="460881925" label="Gabilazan Champion" category="71" did="1879080545" parentZoneId="1879063944" longitude="0.81140625" latitude="-27.982382"/>
 <marker id="460881926" label="Gabilazan Champion" category="71" did="1879080545" parentZoneId="1879063944" longitude="0.7747168" latitude="-27.679169"/>
-<marker id="460881927" label="Gabilazan Captain" category="71" did="1879080519" parentZoneId="1879063944" longitude="0.8188867" latitude="-27.790174"/>
-<marker id="460881928" label="Nazgûl" category="71" did="1879052250" parentZoneId="1879063944" longitude="0.7363086" latitude="-28.139383"/>
+<marker id="460881927" label="Nazgûl" category="71" did="1879052250" parentZoneId="1879063944" longitude="0.7363086" latitude="-28.139383"/>
+<marker id="460881928" label="Gabilazan Captain" category="71" did="1879080519" parentZoneId="1879063944" longitude="0.8188867" latitude="-27.790174"/>
 <marker id="460881929" label="Gimli" category="71" did="1879080520" parentZoneId="1879063944" longitude="0.50853515" latitude="-27.714062"/>
 <marker id="460881930" label="Gabilazan Foreman" category="71" did="1879080523" parentZoneId="1879063944" longitude="0.7516992" latitude="-28.087381"/>
 <marker id="460881931" label="Gabilazan Foreman" category="71" did="1879080523" parentZoneId="1879063944" longitude="0.82359374" latitude="-27.93747"/>
@@ -5129,7 +5131,7 @@
 <marker id="460963860" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.6447852" latitude="-24.626356"/>
 <marker id="460963861" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.6447852" latitude="-24.626356"/>
 <marker id="460963863" label="Golhador" category="70" did="1879061084" parentZoneId="1879063944" longitude="1.2766211" latitude="-24.62202"/>
-<marker id="460964148" label="Tasks Collection Box" category="70" did="1879233909" parentZoneId="1879063944" longitude="1.2679394" latitude="-24.588858"/>
+<marker id="460964148" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879063944" longitude="1.2679394" latitude="-24.588858"/>
 <marker id="460964155" label="Vighar Roadwalker&#10;Stable-master" category="51" did="1879080429" parentZoneId="1879063944" longitude="1.2670801" latitude="-24.628994"/>
 <marker id="460964156" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
 <marker id="460964157" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>

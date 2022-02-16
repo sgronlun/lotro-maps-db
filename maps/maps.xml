@@ -20,12 +20,12 @@
 <min longitude="-110.00575" latitude="-30.069061"/>
 <max longitude="-86.431656" latitude="-12.388486"/>
 </map>
-<map id="268437592" name="Trollshaws" imageId="1090552110">
-<geo factor="37.5">
-<point longitude="-26.34667" latitude="-20.8"/>
+<map id="268437592" name="Trollshaws" imageId="1092708782">
+<geo factor="30.000002">
+<point longitude="-33.36667" latitude="-22.8"/>
 </geo>
-<min longitude="-26.34667" latitude="-41.28"/>
-<max longitude="0.9599972" latitude="-20.8"/>
+<min longitude="-33.36667" latitude="-48.399998"/>
+<max longitude="0.7666626" latitude="-22.8"/>
 </map>
 <map id="268437603" name="Lone-Lands" imageId="1090552112">
 <geo factor="43.75">
@@ -1232,11 +1232,11 @@
 <max longitude="-116.49462" latitude="-42.791397"/>
 </map>
 <map id="268453670" name="Deepscrave" imageId="1092687469">
-<geo factor="86.875">
-<point longitude="-124.25036" latitude="-44.35971"/>
+<geo factor="120.00001">
+<point longitude="-122.774994" latitude="-46.8"/>
 </geo>
-<min longitude="-124.25036" latitude="-53.199997"/>
-<max longitude="-112.46331" latitude="-44.35971"/>
+<min longitude="-122.774994" latitude="-53.199997"/>
+<max longitude="-114.24166" latitude="-46.8"/>
 </map>
 <map id="268453671" name="Máttugard" imageId="1092687465">
 <geo factor="86.875">
@@ -1251,6 +1251,27 @@
 </geo>
 <min longitude="-117.92517" latitude="-45.199997"/>
 <max longitude="-106.13812" latitude="-36.359707"/>
+</map>
+<map id="268453867" name="Erebor Homesteads" imageId="1092701585">
+<geo factor="98.75">
+<point longitude="-144.38988" latitude="20.177216"/>
+</geo>
+<min longitude="-144.38988" latitude="12.400001"/>
+<max longitude="-134.02026" latitude="20.177216"/>
+</map>
+<map id="268453878" name="The Angle of Mitheithel" imageId="1092709646">
+<geo factor="53.4375">
+<point longitude="-27.599998" latitude="-31.628065"/>
+</geo>
+<min longitude="-27.599998" latitude="-45.999992"/>
+<max longitude="-8.437426" latitude="-31.628065"/>
+</map>
+<map id="268453893" name="Glittering Caves" imageId="1092709851">
+<geo factor="125.0">
+<point longitude="-146.8" latitude="-70.232"/>
+</geo>
+<min longitude="-146.8" latitude="-76.376"/>
+<max longitude="-138.608" latitude="-70.232"/>
 </map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
@@ -8804,5 +8825,54 @@
 </geo>
 <min longitude="-143.07333" latitude="12.27667"/>
 <max longitude="-137.74" latitude="16.27667"/>
+</map>
+<map id="1879443597" name="Fernbrake Cot" imageId="1092707910">
+<geo factor="600.0">
+<point longitude="-18.63167" latitude="-39.07"/>
+</geo>
+<min longitude="-18.63167" latitude="-40.07"/>
+<max longitude="-17.298336" latitude="-39.07"/>
+</map>
+<map id="1879443657" name="Caverns of Clovengap" imageId="1092708118">
+<geo factor="600.0">
+<point longitude="42.60334" latitude="52.671658"/>
+</geo>
+<min longitude="42.60334" latitude="46.671658"/>
+<max longitude="47.936672" latitude="52.671658"/>
+</map>
+<map id="1879443658" name="The Hiddenhoard of Abnankâra" imageId="1092708117">
+<geo factor="600.0">
+<point longitude="43.805" latitude="52.18"/>
+</geo>
+<min longitude="43.805" latitude="46.18"/>
+<max longitude="49.138332" latitude="52.18"/>
+</map>
+<map id="1879443659" name="Mind of the Frost-heart" imageId="1092708116">
+<geo factor="600.0">
+<point longitude="42.60334" latitude="48.8"/>
+</geo>
+<min longitude="42.60334" latitude="42.8"/>
+<max longitude="47.936672" latitude="48.8"/>
+</map>
+<map id="1879443714" name="Abandoned Burrow" imageId="1092708248">
+<geo factor="600.0">
+<point longitude="-20.164999" latitude="-39.899998"/>
+</geo>
+<min longitude="-20.164999" latitude="-40.899998"/>
+<max longitude="-18.831665" latitude="-39.899998"/>
+</map>
+<map id="1879443715" name="The Stonecots" imageId="1092708247">
+<geo factor="600.00006">
+<point longitude="-24.47333" latitude="-44.118336"/>
+</geo>
+<min longitude="-24.47333" latitude="-45.118336"/>
+<max longitude="-23.139996" latitude="-44.118336"/>
+</map>
+<map id="1879443716" name="Cuan-lûth Refuge" imageId="1092708246">
+<geo factor="600.0">
+<point longitude="-24.18833" latitude="-41.585"/>
+</geo>
+<min longitude="-24.18833" latitude="-42.585"/>
+<max longitude="-22.854996" latitude="-41.585"/>
 </map>
 </maps>

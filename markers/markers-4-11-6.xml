@@ -999,10 +999,10 @@
 <marker id="1264828417" label="Enemy Forces" category="100" did="1879339246" parentZoneId="1879341997" longitude="-3.062119" latitude="-37.983475"/>
 <marker id="1264828418" label="Legolas and Gimli" category="70" did="1879344460" parentZoneId="1879341997" longitude="-3.3292773" latitude="-37.32875"/>
 <marker id="1264828419" label="Prince Imrahil" category="70" did="1879344461" parentZoneId="1879341997" longitude="-3.3086717" latitude="-37.319023"/>
-<marker id="1264828420" label="Mithril-mail" category="73" did="1879341526" parentZoneId="1879341997" longitude="-3.1458495" latitude="-37.703125"/>
-<marker id="1264828421" label="Elladan" category="70" did="1879344457" parentZoneId="1879341997" longitude="-3.3381348" latitude="-37.32733"/>
-<marker id="1264828422" label="Grey Cloak" category="73" did="1879341525" parentZoneId="1879341997" longitude="-3.1432812" latitude="-37.700966"/>
-<marker id="1264828423" label="Elrohir" category="70" did="1879344458" parentZoneId="1879341997" longitude="-3.3492968" latitude="-37.333916"/>
+<marker id="1264828420" label="Elladan" category="70" did="1879344457" parentZoneId="1879341997" longitude="-3.3381348" latitude="-37.32733"/>
+<marker id="1264828421" label="Mithril-mail" category="73" did="1879341526" parentZoneId="1879341997" longitude="-3.1458495" latitude="-37.703125"/>
+<marker id="1264828422" label="Elrohir" category="70" did="1879344458" parentZoneId="1879341997" longitude="-3.3492968" latitude="-37.333916"/>
+<marker id="1264828423" label="Grey Cloak" category="73" did="1879341525" parentZoneId="1879341997" longitude="-3.1432812" latitude="-37.700966"/>
 <marker id="1264828424" label="Éomer" category="70" did="1879344459" parentZoneId="1879341997" longitude="-3.3554199" latitude="-37.339043"/>
 <marker id="1264828425" label="Short Sword" category="73" did="1879341524" parentZoneId="1879341997" longitude="-3.1401758" latitude="-37.70243"/>
 <marker id="1264828426" label="Enemy Defenders" category="75" did="1879344529" parentZoneId="1879341997" longitude="-3.1999998" latitude="-37.925"/>
@@ -1325,7 +1325,7 @@
 <marker id="1265004590" label="Coldan" category="70" did="1879346937" parentZoneId="1879338148" longitude="-0.45958006" latitude="-41.57569"/>
 <marker id="1265004591" label="Quartermaster&#10;Gorgoroth Rewards Vendor" category="58" did="1879359517" parentZoneId="1879338148" longitude="-0.561709" latitude="-41.453163"/>
 <marker id="1265004592" label="Quartermaster&#10;Gorgoroth Crafting Vendor" category="58" did="1879359514" parentZoneId="1879338148" longitude="-0.5776465" latitude="-41.435596"/>
-<marker id="1265004670" label="Tasks Collection Box" category="70" did="1879366262" parentZoneId="1879338148" longitude="-0.70293945" latitude="-41.427303"/>
+<marker id="1265004670" label="Task Collection Box" category="70" did="1879366262" parentZoneId="1879338148" longitude="-0.70293945" latitude="-41.427303"/>
 <marker id="1265008640" label="Stable-master" category="51" did="1879357180" parentZoneId="1879338148" longitude="-0.53043944" latitude="-41.185127"/>
 <marker id="1265008642" label="Gondorian Guard" category="71" did="1879357933" parentZoneId="1879338148" longitude="-0.53824216" latitude="-41.086708"/>
 <marker id="1265008643" label="Gondorian Guard" category="71" did="1879357933" parentZoneId="1879338148" longitude="-0.595625" latitude="-41.06461"/>
@@ -6802,9 +6802,9 @@
 <marker id="1265512528" label="Forge-worker" category="71" did="1879354335" parentZoneId="1879338148" longitude="5.88333" latitude="-44.78467"/>
 <marker id="1265512529" label="Durthang Defiler" category="71" did="1879354332" parentZoneId="1879338148" longitude="5.78042" latitude="-44.645786"/>
 <marker id="1265512530" label="Durthang Defiler" category="71" did="1879354332" parentZoneId="1879338148" longitude="5.781699" latitude="-44.639133"/>
-<marker id="1265512533" label="Easterling Guard" category="71" did="1879354353" parentZoneId="1879338148" longitude="5.8744726" latitude="-44.759354"/>
-<marker id="1265512534" label="Khôpol" category="71" did="1879354354" parentZoneId="1879338148" longitude="5.882275" latitude="-44.755398"/>
-<marker id="1265512535" label="Yordam" category="71" did="1879354355" parentZoneId="1879338148" longitude="5.8776464" latitude="-44.751507"/>
+<marker id="1265512532" label="Easterling Guard" category="71" did="1879354353" parentZoneId="1879338148" longitude="5.8744726" latitude="-44.759354"/>
+<marker id="1265512533" label="Khôpol" category="71" did="1879354354" parentZoneId="1879338148" longitude="5.882275" latitude="-44.755398"/>
+<marker id="1265512534" label="Yordam" category="71" did="1879354355" parentZoneId="1879338148" longitude="5.8776464" latitude="-44.751507"/>
 <marker id="1265512537" label="Forge-worker" category="71" did="1879354337" parentZoneId="1879338148" longitude="5.890693" latitude="-44.783382"/>
 <marker id="1265512538" label="Forge-worker" category="71" did="1879354337" parentZoneId="1879338148" longitude="5.905732" latitude="-44.73783"/>
 <marker id="1265512539" label="Forge-worker" category="71" did="1879354336" parentZoneId="1879338148" longitude="5.8980856" latitude="-44.78026"/>

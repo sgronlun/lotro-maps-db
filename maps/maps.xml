@@ -1273,6 +1273,20 @@
 <min longitude="-146.8" latitude="-76.376"/>
 <max longitude="-138.608" latitude="-70.232"/>
 </map>
+<map id="268453919" name="?" imageId="1092709851">
+<geo factor="125.0">
+<point longitude="-146.8" latitude="-59.032"/>
+</geo>
+<min longitude="-146.8" latitude="-65.176"/>
+<max longitude="-138.608" latitude="-59.032"/>
+</map>
+<map id="268453922" name="Yondershire" imageId="1092720973">
+<geo factor="45.625">
+<point longitude="-90.0" latitude="-16.367128"/>
+</geo>
+<min longitude="-90.0" latitude="-33.200005"/>
+<max longitude="-67.55617" latitude="-16.367128"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -1476,7 +1490,7 @@
 <min longitude="52.379997" latitude="-38.896667"/>
 <max longitude="55.046665" latitude="-36.896667"/>
 </map>
-<map id="1879048488" name="Silver Deep Guard House" imageId="1090542896">
+<map id="1879048488" name="Silver Deep Guard-house" imageId="1090542896">
 <geo factor="300.0">
 <point longitude="51.89" latitude="-24.17"/>
 </geo>
@@ -4108,7 +4122,7 @@
 <min longitude="-64.08333" latitude="-16.109999"/>
 <max longitude="-61.41666" latitude="-14.11"/>
 </map>
-<map id="1879204550" name="Barad Tharsír Storeroom" imageId="1091635775">
+<map id="1879204550" name="Barad Tharsír Store-room" imageId="1091635775">
 <geo factor="300.0">
 <point longitude="-62.54667" latitude="-14.099999"/>
 </geo>
@@ -4997,7 +5011,7 @@
 <min longitude="-146.665" latitude="-40.915"/>
 <max longitude="-145.33167" latitude="-39.915"/>
 </map>
-<map id="1879244890" name="Hubyrt's House" imageId="1091765147">
+<map id="1879244890" name="Hubryt's House" imageId="1091765147">
 <geo factor="600.0">
 <point longitude="-145.065" latitude="-35.114998"/>
 </geo>
@@ -5529,7 +5543,7 @@
 <min longitude="49.46666" latitude="-17.634005"/>
 <max longitude="50.533325" latitude="-16.034004"/>
 </map>
-<map id="1879261141" name="Guard House" imageId="1091944124">
+<map id="1879261141" name="Guard-house" imageId="1091944124">
 <geo factor="1800.0">
 <point longitude="49.555546" latitude="-18.46667"/>
 </geo>
@@ -5977,14 +5991,14 @@
 <min longitude="-86.043335" latitude="-56.788334"/>
 <max longitude="-84.71" latitude="-55.788334"/>
 </map>
-<map id="1879284916" name="Guardhouse" imageId="1091831496">
+<map id="1879284916" name="Guard-house" imageId="1091831496">
 <geo factor="600.0">
 <point longitude="-83.60166" latitude="-63.995"/>
 </geo>
 <min longitude="-83.60166" latitude="-64.994995"/>
 <max longitude="-82.268326" latitude="-63.995"/>
 </map>
-<map id="1879284917" name="Food Storehouse" imageId="1091831497">
+<map id="1879284917" name="Food Store-house" imageId="1091831497">
 <geo factor="600.0">
 <point longitude="-82.80166" latitude="-62.491665"/>
 </geo>
@@ -7091,11 +7105,11 @@
 <max longitude="55.390003" latitude="15.195332"/>
 </map>
 <map id="1879341328" name="Court of Celeborn" imageId="1092253102">
-<geo factor="1199.9999">
-<point longitude="54.04084" latitude="10.495"/>
+<geo factor="1000.0">
+<point longitude="52.8" latitude="51.899998"/>
 </geo>
-<min longitude="54.04084" latitude="9.495"/>
-<max longitude="55.374172" latitude="10.495"/>
+<min longitude="52.8" latitude="51.3"/>
+<max longitude="53.6" latitude="51.899998"/>
 </map>
 <map id="1879342514" name="The Scholar's Hall" imageId="1092270321">
 <geo factor="1199.9999">
@@ -8728,7 +8742,7 @@
 <min longitude="47.739998" latitude="49.62666"/>
 <max longitude="53.07333" latitude="53.62666"/>
 </map>
-<map id="1879428177" name="Gobeth Teithian, the Archive of Traceries" imageId="1092693598">
+<map id="1879428177" name="The Word-hoard of Gobetham" imageId="1092693598">
 <geo factor="1200.0001">
 <point longitude="54.503338" latitude="60.047497"/>
 </geo>
@@ -8874,5 +8888,75 @@
 </geo>
 <min longitude="-24.18833" latitude="-42.585"/>
 <max longitude="-22.854996" latitude="-41.585"/>
+</map>
+<map id="1879446544" name="8 Honeymead Lane" imageId="1092716486">
+<geo factor="900.0">
+<point longitude="48.871113" latitude="-24.71667"/>
+</geo>
+<min longitude="48.871113" latitude="-25.383335"/>
+<max longitude="49.760002" latitude="-24.71667"/>
+</map>
+<map id="1879446545" name="The Elbow's Bend" imageId="1092716480">
+<geo factor="900.0">
+<point longitude="-82.452225" latitude="-26.852226"/>
+</geo>
+<min longitude="-82.452225" latitude="-27.518892"/>
+<max longitude="-81.56334" latitude="-26.852226"/>
+</map>
+<map id="1879446546" name="The Brimful Quiver" imageId="1092716481">
+<geo factor="1200.0">
+<point longitude="-83.13" latitude="-24.0525"/>
+</geo>
+<min longitude="-83.13" latitude="-24.5525"/>
+<max longitude="-82.46333" latitude="-24.0525"/>
+</map>
+<map id="1879446547" name="The Fox and Fiddle" imageId="1092716482">
+<geo factor="900.0">
+<point longitude="-79.36888" latitude="-27.186668"/>
+</geo>
+<min longitude="-79.36888" latitude="-27.853334"/>
+<max longitude="-78.479996" latitude="-27.186668"/>
+</map>
+<map id="1879446548" name="Hubo Clayhanger's House" imageId="1092716483">
+<geo factor="900.0">
+<point longitude="-80.31444" latitude="-26.278887"/>
+</geo>
+<min longitude="-80.31444" latitude="-26.945553"/>
+<max longitude="-79.42555" latitude="-26.278887"/>
+</map>
+<map id="1879446549" name="The Roaring Bull" imageId="1092716484">
+<geo factor="900.0">
+<point longitude="-78.76666" latitude="-22.67667"/>
+</geo>
+<min longitude="-78.76666" latitude="-23.343336"/>
+<max longitude="-77.87778" latitude="-22.67667"/>
+</map>
+<map id="1879446550" name="9 Honeymead Lane" imageId="1092716485">
+<geo factor="899.9999">
+<point longitude="50.231113" latitude="-26.372227"/>
+</geo>
+<min longitude="50.231113" latitude="-27.038893"/>
+<max longitude="51.120003" latitude="-26.372227"/>
+</map>
+<map id="1879446706" name="Nobottle Post Office" imageId="1092718187">
+<geo factor="899.9999">
+<point longitude="50.38334" latitude="-28.088886"/>
+</geo>
+<min longitude="50.38334" latitude="-28.755552"/>
+<max longitude="51.27223" latitude="-28.088886"/>
+</map>
+<map id="1879446707" name="Hunters' Hall" imageId="1092718185">
+<geo factor="600.00006">
+<point longitude="49.335" latitude="-29.79333"/>
+</geo>
+<min longitude="49.335" latitude="-30.79333"/>
+<max longitude="50.66833" latitude="-29.79333"/>
+</map>
+<map id="1879446708" name="Secret Hideout" imageId="1092718184">
+<geo factor="900.0">
+<point longitude="-81.83666" latitude="-24.384443"/>
+</geo>
+<min longitude="-81.83666" latitude="-25.05111"/>
+<max longitude="-80.94778" latitude="-24.384443"/>
 </map>
 </maps>

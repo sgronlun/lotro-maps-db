@@ -1,4 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="527917059" label="Door" category="100" did="1879093406" parentZoneId="1879446707" longitude="50.000896" latitude="-30.436493"/>
+<marker id="527917060" label="Anthandir" category="70" did="1879446494" parentZoneId="1879446707" longitude="49.937927" latitude="-30.138847"/>
+<marker id="527917061" label="Thorvellon" category="70" did="1879446493" parentZoneId="1879446707" longitude="49.926426" latitude="-30.168457"/>
+<marker id="527925249" label="Door" category="100" did="1879063411" parentZoneId="1879446706" longitude="50.77566" latitude="-28.39954"/>
+<marker id="527925252" label="Letter" category="73" did="1879446534" parentZoneId="1879446706" longitude="50.812637" latitude="-28.415615"/>
+<marker id="527925253" label="Parcel" category="73" did="1879446537" parentZoneId="1879446706" longitude="50.80873" latitude="-28.396767"/>
+<marker id="527925254" label="Parcel" category="73" did="1879446536" parentZoneId="1879446706" longitude="50.81957" latitude="-28.411425"/>
+<marker id="527925255" label="Parcel" category="73" did="1879446539" parentZoneId="1879446706" longitude="50.80916" latitude="-28.415829"/>
+<marker id="527925256" label="Postman Grubb" category="70" did="1879446492" parentZoneId="1879446706" longitude="50.876247" latitude="-28.419785"/>
+<marker id="527925257" label="Ebbo Yarwood" category="70" did="1879446499" parentZoneId="1879446706" longitude="50.80527" latitude="-28.399424"/>
+<marker id="527925258" label="Ebbo Yarwood" category="70" did="1879446499" parentZoneId="1879446706" longitude="50.8341" latitude="-28.403173"/>
+<marker id="527925259" label="Ebbo Yarwood" category="70" did="1879446499" parentZoneId="1879446706" longitude="50.817616" latitude="-28.38541"/>
+<marker id="527925260" label="Ebbo Yarwood" category="70" did="1879446499" parentZoneId="1879446706" longitude="50.79717" latitude="-28.415468"/>
+<marker id="527925262" label="Letter" category="73" did="1879446529" parentZoneId="1879446706" longitude="50.81193" latitude="-28.404404"/>
+<marker id="527925263" label="Letter" category="73" did="1879446535" parentZoneId="1879446706" longitude="50.81373" latitude="-28.415829"/>
+<marker id="527933441" label="Camellia Boffin" category="70" did="1879444990" parentZoneId="1879446550" longitude="50.675762" latitude="-26.607979"/>
+<marker id="527933442" label="Door" category="100" did="1879063434" parentZoneId="1879446550" longitude="50.738087" latitude="-26.767256"/>
+<marker id="527933445" label="Treacle Tom" category="70" did="1879444991" parentZoneId="1879446550" longitude="50.68705" latitude="-26.807978"/>
+<marker id="527933446" label="Nosewise" category="70" did="1879444980" parentZoneId="1879446550" longitude="50.639862" latitude="-26.70751"/>
+<marker id="527933447" label="Gruntius Took" category="70" did="1879444981" parentZoneId="1879446550" longitude="50.685898" latitude="-26.74755"/>
+<marker id="527933448" label="Grumble" category="70" did="1879444977" parentZoneId="1879446550" longitude="50.690136" latitude="-26.668613"/>
+<marker id="527933449" label="Mother Lissome" category="70" did="1879444967" parentZoneId="1879446550" longitude="50.6825" latitude="-26.65372"/>
+<marker id="527933450" label="Sir Snips" category="70" did="1879444961" parentZoneId="1879446550" longitude="50.683437" latitude="-26.761084"/>
+<marker id="527933451" label="Enid" category="70" did="1879444963" parentZoneId="1879446550" longitude="50.68961" latitude="-26.772158"/>
+<marker id="527933452" label="Magetha Grubb" category="70" did="1879444997" parentZoneId="1879446550" longitude="50.682243" latitude="-26.603563"/>
+<marker id="527933453" label="Old Terrible" category="70" did="1879445005" parentZoneId="1879446550" longitude="50.68236" latitude="-26.771376"/>
+<marker id="527933455" label="Hazel" category="70" did="1879444955" parentZoneId="1879446550" longitude="50.660603" latitude="-26.641483"/>
+<marker id="527941632" label="Griffo Boffin" category="70" did="1879445000" parentZoneId="1879446544" longitude="49.3351" latitude="-25.059374"/>
+<marker id="527941634" label="Esmeralda Boffin" category="70" did="1879445001" parentZoneId="1879446544" longitude="49.365917" latitude="-25.083584"/>
+<marker id="527941637" label="Prisca Boffin" category="70" did="1879444965" parentZoneId="1879446544" longitude="49.346348" latitude="-25.046112"/>
+<marker id="527941638" label="Prisca Boffin" category="70" did="1879446603" parentZoneId="1879446544" longitude="49.342167" latitude="-25.060009"/>
+<marker id="527941639" label="Angelica Boffin" category="70" did="1879446604" parentZoneId="1879446544" longitude="49.334824" latitude="-25.07825"/>
+<marker id="527941640" label="Prisca Boffin" category="70" did="1879446649" parentZoneId="1879446544" longitude="49.32039" latitude="-25.057764"/>
+<marker id="527941641" label="Angelica Boffin" category="70" did="1879446643" parentZoneId="1879446544" longitude="49.329998" latitude="-25.036455"/>
+<marker id="527941642" label="Bingo Boffin" category="70" did="1879446646" parentZoneId="1879446544" longitude="49.31916" latitude="-25.0533"/>
+<marker id="527941643" label="Camellia Boffin" category="70" did="1879446551" parentZoneId="1879446544" longitude="49.38246" latitude="-25.09037"/>
+<marker id="527941644" label="Bingo Boffin" category="70" did="1879447289" parentZoneId="1879446544" longitude="49.335876" latitude="-25.113428"/>
+<marker id="527941645" label="Marigold Boffin" category="70" did="1879444957" parentZoneId="1879446544" longitude="49.336777" latitude="-25.092764"/>
+<marker id="527941646" label="Prisca Boffin" category="70" did="1879444954" parentZoneId="1879446544" longitude="49.37203" latitude="-25.104424"/>
+<marker id="527941647" label="Angelica Boffin" category="70" did="1879444985" parentZoneId="1879446544" longitude="49.33379" latitude="-25.078485"/>
+<marker id="527941651" label="Wrapped Present" category="73" did="1879446597" parentZoneId="1879446544" longitude="49.236286" latitude="-25.054062"/>
+<marker id="527941652" label="Dinodas Boffin" category="70" did="1879446599" parentZoneId="1879446544" longitude="49.36613" latitude="-25.044882"/>
+<marker id="527941653" label="Dinodas Boffin" category="70" did="1879446599" parentZoneId="1879446544" longitude="49.306717" latitude="-25.04746"/>
+<marker id="527941654" label="Camellia Boffin" category="70" did="1879446598" parentZoneId="1879446544" longitude="49.378613" latitude="-25.089716"/>
+<marker id="527941656" label="Bingo Boffin" category="70" did="1879446601" parentZoneId="1879446544" longitude="49.350567" latitude="-25.072412"/>
+<marker id="527941657" label="Quick Thinking!" category="73" did="1879446600" parentZoneId="1879446544" longitude="49.280098" latitude="-25.05542"/>
+<marker id="527941660" label="Nosewise" category="70" did="1879446647" parentZoneId="1879446544" longitude="49.389942" latitude="-25.03576"/>
+<marker id="527941661" label="Mother Lissome" category="70" did="1879446644" parentZoneId="1879446544" longitude="49.386932" latitude="-25.03915"/>
+<marker id="527941662" label="Fosco Boffin" category="70" did="1879446645" parentZoneId="1879446544" longitude="49.344334" latitude="-25.086855"/>
+<marker id="527941663" label="Marigold Boffin" category="70" did="1879446642" parentZoneId="1879446544" longitude="49.340508" latitude="-25.01329"/>
+<marker id="527941665" label="Camellia Boffin" category="70" did="1879446640" parentZoneId="1879446544" longitude="49.33279" latitude="-25.060547"/>
+<marker id="527941666" label="Esmeralda Boffin" category="70" did="1879446641" parentZoneId="1879446544" longitude="49.33666" latitude="-25.081387"/>
+<marker id="527941667" label="Sir Snips" category="70" did="1879446654" parentZoneId="1879446544" longitude="49.34623" latitude="-25.046425"/>
+<marker id="527941668" label="Grumble" category="70" did="1879446655" parentZoneId="1879446544" longitude="49.385723" latitude="-25.050625"/>
+<marker id="527941669" label="Old Terrible" category="70" did="1879446652" parentZoneId="1879446544" longitude="49.39092" latitude="-25.038252"/>
+<marker id="527941670" label="Enid" category="70" did="1879446653" parentZoneId="1879446544" longitude="49.377968" latitude="-25.034384"/>
+<marker id="527941671" label="Gruntius Took" category="70" did="1879446650" parentZoneId="1879446544" longitude="49.388767" latitude="-25.048018"/>
+<marker id="527941672" label="Treacle Tom" category="70" did="1879446651" parentZoneId="1879446544" longitude="49.39045" latitude="-25.043447"/>
+<marker id="527941673" label="Dinodas Boffin" category="70" did="1879446648" parentZoneId="1879446544" longitude="49.321815" latitude="-25.036709"/>
+<marker id="527941675" label="Griffo Boffin" category="70" did="1879446639" parentZoneId="1879446544" longitude="49.335644" latitude="-25.000126"/>
+<marker id="527941676" label="Magetha Grubb" category="70" did="1879446669" parentZoneId="1879446544" longitude="49.394394" latitude="-25.044657"/>
+<marker id="527941677" label="Door" category="100" did="1879063434" parentZoneId="1879446544" longitude="49.39873" latitude="-25.045069"/>
+<marker id="527941678" label="Berilac Boffin" category="70" did="1879446656" parentZoneId="1879446544" longitude="49.259922" latitude="-25.037626"/>
+<marker id="527941679" label="Hazel" category="70" did="1879446657" parentZoneId="1879446544" longitude="49.385292" latitude="-25.046543"/>
 <marker id="528089089" label="Peikko" category="71" did="1879107852" parentZoneId="1879110076" longitude="53.082146" latitude="-34.624317"/>
 <marker id="528089090" label="Peikko" category="71" did="1879107852" parentZoneId="1879110076" longitude="52.96242" latitude="-34.60711"/>
 <marker id="528089091" label="Peikko" category="71" did="1879107852" parentZoneId="1879110076" longitude="53.127285" latitude="-34.7687"/>

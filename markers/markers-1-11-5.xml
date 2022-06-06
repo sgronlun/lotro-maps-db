@@ -420,8 +420,6 @@
 <marker id="458354726" label="Half-orc Guard" category="71" did="1879127596" parentZoneId="1879106667" longitude="-5.1818357" latitude="-47.89418"/>
 <marker id="458354727" label="Shadow-warg" category="71" did="1879127597" parentZoneId="1879106667" longitude="-5.1818357" latitude="-47.89418"/>
 <marker id="458399744" label="The Black Pool" category="74" did="1879132106" parentZoneId="1879106669" longitude="-3.774619" latitude="-52.0"/>
-<marker id="458399745" label="Dread Aura Tier 4" category="75" did="1879080642" parentZoneId="1879106669" longitude="-4.064785" latitude="-51.623066"/>
-<marker id="458399746" label="Dread Aura Tier 4" category="75" did="1879080642" parentZoneId="1879106669" longitude="-4.0646386" latitude="-51.62223"/>
 <marker id="458403840" label="The Black Pool" category="43" did="1879132106" parentZoneId="1879106669" longitude="-3.7295702" latitude="-51.199997"/>
 <marker id="458407936" label="The Black Pool" category="74" did="1879132106" parentZoneId="1879106669" longitude="-4.0" latitude="-50.399998"/>
 <marker id="458407937" label="Dwarf Worker" category="70" did="1879109138" parentZoneId="1879106669" longitude="-4.139414" latitude="-50.482788"/>
@@ -462,21 +460,20 @@
 <marker id="458465282" label="Wárr" category="70" did="1879109144" parentZoneId="1879106669" longitude="-3.5170703" latitude="-51.758152"/>
 <marker id="458465283" label="Dwarf Worker" category="70" did="1879109138" parentZoneId="1879106669" longitude="-3.483916" latitude="-51.77495"/>
 <marker id="458465284" label="Dwarf Worker" category="70" did="1879109138" parentZoneId="1879106669" longitude="-3.4806445" latitude="-51.786655"/>
-<marker id="458465285" label="Drama Stun No Anim Hotspot" category="75" did="1879184329" parentZoneId="1879106669" longitude="-3.508037" latitude="-51.77424"/>
-<marker id="458465286" label="Tentacle" category="71" did="1879125164" parentZoneId="1879106669" longitude="-3.5529687" latitude="-51.757187"/>
-<marker id="458465287" label="Tentacle" category="71" did="1879125164" parentZoneId="1879106669" longitude="-3.557832" latitude="-51.742336"/>
-<marker id="458465288" label="Tentacle" category="71" did="1879125164" parentZoneId="1879106669" longitude="-3.552373" latitude="-51.729813"/>
-<marker id="458465290" label="Wárr" category="70" did="1879148489" parentZoneId="1879106669" longitude="-3.510078" latitude="-51.721672"/>
-<marker id="458465291" label="Townsperson" category="70" did="1879076799" parentZoneId="1879106669" longitude="-3.5060058" latitude="-51.62991"/>
-<marker id="458465292" label="Brogur" category="71" did="1879109354" parentZoneId="1879106669" longitude="-3.5046582" latitude="-51.829475"/>
-<marker id="458465293" label="Bósi" category="71" did="1879109353" parentZoneId="1879106669" longitude="-3.5237207" latitude="-51.731182"/>
-<marker id="458465294" label="Rubble" category="73" did="1879109246" parentZoneId="1879106669" longitude="-3.459326" latitude="-51.781467"/>
-<marker id="458465295" label="Rubble" category="73" did="1879109245" parentZoneId="1879106669" longitude="-3.4603026" latitude="-51.76645"/>
-<marker id="458465296" label="Iron Garrison Guard" category="71" did="1879145512" parentZoneId="1879106669" longitude="-3.556172" latitude="-51.94309"/>
-<marker id="458465297" label="Iron Garrison Guard" category="71" did="1879145512" parentZoneId="1879106669" longitude="-3.4931152" latitude="-51.62044"/>
-<marker id="458465298" label="Iron Garrison Guard" category="71" did="1879145512" parentZoneId="1879106669" longitude="-3.487246" latitude="-51.632084"/>
-<marker id="458465299" label="Iron Garrison Guard" category="71" did="1879145512" parentZoneId="1879106669" longitude="-3.5445116" latitude="-51.880535"/>
-<marker id="458465302" label="Pick-axe Crate" category="73" did="1879119809" parentZoneId="1879106669" longitude="-3.4947557" latitude="-51.82496"/>
+<marker id="458465285" label="Tentacle" category="71" did="1879125164" parentZoneId="1879106669" longitude="-3.5529687" latitude="-51.757187"/>
+<marker id="458465286" label="Tentacle" category="71" did="1879125164" parentZoneId="1879106669" longitude="-3.557832" latitude="-51.742336"/>
+<marker id="458465287" label="Tentacle" category="71" did="1879125164" parentZoneId="1879106669" longitude="-3.552373" latitude="-51.729813"/>
+<marker id="458465289" label="Wárr" category="70" did="1879148489" parentZoneId="1879106669" longitude="-3.510078" latitude="-51.721672"/>
+<marker id="458465290" label="Townsperson" category="70" did="1879076799" parentZoneId="1879106669" longitude="-3.5060058" latitude="-51.62991"/>
+<marker id="458465291" label="Brogur" category="71" did="1879109354" parentZoneId="1879106669" longitude="-3.5046582" latitude="-51.829475"/>
+<marker id="458465292" label="Bósi" category="71" did="1879109353" parentZoneId="1879106669" longitude="-3.5237207" latitude="-51.731182"/>
+<marker id="458465293" label="Rubble" category="73" did="1879109246" parentZoneId="1879106669" longitude="-3.459326" latitude="-51.781467"/>
+<marker id="458465294" label="Rubble" category="73" did="1879109245" parentZoneId="1879106669" longitude="-3.4603026" latitude="-51.76645"/>
+<marker id="458465295" label="Iron Garrison Guard" category="71" did="1879145512" parentZoneId="1879106669" longitude="-3.556172" latitude="-51.94309"/>
+<marker id="458465296" label="Iron Garrison Guard" category="71" did="1879145512" parentZoneId="1879106669" longitude="-3.4931152" latitude="-51.62044"/>
+<marker id="458465297" label="Iron Garrison Guard" category="71" did="1879145512" parentZoneId="1879106669" longitude="-3.487246" latitude="-51.632084"/>
+<marker id="458465298" label="Iron Garrison Guard" category="71" did="1879145512" parentZoneId="1879106669" longitude="-3.5445116" latitude="-51.880535"/>
+<marker id="458465301" label="Pick-axe Crate" category="73" did="1879119809" parentZoneId="1879106669" longitude="-3.4947557" latitude="-51.82496"/>
 <marker id="458465316" label="Bróin" category="70" did="1879109389" parentZoneId="1879106669" longitude="-3.565332" latitude="-51.9313"/>
 <marker id="458469377" label="Dwarf Worker" category="70" did="1879109138" parentZoneId="1879106669" longitude="-3.5031738" latitude="-50.936672"/>
 <marker id="458469380" label="Tentacle" category="71" did="1879125164" parentZoneId="1879106669" longitude="-3.5865135" latitude="-51.409477"/>

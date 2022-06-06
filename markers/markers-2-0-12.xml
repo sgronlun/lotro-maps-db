@@ -314,7 +314,6 @@
 <marker id="550252579" label="Dourhand Blaster" category="71" did="1879408036" parentZoneId="1879368334" longitude="-136.7691" latitude="31.907812"/>
 <marker id="550252580" label="Dourhand Blaster" category="71" did="1879408036" parentZoneId="1879368334" longitude="-136.59525" latitude="31.908964"/>
 <marker id="550252581" label="Dourhand Blaster" category="71" did="1879408036" parentZoneId="1879368334" longitude="-136.81023" latitude="31.974619"/>
-<marker id="550252582" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.43285" latitude="31.910234"/>
 <marker id="550252587" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.65848" latitude="31.768398"/>
 <marker id="550252588" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.63821" latitude="31.852724"/>
 <marker id="550252589" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.64359" latitude="31.672567"/>
@@ -328,105 +327,92 @@
 <marker id="550252597" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.6377" latitude="31.947802"/>
 <marker id="550252598" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.64561" latitude="31.766727"/>
 <marker id="550252599" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.76262" latitude="31.946161"/>
-<marker id="550252601" label="Blinding Light" category="75" did="1879089482" parentZoneId="1879368334" longitude="-136.46884" latitude="32.100098"/>
-<marker id="550252602" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.45016" latitude="32.147285"/>
-<marker id="550252603" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.48471" latitude="32.108387"/>
-<marker id="550252604" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.47635" latitude="32.133926"/>
-<marker id="550252605" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.44109" latitude="32.030174"/>
-<marker id="550252606" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.57175" latitude="31.944637"/>
-<marker id="550252607" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.65944" latitude="31.956484"/>
-<marker id="550252608" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.80287" latitude="31.933935"/>
-<marker id="550252609" label="Dourhand Excavator" category="71" did="1879408020" parentZoneId="1879368334" longitude="-136.78017" latitude="31.866465"/>
-<marker id="550252610" label="Dourhand Excavator" category="71" did="1879408020" parentZoneId="1879368334" longitude="-136.77226" latitude="31.882694"/>
-<marker id="550252611" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76213" latitude="31.918154"/>
-<marker id="550252612" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76294" latitude="31.94951"/>
-<marker id="550252613" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76454" latitude="31.968008"/>
-<marker id="550252614" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76485" latitude="31.995293"/>
-<marker id="550252615" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.78302" latitude="31.85537"/>
-<marker id="550252616" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.82187" latitude="31.86202"/>
-<marker id="550252617" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.65468" latitude="31.90749"/>
-<marker id="550252618" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76053" latitude="31.92658"/>
-<marker id="550252619" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.77245" latitude="31.915174"/>
-<marker id="550252620" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.82834" latitude="31.851873"/>
-<marker id="550252621" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.76074" latitude="31.934921"/>
-<marker id="550252622" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.77495" latitude="31.852236"/>
-<marker id="550252623" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.77568" latitude="31.997274"/>
-<marker id="550252624" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.65788" latitude="31.8996"/>
-<marker id="550252625" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.78311" latitude="31.992197"/>
-<marker id="550252626" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.57121" latitude="31.795156"/>
-<marker id="550252627" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.60094" latitude="31.792353"/>
-<marker id="550252628" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.6334" latitude="31.682217"/>
-<marker id="550252629" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.62897" latitude="31.677137"/>
-<marker id="550252630" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.75273" latitude="31.792812"/>
-<marker id="550252631" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.72627" latitude="31.807392"/>
-<marker id="550252632" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.78766" latitude="31.884043"/>
-<marker id="550252633" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.65454" latitude="31.889395"/>
-<marker id="550252634" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.63641" latitude="31.661777"/>
-<marker id="550252635" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.73932" latitude="31.804209"/>
-<marker id="550252636" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.58798" latitude="31.797314"/>
-<marker id="550252637" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.80345" latitude="31.87741"/>
-<marker id="550252638" label="Claw-mark Writing" category="73" did="1879376454" parentZoneId="1879368334" longitude="-136.80893" latitude="31.996561"/>
+<marker id="550252601" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.45016" latitude="32.147285"/>
+<marker id="550252602" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.48471" latitude="32.108387"/>
+<marker id="550252603" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.47635" latitude="32.133926"/>
+<marker id="550252604" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.44109" latitude="32.030174"/>
+<marker id="550252605" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.57175" latitude="31.944637"/>
+<marker id="550252606" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.65944" latitude="31.956484"/>
+<marker id="550252607" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.80287" latitude="31.933935"/>
+<marker id="550252608" label="Dourhand Excavator" category="71" did="1879408020" parentZoneId="1879368334" longitude="-136.78017" latitude="31.866465"/>
+<marker id="550252609" label="Dourhand Excavator" category="71" did="1879408020" parentZoneId="1879368334" longitude="-136.77226" latitude="31.882694"/>
+<marker id="550252610" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76213" latitude="31.918154"/>
+<marker id="550252611" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76294" latitude="31.94951"/>
+<marker id="550252612" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76454" latitude="31.968008"/>
+<marker id="550252613" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76485" latitude="31.995293"/>
+<marker id="550252614" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.78302" latitude="31.85537"/>
+<marker id="550252615" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.82187" latitude="31.86202"/>
+<marker id="550252616" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.65468" latitude="31.90749"/>
+<marker id="550252617" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.76053" latitude="31.92658"/>
+<marker id="550252618" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.77245" latitude="31.915174"/>
+<marker id="550252619" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.82834" latitude="31.851873"/>
+<marker id="550252620" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.76074" latitude="31.934921"/>
+<marker id="550252621" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.77495" latitude="31.852236"/>
+<marker id="550252622" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.77568" latitude="31.997274"/>
+<marker id="550252623" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.65788" latitude="31.8996"/>
+<marker id="550252624" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.78311" latitude="31.992197"/>
+<marker id="550252625" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.57121" latitude="31.795156"/>
+<marker id="550252626" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.60094" latitude="31.792353"/>
+<marker id="550252627" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.6334" latitude="31.682217"/>
+<marker id="550252628" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.62897" latitude="31.677137"/>
+<marker id="550252629" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.75273" latitude="31.792812"/>
+<marker id="550252630" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.72627" latitude="31.807392"/>
+<marker id="550252631" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.78766" latitude="31.884043"/>
+<marker id="550252632" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.65454" latitude="31.889395"/>
+<marker id="550252633" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.63641" latitude="31.661777"/>
+<marker id="550252634" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.73932" latitude="31.804209"/>
+<marker id="550252635" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.58798" latitude="31.797314"/>
+<marker id="550252636" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.80345" latitude="31.87741"/>
+<marker id="550252637" label="Claw-mark Writing" category="73" did="1879376454" parentZoneId="1879368334" longitude="-136.80893" latitude="31.996561"/>
 <marker id="550252639" label="Shákoth the Mauler" category="71" did="1879375831" parentZoneId="1879368334" longitude="-136.43234" latitude="32.141132"/>
-<marker id="550252641" label="Blogdob" category="71" did="1879375836" parentZoneId="1879368334" longitude="-136.8055" latitude="31.888779"/>
-<marker id="550252642" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.51906" latitude="31.811533"/>
-<marker id="550252643" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.7741" latitude="31.870497"/>
-<marker id="550252644" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.83707" latitude="31.869247"/>
-<marker id="550252645" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.66293" latitude="31.97374"/>
-<marker id="550252646" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.7691" latitude="31.861298"/>
-<marker id="550252647" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.8148" latitude="31.988525"/>
-<marker id="550252648" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.76143" latitude="31.940409"/>
-<marker id="550252649" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.5205" latitude="31.978817"/>
-<marker id="550252650" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.76675" latitude="31.932705"/>
-<marker id="550252651" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.631" latitude="31.760859"/>
-<marker id="550252652" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.70412" latitude="31.820332"/>
-<marker id="550252653" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.63304" latitude="31.868437"/>
+<marker id="550252640" label="Blogdob" category="71" did="1879375836" parentZoneId="1879368334" longitude="-136.8055" latitude="31.888779"/>
+<marker id="550252641" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.51906" latitude="31.811533"/>
+<marker id="550252642" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.7741" latitude="31.870497"/>
+<marker id="550252643" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.83707" latitude="31.869247"/>
+<marker id="550252644" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.66293" latitude="31.97374"/>
+<marker id="550252645" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.7691" latitude="31.861298"/>
+<marker id="550252646" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.8148" latitude="31.988525"/>
+<marker id="550252647" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.76143" latitude="31.940409"/>
+<marker id="550252648" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.5205" latitude="31.978817"/>
+<marker id="550252649" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.76675" latitude="31.932705"/>
+<marker id="550252650" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.631" latitude="31.760859"/>
+<marker id="550252651" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.70412" latitude="31.820332"/>
+<marker id="550252652" label="Rare Gemstone" category="73" did="1879375957" parentZoneId="1879368334" longitude="-136.63304" latitude="31.868437"/>
 <marker id="550252665" label="Bomb" category="73" did="1879407936" parentZoneId="1879368334" longitude="-136.76674" latitude="31.866268"/>
-<marker id="550252668" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.76463" latitude="31.976513"/>
-<marker id="550252669" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.66689" latitude="31.860996"/>
-<marker id="550252670" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.76543" latitude="31.87912"/>
-<marker id="550252671" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.60315" latitude="31.801474"/>
-<marker id="550252693" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.66093" latitude="31.65163"/>
-<marker id="550252694" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.66093" latitude="31.65163"/>
-<marker id="550252695" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.65575" latitude="31.733164"/>
-<marker id="550252696" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.65575" latitude="31.733164"/>
-<marker id="550252697" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.58177" latitude="31.67249"/>
-<marker id="550252698" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.58177" latitude="31.67249"/>
-<marker id="550252699" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.76663" latitude="31.815887"/>
-<marker id="550252700" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.76663" latitude="31.815887"/>
-<marker id="550252701" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.74023" latitude="31.97742"/>
-<marker id="550252702" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.74023" latitude="31.97742"/>
-<marker id="550252703" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.4909" latitude="32.084435"/>
-<marker id="550252704" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.4909" latitude="32.084435"/>
-<marker id="550252705" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.58333" latitude="31.853134"/>
-<marker id="550252706" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.58333" latitude="31.853134"/>
-<marker id="550252707" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.49661" latitude="31.841259"/>
-<marker id="550252708" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.49661" latitude="31.841259"/>
-<marker id="550252709" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.4357" latitude="31.695107"/>
-<marker id="550252710" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.4357" latitude="31.695107"/>
-<marker id="550252711" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.42053" latitude="31.999647"/>
-<marker id="550252712" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.42053" latitude="31.999647"/>
-<marker id="550252713" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.40439" latitude="32.171368"/>
-<marker id="550252714" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.40439" latitude="32.171368"/>
-<marker id="550252715" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.40489" latitude="32.240818"/>
-<marker id="550252716" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.40489" latitude="32.240818"/>
-<marker id="550277120" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.97266" latitude="37.059814"/>
-<marker id="550277121" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.87231" latitude="36.94997"/>
-<marker id="550277122" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.87798" latitude="36.79991"/>
-<marker id="550277123" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.66768" latitude="36.662792"/>
-<marker id="550277124" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.53044" latitude="36.534492"/>
+<marker id="550252667" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.76463" latitude="31.976513"/>
+<marker id="550252668" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.66689" latitude="31.860996"/>
+<marker id="550252669" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.76543" latitude="31.87912"/>
+<marker id="550252670" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.60315" latitude="31.801474"/>
+<marker id="550252671" label="Dourhand Mine-overseer" category="71" did="1879408033" parentZoneId="1879368334" longitude="-136.43285" latitude="31.910234"/>
+<marker id="550252692" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.66093" latitude="31.65163"/>
+<marker id="550252693" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.66093" latitude="31.65163"/>
+<marker id="550252694" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.65575" latitude="31.733164"/>
+<marker id="550252695" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.65575" latitude="31.733164"/>
+<marker id="550252696" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.58177" latitude="31.67249"/>
+<marker id="550252697" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.58177" latitude="31.67249"/>
+<marker id="550252698" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.76663" latitude="31.815887"/>
+<marker id="550252699" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.76663" latitude="31.815887"/>
+<marker id="550252700" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.74023" latitude="31.97742"/>
+<marker id="550252701" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.74023" latitude="31.97742"/>
+<marker id="550252702" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.4909" latitude="32.084435"/>
+<marker id="550252703" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.4909" latitude="32.084435"/>
+<marker id="550252704" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.58333" latitude="31.853134"/>
+<marker id="550252705" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.58333" latitude="31.853134"/>
+<marker id="550252706" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.49661" latitude="31.841259"/>
+<marker id="550252707" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.49661" latitude="31.841259"/>
+<marker id="550252708" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.4357" latitude="31.695107"/>
+<marker id="550252709" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.4357" latitude="31.695107"/>
+<marker id="550252710" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.42053" latitude="31.999647"/>
+<marker id="550252711" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.42053" latitude="31.999647"/>
+<marker id="550252712" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.40439" latitude="32.171368"/>
+<marker id="550252713" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.40439" latitude="32.171368"/>
+<marker id="550252714" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368334" longitude="-136.40489" latitude="32.240818"/>
+<marker id="550252715" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368334" longitude="-136.40489" latitude="32.240818"/>
 <marker id="550281216" label="Frigid Cold-drake" category="71" did="1879384945" parentZoneId="1879368345" longitude="-136.7761" latitude="37.860165"/>
 <marker id="550281217" label="Ice Wall" category="100" did="1879381635" parentZoneId="1879368345" longitude="-136.90083" latitude="37.66656"/>
-<marker id="550281218" label="Free Fall Zone" category="75" did="1879215522" parentZoneId="1879368345" longitude="-136.8646" latitude="37.49988"/>
-<marker id="550281219" label="Karazgar" category="70" did="1879381065" parentZoneId="1879368345" longitude="-136.62479" latitude="37.50039"/>
-<marker id="550281220" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.85037" latitude="37.541973"/>
-<marker id="550281221" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-137.08536" latitude="37.681602"/>
-<marker id="550281222" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.99681" latitude="37.575146"/>
-<marker id="550281223" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.97806" latitude="37.80942"/>
-<marker id="550281224" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.82538" latitude="37.805614"/>
-<marker id="550281225" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-136.7366" latitude="37.644646"/>
-<marker id="550281226" label="Hrímil Frost-heart" category="71" did="1879374663" parentZoneId="1879368345" longitude="-136.93246" latitude="37.237236"/>
-<marker id="550281227" label="Hrímil Frost-heart" category="71" did="1879374651" parentZoneId="1879368345" longitude="-136.91875" latitude="37.687576"/>
-<marker id="550281228" label="Absolute Zero" category="75" did="1879385165" parentZoneId="1879368345" longitude="-136.89825" latitude="37.6554"/>
+<marker id="550281218" label="Karazgar" category="70" did="1879381065" parentZoneId="1879368345" longitude="-136.62479" latitude="37.50039"/>
+<marker id="550281219" label="Hrímil Frost-heart" category="71" did="1879374663" parentZoneId="1879368345" longitude="-136.93246" latitude="37.237236"/>
+<marker id="550281220" label="Hrímil Frost-heart" category="71" did="1879374651" parentZoneId="1879368345" longitude="-136.91875" latitude="37.687576"/>
 <marker id="550309888" label="The Glimmerdeep" category="74" did="1879368485" parentZoneId="1879368334" longitude="-135.95674" latitude="30.35913"/>
 <marker id="550309889" label="Gundabad Driver" category="71" did="1879373942" parentZoneId="1879368334" longitude="-136.21678" latitude="30.506523"/>
 <marker id="550309890" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368334" longitude="-136.09569" latitude="30.573378"/>
@@ -842,120 +828,115 @@
 <marker id="550318174" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.23822" latitude="32.101833"/>
 <marker id="550318175" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.11913" latitude="32.131924"/>
 <marker id="550318176" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.11739" latitude="32.097294"/>
+<marker id="550318177" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.90074" latitude="32.063934"/>
+<marker id="550318178" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.86049" latitude="31.930624"/>
+<marker id="550318179" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.89584" latitude="31.930624"/>
 <marker id="550318192" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.25017" latitude="32.131943"/>
 <marker id="550318193" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879368334" longitude="-136.32263" latitude="31.64579"/>
 <marker id="550318194" label="Bomb" category="73" did="1879407936" parentZoneId="1879368334" longitude="-136.16432" latitude="31.935595"/>
-<marker id="550318195" label="Blinding Light" category="75" did="1879089482" parentZoneId="1879368334" longitude="-135.90901" latitude="32.148495"/>
-<marker id="550318196" label="Blinding Light" category="75" did="1879089482" parentZoneId="1879368334" longitude="-135.87314" latitude="31.766787"/>
-<marker id="550318197" label="Blinding Light" category="75" did="1879089482" parentZoneId="1879368334" longitude="-136.3556" latitude="32.24421"/>
-<marker id="550318198" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.86508" latitude="31.787764"/>
-<marker id="550318199" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.8712" latitude="31.760155"/>
-<marker id="550318200" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.91817" latitude="32.174793"/>
-<marker id="550318201" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.9044" latitude="32.159813"/>
-<marker id="550318202" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.35913" latitude="32.245342"/>
-<marker id="550318203" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.37283" latitude="32.247852"/>
-<marker id="550318204" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.34286" latitude="32.247303"/>
-<marker id="550318205" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.90746" latitude="32.173347"/>
-<marker id="550318206" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.8827" latitude="31.781034"/>
-<marker id="550318207" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.06708" latitude="31.998281"/>
-<marker id="550318208" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.99521" latitude="31.997158"/>
-<marker id="550318209" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.91408" latitude="32.00025"/>
-<marker id="550318210" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.98068" latitude="31.81743"/>
-<marker id="550318211" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.97955" latitude="31.906406"/>
-<marker id="550318212" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.9767" latitude="31.968212"/>
-<marker id="550318213" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.0786" latitude="32.092392"/>
-<marker id="550318214" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.24435" latitude="32.182755"/>
-<marker id="550318215" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.35411" latitude="32.019413"/>
-<marker id="550318216" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.08607" latitude="31.882196"/>
-<marker id="550318217" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.13905" latitude="31.997744"/>
-<marker id="550318219" label="Dourhand Excavator" category="71" did="1879408020" parentZoneId="1879368334" longitude="-136.14586" latitude="31.948828"/>
-<marker id="550318220" label="Dourhand Excavator" category="71" did="1879408020" parentZoneId="1879368334" longitude="-136.14784" latitude="31.930752"/>
-<marker id="550318222" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.03922" latitude="31.861307"/>
-<marker id="550318223" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.04124" latitude="31.897549"/>
-<marker id="550318224" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.05763" latitude="31.897549"/>
-<marker id="550318225" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.05255" latitude="32.116844"/>
-<marker id="550318226" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.97552" latitude="32.03878"/>
-<marker id="550318227" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11801" latitude="32.15001"/>
-<marker id="550318228" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.96312" latitude="32.028194"/>
-<marker id="550318229" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.10326" latitude="32.151455"/>
-<marker id="550318230" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.95454" latitude="31.973173"/>
-<marker id="550318231" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.09988" latitude="32.03328"/>
-<marker id="550318232" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.96895" latitude="31.98955"/>
-<marker id="550318233" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.06996" latitude="31.933203"/>
-<marker id="550318234" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.04164" latitude="32.103252"/>
-<marker id="550318235" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.95587" latitude="31.925165"/>
-<marker id="550318236" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.10681" latitude="31.97791"/>
-<marker id="550318237" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.95457" latitude="31.916279"/>
-<marker id="550318238" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.04834" latitude="32.022243"/>
-<marker id="550318239" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.03671" latitude="32.011005"/>
-<marker id="550318240" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.86182" latitude="31.988535"/>
-<marker id="550318241" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.86237" latitude="31.935263"/>
-<marker id="550318242" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.89697" latitude="31.927773"/>
-<marker id="550318243" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11923" latitude="32.099415"/>
-<marker id="550318244" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11766" latitude="32.03163"/>
-<marker id="550318245" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.17044" latitude="32.008484"/>
-<marker id="550318246" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.17044" latitude="31.983877"/>
-<marker id="550318247" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11737" latitude="32.0469"/>
-<marker id="550318248" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.12404" latitude="31.87122"/>
-<marker id="550318249" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11331" latitude="31.975233"/>
-<marker id="550318250" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.12054" latitude="31.955116"/>
-<marker id="550318251" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.10791" latitude="31.85752"/>
-<marker id="550318252" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.03922" latitude="31.849335"/>
-<marker id="550318266" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-135.87234" latitude="31.655165"/>
-<marker id="550318267" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-135.98978" latitude="32.001884"/>
-<marker id="550318268" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.37816" latitude="31.957792"/>
-<marker id="550318269" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.15453" latitude="31.77709"/>
-<marker id="550318270" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.13713" latitude="31.768095"/>
-<marker id="550318271" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-135.86086" latitude="31.675127"/>
-<marker id="550318272" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.9254" latitude="32.151924"/>
-<marker id="550318273" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.90279" latitude="32.15621"/>
-<marker id="550318274" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.86072" latitude="32.00916"/>
-<marker id="550318275" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.09518" latitude="31.935595"/>
-<marker id="550318276" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.10194" latitude="32.062332"/>
-<marker id="550318277" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.98886" latitude="31.836044"/>
-<marker id="550318278" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.96176" latitude="31.836708"/>
-<marker id="550318279" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.35591" latitude="31.974648"/>
-<marker id="550318280" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.08104" latitude="31.935751"/>
-<marker id="550318281" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.91675" latitude="32.15578"/>
-<marker id="550318282" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.86269" latitude="31.998749"/>
-<marker id="550318283" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.86136" latitude="31.664433"/>
-<marker id="550318284" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.36401" latitude="31.966269"/>
-<marker id="550318285" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.14748" latitude="31.770409"/>
-<marker id="550318286" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.96307" latitude="31.934483"/>
-<marker id="550318287" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.97627" latitude="31.996035"/>
-<marker id="550318288" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.9766" latitude="31.836884"/>
-<marker id="550318289" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.09526" latitude="32.048573"/>
-<marker id="550318304" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.17052" latitude="31.997637"/>
-<marker id="550318305" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11198" latitude="31.970556"/>
-<marker id="550318306" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11513" latitude="31.866034"/>
-<marker id="550318307" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-135.85297" latitude="31.933397"/>
-<marker id="550318308" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-135.96924" latitude="32.032284"/>
-<marker id="550318309" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.04173" latitude="32.11251"/>
-<marker id="550318310" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.04268" latitude="32.016865"/>
-<marker id="550318311" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-135.95224" latitude="31.981054"/>
-<marker id="550318312" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11192" latitude="32.15756"/>
-<marker id="550318313" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11519" latitude="31.963602"/>
-<marker id="550318314" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.05017" latitude="31.899355"/>
-<marker id="550318315" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11212" latitude="32.039845"/>
-<marker id="550318336" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.90074" latitude="32.063934"/>
-<marker id="550318337" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.86049" latitude="31.930624"/>
-<marker id="550318338" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.89584" latitude="31.930624"/>
-<marker id="550318339" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.89543" latitude="31.821894"/>
-<marker id="550318340" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.04045" latitude="31.845312"/>
-<marker id="550318341" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.04045" latitude="31.866512"/>
-<marker id="550318342" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.08162" latitude="31.866943"/>
-<marker id="550318343" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.13843" latitude="31.944815"/>
-<marker id="550318344" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.13843" latitude="32.03413"/>
-<marker id="550318345" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.06961" latitude="31.99999"/>
-<marker id="550318346" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.97087" latitude="32.000008"/>
-<marker id="550318347" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.97906" latitude="31.782421"/>
-<marker id="550318348" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.93747" latitude="31.742353"/>
-<marker id="550318349" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.97746" latitude="31.940596"/>
-<marker id="550318350" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.97325" latitude="31.854687"/>
+<marker id="550318195" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.86508" latitude="31.787764"/>
+<marker id="550318196" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.8712" latitude="31.760155"/>
+<marker id="550318197" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.91817" latitude="32.174793"/>
+<marker id="550318198" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.9044" latitude="32.159813"/>
+<marker id="550318199" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.35913" latitude="32.245342"/>
+<marker id="550318200" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.37283" latitude="32.247852"/>
+<marker id="550318201" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-136.34286" latitude="32.247303"/>
+<marker id="550318202" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.90746" latitude="32.173347"/>
+<marker id="550318203" label="Dourhand Mine-overseer" category="71" did="1879408039" parentZoneId="1879368334" longitude="-135.8827" latitude="31.781034"/>
+<marker id="550318204" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.06708" latitude="31.998281"/>
+<marker id="550318205" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.99521" latitude="31.997158"/>
+<marker id="550318206" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.91408" latitude="32.00025"/>
+<marker id="550318207" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.98068" latitude="31.81743"/>
+<marker id="550318208" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.97955" latitude="31.906406"/>
+<marker id="550318209" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-135.9767" latitude="31.968212"/>
+<marker id="550318210" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.0786" latitude="32.092392"/>
+<marker id="550318211" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.24435" latitude="32.182755"/>
+<marker id="550318212" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.35411" latitude="32.019413"/>
+<marker id="550318213" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.08607" latitude="31.882196"/>
+<marker id="550318214" label="Dourhand Blaster" category="71" did="1879408070" parentZoneId="1879368334" longitude="-136.13905" latitude="31.997744"/>
+<marker id="550318216" label="Dourhand Excavator" category="71" did="1879408020" parentZoneId="1879368334" longitude="-136.14586" latitude="31.948828"/>
+<marker id="550318217" label="Dourhand Excavator" category="71" did="1879408020" parentZoneId="1879368334" longitude="-136.14784" latitude="31.930752"/>
+<marker id="550318219" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.03922" latitude="31.861307"/>
+<marker id="550318220" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.04124" latitude="31.897549"/>
+<marker id="550318221" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.05763" latitude="31.897549"/>
+<marker id="550318222" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.05255" latitude="32.116844"/>
+<marker id="550318223" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.97552" latitude="32.03878"/>
+<marker id="550318224" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11801" latitude="32.15001"/>
+<marker id="550318225" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.96312" latitude="32.028194"/>
+<marker id="550318226" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.10326" latitude="32.151455"/>
+<marker id="550318227" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.95454" latitude="31.973173"/>
+<marker id="550318228" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.09988" latitude="32.03328"/>
+<marker id="550318229" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.96895" latitude="31.98955"/>
+<marker id="550318230" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.06996" latitude="31.933203"/>
+<marker id="550318231" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.04164" latitude="32.103252"/>
+<marker id="550318232" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.95587" latitude="31.925165"/>
+<marker id="550318233" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.10681" latitude="31.97791"/>
+<marker id="550318234" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.95457" latitude="31.916279"/>
+<marker id="550318235" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.04834" latitude="32.022243"/>
+<marker id="550318236" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.03671" latitude="32.011005"/>
+<marker id="550318237" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.86182" latitude="31.988535"/>
+<marker id="550318238" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.86237" latitude="31.935263"/>
+<marker id="550318239" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-135.89697" latitude="31.927773"/>
+<marker id="550318240" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11923" latitude="32.099415"/>
+<marker id="550318241" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11766" latitude="32.03163"/>
+<marker id="550318242" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.17044" latitude="32.008484"/>
+<marker id="550318243" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.17044" latitude="31.983877"/>
+<marker id="550318244" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11737" latitude="32.0469"/>
+<marker id="550318245" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.12404" latitude="31.87122"/>
+<marker id="550318246" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.11331" latitude="31.975233"/>
+<marker id="550318247" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.12054" latitude="31.955116"/>
+<marker id="550318248" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.10791" latitude="31.85752"/>
+<marker id="550318249" label="Dourhand Excavator" category="71" did="1879408075" parentZoneId="1879368334" longitude="-136.03922" latitude="31.849335"/>
+<marker id="550318263" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-135.87234" latitude="31.655165"/>
+<marker id="550318264" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-135.98978" latitude="32.001884"/>
+<marker id="550318265" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.37816" latitude="31.957792"/>
+<marker id="550318266" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.15453" latitude="31.77709"/>
+<marker id="550318267" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-136.13713" latitude="31.768095"/>
+<marker id="550318268" label="Dourhand Blaster" category="71" did="1879408058" parentZoneId="1879368334" longitude="-135.86086" latitude="31.675127"/>
+<marker id="550318269" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.9254" latitude="32.151924"/>
+<marker id="550318270" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.90279" latitude="32.15621"/>
+<marker id="550318271" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.86072" latitude="32.00916"/>
+<marker id="550318272" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.09518" latitude="31.935595"/>
+<marker id="550318273" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.10194" latitude="32.062332"/>
+<marker id="550318274" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.98886" latitude="31.836044"/>
+<marker id="550318275" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-135.96176" latitude="31.836708"/>
+<marker id="550318276" label="Dourhand Mine-overseer" category="71" did="1879408022" parentZoneId="1879368334" longitude="-136.35591" latitude="31.974648"/>
+<marker id="550318277" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.08104" latitude="31.935751"/>
+<marker id="550318278" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.91675" latitude="32.15578"/>
+<marker id="550318279" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.86269" latitude="31.998749"/>
+<marker id="550318280" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.86136" latitude="31.664433"/>
+<marker id="550318281" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.36401" latitude="31.966269"/>
+<marker id="550318282" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.14748" latitude="31.770409"/>
+<marker id="550318283" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.96307" latitude="31.934483"/>
+<marker id="550318284" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.97627" latitude="31.996035"/>
+<marker id="550318285" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-135.9766" latitude="31.836884"/>
+<marker id="550318286" label="Mining Cart" category="73" did="1879407935" parentZoneId="1879368334" longitude="-136.09526" latitude="32.048573"/>
+<marker id="550318301" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.17052" latitude="31.997637"/>
+<marker id="550318302" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11198" latitude="31.970556"/>
+<marker id="550318303" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11513" latitude="31.866034"/>
+<marker id="550318304" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-135.85297" latitude="31.933397"/>
+<marker id="550318305" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-135.96924" latitude="32.032284"/>
+<marker id="550318306" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.04173" latitude="32.11251"/>
+<marker id="550318307" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.04268" latitude="32.016865"/>
+<marker id="550318308" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-135.95224" latitude="31.981054"/>
+<marker id="550318309" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11192" latitude="32.15756"/>
+<marker id="550318310" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11519" latitude="31.963602"/>
+<marker id="550318311" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.05017" latitude="31.899355"/>
+<marker id="550318312" label="Mining Tools" category="73" did="1879407943" parentZoneId="1879368334" longitude="-136.11212" latitude="32.039845"/>
+<marker id="550318336" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.89543" latitude="31.821894"/>
+<marker id="550318337" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.04045" latitude="31.845312"/>
+<marker id="550318338" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.04045" latitude="31.866512"/>
+<marker id="550318339" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.08162" latitude="31.866943"/>
+<marker id="550318340" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.13843" latitude="31.944815"/>
+<marker id="550318341" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.13843" latitude="32.03413"/>
+<marker id="550318342" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-136.06961" latitude="31.99999"/>
+<marker id="550318343" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.97087" latitude="32.000008"/>
+<marker id="550318344" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.97906" latitude="31.782421"/>
+<marker id="550318345" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.93747" latitude="31.742353"/>
+<marker id="550318346" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.97746" latitude="31.940596"/>
+<marker id="550318347" label="Dourhand Excavator" category="71" did="1879408059" parentZoneId="1879368334" longitude="-135.97325" latitude="31.854687"/>
 <marker id="550338560" label="Frost-whelpling" category="71" did="1879374653" parentZoneId="1879368345" longitude="-135.96535" latitude="36.145966"/>
 <marker id="550338561" label="Ice Drake" category="71" did="1879374637" parentZoneId="1879368345" longitude="-135.96082" latitude="36.16829"/>
-<marker id="550338562" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-135.86826" latitude="36.109444"/>
-<marker id="550338563" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-135.64275" latitude="35.975643"/>
 <marker id="550342656" label="Ice-crawler" category="71" did="1879374668" parentZoneId="1879368345" longitude="-135.78282" latitude="36.841316"/>
 <marker id="550342657" label="Cold-worm Hatchling" category="71" did="1879374644" parentZoneId="1879368345" longitude="-135.75087" latitude="36.78378"/>
 <marker id="550342658" label="Cold-worm" category="71" did="1879374646" parentZoneId="1879368345" longitude="-135.7705" latitude="36.76922"/>
@@ -993,49 +974,40 @@
 <marker id="550346762" label="Karazgar's Golden Chest" category="72" did="1879379429" parentZoneId="1879368345" longitude="-136.21567" latitude="37.63665"/>
 <marker id="550346763" label="Ice Wall" category="100" did="1879375805" parentZoneId="1879368345" longitude="-136.09026" latitude="37.325623"/>
 <marker id="550346765" label="Control Point" category="73" did="1879152429" parentZoneId="1879368345" longitude="-136.14153" latitude="37.40588"/>
-<marker id="550346766" label="Blizzard" category="75" did="1879381320" parentZoneId="1879368345" longitude="-136.12276" latitude="37.385372"/>
-<marker id="550346767" label="Blizzard" category="75" did="1879381320" parentZoneId="1879368345" longitude="-136.30457" latitude="37.411846"/>
-<marker id="550346768" label="Blizzard" category="75" did="1879381320" parentZoneId="1879368345" longitude="-136.20699" latitude="37.61703"/>
-<marker id="550346769" label="Blizzard" category="75" did="1879381320" parentZoneId="1879368345" longitude="-136.13983" latitude="37.482704"/>
-<marker id="550346770" label="Blizzard" category="75" did="1879381320" parentZoneId="1879368345" longitude="-136.21773" latitude="37.346004"/>
-<marker id="550346771" label="Blizzard" category="75" did="1879381320" parentZoneId="1879368345" longitude="-136.24919" latitude="37.51592"/>
-<marker id="550346772" label="Icebeast's Silver Hoard" category="72" did="1879379440" parentZoneId="1879368345" longitude="-135.87675" latitude="37.790665"/>
-<marker id="550346773" label="Ravenous Ice-Beast" category="71" did="1879374669" parentZoneId="1879368345" longitude="-135.91374" latitude="37.800762"/>
-<marker id="550346774" label="Karazgar the Weeping Warrior" category="71" did="1879374667" parentZoneId="1879368345" longitude="-136.242" latitude="37.482216"/>
-<marker id="550346775" label="Karazgar the Weeping Warrior" category="71" did="1879374667" parentZoneId="1879368345" longitude="-136.24878" latitude="37.481583"/>
-<marker id="550346776" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.24696" latitude="37.463085"/>
-<marker id="550346777" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23909" latitude="37.386864"/>
-<marker id="550346778" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.2261" latitude="37.532608"/>
-<marker id="550346779" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.17787" latitude="37.483418"/>
-<marker id="550346780" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.22421" latitude="37.582256"/>
-<marker id="550346781" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.15085" latitude="37.41032"/>
-<marker id="550346782" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.28209" latitude="37.413975"/>
-<marker id="550346783" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.16373" latitude="37.40093"/>
-<marker id="550346784" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23116" latitude="37.578133"/>
-<marker id="550346785" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23935" latitude="37.37335"/>
-<marker id="550346786" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.24109" latitude="37.456306"/>
-<marker id="550346787" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23232" latitude="37.38049"/>
-<marker id="550346788" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23326" latitude="37.568718"/>
-<marker id="550346789" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.1431" latitude="37.400417"/>
-<marker id="550346790" label="Karazgar the Weeping Warrior" category="71" did="1879374652" parentZoneId="1879368345" longitude="-136.20018" latitude="37.560184"/>
-<marker id="550346791" label="Vethúg Wintermind" category="71" did="1879374655" parentZoneId="1879368345" longitude="-136.19334" latitude="37.47041"/>
-<marker id="550346792" label="Door" category="48" did="1879210076" parentZoneId="1879368345" longitude="-136.3199" latitude="37.378582"/>
-<marker id="550346793" label="Icebeast's Golden Hoard" category="72" did="1879382995" parentZoneId="1879368345" longitude="-135.87593" latitude="37.79027"/>
-<marker id="550346794" label="Icebeast's Mithril Hoard" category="72" did="1879382996" parentZoneId="1879368345" longitude="-135.87636" latitude="37.790604"/>
-<marker id="550346796" label="Bone of Vethúg Wintermind" category="73" did="1879407600" parentZoneId="1879368345" longitude="-136.20033" latitude="37.62902"/>
+<marker id="550346766" label="Icebeast's Silver Hoard" category="72" did="1879379440" parentZoneId="1879368345" longitude="-135.87675" latitude="37.790665"/>
+<marker id="550346767" label="Ravenous Ice-Beast" category="71" did="1879374669" parentZoneId="1879368345" longitude="-135.91374" latitude="37.800762"/>
+<marker id="550346768" label="Karazgar the Weeping Warrior" category="71" did="1879374667" parentZoneId="1879368345" longitude="-136.242" latitude="37.482216"/>
+<marker id="550346769" label="Karazgar the Weeping Warrior" category="71" did="1879374667" parentZoneId="1879368345" longitude="-136.24878" latitude="37.481583"/>
+<marker id="550346770" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.24696" latitude="37.463085"/>
+<marker id="550346771" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23909" latitude="37.386864"/>
+<marker id="550346772" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.2261" latitude="37.532608"/>
+<marker id="550346773" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.17787" latitude="37.483418"/>
+<marker id="550346774" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.22421" latitude="37.582256"/>
+<marker id="550346775" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.15085" latitude="37.41032"/>
+<marker id="550346776" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.28209" latitude="37.413975"/>
+<marker id="550346777" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.16373" latitude="37.40093"/>
+<marker id="550346778" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23116" latitude="37.578133"/>
+<marker id="550346779" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23935" latitude="37.37335"/>
+<marker id="550346780" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.24109" latitude="37.456306"/>
+<marker id="550346781" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23232" latitude="37.38049"/>
+<marker id="550346782" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.23326" latitude="37.568718"/>
+<marker id="550346783" label="Loose Icicle" category="71" did="1879374645" parentZoneId="1879368345" longitude="-136.1431" latitude="37.400417"/>
+<marker id="550346784" label="Karazgar the Weeping Warrior" category="71" did="1879374652" parentZoneId="1879368345" longitude="-136.20018" latitude="37.560184"/>
+<marker id="550346786" label="Door" category="48" did="1879210076" parentZoneId="1879368345" longitude="-136.3199" latitude="37.378582"/>
+<marker id="550346787" label="Icebeast's Golden Hoard" category="72" did="1879382995" parentZoneId="1879368345" longitude="-135.87593" latitude="37.79027"/>
+<marker id="550346788" label="Icebeast's Mithril Hoard" category="72" did="1879382996" parentZoneId="1879368345" longitude="-135.87636" latitude="37.790604"/>
+<marker id="550346789" label="Vethúg Wintermind" category="71" did="1879374655" parentZoneId="1879368345" longitude="-136.19334" latitude="37.47041"/>
+<marker id="550346790" label="Bone of Vethúg Wintermind" category="73" did="1879407600" parentZoneId="1879368345" longitude="-136.20033" latitude="37.62902"/>
 <marker id="550404096" label="Ice Wall" category="100" did="1879375805" parentZoneId="1879368345" longitude="-135.29611" latitude="36.29839"/>
 <marker id="550404097" label="Ice Wall" category="100" did="1879375805" parentZoneId="1879368345" longitude="-135.22258" latitude="36.073826"/>
 <marker id="550404098" label="Ice Wall" category="100" did="1879375805" parentZoneId="1879368345" longitude="-135.30289" latitude="36.22955"/>
 <marker id="550404099" label="Ice Wall" category="100" did="1879375805" parentZoneId="1879368345" longitude="-135.26956" latitude="36.095222"/>
 <marker id="550404100" label="Ice Wall" category="100" did="1879375805" parentZoneId="1879368345" longitude="-134.99315" latitude="36.2857"/>
-<marker id="550404101" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-135.27293" latitude="35.945488"/>
-<marker id="550404102" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-135.45107" latitude="36.298084"/>
-<marker id="550404103" label="Shelter" category="75" did="1879379710" parentZoneId="1879368345" longitude="-135.16759" latitude="36.274647"/>
-<marker id="550404104" label="Frost-drake" category="71" did="1879374641" parentZoneId="1879368345" longitude="-135.54694" latitude="36.075245"/>
-<marker id="550404105" label="Frost-drake" category="71" did="1879374641" parentZoneId="1879368345" longitude="-135.55824" latitude="36.108807"/>
-<marker id="550404106" label="Frost-drake" category="71" did="1879374641" parentZoneId="1879368345" longitude="-135.5544" latitude="36.034443"/>
-<marker id="550404107" label="Bound Ice Grim" category="71" did="1879381521" parentZoneId="1879368345" longitude="-135.34709" latitude="36.230312"/>
-<marker id="550404108" label="Bound Ice Grim" category="71" did="1879381521" parentZoneId="1879368345" longitude="-135.27818" latitude="36.014267"/>
+<marker id="550404101" label="Frost-drake" category="71" did="1879374641" parentZoneId="1879368345" longitude="-135.54694" latitude="36.075245"/>
+<marker id="550404102" label="Frost-drake" category="71" did="1879374641" parentZoneId="1879368345" longitude="-135.55824" latitude="36.108807"/>
+<marker id="550404103" label="Frost-drake" category="71" did="1879374641" parentZoneId="1879368345" longitude="-135.5544" latitude="36.034443"/>
+<marker id="550404104" label="Bound Ice Grim" category="71" did="1879381521" parentZoneId="1879368345" longitude="-135.34709" latitude="36.230312"/>
+<marker id="550404105" label="Bound Ice Grim" category="71" did="1879381521" parentZoneId="1879368345" longitude="-135.27818" latitude="36.014267"/>
 <marker id="550408192" label="Hobgoblin Frost-caller" category="71" did="1879377614" parentZoneId="1879368345" longitude="-135.253" latitude="36.77621"/>
 <marker id="550408193" label="Frost-bound Hobgoblin" category="71" did="1879377613" parentZoneId="1879368345" longitude="-135.07274" latitude="36.630623"/>
 <marker id="550408194" label="Worm Illusion" category="71" did="1879380574" parentZoneId="1879368345" longitude="-135.15137" latitude="36.942196"/>

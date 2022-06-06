@@ -93,7 +93,6 @@
 <marker id="359260198" label="Door" category="100" did="1879063411" parentZoneId="1879098737" longitude="-75.5445" latitude="-36.198143"/>
 <marker id="359260199" label="Door" category="100" did="1879063411" parentZoneId="1879098737" longitude="-75.10714" latitude="-36.365818"/>
 <marker id="359260200" label="Door" category="100" did="1879063411" parentZoneId="1879098737" longitude="-75.46884" latitude="-35.726982"/>
-<marker id="359264256" label="Farmland" category="45" did="1879063405" parentZoneId="1879064016" longitude="-74.993645" latitude="-34.835655"/>
 <marker id="359317504" label="Hobbit Roadsign" category="73" did="1879077718" parentZoneId="1879098737" longitude="-74.43919" latitude="-37.505146"/>
 <marker id="359317505" label="HouseKeeper" category="100" did="1879093790" parentZoneId="1879098737" longitude="-74.61115" latitude="-37.268143"/>
 <marker id="359317506" label="---" category="100" did="1879095077" parentZoneId="1879098737" longitude="-74.68593" latitude="-37.510693"/>
@@ -391,8 +390,6 @@
 <marker id="359391293" label="Door" category="100" did="1879063411" parentZoneId="1879098737" longitude="-73.9864" latitude="-35.95794"/>
 <marker id="359391294" label="Door" category="100" did="1879063411" parentZoneId="1879098737" longitude="-73.49542" latitude="-36.293175"/>
 <marker id="359395328" label="The Horse Run" category="43" did="1879118638" parentZoneId="1879064016" longitude="-73.50413" latitude="-35.071114"/>
-<marker id="359395329" label="Burst of Speed" category="75" did="1879162549" parentZoneId="1879064016" longitude="-73.75993" latitude="-35.438965"/>
-<marker id="359395330" label="Deep Mud" category="75" did="1879162558" parentZoneId="1879064016" longitude="-73.73238" latitude="-35.47702"/>
 <marker id="359452672" label="Milestone" category="55" did="1879063401" parentZoneId="1879064016" longitude="-73.16328" latitude="-36.494053"/>
 <marker id="359452674" label="Shire Homesteads" category="74" did="1879102217" parentZoneId="1879064016" longitude="-73.17426" latitude="-36.52373"/>
 <marker id="359452677" label="Andy Brockhouse&#10;Michel Delving Housing Broker" category="38" did="1879096841" parentZoneId="1879064016" longitude="-73.1466" latitude="-36.473427"/>
@@ -425,26 +422,25 @@
 <marker id="359456802" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
 <marker id="359456803" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
 <marker id="359460865" label="Southfarthing Gate" category="43" did="1879063420" parentZoneId="1879064016" longitude="-72.82486" latitude="-34.955486"/>
-<marker id="359460867" label="Finish Line - Shire" category="75" did="1879162590" parentZoneId="1879064016" longitude="-73.188614" latitude="-35.323944"/>
-<marker id="359460876" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.607155" latitude="-34.90071"/>
-<marker id="359460877" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.607155" latitude="-34.90071"/>
-<marker id="359460878" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.607155" latitude="-34.90071"/>
-<marker id="359460879" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.607155" latitude="-34.90071"/>
-<marker id="359460907" label="Race Pony" category="73" did="1879162591" parentZoneId="1879064016" longitude="-73.17079" latitude="-35.31446"/>
-<marker id="359460908" label="Race Pony" category="73" did="1879162591" parentZoneId="1879064016" longitude="-73.16496" latitude="-35.338955"/>
-<marker id="359460909" label="Carl Proudfoot" category="70" did="1879115693" parentZoneId="1879064016" longitude="-73.14807" latitude="-35.352432"/>
-<marker id="359460910" label="Race Horse" category="73" did="1879162588" parentZoneId="1879064016" longitude="-73.16435" latitude="-35.33006"/>
-<marker id="359460911" label="Race Horse" category="73" did="1879162588" parentZoneId="1879064016" longitude="-73.16542" latitude="-35.322197"/>
-<marker id="359460938" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
-<marker id="359460939" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
-<marker id="359460940" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
-<marker id="359460941" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
-<marker id="359460942" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
-<marker id="359460943" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
-<marker id="359460944" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
-<marker id="359460945" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
-<marker id="359460946" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
-<marker id="359460947" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
-<marker id="359460948" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
-<marker id="359460949" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
+<marker id="359460876" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.607155" latitude="-34.90071"/>
+<marker id="359460877" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.607155" latitude="-34.90071"/>
+<marker id="359460878" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.607155" latitude="-34.90071"/>
+<marker id="359460879" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.607155" latitude="-34.90071"/>
+<marker id="359460907" label="Race Pony" category="73" did="1879162591" parentZoneId="1879064016" longitude="-73.16496" latitude="-35.338955"/>
+<marker id="359460908" label="Carl Proudfoot" category="70" did="1879115693" parentZoneId="1879064016" longitude="-73.14807" latitude="-35.352432"/>
+<marker id="359460909" label="Race Horse" category="73" did="1879162588" parentZoneId="1879064016" longitude="-73.16435" latitude="-35.33006"/>
+<marker id="359460910" label="Race Horse" category="73" did="1879162588" parentZoneId="1879064016" longitude="-73.16542" latitude="-35.322197"/>
+<marker id="359460911" label="Race Pony" category="73" did="1879162591" parentZoneId="1879064016" longitude="-73.17079" latitude="-35.31446"/>
+<marker id="359460937" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
+<marker id="359460938" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
+<marker id="359460939" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
+<marker id="359460940" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
+<marker id="359460941" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
+<marker id="359460942" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
+<marker id="359460943" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
+<marker id="359460944" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
+<marker id="359460945" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
+<marker id="359460946" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
+<marker id="359460947" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
+<marker id="359460948" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
 </markers>

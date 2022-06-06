@@ -5263,15 +5263,11 @@
 <marker id="683905024" label="The Bitter Scar" category="74" did="1879369937" parentZoneId="1879368366" longitude="-41.728035" latitude="36.520603"/>
 <marker id="683905025" label="Holkorm" category="71" did="1879369927" parentZoneId="1879368366" longitude="-41.733475" latitude="36.492794"/>
 <marker id="683905026" label="Glóin" category="70" did="1879369763" parentZoneId="1879368366" longitude="-41.750557" latitude="36.456512"/>
-<marker id="683905027" label="Blinding Light" category="75" did="1879089482" parentZoneId="1879368366" longitude="-41.72288" latitude="36.49875"/>
-<marker id="683905028" label="Blinding Light" category="75" did="1879089482" parentZoneId="1879368366" longitude="-41.72288" latitude="36.50532"/>
-<marker id="683905029" label="Blinding Light" category="75" did="1879089482" parentZoneId="1879368366" longitude="-41.665916" latitude="36.49875"/>
-<marker id="683905030" label="Blinding Light" category="75" did="1879089482" parentZoneId="1879368366" longitude="-41.665916" latitude="36.50532"/>
-<marker id="683905031" label="Pile of Rust" category="73" did="1879378512" parentZoneId="1879368366" longitude="-41.699364" latitude="36.519382"/>
-<marker id="683905032" label="Black Arrow" category="73" did="1879378517" parentZoneId="1879368366" longitude="-41.653984" latitude="36.56042"/>
-<marker id="683905033" label="Rimed Earth" category="73" did="1879378511" parentZoneId="1879368366" longitude="-41.725517" latitude="36.510323"/>
-<marker id="683905034" label="Bofur" category="70" did="1879369744" parentZoneId="1879368366" longitude="-41.77414" latitude="36.470516"/>
-<marker id="683905035" label="Dori" category="70" did="1879369757" parentZoneId="1879368366" longitude="-41.74528" latitude="36.47956"/>
+<marker id="683905027" label="Pile of Rust" category="73" did="1879378512" parentZoneId="1879368366" longitude="-41.699364" latitude="36.519382"/>
+<marker id="683905028" label="Black Arrow" category="73" did="1879378517" parentZoneId="1879368366" longitude="-41.653984" latitude="36.56042"/>
+<marker id="683905029" label="Rimed Earth" category="73" did="1879378511" parentZoneId="1879368366" longitude="-41.725517" latitude="36.510323"/>
+<marker id="683905030" label="Bofur" category="70" did="1879369744" parentZoneId="1879368366" longitude="-41.77414" latitude="36.470516"/>
+<marker id="683905031" label="Dori" category="70" did="1879369757" parentZoneId="1879368366" longitude="-41.74528" latitude="36.47956"/>
 <marker id="683954176" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-40.937763" latitude="33.652195"/>
 <marker id="683954177" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-40.95037" latitude="33.656513"/>
 <marker id="683954178" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-40.95037" latitude="33.656513"/>
@@ -8168,110 +8164,109 @@
 <marker id="684146689" label="Supplier" category="38" did="1879362361" parentZoneId="1879368366" longitude="-38.595177" latitude="33.154247"/>
 <marker id="684146690" label="Provisioner" category="38" did="1879362360" parentZoneId="1879368366" longitude="-38.55922" latitude="33.021866"/>
 <marker id="684146692" label="Tasks Bulletin Board" category="27" did="1879378422" parentZoneId="1879368366" longitude="-38.517097" latitude="33.021248"/>
-<marker id="684146694" label="Campfire" category="75" did="1879377582" parentZoneId="1879368366" longitude="-38.597107" latitude="33.075665"/>
-<marker id="684146695" label="Stable-master" category="51" did="1879378806" parentZoneId="1879368366" longitude="-38.611885" latitude="33.131424"/>
-<marker id="684146697" label="Dréri" category="70" did="1879369728" parentZoneId="1879368366" longitude="-38.554092" latitude="33.003387"/>
-<marker id="684146698" label="Glóin" category="70" did="1879369743" parentZoneId="1879368366" longitude="-38.507244" latitude="33.184307"/>
-<marker id="684146699" label="Náth" category="70" did="1879369739" parentZoneId="1879368366" longitude="-38.481827" latitude="33.193172"/>
-<marker id="684146700" label="Bofur" category="70" did="1879369750" parentZoneId="1879368366" longitude="-38.558155" latitude="33.108604"/>
-<marker id="684146702" label="Healer" category="38" did="1879362353" parentZoneId="1879368366" longitude="-38.512314" latitude="33.099216"/>
-<marker id="684146703" label="Campfire" category="73" did="1879258451" parentZoneId="1879368366" longitude="-38.596092" latitude="33.0766"/>
-<marker id="684146704" label="Zhélruka Dwarf" category="70" did="1879374527" parentZoneId="1879368366" longitude="-38.47946" latitude="33.155674"/>
-<marker id="684146705" label="Zhélruka Dwarf" category="70" did="1879374527" parentZoneId="1879368366" longitude="-38.610947" latitude="33.06794"/>
-<marker id="684146706" label="Zhélruka Dwarf" category="70" did="1879374526" parentZoneId="1879368366" longitude="-38.531425" latitude="33.035633"/>
-<marker id="684146707" label="Zhélruka Dwarf" category="70" did="1879374526" parentZoneId="1879368366" longitude="-38.54742" latitude="33.155643"/>
-<marker id="684146708" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.23458" latitude="32.72466"/>
-<marker id="684146710" label="Bounty: Blackhorn" category="73" did="1879369966" parentZoneId="1879368366" longitude="-38.53256" latitude="33.04161"/>
-<marker id="684146711" label="Bounty: Grazadhrú" category="73" did="1879369957" parentZoneId="1879368366" longitude="-38.533623" latitude="33.042686"/>
-<marker id="684146712" label="Bounty: Gristlefell" category="73" did="1879369971" parentZoneId="1879368366" longitude="-38.510292" latitude="33.189823"/>
-<marker id="684146713" label="Bounty: Holkorm" category="73" did="1879369975" parentZoneId="1879368366" longitude="-38.50951" latitude="33.19119"/>
-<marker id="684146714" label="Bounty: Keenclaw" category="73" did="1879369972" parentZoneId="1879368366" longitude="-38.511124" latitude="33.188396"/>
-<marker id="684146715" label="Bounty: Moorstalker" category="73" did="1879369973" parentZoneId="1879368366" longitude="-38.531433" latitude="33.040497"/>
-<marker id="684146717" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
-<marker id="684146718" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
-<marker id="684146719" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
-<marker id="684146720" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
-<marker id="684146721" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
-<marker id="684146722" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
-<marker id="684146723" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
-<marker id="684146724" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.23458" latitude="32.72466"/>
-<marker id="684146728" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
-<marker id="684146729" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.23458" latitude="32.72466"/>
-<marker id="684146730" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.23458" latitude="32.72466"/>
+<marker id="684146694" label="Stable-master" category="51" did="1879378806" parentZoneId="1879368366" longitude="-38.611885" latitude="33.131424"/>
+<marker id="684146696" label="Dréri" category="70" did="1879369728" parentZoneId="1879368366" longitude="-38.554092" latitude="33.003387"/>
+<marker id="684146697" label="Glóin" category="70" did="1879369743" parentZoneId="1879368366" longitude="-38.507244" latitude="33.184307"/>
+<marker id="684146698" label="Náth" category="70" did="1879369739" parentZoneId="1879368366" longitude="-38.481827" latitude="33.193172"/>
+<marker id="684146699" label="Bofur" category="70" did="1879369750" parentZoneId="1879368366" longitude="-38.558155" latitude="33.108604"/>
+<marker id="684146701" label="Healer" category="38" did="1879362353" parentZoneId="1879368366" longitude="-38.512314" latitude="33.099216"/>
+<marker id="684146702" label="Campfire" category="73" did="1879258451" parentZoneId="1879368366" longitude="-38.596092" latitude="33.0766"/>
+<marker id="684146703" label="Zhélruka Dwarf" category="70" did="1879374527" parentZoneId="1879368366" longitude="-38.47946" latitude="33.155674"/>
+<marker id="684146704" label="Zhélruka Dwarf" category="70" did="1879374527" parentZoneId="1879368366" longitude="-38.610947" latitude="33.06794"/>
+<marker id="684146705" label="Zhélruka Dwarf" category="70" did="1879374526" parentZoneId="1879368366" longitude="-38.531425" latitude="33.035633"/>
+<marker id="684146706" label="Zhélruka Dwarf" category="70" did="1879374526" parentZoneId="1879368366" longitude="-38.54742" latitude="33.155643"/>
+<marker id="684146707" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.23458" latitude="32.72466"/>
+<marker id="684146709" label="Bounty: Blackhorn" category="73" did="1879369966" parentZoneId="1879368366" longitude="-38.53256" latitude="33.04161"/>
+<marker id="684146710" label="Bounty: Grazadhrú" category="73" did="1879369957" parentZoneId="1879368366" longitude="-38.533623" latitude="33.042686"/>
+<marker id="684146711" label="Bounty: Gristlefell" category="73" did="1879369971" parentZoneId="1879368366" longitude="-38.510292" latitude="33.189823"/>
+<marker id="684146712" label="Bounty: Holkorm" category="73" did="1879369975" parentZoneId="1879368366" longitude="-38.50951" latitude="33.19119"/>
+<marker id="684146713" label="Bounty: Keenclaw" category="73" did="1879369972" parentZoneId="1879368366" longitude="-38.511124" latitude="33.188396"/>
+<marker id="684146714" label="Bounty: Moorstalker" category="73" did="1879369973" parentZoneId="1879368366" longitude="-38.531433" latitude="33.040497"/>
+<marker id="684146716" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
+<marker id="684146717" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
+<marker id="684146718" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
+<marker id="684146719" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
+<marker id="684146720" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
+<marker id="684146721" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
+<marker id="684146722" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
+<marker id="684146723" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.23458" latitude="32.72466"/>
+<marker id="684146727" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.247185" latitude="32.728985"/>
+<marker id="684146728" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.23458" latitude="32.72466"/>
+<marker id="684146729" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.23458" latitude="32.72466"/>
 <marker id="684146819" label="Task Collection Box" category="70" did="1879366262" parentZoneId="1879368366" longitude="-38.519688" latitude="33.027763"/>
-<marker id="684146845" label="Durin" category="70" did="1879369042" parentZoneId="1879368366" longitude="-38.104073" latitude="33.083748"/>
-<marker id="684146846" label="Dôm Goru" category="43" did="1879369916" parentZoneId="1879368366" longitude="-38.541737" latitude="33.09952"/>
-<marker id="684146847" label="Zádokh Flint-eye" category="70" did="1879369729" parentZoneId="1879368366" longitude="-38.56748" latitude="33.142567"/>
-<marker id="684146851" label="Dori" category="70" did="1879369775" parentZoneId="1879368366" longitude="-38.61675" latitude="33.166786"/>
-<marker id="684146853" label="Rúzat" category="70" did="1879369930" parentZoneId="1879368366" longitude="-38.543476" latitude="33.07112"/>
-<marker id="684146864" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146865" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146866" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146867" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146868" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146869" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146870" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146871" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146872" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146873" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146874" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146875" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
-<marker id="684146876" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146877" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146878" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146879" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146880" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146881" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146882" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146883" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146884" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146885" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146886" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146887" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
-<marker id="684146888" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146889" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146890" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146891" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146892" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146893" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146894" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146895" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146896" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146897" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146898" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146899" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
-<marker id="684146900" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146901" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146902" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146903" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146904" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146905" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146906" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146907" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146908" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146909" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146910" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146911" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
-<marker id="684146912" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.130516" latitude="32.973553"/>
-<marker id="684146913" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.130516" latitude="32.973553"/>
-<marker id="684146914" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.130516" latitude="32.973553"/>
-<marker id="684146915" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.130516" latitude="32.973553"/>
-<marker id="684146916" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.13717" latitude="32.80785"/>
-<marker id="684146917" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.13717" latitude="32.80785"/>
-<marker id="684146918" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.13717" latitude="32.80785"/>
-<marker id="684146919" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.13717" latitude="32.80785"/>
-<marker id="684146920" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.056423" latitude="32.700428"/>
-<marker id="684146921" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.056423" latitude="32.700428"/>
-<marker id="684146922" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.056423" latitude="32.700428"/>
-<marker id="684146923" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.056423" latitude="32.700428"/>
-<marker id="684146924" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.32703" latitude="32.753155"/>
-<marker id="684146925" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.32703" latitude="32.753155"/>
-<marker id="684146926" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.32703" latitude="32.753155"/>
-<marker id="684146927" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.32703" latitude="32.753155"/>
-<marker id="684146928" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.527832" latitude="32.86082"/>
-<marker id="684146929" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.527832" latitude="32.86082"/>
-<marker id="684146930" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.527832" latitude="32.86082"/>
-<marker id="684146931" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.527832" latitude="32.86082"/>
+<marker id="684146844" label="Durin" category="70" did="1879369042" parentZoneId="1879368366" longitude="-38.104073" latitude="33.083748"/>
+<marker id="684146845" label="Dôm Goru" category="43" did="1879369916" parentZoneId="1879368366" longitude="-38.541737" latitude="33.09952"/>
+<marker id="684146846" label="Zádokh Flint-eye" category="70" did="1879369729" parentZoneId="1879368366" longitude="-38.56748" latitude="33.142567"/>
+<marker id="684146850" label="Dori" category="70" did="1879369775" parentZoneId="1879368366" longitude="-38.61675" latitude="33.166786"/>
+<marker id="684146851" label="Rúzat" category="70" did="1879369930" parentZoneId="1879368366" longitude="-38.543476" latitude="33.07112"/>
+<marker id="684146863" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146864" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146865" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146866" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146867" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146868" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146869" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146870" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146871" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146872" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146873" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146874" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.160007" latitude="32.808575"/>
+<marker id="684146875" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146876" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146877" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146878" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146879" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146880" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146881" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146882" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146883" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146884" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146885" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146886" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.100193" latitude="32.706024"/>
+<marker id="684146887" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146888" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146889" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146890" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146891" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146892" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146893" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146894" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146895" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146896" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146897" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146898" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.353497" latitude="32.759434"/>
+<marker id="684146899" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146900" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146901" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146902" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146903" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146904" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146905" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146906" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146907" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146908" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146909" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146910" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.55741" latitude="32.840233"/>
+<marker id="684146911" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.130516" latitude="32.973553"/>
+<marker id="684146912" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.130516" latitude="32.973553"/>
+<marker id="684146913" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.130516" latitude="32.973553"/>
+<marker id="684146914" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.130516" latitude="32.973553"/>
+<marker id="684146915" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.13717" latitude="32.80785"/>
+<marker id="684146916" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.13717" latitude="32.80785"/>
+<marker id="684146917" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.13717" latitude="32.80785"/>
+<marker id="684146918" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.13717" latitude="32.80785"/>
+<marker id="684146919" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.056423" latitude="32.700428"/>
+<marker id="684146920" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.056423" latitude="32.700428"/>
+<marker id="684146921" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.056423" latitude="32.700428"/>
+<marker id="684146922" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.056423" latitude="32.700428"/>
+<marker id="684146923" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.32703" latitude="32.753155"/>
+<marker id="684146924" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.32703" latitude="32.753155"/>
+<marker id="684146925" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.32703" latitude="32.753155"/>
+<marker id="684146926" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.32703" latitude="32.753155"/>
+<marker id="684146927" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.527832" latitude="32.86082"/>
+<marker id="684146928" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.527832" latitude="32.86082"/>
+<marker id="684146929" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.527832" latitude="32.86082"/>
+<marker id="684146930" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.527832" latitude="32.86082"/>
 <marker id="684150784" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.178555" latitude="33.646446"/>
 <marker id="684150785" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368366" longitude="-38.194317" latitude="33.47613"/>
 <marker id="684150786" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368366" longitude="-38.194317" latitude="33.47613"/>
@@ -8556,229 +8551,228 @@
 <marker id="684154891" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.369335" latitude="34.251064"/>
 <marker id="684154892" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.369335" latitude="34.251064"/>
 <marker id="684154893" label="Tázko" category="70" did="1879393150" parentZoneId="1879368366" longitude="-38.448895" latitude="34.45586"/>
-<marker id="684154894" label="Remove blackout effect" category="75" did="1879221741" parentZoneId="1879368366" longitude="-38.466026" latitude="34.419735"/>
-<marker id="684154895" label="Bozhéna" category="70" did="1879393182" parentZoneId="1879368366" longitude="-38.455147" latitude="34.454998"/>
-<marker id="684154896" label="Vóin" category="70" did="1879393196" parentZoneId="1879368366" longitude="-38.458076" latitude="34.464775"/>
-<marker id="684154898" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154899" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154900" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154901" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154902" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154903" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154904" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154905" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154906" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154907" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154908" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154909" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
-<marker id="684154910" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154911" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154912" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154913" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154914" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154915" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154916" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154917" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154918" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154919" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154920" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154921" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
-<marker id="684154922" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154923" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154924" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154925" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154926" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154927" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154928" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154929" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154930" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154931" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154932" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154933" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
-<marker id="684154934" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154935" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154936" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154937" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154938" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154939" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154940" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154941" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154942" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154943" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154944" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154945" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
-<marker id="684154946" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154947" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154948" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154949" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154950" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154951" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154952" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154953" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154954" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154955" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154956" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154957" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
-<marker id="684154958" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154959" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154960" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154961" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154962" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154963" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154964" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154965" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154966" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154967" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154968" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154969" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
-<marker id="684154970" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154971" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154972" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154973" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154974" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154975" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154976" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154977" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154978" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154979" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154980" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154981" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
-<marker id="684154982" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154983" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154984" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154985" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154986" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154987" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154988" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154989" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154990" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154991" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154992" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154993" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
-<marker id="684154994" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684154995" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684154996" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684154997" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684154998" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684154999" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684155000" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684155001" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684155002" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684155003" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684155004" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684155005" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
-<marker id="684155006" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155007" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155008" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155009" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155010" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155011" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155012" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155013" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155014" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155015" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155016" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155017" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
-<marker id="684155018" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155019" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155020" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155021" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155022" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155023" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155024" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155025" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155026" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155027" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155028" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155029" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
-<marker id="684155030" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155031" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155032" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155033" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155034" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155035" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155036" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155037" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155038" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155039" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155040" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155041" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
-<marker id="684155042" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155043" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155044" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155045" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155046" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155047" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155048" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155049" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155050" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155051" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155052" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155053" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
-<marker id="684155054" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155055" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155056" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155057" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155058" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155059" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155060" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155061" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155062" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155063" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155064" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155065" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
-<marker id="684155066" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.33123" latitude="34.04864"/>
-<marker id="684155067" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.33123" latitude="34.04864"/>
-<marker id="684155068" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.33123" latitude="34.04864"/>
-<marker id="684155069" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.33123" latitude="34.04864"/>
-<marker id="684155070" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.598415" latitude="34.037205"/>
-<marker id="684155071" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.598415" latitude="34.037205"/>
-<marker id="684155072" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.598415" latitude="34.037205"/>
-<marker id="684155073" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.598415" latitude="34.037205"/>
-<marker id="684155074" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.731327" latitude="34.38329"/>
-<marker id="684155075" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.731327" latitude="34.38329"/>
-<marker id="684155076" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.731327" latitude="34.38329"/>
-<marker id="684155077" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.731327" latitude="34.38329"/>
-<marker id="684155078" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.49692" latitude="34.38704"/>
-<marker id="684155079" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.49692" latitude="34.38704"/>
-<marker id="684155080" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.49692" latitude="34.38704"/>
-<marker id="684155081" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.49692" latitude="34.38704"/>
-<marker id="684155082" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.063076" latitude="34.32663"/>
-<marker id="684155083" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.063076" latitude="34.32663"/>
-<marker id="684155084" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.063076" latitude="34.32663"/>
-<marker id="684155085" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.063076" latitude="34.32663"/>
-<marker id="684155086" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.07589" latitude="34.534912"/>
-<marker id="684155087" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.07589" latitude="34.534912"/>
-<marker id="684155088" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.07589" latitude="34.534912"/>
-<marker id="684155089" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.07589" latitude="34.534912"/>
-<marker id="684155090" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.268612" latitude="34.5396"/>
-<marker id="684155091" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.268612" latitude="34.5396"/>
-<marker id="684155092" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.268612" latitude="34.5396"/>
-<marker id="684155093" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.268612" latitude="34.5396"/>
-<marker id="684155094" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.521355" latitude="34.628445"/>
-<marker id="684155095" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.521355" latitude="34.628445"/>
-<marker id="684155096" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.521355" latitude="34.628445"/>
-<marker id="684155097" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.521355" latitude="34.628445"/>
-<marker id="684155098" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.662605" latitude="34.610558"/>
-<marker id="684155099" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.662605" latitude="34.610558"/>
-<marker id="684155100" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.662605" latitude="34.610558"/>
-<marker id="684155101" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.662605" latitude="34.610558"/>
-<marker id="684155102" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.734043" latitude="34.772186"/>
-<marker id="684155103" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.734043" latitude="34.772186"/>
-<marker id="684155104" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.734043" latitude="34.772186"/>
-<marker id="684155105" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.734043" latitude="34.772186"/>
-<marker id="684155106" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.504795" latitude="34.78452"/>
-<marker id="684155107" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.504795" latitude="34.78452"/>
-<marker id="684155108" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.504795" latitude="34.78452"/>
-<marker id="684155109" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.504795" latitude="34.78452"/>
-<marker id="684155110" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.39293" latitude="34.731052"/>
-<marker id="684155111" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.39293" latitude="34.731052"/>
-<marker id="684155112" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.39293" latitude="34.731052"/>
-<marker id="684155113" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.39293" latitude="34.731052"/>
-<marker id="684155114" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.201824" latitude="34.750538"/>
-<marker id="684155115" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.201824" latitude="34.750538"/>
-<marker id="684155116" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.201824" latitude="34.750538"/>
-<marker id="684155117" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.201824" latitude="34.750538"/>
+<marker id="684154894" label="Bozhéna" category="70" did="1879393182" parentZoneId="1879368366" longitude="-38.455147" latitude="34.454998"/>
+<marker id="684154895" label="Vóin" category="70" did="1879393196" parentZoneId="1879368366" longitude="-38.458076" latitude="34.464775"/>
+<marker id="684154897" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154898" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154899" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154900" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154901" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154902" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154903" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154904" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154905" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154906" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154907" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154908" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.397205" latitude="34.051376"/>
+<marker id="684154909" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154910" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154911" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154912" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154913" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154914" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154915" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154916" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154917" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154918" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154919" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154920" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.630867" latitude="34.02536"/>
+<marker id="684154921" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154922" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154923" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154924" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154925" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154926" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154927" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154928" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154929" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154930" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154931" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154932" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.078846" latitude="34.29955"/>
+<marker id="684154933" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154934" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154935" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154936" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154937" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154938" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154939" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154940" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154941" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154942" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154943" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154944" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.466072" latitude="34.40245"/>
+<marker id="684154945" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154946" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154947" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154948" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154949" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154950" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154951" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154952" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154953" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154954" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154955" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154956" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.716923" latitude="34.420624"/>
+<marker id="684154957" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154958" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154959" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154960" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154961" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154962" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154963" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154964" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154965" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154966" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154967" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154968" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.67585" latitude="34.593094"/>
+<marker id="684154969" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154970" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154971" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154972" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154973" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154974" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154975" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154976" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154977" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154978" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154979" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154980" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.761192" latitude="34.753906"/>
+<marker id="684154981" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154982" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154983" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154984" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154985" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154986" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154987" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154988" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154989" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154990" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154991" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154992" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.51632" latitude="34.771572"/>
+<marker id="684154993" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684154994" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684154995" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684154996" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684154997" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684154998" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684154999" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684155000" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684155001" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684155002" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684155003" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684155004" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.49441" latitude="34.60878"/>
+<marker id="684155005" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155006" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155007" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155008" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155009" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155010" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155011" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155012" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155013" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155014" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155015" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155016" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.28999" latitude="34.523457"/>
+<marker id="684155017" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155018" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155019" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155020" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155021" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155022" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155023" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155024" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155025" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155026" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155027" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155028" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.10798" latitude="34.529892"/>
+<marker id="684155029" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155030" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155031" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155032" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155033" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155034" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155035" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155036" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155037" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155038" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155039" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155040" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.23955" latitude="34.657146"/>
+<marker id="684155041" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155042" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155043" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155044" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155045" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155046" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155047" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155048" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155049" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155050" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155051" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155052" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.229473" latitude="34.771492"/>
+<marker id="684155053" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155054" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155055" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155056" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155057" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155058" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155059" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155060" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155061" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155062" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155063" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155064" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368366" longitude="-38.38538" latitude="34.71385"/>
+<marker id="684155065" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.33123" latitude="34.04864"/>
+<marker id="684155066" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.33123" latitude="34.04864"/>
+<marker id="684155067" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.33123" latitude="34.04864"/>
+<marker id="684155068" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.33123" latitude="34.04864"/>
+<marker id="684155069" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.598415" latitude="34.037205"/>
+<marker id="684155070" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.598415" latitude="34.037205"/>
+<marker id="684155071" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.598415" latitude="34.037205"/>
+<marker id="684155072" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.598415" latitude="34.037205"/>
+<marker id="684155073" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.731327" latitude="34.38329"/>
+<marker id="684155074" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.731327" latitude="34.38329"/>
+<marker id="684155075" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.731327" latitude="34.38329"/>
+<marker id="684155076" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.731327" latitude="34.38329"/>
+<marker id="684155077" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.49692" latitude="34.38704"/>
+<marker id="684155078" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.49692" latitude="34.38704"/>
+<marker id="684155079" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.49692" latitude="34.38704"/>
+<marker id="684155080" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.49692" latitude="34.38704"/>
+<marker id="684155081" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.063076" latitude="34.32663"/>
+<marker id="684155082" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.063076" latitude="34.32663"/>
+<marker id="684155083" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.063076" latitude="34.32663"/>
+<marker id="684155084" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.063076" latitude="34.32663"/>
+<marker id="684155085" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.07589" latitude="34.534912"/>
+<marker id="684155086" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.07589" latitude="34.534912"/>
+<marker id="684155087" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.07589" latitude="34.534912"/>
+<marker id="684155088" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.07589" latitude="34.534912"/>
+<marker id="684155089" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.268612" latitude="34.5396"/>
+<marker id="684155090" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.268612" latitude="34.5396"/>
+<marker id="684155091" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.268612" latitude="34.5396"/>
+<marker id="684155092" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.268612" latitude="34.5396"/>
+<marker id="684155093" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.521355" latitude="34.628445"/>
+<marker id="684155094" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.521355" latitude="34.628445"/>
+<marker id="684155095" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.521355" latitude="34.628445"/>
+<marker id="684155096" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.521355" latitude="34.628445"/>
+<marker id="684155097" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.662605" latitude="34.610558"/>
+<marker id="684155098" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.662605" latitude="34.610558"/>
+<marker id="684155099" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.662605" latitude="34.610558"/>
+<marker id="684155100" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.662605" latitude="34.610558"/>
+<marker id="684155101" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.734043" latitude="34.772186"/>
+<marker id="684155102" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.734043" latitude="34.772186"/>
+<marker id="684155103" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.734043" latitude="34.772186"/>
+<marker id="684155104" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.734043" latitude="34.772186"/>
+<marker id="684155105" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.504795" latitude="34.78452"/>
+<marker id="684155106" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.504795" latitude="34.78452"/>
+<marker id="684155107" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.504795" latitude="34.78452"/>
+<marker id="684155108" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.504795" latitude="34.78452"/>
+<marker id="684155109" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.39293" latitude="34.731052"/>
+<marker id="684155110" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.39293" latitude="34.731052"/>
+<marker id="684155111" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.39293" latitude="34.731052"/>
+<marker id="684155112" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.39293" latitude="34.731052"/>
+<marker id="684155113" label="Northern Fox" category="78" did="1879363816" parentZoneId="1879368366" longitude="-38.201824" latitude="34.750538"/>
+<marker id="684155114" label="Northern Viper" category="78" did="1879369242" parentZoneId="1879368366" longitude="-38.201824" latitude="34.750538"/>
+<marker id="684155115" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879368366" longitude="-38.201824" latitude="34.750538"/>
+<marker id="684155116" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.201824" latitude="34.750538"/>
 <marker id="684158976" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-38.581543" latitude="35.244804"/>
 <marker id="684158977" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368366" longitude="-38.37919" latitude="35.067177"/>
 <marker id="684158978" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368366" longitude="-38.37919" latitude="35.067177"/>
@@ -12819,135 +12813,134 @@
 <marker id="684449818" label="Vicious Cold-worm" category="71" did="1879379714" parentZoneId="1879368367" longitude="-35.131767" latitude="40.733475"/>
 <marker id="684449819" label="Vicious Cold-worm" category="71" did="1879379714" parentZoneId="1879368367" longitude="-35.04131" latitude="40.686993"/>
 <marker id="684449820" label="Vicious Cold-worm" category="71" did="1879379714" parentZoneId="1879368367" longitude="-34.82797" latitude="40.911247"/>
-<marker id="684449821" label="Warm Camp Fire" category="75" did="1879108044" parentZoneId="1879368367" longitude="-35.517803" latitude="40.408516"/>
-<marker id="684449822" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
-<marker id="684449823" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
-<marker id="684449824" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
-<marker id="684449825" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
-<marker id="684449826" label="Sulfurous Deposit" category="73" did="1879375956" parentZoneId="1879368367" longitude="-34.93452" latitude="40.933556"/>
-<marker id="684449827" label="Sulfurous Deposit" category="73" did="1879375956" parentZoneId="1879368367" longitude="-35.18086" latitude="40.74285"/>
-<marker id="684449828" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
-<marker id="684449829" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
-<marker id="684449845" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449846" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449847" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449848" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449849" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449850" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449851" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449852" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449853" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449854" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449855" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449856" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
-<marker id="684449857" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449858" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449859" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449860" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449861" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449862" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449863" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449864" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449865" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449866" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449867" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449868" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
-<marker id="684449869" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449870" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449871" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449872" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449873" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449874" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449875" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449876" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449877" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449878" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449879" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449880" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
-<marker id="684449881" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449882" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449883" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449884" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449885" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449886" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449887" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449888" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449889" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449890" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449891" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449892" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
-<marker id="684449893" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
-<marker id="684449894" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
-<marker id="684449895" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
-<marker id="684449896" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
-<marker id="684449897" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
-<marker id="684449898" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
-<marker id="684449899" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
-<marker id="684449900" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
-<marker id="684449901" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
-<marker id="684449902" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
-<marker id="684449903" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
-<marker id="684449904" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
-<marker id="684449905" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
-<marker id="684449906" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
-<marker id="684449907" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
-<marker id="684449908" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
-<marker id="684449909" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
-<marker id="684449910" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
-<marker id="684449911" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
-<marker id="684449912" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
-<marker id="684449913" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
-<marker id="684449914" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
-<marker id="684449915" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
-<marker id="684449916" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
-<marker id="684449917" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
-<marker id="684449918" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
-<marker id="684449919" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
-<marker id="684449920" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
-<marker id="684449921" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
-<marker id="684449922" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
-<marker id="684449923" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
-<marker id="684449924" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
-<marker id="684449925" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
-<marker id="684449926" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
-<marker id="684449927" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
-<marker id="684449928" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
-<marker id="684449929" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
-<marker id="684449930" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
-<marker id="684449931" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
-<marker id="684449932" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
-<marker id="684449933" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
-<marker id="684449934" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
-<marker id="684449935" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
-<marker id="684449936" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
-<marker id="684449937" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
-<marker id="684449938" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
-<marker id="684449939" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
-<marker id="684449940" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
-<marker id="684449941" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
-<marker id="684449942" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
-<marker id="684449943" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
-<marker id="684449944" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
-<marker id="684449945" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
-<marker id="684449946" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
-<marker id="684449947" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
-<marker id="684449948" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
-<marker id="684449949" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
-<marker id="684449950" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
-<marker id="684449951" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
-<marker id="684449952" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
-<marker id="684449953" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
-<marker id="684449954" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
-<marker id="684449955" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
-<marker id="684449956" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
-<marker id="684449957" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
-<marker id="684449958" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
-<marker id="684449959" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
-<marker id="684449960" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
-<marker id="684449961" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
-<marker id="684449962" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
-<marker id="684449963" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
-<marker id="684449964" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
+<marker id="684449821" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
+<marker id="684449822" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
+<marker id="684449823" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
+<marker id="684449824" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
+<marker id="684449825" label="Sulfurous Deposit" category="73" did="1879375956" parentZoneId="1879368367" longitude="-34.93452" latitude="40.933556"/>
+<marker id="684449826" label="Sulfurous Deposit" category="73" did="1879375956" parentZoneId="1879368367" longitude="-35.18086" latitude="40.74285"/>
+<marker id="684449827" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
+<marker id="684449828" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.100605" latitude="40.631855"/>
+<marker id="684449844" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449845" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449846" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449847" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449848" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449849" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449850" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449851" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449852" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449853" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449854" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449855" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-35.316425" latitude="40.48203"/>
+<marker id="684449856" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449857" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449858" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449859" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449860" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449861" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449862" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449863" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449864" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449865" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449866" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449867" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-35.087566" latitude="40.68574"/>
+<marker id="684449868" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449869" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449870" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449871" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449872" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449873" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449874" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449875" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449876" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449877" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449878" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449879" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-34.864998" latitude="40.940098"/>
+<marker id="684449880" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449881" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449882" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449883" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449884" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449885" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449886" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449887" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449888" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449889" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449890" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449891" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-34.903214" latitude="41.16785"/>
+<marker id="684449892" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
+<marker id="684449893" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
+<marker id="684449894" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
+<marker id="684449895" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
+<marker id="684449896" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
+<marker id="684449897" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.932842" latitude="40.791016"/>
+<marker id="684449898" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
+<marker id="684449899" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
+<marker id="684449900" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
+<marker id="684449901" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
+<marker id="684449902" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
+<marker id="684449903" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.901787" latitude="40.777363"/>
+<marker id="684449904" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
+<marker id="684449905" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
+<marker id="684449906" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
+<marker id="684449907" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
+<marker id="684449908" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
+<marker id="684449909" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.852264" latitude="40.650097"/>
+<marker id="684449910" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
+<marker id="684449911" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
+<marker id="684449912" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
+<marker id="684449913" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
+<marker id="684449914" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
+<marker id="684449915" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.043808" latitude="40.88621"/>
+<marker id="684449916" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
+<marker id="684449917" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
+<marker id="684449918" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
+<marker id="684449919" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
+<marker id="684449920" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
+<marker id="684449921" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.94913" latitude="40.61287"/>
+<marker id="684449922" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
+<marker id="684449923" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
+<marker id="684449924" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
+<marker id="684449925" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
+<marker id="684449926" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
+<marker id="684449927" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.41582" latitude="40.407207"/>
+<marker id="684449928" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
+<marker id="684449929" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
+<marker id="684449930" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
+<marker id="684449931" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
+<marker id="684449932" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
+<marker id="684449933" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.20829" latitude="40.544704"/>
+<marker id="684449934" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
+<marker id="684449935" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
+<marker id="684449936" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
+<marker id="684449937" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
+<marker id="684449938" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
+<marker id="684449939" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-34.90791" latitude="40.864685"/>
+<marker id="684449940" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
+<marker id="684449941" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
+<marker id="684449942" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
+<marker id="684449943" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
+<marker id="684449944" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
+<marker id="684449945" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.098106" latitude="40.66"/>
+<marker id="684449946" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
+<marker id="684449947" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
+<marker id="684449948" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
+<marker id="684449949" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
+<marker id="684449950" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
+<marker id="684449951" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.073006" latitude="40.57047"/>
+<marker id="684449952" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
+<marker id="684449953" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
+<marker id="684449954" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
+<marker id="684449955" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
+<marker id="684449956" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
+<marker id="684449957" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.382042" latitude="40.54074"/>
+<marker id="684449958" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
+<marker id="684449959" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
+<marker id="684449960" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
+<marker id="684449961" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
+<marker id="684449962" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
+<marker id="684449963" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.093163" latitude="40.66449"/>
 <marker id="684453888" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-35.30494" latitude="41.425293"/>
 <marker id="684453889" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-35.30494" latitude="41.425293"/>
 <marker id="684453890" label="Thawed Soil" category="73" did="1879369969" parentZoneId="1879368367" longitude="-35.38416" latitude="41.660194"/>
@@ -14490,191 +14483,190 @@
 <marker id="684584991" label="Vicious Cold-worm" category="71" did="1879379714" parentZoneId="1879368367" longitude="-33.40749" latitude="41.395428"/>
 <marker id="684584992" label="Vicious Cold-worm" category="71" did="1879379714" parentZoneId="1879368367" longitude="-33.317646" latitude="41.38113"/>
 <marker id="684584993" label="Vicious Cold-worm" category="71" did="1879379714" parentZoneId="1879368367" longitude="-33.764755" latitude="41.530724"/>
-<marker id="684584994" label="Warm Camp Fire" category="75" did="1879108044" parentZoneId="1879368367" longitude="-33.774998" latitude="41.391346"/>
-<marker id="684584995" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
-<marker id="684584996" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
-<marker id="684584997" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
-<marker id="684584998" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
-<marker id="684584999" label="Sulfurous Deposit" category="73" did="1879375956" parentZoneId="1879368367" longitude="-33.813465" latitude="41.50715"/>
-<marker id="684585000" label="Sulfurous Deposit" category="73" did="1879375956" parentZoneId="1879368367" longitude="-33.575165" latitude="41.820763"/>
-<marker id="684585001" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
-<marker id="684585002" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
-<marker id="684585015" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585016" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585017" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585018" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585019" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585020" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585021" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585022" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585023" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585024" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585025" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585026" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
-<marker id="684585027" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585028" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585029" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585030" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585031" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585032" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585033" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585034" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585035" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585036" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585037" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585038" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
-<marker id="684585039" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585040" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585041" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585042" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585043" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585044" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585045" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585046" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585047" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585048" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585049" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585050" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
-<marker id="684585051" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585052" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585053" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585054" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585055" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585056" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585057" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585058" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585059" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585060" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585061" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585062" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
-<marker id="684585063" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585064" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585065" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585066" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585067" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585068" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585069" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585070" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585071" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585072" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585073" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585074" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
-<marker id="684585075" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585076" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585077" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585078" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585079" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585080" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585081" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585082" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585083" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585084" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585085" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585086" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
-<marker id="684585087" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.83744" latitude="41.780235"/>
-<marker id="684585088" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.83744" latitude="41.780235"/>
-<marker id="684585089" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.66462" latitude="41.665096"/>
-<marker id="684585090" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.66462" latitude="41.665096"/>
-<marker id="684585091" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.40951" latitude="41.231934"/>
-<marker id="684585092" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.40951" latitude="41.231934"/>
-<marker id="684585093" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.85331" latitude="41.33252"/>
-<marker id="684585094" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.85331" latitude="41.33252"/>
-<marker id="684585095" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.859833" latitude="41.58898"/>
-<marker id="684585096" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.859833" latitude="41.58898"/>
-<marker id="684585097" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.485508" latitude="41.940056"/>
-<marker id="684585098" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.485508" latitude="41.940056"/>
-<marker id="684585099" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.21416" latitude="41.461582"/>
-<marker id="684585100" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.21416" latitude="41.461582"/>
-<marker id="684585101" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
-<marker id="684585102" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
-<marker id="684585103" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
-<marker id="684585104" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
-<marker id="684585105" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
-<marker id="684585106" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
-<marker id="684585107" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
-<marker id="684585108" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
-<marker id="684585109" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
-<marker id="684585110" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
-<marker id="684585111" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
-<marker id="684585112" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
-<marker id="684585113" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
-<marker id="684585114" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
-<marker id="684585115" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
-<marker id="684585116" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
-<marker id="684585117" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
-<marker id="684585118" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
-<marker id="684585119" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
-<marker id="684585120" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
-<marker id="684585121" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
-<marker id="684585122" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
-<marker id="684585123" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
-<marker id="684585124" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
-<marker id="684585125" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
-<marker id="684585126" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
-<marker id="684585127" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
-<marker id="684585128" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
-<marker id="684585129" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
-<marker id="684585130" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
-<marker id="684585131" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
-<marker id="684585132" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
-<marker id="684585133" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
-<marker id="684585134" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
-<marker id="684585135" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
-<marker id="684585136" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
-<marker id="684585137" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
-<marker id="684585138" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
-<marker id="684585139" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
-<marker id="684585140" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
-<marker id="684585141" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
-<marker id="684585142" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
-<marker id="684585143" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
-<marker id="684585144" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
-<marker id="684585145" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
-<marker id="684585146" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
-<marker id="684585147" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
-<marker id="684585148" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
-<marker id="684585149" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
-<marker id="684585150" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
-<marker id="684585151" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
-<marker id="684585152" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
-<marker id="684585153" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
-<marker id="684585154" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
-<marker id="684585155" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
-<marker id="684585156" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
-<marker id="684585157" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
-<marker id="684585158" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
-<marker id="684585159" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
-<marker id="684585160" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
-<marker id="684585161" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
-<marker id="684585162" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
-<marker id="684585163" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
-<marker id="684585164" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
-<marker id="684585165" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
-<marker id="684585166" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
-<marker id="684585167" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
-<marker id="684585168" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
-<marker id="684585169" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
-<marker id="684585170" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
-<marker id="684585171" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
-<marker id="684585172" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
-<marker id="684585173" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
-<marker id="684585174" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
-<marker id="684585175" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
-<marker id="684585176" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
-<marker id="684585177" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
-<marker id="684585178" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
-<marker id="684585179" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
-<marker id="684585180" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
-<marker id="684585181" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
-<marker id="684585182" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
-<marker id="684585183" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
-<marker id="684585184" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
-<marker id="684585185" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
-<marker id="684585186" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
-<marker id="684585187" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
-<marker id="684585188" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
-<marker id="684585189" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
-<marker id="684585190" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
+<marker id="684584994" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
+<marker id="684584995" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
+<marker id="684584996" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
+<marker id="684584997" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
+<marker id="684584998" label="Sulfurous Deposit" category="73" did="1879375956" parentZoneId="1879368367" longitude="-33.813465" latitude="41.50715"/>
+<marker id="684584999" label="Sulfurous Deposit" category="73" did="1879375956" parentZoneId="1879368367" longitude="-33.575165" latitude="41.820763"/>
+<marker id="684585000" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
+<marker id="684585001" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.65377" latitude="41.34377"/>
+<marker id="684585014" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585015" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585016" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585017" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585018" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585019" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585020" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585021" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585022" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585023" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585024" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585025" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.76947" latitude="41.53045"/>
+<marker id="684585026" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585027" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585028" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585029" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585030" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585031" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585032" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585033" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585034" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585035" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585036" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585037" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.51787" latitude="41.356583"/>
+<marker id="684585038" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585039" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585040" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585041" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585042" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585043" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585044" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585045" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585046" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585047" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585048" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585049" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.252674" latitude="41.42451"/>
+<marker id="684585050" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585051" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585052" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585053" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585054" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585055" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585056" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585057" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585058" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585059" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585060" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585061" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.696007" latitude="41.6466"/>
+<marker id="684585062" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585063" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585064" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585065" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585066" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585067" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585068" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585069" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585070" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585071" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585072" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585073" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.234863" latitude="41.818047"/>
+<marker id="684585074" label="Cold-drake" category="71" did="1879369929" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585075" label="Grey Hawk" category="71" did="1879369918" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585076" label="Taurog Warrior" category="71" did="1879369931" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585077" label="Mountain-hart" category="71" did="1879370023" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585078" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585079" label="Mithrin Wolverine" category="71" did="1879378384" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585080" label="Grey-mountain Ram" category="71" did="1879369934" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585081" label="Mithrin Láthbear" category="71" did="1879369923" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585082" label="Mountain-hind" category="71" did="1879370024" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585083" label="Taurog Elder" category="71" did="1879369925" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585084" label="Mithrin Worm" category="71" did="1879369924" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585085" label="Young Cold-drake" category="71" did="1879369926" parentZoneId="1879368367" longitude="-33.40291" latitude="41.906364"/>
+<marker id="684585086" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.83744" latitude="41.780235"/>
+<marker id="684585087" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.83744" latitude="41.780235"/>
+<marker id="684585088" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.66462" latitude="41.665096"/>
+<marker id="684585089" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.66462" latitude="41.665096"/>
+<marker id="684585090" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.40951" latitude="41.231934"/>
+<marker id="684585091" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.40951" latitude="41.231934"/>
+<marker id="684585092" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.85331" latitude="41.33252"/>
+<marker id="684585093" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.85331" latitude="41.33252"/>
+<marker id="684585094" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.859833" latitude="41.58898"/>
+<marker id="684585095" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.859833" latitude="41.58898"/>
+<marker id="684585096" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.485508" latitude="41.940056"/>
+<marker id="684585097" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.485508" latitude="41.940056"/>
+<marker id="684585098" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.21416" latitude="41.461582"/>
+<marker id="684585099" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.21416" latitude="41.461582"/>
+<marker id="684585100" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
+<marker id="684585101" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
+<marker id="684585102" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
+<marker id="684585103" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
+<marker id="684585104" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
+<marker id="684585105" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.637" latitude="41.66857"/>
+<marker id="684585106" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
+<marker id="684585107" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
+<marker id="684585108" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
+<marker id="684585109" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
+<marker id="684585110" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
+<marker id="684585111" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.74252" latitude="41.426777"/>
+<marker id="684585112" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
+<marker id="684585113" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
+<marker id="684585114" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
+<marker id="684585115" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
+<marker id="684585116" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
+<marker id="684585117" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.80211" latitude="41.382107"/>
+<marker id="684585118" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
+<marker id="684585119" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
+<marker id="684585120" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
+<marker id="684585121" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
+<marker id="684585122" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
+<marker id="684585123" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.78582" latitude="41.444393"/>
+<marker id="684585124" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
+<marker id="684585125" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
+<marker id="684585126" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
+<marker id="684585127" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
+<marker id="684585128" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
+<marker id="684585129" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.876915" latitude="41.409805"/>
+<marker id="684585130" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
+<marker id="684585131" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
+<marker id="684585132" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
+<marker id="684585133" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
+<marker id="684585134" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
+<marker id="684585135" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.395996" latitude="41.289883"/>
+<marker id="684585136" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
+<marker id="684585137" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
+<marker id="684585138" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
+<marker id="684585139" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
+<marker id="684585140" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
+<marker id="684585141" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.81719" latitude="41.33781"/>
+<marker id="684585142" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
+<marker id="684585143" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
+<marker id="684585144" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
+<marker id="684585145" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
+<marker id="684585146" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
+<marker id="684585147" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.250957" latitude="41.41084"/>
+<marker id="684585148" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
+<marker id="684585149" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
+<marker id="684585150" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
+<marker id="684585151" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
+<marker id="684585152" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
+<marker id="684585153" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.899082" latitude="41.542595"/>
+<marker id="684585154" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
+<marker id="684585155" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
+<marker id="684585156" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
+<marker id="684585157" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
+<marker id="684585158" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
+<marker id="684585159" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.783672" latitude="41.91666"/>
+<marker id="684585160" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
+<marker id="684585161" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
+<marker id="684585162" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
+<marker id="684585163" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
+<marker id="684585164" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
+<marker id="684585165" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.698174" latitude="41.66701"/>
+<marker id="684585166" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
+<marker id="684585167" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
+<marker id="684585168" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
+<marker id="684585169" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
+<marker id="684585170" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
+<marker id="684585171" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.4326" latitude="41.21908"/>
+<marker id="684585172" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
+<marker id="684585173" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
+<marker id="684585174" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
+<marker id="684585175" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
+<marker id="684585176" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
+<marker id="684585177" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.215225" latitude="41.45404"/>
+<marker id="684585178" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
+<marker id="684585179" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
+<marker id="684585180" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
+<marker id="684585181" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
+<marker id="684585182" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
+<marker id="684585183" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.60791" latitude="41.211407"/>
+<marker id="684585184" label="Heavy Thornholt Branches" category="50" did="1879370488" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
+<marker id="684585185" label="Thornholt Branches" category="50" did="1879370486" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
+<marker id="684585186" label="Heavy Ironfold Artifact Chest" category="50" did="1879370487" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
+<marker id="684585187" label="Rich Ironfold Skarn Deposit" category="50" did="1879370484" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
+<marker id="684585188" label="Ironfold Artifact Chest" category="50" did="1879370485" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
+<marker id="684585189" label="Ironfold Skarn Deposit" category="50" did="1879370483" parentZoneId="1879368367" longitude="-33.825478" latitude="41.77787"/>
 <marker id="684593152" label="Road Marker" category="73" did="1879369952" parentZoneId="1879368366" longitude="-32.928185" latitude="30.674784"/>
 <marker id="684593154" label="Goat" category="78" did="1879358942" parentZoneId="1879368366" longitude="-32.773907" latitude="30.33868"/>
 <marker id="684593155" label="Mithrin Wolf" category="71" did="1879369933" parentZoneId="1879368366" longitude="-32.786514" latitude="30.346914"/>

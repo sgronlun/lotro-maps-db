@@ -4,228 +4,126 @@
 <marker id="512147458" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="37.500565" latitude="-12.349522"/>
 <marker id="512147459" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="38.151073" latitude="-13.40002"/>
 <marker id="512147460" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="37.950058" latitude="-12.400537"/>
-<marker id="512147461" label="Steam Jets" category="75" did="1879227825" parentZoneId="1879227068" longitude="38.212246" latitude="-13.026201"/>
-<marker id="512147462" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.857674" latitude="-12.358721"/>
-<marker id="512147463" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.149708" latitude="-13.357344"/>
-<marker id="512147464" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.657227" latitude="-12.358721"/>
-<marker id="512147465" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.669415" latitude="-12.3879"/>
-<marker id="512147466" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.694023" latitude="-12.389131"/>
-<marker id="512147467" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.90617" latitude="-12.40836"/>
-<marker id="512147468" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.92965" latitude="-12.411797"/>
-<marker id="512147469" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.907284" latitude="-12.385254"/>
-<marker id="512147470" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.931892" latitude="-12.386484"/>
-<marker id="512147471" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.46502" latitude="-12.411006"/>
-<marker id="512147472" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.466133" latitude="-12.3879"/>
-<marker id="512147473" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.488495" latitude="-12.414443"/>
-<marker id="512147474" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.49074" latitude="-12.389131"/>
-<marker id="512147475" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.34328" latitude="-12.40082"/>
-<marker id="512147476" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.339687" latitude="-12.421728"/>
-<marker id="512147477" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.341972" latitude="-12.377031"/>
-<marker id="512147478" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.6683" latitude="-12.411006"/>
-<marker id="512147479" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.691795" latitude="-12.414443"/>
-<marker id="512147480" label="Small Chest" category="72" did="1879223633" parentZoneId="1879227068" longitude="38.01621" latitude="-12.579521"/>
-<marker id="512147481" label="White Hand Warg-rider" category="71" did="1879224044" parentZoneId="1879227068" longitude="37.78785" latitude="-12.408427"/>
-<marker id="512147482" label="White Hand Warg-rider" category="71" did="1879224044" parentZoneId="1879227068" longitude="37.788494" latitude="-12.384404"/>
-<marker id="512147483" label="White Hand Warg-rider" category="71" did="1879224044" parentZoneId="1879227068" longitude="37.93906" latitude="-12.385322"/>
-<marker id="512147484" label="White Hand Warg-rider" category="71" did="1879224044" parentZoneId="1879227068" longitude="37.940605" latitude="-12.412519"/>
-<marker id="512147485" label="Small Chest" category="72" did="1879223635" parentZoneId="1879227068" longitude="38.249393" latitude="-12.970674"/>
-<marker id="512147486" label="Small Fancy Chest" category="72" did="1879223634" parentZoneId="1879227068" longitude="37.98119" latitude="-12.579111"/>
-<marker id="512147487" label="White Hand Smelter" category="71" did="1879224314" parentZoneId="1879227068" longitude="38.11457" latitude="-12.631113"/>
-<marker id="512147488" label="White Hand Smelter" category="71" did="1879224314" parentZoneId="1879227068" longitude="38.132538" latitude="-12.500215"/>
-<marker id="512147489" label="White Hand Smelter" category="71" did="1879224314" parentZoneId="1879227068" longitude="37.9683" latitude="-12.563564"/>
-<marker id="512147490" label="Small Fancy Chest" category="72" did="1879223637" parentZoneId="1879227068" longitude="38.222908" latitude="-12.969443"/>
-<marker id="512147491" label="White Hand Archer" category="71" did="1879224041" parentZoneId="1879227068" longitude="37.68287" latitude="-12.400205"/>
-<marker id="512147492" label="White Hand Archer" category="71" did="1879224041" parentZoneId="1879227068" longitude="37.920742" latitude="-12.397558"/>
-<marker id="512147493" label="White Hand Archer" category="71" did="1879224041" parentZoneId="1879227068" longitude="37.479588" latitude="-12.400205"/>
-<marker id="512147494" label="Small Chest" category="72" did="1879223636" parentZoneId="1879227068" longitude="38.44832" latitude="-13.393095"/>
-<marker id="512147495" label="Dhâr" category="71" did="1879224040" parentZoneId="1879227068" longitude="38.04955" latitude="-12.609531"/>
-<marker id="512147496" label="Fancy Gold Chest" category="72" did="1879223639" parentZoneId="1879227068" longitude="38.449043" latitude="-13.413867"/>
-<marker id="512147497" label="White Hand Mauler" category="71" did="1879224043" parentZoneId="1879227068" longitude="37.499004" latitude="-12.329541"/>
-<marker id="512147498" label="White Hand Mauler" category="71" did="1879224043" parentZoneId="1879227068" longitude="37.697598" latitude="-12.3208885"/>
-<marker id="512147499" label="White Hand Mauler" category="71" did="1879224043" parentZoneId="1879227068" longitude="37.9033" latitude="-12.324804"/>
-<marker id="512147500" label="White Hand Snitch" category="71" did="1879224042" parentZoneId="1879227068" longitude="37.788418" latitude="-12.3967085"/>
-<marker id="512147501" label="White Hand Snitch" category="71" did="1879224042" parentZoneId="1879227068" longitude="37.94039" latitude="-12.400292"/>
-<marker id="512147502" label="White Hand Snitch" category="71" did="1879224042" parentZoneId="1879227068" longitude="38.256287" latitude="-12.864316"/>
-<marker id="512147503" label="Control Point" category="73" did="1879152429" parentZoneId="1879227068" longitude="37.99533" latitude="-12.585537"/>
-<marker id="512147504" label="Control Point" category="73" did="1879152429" parentZoneId="1879227068" longitude="38.237537" latitude="-12.974589"/>
-<marker id="512147505" label="Control Point" category="73" did="1879152429" parentZoneId="1879227068" longitude="38.448357" latitude="-13.376738"/>
-<marker id="512147506" label="Small Fancy Chest" category="72" did="1879223616" parentZoneId="1879227068" longitude="38.449158" latitude="-13.377412"/>
-<marker id="512147507" label="Ghashanuz " category="71" did="1879224888" parentZoneId="1879227068" longitude="38.478065" latitude="-13.409756"/>
-<marker id="512147508" label="Overwhelming Heat - Tier 1" category="75" did="1879227315" parentZoneId="1879227068" longitude="38.299316" latitude="-12.900849"/>
-<marker id="512147509" label="White Hand Smith" category="71" did="1879224889" parentZoneId="1879227068" longitude="37.886562" latitude="-13.540742"/>
-<marker id="512147510" label="White Hand Smith" category="71" did="1879224889" parentZoneId="1879227068" longitude="38.138145" latitude="-13.399472"/>
-<marker id="512147511" label="White Hand Smith" category="71" did="1879224889" parentZoneId="1879227068" longitude="37.56963" latitude="-13.534502"/>
-<marker id="512147512" label="White Hand Smith" category="71" did="1879224889" parentZoneId="1879227068" longitude="37.71969" latitude="-13.356973"/>
-<marker id="512147513" label="Overwhelming Heat - Tier 5" category="75" did="1879227314" parentZoneId="1879227068" longitude="38.299316" latitude="-12.900849"/>
-<marker id="512147514" label="Penrith " category="71" did="1879224890" parentZoneId="1879227068" longitude="38.436974" latitude="-13.442012"/>
-<marker id="512147515" label="Overwhelming Heat - Tier 4" category="75" did="1879227313" parentZoneId="1879227068" longitude="38.299316" latitude="-12.900849"/>
-<marker id="512147516" label="Overwhelming Heat - Tier 3" category="75" did="1879227317" parentZoneId="1879227068" longitude="38.299316" latitude="-12.900849"/>
-<marker id="512147517" label="Overwhelming Heat - Tier 2" category="75" did="1879227316" parentZoneId="1879227068" longitude="38.299316" latitude="-12.900849"/>
-<marker id="512147518" label="Gurbák" category="71" did="1879224327" parentZoneId="1879227068" longitude="38.175076" latitude="-12.996338"/>
-<marker id="512147519" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.50455" latitude="-13.390947"/>
-<marker id="512147520" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.895134" latitude="-13.530956"/>
-<marker id="512147521" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.49455" latitude="-13.369307"/>
-<marker id="512147522" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.08875" latitude="-13.192411"/>
-<marker id="512147523" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.000546" latitude="-12.820947"/>
-<marker id="512147524" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.89502" latitude="-13.51955"/>
-<marker id="512147525" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.093887" latitude="-13.192568"/>
-<marker id="512147526" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.988438" latitude="-12.804677"/>
-<marker id="512147527" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.007286" latitude="-12.804648"/>
-<marker id="512147528" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.119102" latitude="-13.396523"/>
-<marker id="512147529" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.119705" latitude="-13.4083"/>
-<marker id="512147530" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.92031" latitude="-13.209355"/>
-<marker id="512147531" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.890137" latitude="-12.773457"/>
-<marker id="512147532" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.923084" latitude="-13.193339"/>
-<marker id="512147533" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.909004" latitude="-12.773427"/>
-<marker id="512147534" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.67621" latitude="-13.301875"/>
-<marker id="512147535" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.678825" latitude="-13.290429"/>
-<marker id="512147536" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.890137" latitude="-12.92542"/>
-<marker id="512147537" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.6783" latitude="-13.280537"/>
-<marker id="512147538" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.909004" latitude="-12.92539"/>
-<marker id="512147539" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.561993" latitude="-13.530644"/>
-<marker id="512147540" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.569412" latitude="-13.518711"/>
-<marker id="512147541" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.612556" latitude="-13.283105"/>
-<marker id="512147542" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.902264" latitude="-12.941699"/>
-<marker id="512147543" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.614063" latitude="-13.299589"/>
-<marker id="512147544" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.902264" latitude="-12.79623"/>
-<marker id="512147545" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.6133" latitude="-13.313408"/>
-<marker id="512147546" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.72588" latitude="-13.3758"/>
-<marker id="512147547" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.488026" latitude="-13.421738"/>
-<marker id="512147548" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.481483" latitude="-13.394902"/>
-<marker id="512147549" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="37.491173" latitude="-13.391542"/>
-<marker id="512147550" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="37.90246" latitude="-13.538828"/>
-<marker id="512147551" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="38.13707" latitude="-13.414912"/>
-<marker id="512147552" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="38.137947" latitude="-13.387822"/>
-<marker id="512147553" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="38.113575" latitude="-13.193154"/>
-<marker id="512147554" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="37.90453" latitude="-13.207285"/>
-<marker id="512147555" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="37.592537" latitude="-13.303037"/>
-<marker id="512147556" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.578438" latitude="-13.530605"/>
-<marker id="512147557" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.72664" latitude="-13.38582"/>
-<marker id="512147558" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.999607" latitude="-12.8113575"/>
-<marker id="512147559" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="38.10285" latitude="-13.193047"/>
-<marker id="512147560" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.73326" latitude="-13.360752"/>
-<marker id="512147561" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.90621" latitude="-13.193721"/>
-<marker id="512147562" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.90133" latitude="-12.783691"/>
-<marker id="512147563" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.90133" latitude="-12.932099"/>
-<marker id="512147564" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.59502" latitude="-13.291611"/>
-<marker id="512147565" label="White Hand Ghâsh-olog" category="71" did="1879224328" parentZoneId="1879227068" longitude="37.996914" latitude="-13.009628"/>
-<marker id="512147566" label="White Hand Ghâsh-olog" category="71" did="1879224328" parentZoneId="1879227068" longitude="37.786716" latitude="-12.802002"/>
-<marker id="512147567" label="White Hand Ghâsh-olog" category="71" did="1879224328" parentZoneId="1879227068" longitude="37.81113" latitude="-12.885019"/>
-<marker id="512147568" label="Imbuing the Forge" category="75" did="1879227826" parentZoneId="1879227068" longitude="38.501427" latitude="-13.396445"/>
-<marker id="512147569" label="Steam Jets" category="75" did="1879227825" parentZoneId="1879227068" longitude="38.214005" latitude="-13.040859"/>
-<marker id="512147570" label="Steam Jets" category="75" did="1879227825" parentZoneId="1879227068" longitude="38.157635" latitude="-12.829385"/>
-<marker id="512147571" label="Steam Jets" category="75" did="1879227825" parentZoneId="1879227068" longitude="38.37371" latitude="-12.759287"/>
-<marker id="512147572" label="Steam Jets" category="75" did="1879227825" parentZoneId="1879227068" longitude="38.157635" latitude="-12.970605"/>
-<marker id="512147573" label="Steam Jets" category="75" did="1879227825" parentZoneId="1879227068" longitude="38.439724" latitude="-12.820478"/>
-<marker id="512147574" label="Steam Jets" category="75" did="1879227825" parentZoneId="1879227068" longitude="38.224724" latitude="-12.758418"/>
-<marker id="512147575" label="Working the Forge" category="75" did="1879227824" parentZoneId="1879227068" longitude="38.499844" latitude="-13.390204"/>
-<marker id="512147576" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879227068" longitude="38.448067" latitude="-13.421093"/>
-<marker id="512147577" label="Private Encounter Quest Bestower" category="73" did="1879205420" parentZoneId="1879227068" longitude="38.345253" latitude="-13.401133"/>
-<marker id="512147578" label="Master's Blessing" category="75" did="1879227822" parentZoneId="1879227068" longitude="38.594177" latitude="-13.487568"/>
-<marker id="512147579" label="Master's Blessing" category="75" did="1879227822" parentZoneId="1879227068" longitude="38.40217" latitude="-13.491328"/>
-<marker id="512147580" label="Master's Blessing" category="75" did="1879227822" parentZoneId="1879227068" longitude="38.593964" latitude="-13.403154"/>
-<marker id="512147581" label="Master's Blessing" category="75" did="1879227822" parentZoneId="1879227068" longitude="38.408962" latitude="-13.30539"/>
-<marker id="512147582" label="Master's Blessing" category="75" did="1879227822" parentZoneId="1879227068" longitude="38.40217" latitude="-13.404258"/>
-<marker id="512147583" label="Master's Blessing" category="75" did="1879227822" parentZoneId="1879227068" longitude="38.49756" latitude="-13.30539"/>
-<marker id="512147584" label="Master's Blessing" category="75" did="1879227822" parentZoneId="1879227068" longitude="38.484394" latitude="-13.499658"/>
-<marker id="512147585" label="Master's Blessing" category="75" did="1879227822" parentZoneId="1879227068" longitude="38.593964" latitude="-13.30539"/>
-<marker id="512147586" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="37.99994" latitude="-12.64122"/>
-<marker id="512147587" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="37.958477" latitude="-12.600625"/>
-<marker id="512147588" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="37.99994" latitude="-12.519131"/>
-<marker id="512147589" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.099373" latitude="-12.459365"/>
-<marker id="512147590" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.020115" latitude="-12.500156"/>
-<marker id="512147591" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.020115" latitude="-12.600625"/>
-<marker id="512147592" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.143066" latitude="-12.600625"/>
-<marker id="512147593" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="37.99994" latitude="-12.45915"/>
-<marker id="512147594" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="37.958477" latitude="-12.500156"/>
-<marker id="512147595" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.099354" latitude="-12.640547"/>
-<marker id="512147596" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.099354" latitude="-12.519228"/>
-<marker id="512147597" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.099354" latitude="-12.5792675"/>
-<marker id="512147598" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.083046" latitude="-12.500156"/>
-<marker id="512147599" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.083046" latitude="-12.600625"/>
-<marker id="512147600" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="38.143066" latitude="-12.500156"/>
-<marker id="512147601" label="Steam Jets" category="75" did="1879227823" parentZoneId="1879227068" longitude="37.99994" latitude="-12.579658"/>
-<marker id="512147602" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="38.111717" latitude="-12.490585"/>
-<marker id="512147603" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="37.98834" latitude="-12.548467"/>
-<marker id="512147604" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="38.050743" latitude="-12.548467"/>
-<marker id="512147605" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="38.111015" latitude="-12.549111"/>
-<marker id="512147606" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="37.98834" latitude="-12.609931"/>
-<marker id="512147607" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="38.048866" latitude="-12.609111"/>
-<marker id="512147608" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="38.11252" latitude="-12.609316"/>
-<marker id="512147609" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="37.98834" latitude="-12.490585"/>
-<marker id="512147610" label="Rising Molten Slag" category="75" did="1879227820" parentZoneId="1879227068" longitude="38.04951" latitude="-12.490585"/>
-<marker id="512147611" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="37.98834" latitude="-12.490585"/>
-<marker id="512147612" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="38.048534" latitude="-12.607558"/>
-<marker id="512147613" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="38.048534" latitude="-12.548467"/>
-<marker id="512147614" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="38.111717" latitude="-12.607558"/>
-<marker id="512147615" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="37.98834" latitude="-12.607558"/>
-<marker id="512147616" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="38.111717" latitude="-12.490585"/>
-<marker id="512147617" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="37.98834" latitude="-12.548467"/>
-<marker id="512147618" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="38.111717" latitude="-12.548467"/>
-<marker id="512147619" label="Falling Scrap Metal" category="75" did="1879227821" parentZoneId="1879227068" longitude="38.048534" latitude="-12.490585"/>
-<marker id="512147620" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.363983" latitude="-12.948701"/>
-<marker id="512147621" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.326836" latitude="-12.994521"/>
-<marker id="512147622" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.352146" latitude="-12.958935"/>
-<marker id="512147623" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.33779" latitude="-12.978496"/>
-<marker id="512147624" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.400116" latitude="-12.872792"/>
-<marker id="512147625" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.268925" latitude="-13.005938"/>
-<marker id="512147626" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.380585" latitude="-12.930605"/>
-<marker id="512147627" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.152637" latitude="-12.88831"/>
-<marker id="512147628" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.44412" latitude="-12.88831"/>
-<marker id="512147629" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.309998" latitude="-12.756016"/>
-<marker id="512147630" label="Superheated Metal" category="75" did="1879225076" parentZoneId="1879227068" longitude="38.261463" latitude="-13.045439"/>
-<marker id="512147631" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.95111" latitude="-12.5445795"/>
-<marker id="512147632" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.14951" latitude="-12.604775"/>
-<marker id="512147633" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.976894" latitude="-12.430918"/>
-<marker id="512147634" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.148808" latitude="-12.493545"/>
-<marker id="512147635" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.57793" latitude="-13.546055"/>
-<marker id="512147636" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.14951" latitude="-12.609394"/>
-<marker id="512147637" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.72568" latitude="-13.350879"/>
-<marker id="512147638" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.148827" latitude="-12.484981"/>
-<marker id="512147639" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.14951" latitude="-12.600039"/>
-<marker id="512147640" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.148808" latitude="-12.489111"/>
-<marker id="512147641" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.95111" latitude="-12.552295"/>
-<marker id="512147642" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.888966" latitude="-13.545781"/>
-<marker id="512147643" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.95111" latitude="-12.548398"/>
-<marker id="512147644" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="38.347595" latitude="-13.40002"/>
-<marker id="512147645" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="37.99705" latitude="-12.651084"/>
-<marker id="512147646" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="38.14879" latitude="-12.800547"/>
-<marker id="512147647" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="38.147655" latitude="-12.999795"/>
-<marker id="512147648" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="37.999706" latitude="-12.448975"/>
-<marker id="512147649" label="The Ring-forge of Orthanc" category="71" did="1879225060" parentZoneId="1879227068" longitude="38.50127" latitude="-13.401729"/>
-<marker id="512147650" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.77121" latitude="-13.430409"/>
-<marker id="512147651" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.985134" latitude="-13.519453"/>
-<marker id="512147652" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.77121" latitude="-13.381553"/>
-<marker id="512147653" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.931385" latitude="-13.519453"/>
-<marker id="512147654" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="38.033474" latitude="-13.519453"/>
-<marker id="512147655" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.931385" latitude="-13.470986"/>
-<marker id="512147656" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="38.033474" latitude="-13.470986"/>
-<marker id="512147657" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="38.058067" latitude="-13.429511"/>
-<marker id="512147658" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="38.058067" latitude="-13.378652"/>
-<marker id="512147659" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="38.082558" latitude="-13.470791"/>
-<marker id="512147660" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="38.082558" latitude="-13.519258"/>
-<marker id="512147661" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.61334" latitude="-13.4725"/>
-<marker id="512147662" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.61334" latitude="-13.524336"/>
-<marker id="512147663" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.715427" latitude="-13.4725"/>
-<marker id="512147664" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.667088" latitude="-13.525576"/>
-<marker id="512147665" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.870487" latitude="-13.381553"/>
-<marker id="512147666" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.715427" latitude="-13.524336"/>
-<marker id="512147667" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.667088" latitude="-13.4725"/>
-<marker id="512147668" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.870487" latitude="-13.430409"/>
-<marker id="512147669" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.69113" latitude="-13.424306"/>
-<marker id="512147670" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.69113" latitude="-13.37708"/>
-<marker id="512147671" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.63883" latitude="-13.37708"/>
-<marker id="512147672" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.81955" latitude="-13.3761425"/>
-<marker id="512147673" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.63883" latitude="-13.424306"/>
-<marker id="512147674" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.81955" latitude="-13.430409"/>
-<marker id="512147675" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="38.00482" latitude="-13.429511"/>
-<marker id="512147676" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.847813" latitude="-13.470742"/>
-<marker id="512147677" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="38.00918" latitude="-13.383037"/>
-<marker id="512147678" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.84496" latitude="-13.519199"/>
-<marker id="512147679" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.956894" latitude="-13.37457"/>
-<marker id="512147680" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.795506" latitude="-13.519199"/>
-<marker id="512147681" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.956894" latitude="-13.429511"/>
-<marker id="512147682" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.795506" latitude="-13.470742"/>
-<marker id="512147683" label="Piston" category="75" did="1879225057" parentZoneId="1879227068" longitude="37.985134" latitude="-13.470986"/>
-<marker id="512147684" label="Hotspot" category="75" did="1879077717" parentZoneId="1879227068" longitude="38.50041" latitude="-13.400166"/>
+<marker id="512147461" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.857674" latitude="-12.358721"/>
+<marker id="512147462" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.149708" latitude="-13.357344"/>
+<marker id="512147463" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.657227" latitude="-12.358721"/>
+<marker id="512147464" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.669415" latitude="-12.3879"/>
+<marker id="512147465" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.694023" latitude="-12.389131"/>
+<marker id="512147466" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.90617" latitude="-12.40836"/>
+<marker id="512147467" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.92965" latitude="-12.411797"/>
+<marker id="512147468" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.907284" latitude="-12.385254"/>
+<marker id="512147469" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.931892" latitude="-12.386484"/>
+<marker id="512147470" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.46502" latitude="-12.411006"/>
+<marker id="512147471" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.466133" latitude="-12.3879"/>
+<marker id="512147472" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.488495" latitude="-12.414443"/>
+<marker id="512147473" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.49074" latitude="-12.389131"/>
+<marker id="512147474" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.34328" latitude="-12.40082"/>
+<marker id="512147475" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.339687" latitude="-12.421728"/>
+<marker id="512147476" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.341972" latitude="-12.377031"/>
+<marker id="512147477" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.6683" latitude="-12.411006"/>
+<marker id="512147478" label="White Hand Berserker" category="71" did="1879224039" parentZoneId="1879227068" longitude="37.691795" latitude="-12.414443"/>
+<marker id="512147479" label="Small Chest" category="72" did="1879223633" parentZoneId="1879227068" longitude="38.01621" latitude="-12.579521"/>
+<marker id="512147480" label="White Hand Warg-rider" category="71" did="1879224044" parentZoneId="1879227068" longitude="37.78785" latitude="-12.408427"/>
+<marker id="512147481" label="White Hand Warg-rider" category="71" did="1879224044" parentZoneId="1879227068" longitude="37.788494" latitude="-12.384404"/>
+<marker id="512147482" label="White Hand Warg-rider" category="71" did="1879224044" parentZoneId="1879227068" longitude="37.93906" latitude="-12.385322"/>
+<marker id="512147483" label="White Hand Warg-rider" category="71" did="1879224044" parentZoneId="1879227068" longitude="37.940605" latitude="-12.412519"/>
+<marker id="512147484" label="Small Chest" category="72" did="1879223635" parentZoneId="1879227068" longitude="38.249393" latitude="-12.970674"/>
+<marker id="512147485" label="Small Fancy Chest" category="72" did="1879223634" parentZoneId="1879227068" longitude="37.98119" latitude="-12.579111"/>
+<marker id="512147486" label="White Hand Smelter" category="71" did="1879224314" parentZoneId="1879227068" longitude="38.11457" latitude="-12.631113"/>
+<marker id="512147487" label="White Hand Smelter" category="71" did="1879224314" parentZoneId="1879227068" longitude="38.132538" latitude="-12.500215"/>
+<marker id="512147488" label="White Hand Smelter" category="71" did="1879224314" parentZoneId="1879227068" longitude="37.9683" latitude="-12.563564"/>
+<marker id="512147489" label="Small Fancy Chest" category="72" did="1879223637" parentZoneId="1879227068" longitude="38.222908" latitude="-12.969443"/>
+<marker id="512147490" label="White Hand Archer" category="71" did="1879224041" parentZoneId="1879227068" longitude="37.68287" latitude="-12.400205"/>
+<marker id="512147491" label="White Hand Archer" category="71" did="1879224041" parentZoneId="1879227068" longitude="37.920742" latitude="-12.397558"/>
+<marker id="512147492" label="White Hand Archer" category="71" did="1879224041" parentZoneId="1879227068" longitude="37.479588" latitude="-12.400205"/>
+<marker id="512147493" label="Small Chest" category="72" did="1879223636" parentZoneId="1879227068" longitude="38.44832" latitude="-13.393095"/>
+<marker id="512147494" label="Dhâr" category="71" did="1879224040" parentZoneId="1879227068" longitude="38.04955" latitude="-12.609531"/>
+<marker id="512147495" label="Fancy Gold Chest" category="72" did="1879223639" parentZoneId="1879227068" longitude="38.449043" latitude="-13.413867"/>
+<marker id="512147496" label="White Hand Mauler" category="71" did="1879224043" parentZoneId="1879227068" longitude="37.499004" latitude="-12.329541"/>
+<marker id="512147497" label="White Hand Mauler" category="71" did="1879224043" parentZoneId="1879227068" longitude="37.697598" latitude="-12.3208885"/>
+<marker id="512147498" label="White Hand Mauler" category="71" did="1879224043" parentZoneId="1879227068" longitude="37.9033" latitude="-12.324804"/>
+<marker id="512147499" label="White Hand Snitch" category="71" did="1879224042" parentZoneId="1879227068" longitude="37.788418" latitude="-12.3967085"/>
+<marker id="512147500" label="White Hand Snitch" category="71" did="1879224042" parentZoneId="1879227068" longitude="37.94039" latitude="-12.400292"/>
+<marker id="512147501" label="White Hand Snitch" category="71" did="1879224042" parentZoneId="1879227068" longitude="38.256287" latitude="-12.864316"/>
+<marker id="512147502" label="Control Point" category="73" did="1879152429" parentZoneId="1879227068" longitude="37.99533" latitude="-12.585537"/>
+<marker id="512147503" label="Control Point" category="73" did="1879152429" parentZoneId="1879227068" longitude="38.237537" latitude="-12.974589"/>
+<marker id="512147504" label="Control Point" category="73" did="1879152429" parentZoneId="1879227068" longitude="38.448357" latitude="-13.376738"/>
+<marker id="512147505" label="Small Fancy Chest" category="72" did="1879223616" parentZoneId="1879227068" longitude="38.449158" latitude="-13.377412"/>
+<marker id="512147506" label="Ghashanuz " category="71" did="1879224888" parentZoneId="1879227068" longitude="38.478065" latitude="-13.409756"/>
+<marker id="512147507" label="White Hand Smith" category="71" did="1879224889" parentZoneId="1879227068" longitude="37.886562" latitude="-13.540742"/>
+<marker id="512147508" label="White Hand Smith" category="71" did="1879224889" parentZoneId="1879227068" longitude="38.138145" latitude="-13.399472"/>
+<marker id="512147509" label="White Hand Smith" category="71" did="1879224889" parentZoneId="1879227068" longitude="37.56963" latitude="-13.534502"/>
+<marker id="512147510" label="White Hand Smith" category="71" did="1879224889" parentZoneId="1879227068" longitude="37.71969" latitude="-13.356973"/>
+<marker id="512147512" label="Gurbák" category="71" did="1879224327" parentZoneId="1879227068" longitude="38.175076" latitude="-12.996338"/>
+<marker id="512147513" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.50455" latitude="-13.390947"/>
+<marker id="512147514" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.895134" latitude="-13.530956"/>
+<marker id="512147515" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.49455" latitude="-13.369307"/>
+<marker id="512147516" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.08875" latitude="-13.192411"/>
+<marker id="512147517" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.000546" latitude="-12.820947"/>
+<marker id="512147518" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.89502" latitude="-13.51955"/>
+<marker id="512147519" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.093887" latitude="-13.192568"/>
+<marker id="512147520" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.988438" latitude="-12.804677"/>
+<marker id="512147521" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.007286" latitude="-12.804648"/>
+<marker id="512147522" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.119102" latitude="-13.396523"/>
+<marker id="512147523" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="38.119705" latitude="-13.4083"/>
+<marker id="512147524" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.92031" latitude="-13.209355"/>
+<marker id="512147525" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.890137" latitude="-12.773457"/>
+<marker id="512147526" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.923084" latitude="-13.193339"/>
+<marker id="512147527" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.909004" latitude="-12.773427"/>
+<marker id="512147528" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.67621" latitude="-13.301875"/>
+<marker id="512147529" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.678825" latitude="-13.290429"/>
+<marker id="512147530" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.890137" latitude="-12.92542"/>
+<marker id="512147531" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.6783" latitude="-13.280537"/>
+<marker id="512147532" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.909004" latitude="-12.92539"/>
+<marker id="512147533" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.561993" latitude="-13.530644"/>
+<marker id="512147534" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.569412" latitude="-13.518711"/>
+<marker id="512147535" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.612556" latitude="-13.283105"/>
+<marker id="512147536" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.902264" latitude="-12.941699"/>
+<marker id="512147537" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.614063" latitude="-13.299589"/>
+<marker id="512147538" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.902264" latitude="-12.79623"/>
+<marker id="512147539" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.6133" latitude="-13.313408"/>
+<marker id="512147540" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.72588" latitude="-13.3758"/>
+<marker id="512147541" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.488026" latitude="-13.421738"/>
+<marker id="512147542" label="White Hand Ghâsh-hai" category="71" did="1879224326" parentZoneId="1879227068" longitude="37.481483" latitude="-13.394902"/>
+<marker id="512147543" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="37.491173" latitude="-13.391542"/>
+<marker id="512147544" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="37.90246" latitude="-13.538828"/>
+<marker id="512147545" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="38.13707" latitude="-13.414912"/>
+<marker id="512147546" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="38.137947" latitude="-13.387822"/>
+<marker id="512147547" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="38.113575" latitude="-13.193154"/>
+<marker id="512147548" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="37.90453" latitude="-13.207285"/>
+<marker id="512147549" label="White Hand Fire-caller" category="71" did="1879224325" parentZoneId="1879227068" longitude="37.592537" latitude="-13.303037"/>
+<marker id="512147550" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.578438" latitude="-13.530605"/>
+<marker id="512147551" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.72664" latitude="-13.38582"/>
+<marker id="512147552" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.999607" latitude="-12.8113575"/>
+<marker id="512147553" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="38.10285" latitude="-13.193047"/>
+<marker id="512147554" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.73326" latitude="-13.360752"/>
+<marker id="512147555" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.90621" latitude="-13.193721"/>
+<marker id="512147556" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.90133" latitude="-12.783691"/>
+<marker id="512147557" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.90133" latitude="-12.932099"/>
+<marker id="512147558" label="White Hand Flamearrow" category="71" did="1879224324" parentZoneId="1879227068" longitude="37.59502" latitude="-13.291611"/>
+<marker id="512147559" label="White Hand Ghâsh-olog" category="71" did="1879224328" parentZoneId="1879227068" longitude="37.996914" latitude="-13.009628"/>
+<marker id="512147560" label="White Hand Ghâsh-olog" category="71" did="1879224328" parentZoneId="1879227068" longitude="37.786716" latitude="-12.802002"/>
+<marker id="512147561" label="White Hand Ghâsh-olog" category="71" did="1879224328" parentZoneId="1879227068" longitude="37.81113" latitude="-12.885019"/>
+<marker id="512147562" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879227068" longitude="38.448067" latitude="-13.421093"/>
+<marker id="512147563" label="Private Encounter Quest Bestower" category="73" did="1879205420" parentZoneId="1879227068" longitude="38.345253" latitude="-13.401133"/>
+<marker id="512147564" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.95111" latitude="-12.5445795"/>
+<marker id="512147565" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.14951" latitude="-12.604775"/>
+<marker id="512147566" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.976894" latitude="-12.430918"/>
+<marker id="512147567" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.148808" latitude="-12.493545"/>
+<marker id="512147568" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.57793" latitude="-13.546055"/>
+<marker id="512147569" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.14951" latitude="-12.609394"/>
+<marker id="512147570" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.72568" latitude="-13.350879"/>
+<marker id="512147571" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.148827" latitude="-12.484981"/>
+<marker id="512147572" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.14951" latitude="-12.600039"/>
+<marker id="512147573" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="38.148808" latitude="-12.489111"/>
+<marker id="512147574" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.95111" latitude="-12.552295"/>
+<marker id="512147575" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.888966" latitude="-13.545781"/>
+<marker id="512147576" label="Lever" category="73" did="1879227669" parentZoneId="1879227068" longitude="37.95111" latitude="-12.548398"/>
+<marker id="512147577" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="38.347595" latitude="-13.40002"/>
+<marker id="512147578" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="37.99705" latitude="-12.651084"/>
+<marker id="512147579" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="38.14879" latitude="-12.800547"/>
+<marker id="512147580" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="38.147655" latitude="-12.999795"/>
+<marker id="512147581" label="Door" category="100" did="1879157894" parentZoneId="1879227068" longitude="37.999706" latitude="-12.448975"/>
+<marker id="512147582" label="The Ring-forge of Orthanc" category="71" did="1879225060" parentZoneId="1879227068" longitude="38.50127" latitude="-13.401729"/>
+<marker id="512147583" label="Penrith " category="71" did="1879224890" parentZoneId="1879227068" longitude="38.436974" latitude="-13.442012"/>
 </markers>

@@ -39,12 +39,10 @@
 <marker id="1071312939" label="Araslant" category="70" did="1879327562" parentZoneId="1879328476" longitude="53.229237" latitude="54.382282"/>
 <marker id="1071312940" label="Galathir" category="70" did="1879327193" parentZoneId="1879328476" longitude="53.397068" latitude="54.444218"/>
 <marker id="1071312941" label="Mortar and Pestle" category="73" did="1879329971" parentZoneId="1879328476" longitude="53.368103" latitude="54.417576"/>
-<marker id="1071386624" label="Denethor" category="70" did="1879328384" parentZoneId="1879328870" longitude="54.695915" latitude="42.946796"/>
-<marker id="1071386626" label="Remove blackout effect" category="75" did="1879221741" parentZoneId="1879328870" longitude="54.68715" latitude="42.965626"/>
-<marker id="1071386627" label="Denethor" category="70" did="1879328384" parentZoneId="1879328870" longitude="54.698105" latitude="42.946796"/>
+<marker id="1071386626" label="Denethor" category="70" did="1879328384" parentZoneId="1879328870" longitude="54.698105" latitude="42.946796"/>
+<marker id="1071386627" label="Denethor" category="70" did="1879328384" parentZoneId="1879328870" longitude="54.695915" latitude="42.946796"/>
 <marker id="1071394817" label="Denethor" category="70" did="1879328383" parentZoneId="1879328872" longitude="54.679626" latitude="44.565525"/>
-<marker id="1071394818" label="Blackout and immobilize player" category="75" did="1879221743" parentZoneId="1879328872" longitude="54.702106" latitude="44.561794"/>
-<marker id="1071394819" label="Anor-stone" category="73" did="1879328398" parentZoneId="1879328872" longitude="54.697166" latitude="44.55453"/>
+<marker id="1071394818" label="Anor-stone" category="73" did="1879328398" parentZoneId="1879328872" longitude="54.697166" latitude="44.55453"/>
 <marker id="1071403010" label="Door" category="100" did="1879328998" parentZoneId="1879328871" longitude="55.269394" latitude="46.00414"/>
 <marker id="1071403013" label="Peregrin Took" category="70" did="1879328405" parentZoneId="1879328871" longitude="54.92322" latitude="46.013535"/>
 <marker id="1071403014" label="Denethor" category="70" did="1879328391" parentZoneId="1879328871" longitude="54.545193" latitude="46.024883"/>
@@ -707,7 +705,6 @@
 <marker id="1071435813" label="Carros" category="71" did="1879327658" parentZoneId="1879327935" longitude="54.808376" latitude="52.447403"/>
 <marker id="1071435814" label="Círdir" category="71" did="1879327657" parentZoneId="1879327935" longitude="54.794315" latitude="52.3475"/>
 <marker id="1071435815" label="Adanir" category="71" did="1879327656" parentZoneId="1879327935" longitude="54.786465" latitude="52.44242"/>
-<marker id="1071443968" label="Theodore Gorse" category="70" did="1879401393" parentZoneId="1879323274" longitude="54.765232" latitude="53.02531"/>
 <marker id="1071443969" label="Treasure Bugan" category="71" did="1879401390" parentZoneId="1879323274" longitude="54.54521" latitude="55.029743"/>
 <marker id="1071443970" label="Treasure Bugan" category="71" did="1879401391" parentZoneId="1879323274" longitude="54.54918" latitude="55.027576"/>
 <marker id="1071443971" label="Abomination Warrior" category="71" did="1879322046" parentZoneId="1879323274" longitude="55.15666" latitude="54.0384"/>
@@ -874,180 +871,122 @@
 <marker id="1071444132" label="Fancy Gold Chest" category="72" did="1879323916" parentZoneId="1879323274" longitude="53.863533" latitude="54.65955"/>
 <marker id="1071444133" label="Control Point" category="73" did="1879152429" parentZoneId="1879323274" longitude="55.242126" latitude="54.79064"/>
 <marker id="1071444134" label="Control Point" category="73" did="1879152429" parentZoneId="1879323274" longitude="53.905388" latitude="54.633984"/>
-<marker id="1071444135" label="Ceiling Collapse" category="75" did="1879323644" parentZoneId="1879323274" longitude="54.05117" latitude="54.67088"/>
-<marker id="1071444136" label="Ceiling Collapse" category="75" did="1879323644" parentZoneId="1879323274" longitude="53.875683" latitude="54.550117"/>
-<marker id="1071444137" label="Ceiling Collapse" category="75" did="1879323644" parentZoneId="1879323274" longitude="53.95988" latitude="54.49992"/>
-<marker id="1071444138" label="Ceiling Collapse" category="75" did="1879323644" parentZoneId="1879323274" longitude="53.913906" latitude="54.637753"/>
-<marker id="1071444139" label="Ceiling Collapse" category="75" did="1879323644" parentZoneId="1879323274" longitude="53.96496" latitude="54.71713"/>
-<marker id="1071444140" label="Explosion" category="75" did="1879323835" parentZoneId="1879323274" longitude="54.039783" latitude="54.664707"/>
-<marker id="1071444141" label="Explosion" category="75" did="1879323835" parentZoneId="1879323274" longitude="53.93615" latitude="54.50738"/>
-<marker id="1071444142" label="Explosion" category="75" did="1879323835" parentZoneId="1879323274" longitude="53.925564" latitude="54.632225"/>
-<marker id="1071444143" label="Stun" category="75" did="1879323834" parentZoneId="1879323274" longitude="53.949997" latitude="54.603027"/>
-<marker id="1071444144" label="Debris" category="75" did="1879323833" parentZoneId="1879323274" longitude="53.875645" latitude="54.550095"/>
-<marker id="1071444145" label="Debris" category="75" did="1879323833" parentZoneId="1879323274" longitude="53.95986" latitude="54.499844"/>
-<marker id="1071444146" label="Debris" category="75" did="1879323833" parentZoneId="1879323274" longitude="53.913864" latitude="54.637695"/>
-<marker id="1071444147" label="Debris" category="75" did="1879323833" parentZoneId="1879323274" longitude="53.964764" latitude="54.719063"/>
-<marker id="1071444148" label="Debris" category="75" did="1879323833" parentZoneId="1879323274" longitude="54.051132" latitude="54.670918"/>
-<marker id="1071444149" label="Mysterious Figure" category="70" did="1879323941" parentZoneId="1879323274" longitude="54.45744" latitude="54.705154"/>
-<marker id="1071444150" label="Mysterious Figure" category="70" did="1879323941" parentZoneId="1879323274" longitude="54.029297" latitude="54.572655"/>
-<marker id="1071444151" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.961895" latitude="54.48283"/>
-<marker id="1071444152" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.961895" latitude="54.544666"/>
-<marker id="1071444153" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.961895" latitude="54.609314"/>
-<marker id="1071444154" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.900837" latitude="54.643456"/>
-<marker id="1071444155" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.88957" latitude="54.705467"/>
-<marker id="1071444156" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.83953" latitude="54.643456"/>
-<marker id="1071444157" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.961895" latitude="54.673183"/>
-<marker id="1071444158" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="54.022617" latitude="54.633064"/>
-<marker id="1071444159" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="54.022617" latitude="54.695976"/>
-<marker id="1071444160" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="54.083477" latitude="54.67578"/>
-<marker id="1071444161" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.900837" latitude="54.519432"/>
-<marker id="1071444162" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.840157" latitude="54.541386"/>
-<marker id="1071444163" label="Fire" category="75" did="1879323837" parentZoneId="1879323274" longitude="53.900837" latitude="54.581192"/>
-<marker id="1071444164" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="54.01793" latitude="54.62691"/>
-<marker id="1071444165" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.998787" latitude="54.59377"/>
-<marker id="1071444166" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="54.072617" latitude="54.645878"/>
-<marker id="1071444167" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.980858" latitude="54.562733"/>
-<marker id="1071444168" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.961914" latitude="54.5299"/>
-<marker id="1071444169" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.94492" latitude="54.50049"/>
-<marker id="1071444170" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.927322" latitude="54.469997"/>
-<marker id="1071444171" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.918884" latitude="54.47785"/>
-<marker id="1071444172" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.96947" latitude="54.488377"/>
-<marker id="1071444173" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.906445" latitude="54.524765"/>
-<marker id="1071444174" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.876854" latitude="54.541836"/>
-<marker id="1071444175" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.94457" latitude="54.665466"/>
-<marker id="1071444176" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.845703" latitude="54.55984"/>
-<marker id="1071444177" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.961346" latitude="54.69451"/>
-<marker id="1071444178" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.952324" latitude="54.53578"/>
-<marker id="1071444179" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.979004" latitude="54.725117"/>
-<marker id="1071444180" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.97121" latitude="54.568497"/>
-<marker id="1071444181" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.905975" latitude="54.598614"/>
-<marker id="1071444182" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.988457" latitude="54.59836"/>
-<marker id="1071444183" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.88744" latitude="54.5665"/>
-<marker id="1071444184" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="54.00744" latitude="54.63125"/>
-<marker id="1071444185" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.86869" latitude="54.534042"/>
-<marker id="1071444186" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="54.025272" latitude="54.66213"/>
-<marker id="1071444187" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.890564" latitude="54.65238"/>
-<marker id="1071444188" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="54.04367" latitude="54.694004"/>
-<marker id="1071444189" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.858475" latitude="54.670918"/>
-<marker id="1071444190" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="54.06203" latitude="54.7258"/>
-<marker id="1071444191" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.961582" latitude="54.611366"/>
-<marker id="1071444192" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.992558" latitude="54.593494"/>
-<marker id="1071444193" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="54.06166" latitude="54.70334"/>
-<marker id="1071444194" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="54.00414" latitude="54.68541"/>
-<marker id="1071444195" label="Blast" category="75" did="1879323836" parentZoneId="1879323274" longitude="53.973026" latitude="54.703358"/>
-<marker id="1071444196" label="Mysterious Note" category="73" did="1879323463" parentZoneId="1879323274" longitude="54.557518" latitude="55.03078"/>
-<marker id="1071444197" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.043633" latitude="55.0916"/>
-<marker id="1071444198" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.191677" latitude="55.09029"/>
-<marker id="1071444199" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.348534" latitude="55.0933"/>
-<marker id="1071444200" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.40605" latitude="54.880898"/>
-<marker id="1071444201" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.406075" latitude="54.730938"/>
-<marker id="1071444202" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.049255" latitude="55.111717"/>
-<marker id="1071444203" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.196014" latitude="55.111717"/>
-<marker id="1071444204" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.34506" latitude="55.111717"/>
-<marker id="1071444205" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.4284" latitude="54.875"/>
-<marker id="1071444206" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.4284" latitude="54.72463"/>
-<marker id="1071444207" label="Door" category="100" did="1879079096" parentZoneId="1879323274" longitude="54.01738" latitude="54.57785"/>
-<marker id="1071444208" label="Door" category="100" did="1879079096" parentZoneId="1879323274" longitude="54.015682" latitude="54.578827"/>
-<marker id="1071444209" label="Sapper Bomb" category="73" did="1879324086" parentZoneId="1879323274" longitude="53.936035" latitude="54.507225"/>
-<marker id="1071444210" label="Sapper Bomb" category="73" did="1879324086" parentZoneId="1879323274" longitude="54.039665" latitude="54.664646"/>
-<marker id="1071444211" label="Sapper Bomb" category="73" did="1879324086" parentZoneId="1879323274" longitude="53.925644" latitude="54.63207"/>
-<marker id="1071444212" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.058575" latitude="53.0841"/>
-<marker id="1071444213" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.461853" latitude="53.371464"/>
-<marker id="1071444214" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.591873" latitude="53.671444"/>
-<marker id="1071444215" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.120544" latitude="53.816093"/>
-<marker id="1071444216" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.387383" latitude="53.838573"/>
-<marker id="1071444217" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.47953" latitude="54.56916"/>
-<marker id="1071444218" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.912655" latitude="54.450485"/>
-<marker id="1071444219" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.40572" latitude="54.97037"/>
-<marker id="1071444220" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.7649" latitude="55.048965"/>
-<marker id="1071444221" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.465996" latitude="55.16447"/>
-<marker id="1071444222" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="53.859394" latitude="54.45881"/>
-<marker id="1071444223" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="53.9648" latitude="54.21631"/>
-<marker id="1071444224" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879323274" longitude="53.8617" latitude="54.651035"/>
-<marker id="1071444225" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.742325" latitude="53.172714"/>
-<marker id="1071444226" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.74285" latitude="53.561874"/>
-<marker id="1071444227" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.793964" latitude="53.526386"/>
-<marker id="1071444228" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.692966" latitude="53.525116"/>
-<marker id="1071444229" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.74545" latitude="53.47244"/>
-<marker id="1071444230" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="53.99965" latitude="54.350117"/>
-<marker id="1071444231" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.224724" latitude="54.576054"/>
-<marker id="1071444232" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="55.346287" latitude="54.203632"/>
-<marker id="1071444233" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.95459" latitude="54.878532"/>
-<marker id="1071444234" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="55.19572" latitude="54.643005"/>
-<marker id="1071444235" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.685642" latitude="54.725"/>
-<marker id="1071444237" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="55.426113" latitude="54.096073"/>
-<marker id="1071444238" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="55.34799" latitude="54.332657"/>
-<marker id="1071444239" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="55.344784" latitude="53.81381"/>
-<marker id="1071444240" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="54.06463" latitude="54.433086"/>
-<marker id="1071444241" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="55.040447" latitude="54.038906"/>
-<marker id="1071444242" label="Dagron" category="71" did="1879322074" parentZoneId="1879323274" longitude="55.241756" latitude="54.78869"/>
-<marker id="1071444243" label="Muzgásh" category="71" did="1879322069" parentZoneId="1879323274" longitude="53.908436" latitude="54.63861"/>
-<marker id="1071444244" label="Abomination Defiler" category="71" did="1879323268" parentZoneId="1879323274" longitude="55.375057" latitude="54.15035"/>
-<marker id="1071444245" label="Abomination Defiler" category="71" did="1879323268" parentZoneId="1879323274" longitude="54.893963" latitude="54.730488"/>
-<marker id="1071444246" label="Abomination Defiler" category="71" did="1879323268" parentZoneId="1879323274" longitude="55.033085" latitude="54.017517"/>
-<marker id="1071444247" label="Abomination Defiler" category="71" did="1879323268" parentZoneId="1879323274" longitude="54.038513" latitude="54.565586"/>
-<marker id="1071444248" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.20166" latitude="54.574295"/>
-<marker id="1071444249" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="54.87408" latitude="54.728184"/>
-<marker id="1071444250" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.20785" latitude="54.41365"/>
-<marker id="1071444251" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.177753" latitude="54.403847"/>
-<marker id="1071444252" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.055447" latitude="54.02119"/>
-<marker id="1071444253" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.0141" latitude="54.02109"/>
-<marker id="1071444254" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="54.03744" latitude="54.577244"/>
-<marker id="1071444255" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.014374" latitude="53.761757"/>
-<marker id="1071444256" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.079372" latitude="53.754395"/>
-<marker id="1071444257" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.19455" latitude="54.078064"/>
-<marker id="1071444258" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.219414" latitude="54.077618"/>
-<marker id="1071444259" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.48238" latitude="54.740215"/>
-<marker id="1071444260" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.49195" latitude="54.862617"/>
-<marker id="1071444261" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.195213" latitude="55.173904"/>
-<marker id="1071444262" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.06156" latitude="55.172676"/>
-<marker id="1071444263" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.4791" latitude="54.738514"/>
-<marker id="1071444264" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.490566" latitude="54.86703"/>
-<marker id="1071444265" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.197598" latitude="55.170856"/>
-<marker id="1071444266" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.066093" latitude="55.172127"/>
-<marker id="1071444267" label="Abomination Captain" category="71" did="1879323267" parentZoneId="1879323274" longitude="55.35463" latitude="54.028027"/>
-<marker id="1071444268" label="Abomination Captain" category="71" did="1879323267" parentZoneId="1879323274" longitude="55.021248" latitude="53.67574"/>
-<marker id="1071444269" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.07365" latitude="54.43828"/>
-<marker id="1071444270" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.77611" latitude="53.456894"/>
-<marker id="1071444271" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.422108" latitude="54.074257"/>
-<marker id="1071444272" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.671833" latitude="53.537792"/>
-<marker id="1071444273" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.80986" latitude="53.49828"/>
-<marker id="1071444274" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.31756" latitude="54.052383"/>
-<marker id="1071444275" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.3191" latitude="54.042107"/>
-<marker id="1071444276" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.80037" latitude="53.508495"/>
-<marker id="1071444277" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.30047" latitude="54.06242"/>
-<marker id="1071444278" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.682693" latitude="53.5542"/>
-<marker id="1071444279" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.305252" latitude="54.038963"/>
-<marker id="1071444280" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.70002" latitude="54.724003"/>
-<marker id="1071444281" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.002186" latitude="53.898163"/>
-<marker id="1071444282" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.76742" latitude="53.46385"/>
-<marker id="1071444283" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.69959" latitude="54.695663"/>
-<marker id="1071444284" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.024727" latitude="54.570156"/>
-<marker id="1071444285" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.07377" latitude="54.4308"/>
-<marker id="1071444286" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.45109" latitude="54.087578"/>
-<marker id="1071444287" label="Abomination Worker" category="71" did="1879323272" parentZoneId="1879323274" longitude="53.823437" latitude="54.55283"/>
-<marker id="1071444288" label="Abomination Worker" category="71" did="1879323272" parentZoneId="1879323274" longitude="53.823418" latitude="54.557205"/>
-<marker id="1071444289" label="Abomination Worker" category="71" did="1879323272" parentZoneId="1879323274" longitude="53.826405" latitude="54.553535"/>
-<marker id="1071444290" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.7066" latitude="54.692245"/>
-<marker id="1071444291" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.69697" latitude="54.692245"/>
-<marker id="1071444292" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.700333" latitude="54.692245"/>
-<marker id="1071444297" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.70031" latitude="54.692245"/>
-<marker id="1071444298" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.70031" latitude="53.552616"/>
-<marker id="1071444299" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.69705" latitude="54.692245"/>
-<marker id="1071444300" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.705193" latitude="53.552616"/>
-<marker id="1071444302" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.674686" latitude="53.558475"/>
-<marker id="1071444304" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.80984" latitude="53.49418"/>
-<marker id="1071444305" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.69703" latitude="54.692245"/>
-<marker id="1071444306" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.78023" latitude="53.4566"/>
-<marker id="1071444307" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.700253" latitude="54.692245"/>
-<marker id="1071444308" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.71023" latitude="53.552616"/>
-<marker id="1071444309" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.706562" latitude="54.692245"/>
-<marker id="1071444310" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.710976" latitude="53.161034"/>
-<marker id="1071444311" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.703415" latitude="54.692245"/>
-<marker id="1071444312" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="55.264355" latitude="54.18248"/>
-<marker id="1071444313" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="55.22957" latitude="54.629665"/>
-<marker id="1071444314" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.236874" latitude="54.610153"/>
-<marker id="1071444315" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.703438" latitude="54.692245"/>
+<marker id="1071444135" label="Mysterious Figure" category="70" did="1879323941" parentZoneId="1879323274" longitude="54.45744" latitude="54.705154"/>
+<marker id="1071444136" label="Mysterious Figure" category="70" did="1879323941" parentZoneId="1879323274" longitude="54.029297" latitude="54.572655"/>
+<marker id="1071444137" label="Mysterious Note" category="73" did="1879323463" parentZoneId="1879323274" longitude="54.557518" latitude="55.03078"/>
+<marker id="1071444138" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.043633" latitude="55.0916"/>
+<marker id="1071444139" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.191677" latitude="55.09029"/>
+<marker id="1071444140" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.348534" latitude="55.0933"/>
+<marker id="1071444141" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.40605" latitude="54.880898"/>
+<marker id="1071444142" label="Rubble" category="73" did="1879323462" parentZoneId="1879323274" longitude="55.406075" latitude="54.730938"/>
+<marker id="1071444143" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.049255" latitude="55.111717"/>
+<marker id="1071444144" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.196014" latitude="55.111717"/>
+<marker id="1071444145" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.34506" latitude="55.111717"/>
+<marker id="1071444146" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.4284" latitude="54.875"/>
+<marker id="1071444147" label="Rubble" category="73" did="1879323461" parentZoneId="1879323274" longitude="55.4284" latitude="54.72463"/>
+<marker id="1071444148" label="Door" category="100" did="1879079096" parentZoneId="1879323274" longitude="54.01738" latitude="54.57785"/>
+<marker id="1071444149" label="Door" category="100" did="1879079096" parentZoneId="1879323274" longitude="54.015682" latitude="54.578827"/>
+<marker id="1071444150" label="Sapper Bomb" category="73" did="1879324086" parentZoneId="1879323274" longitude="53.936035" latitude="54.507225"/>
+<marker id="1071444151" label="Sapper Bomb" category="73" did="1879324086" parentZoneId="1879323274" longitude="54.039665" latitude="54.664646"/>
+<marker id="1071444152" label="Sapper Bomb" category="73" did="1879324086" parentZoneId="1879323274" longitude="53.925644" latitude="54.63207"/>
+<marker id="1071444153" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.058575" latitude="53.0841"/>
+<marker id="1071444154" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.461853" latitude="53.371464"/>
+<marker id="1071444155" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.591873" latitude="53.671444"/>
+<marker id="1071444156" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.120544" latitude="53.816093"/>
+<marker id="1071444157" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.387383" latitude="53.838573"/>
+<marker id="1071444158" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.47953" latitude="54.56916"/>
+<marker id="1071444159" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.912655" latitude="54.450485"/>
+<marker id="1071444160" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="55.40572" latitude="54.97037"/>
+<marker id="1071444161" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.7649" latitude="55.048965"/>
+<marker id="1071444162" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="54.465996" latitude="55.16447"/>
+<marker id="1071444163" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="53.859394" latitude="54.45881"/>
+<marker id="1071444164" label="Vase" category="73" did="1879321972" parentZoneId="1879323274" longitude="53.9648" latitude="54.21631"/>
+<marker id="1071444165" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879323274" longitude="53.8617" latitude="54.651035"/>
+<marker id="1071444166" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.742325" latitude="53.172714"/>
+<marker id="1071444167" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.74285" latitude="53.561874"/>
+<marker id="1071444168" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.793964" latitude="53.526386"/>
+<marker id="1071444169" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.692966" latitude="53.525116"/>
+<marker id="1071444170" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.74545" latitude="53.47244"/>
+<marker id="1071444171" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="53.99965" latitude="54.350117"/>
+<marker id="1071444172" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.224724" latitude="54.576054"/>
+<marker id="1071444173" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="55.346287" latitude="54.203632"/>
+<marker id="1071444174" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.95459" latitude="54.878532"/>
+<marker id="1071444175" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="55.19572" latitude="54.643005"/>
+<marker id="1071444176" label="Portcullis" category="100" did="1879223279" parentZoneId="1879323274" longitude="54.685642" latitude="54.725"/>
+<marker id="1071444177" label="Theodore Gorse" category="70" did="1879401393" parentZoneId="1879323274" longitude="54.765232" latitude="53.02531"/>
+<marker id="1071444178" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="55.426113" latitude="54.096073"/>
+<marker id="1071444179" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="55.34799" latitude="54.332657"/>
+<marker id="1071444180" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="55.344784" latitude="53.81381"/>
+<marker id="1071444181" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="54.06463" latitude="54.433086"/>
+<marker id="1071444182" label="Abomination Heaver" category="71" did="1879322076" parentZoneId="1879323274" longitude="55.040447" latitude="54.038906"/>
+<marker id="1071444183" label="Dagron" category="71" did="1879322074" parentZoneId="1879323274" longitude="55.241756" latitude="54.78869"/>
+<marker id="1071444184" label="Muzgásh" category="71" did="1879322069" parentZoneId="1879323274" longitude="53.908436" latitude="54.63861"/>
+<marker id="1071444185" label="Abomination Defiler" category="71" did="1879323268" parentZoneId="1879323274" longitude="55.375057" latitude="54.15035"/>
+<marker id="1071444186" label="Abomination Defiler" category="71" did="1879323268" parentZoneId="1879323274" longitude="54.893963" latitude="54.730488"/>
+<marker id="1071444187" label="Abomination Defiler" category="71" did="1879323268" parentZoneId="1879323274" longitude="55.033085" latitude="54.017517"/>
+<marker id="1071444188" label="Abomination Defiler" category="71" did="1879323268" parentZoneId="1879323274" longitude="54.038513" latitude="54.565586"/>
+<marker id="1071444189" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.20166" latitude="54.574295"/>
+<marker id="1071444190" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="54.87408" latitude="54.728184"/>
+<marker id="1071444191" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.20785" latitude="54.41365"/>
+<marker id="1071444192" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.177753" latitude="54.403847"/>
+<marker id="1071444193" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.055447" latitude="54.02119"/>
+<marker id="1071444194" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.0141" latitude="54.02109"/>
+<marker id="1071444195" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="54.03744" latitude="54.577244"/>
+<marker id="1071444196" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.014374" latitude="53.761757"/>
+<marker id="1071444197" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.079372" latitude="53.754395"/>
+<marker id="1071444198" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.19455" latitude="54.078064"/>
+<marker id="1071444199" label="Abomination Archer" category="71" did="1879323269" parentZoneId="1879323274" longitude="55.219414" latitude="54.077618"/>
+<marker id="1071444200" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.48238" latitude="54.740215"/>
+<marker id="1071444201" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.49195" latitude="54.862617"/>
+<marker id="1071444202" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.195213" latitude="55.173904"/>
+<marker id="1071444203" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.06156" latitude="55.172676"/>
+<marker id="1071444204" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.4791" latitude="54.738514"/>
+<marker id="1071444205" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.490566" latitude="54.86703"/>
+<marker id="1071444206" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.197598" latitude="55.170856"/>
+<marker id="1071444207" label="Abomination Warrior" category="71" did="1879323271" parentZoneId="1879323274" longitude="55.066093" latitude="55.172127"/>
+<marker id="1071444208" label="Abomination Captain" category="71" did="1879323267" parentZoneId="1879323274" longitude="55.35463" latitude="54.028027"/>
+<marker id="1071444209" label="Abomination Captain" category="71" did="1879323267" parentZoneId="1879323274" longitude="55.021248" latitude="53.67574"/>
+<marker id="1071444210" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.07365" latitude="54.43828"/>
+<marker id="1071444211" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.77611" latitude="53.456894"/>
+<marker id="1071444212" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.422108" latitude="54.074257"/>
+<marker id="1071444213" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.671833" latitude="53.537792"/>
+<marker id="1071444214" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.80986" latitude="53.49828"/>
+<marker id="1071444215" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.31756" latitude="54.052383"/>
+<marker id="1071444216" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.3191" latitude="54.042107"/>
+<marker id="1071444217" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.80037" latitude="53.508495"/>
+<marker id="1071444218" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.30047" latitude="54.06242"/>
+<marker id="1071444219" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.682693" latitude="53.5542"/>
+<marker id="1071444220" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.305252" latitude="54.038963"/>
+<marker id="1071444221" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.70002" latitude="54.724003"/>
+<marker id="1071444222" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.002186" latitude="53.898163"/>
+<marker id="1071444223" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.76742" latitude="53.46385"/>
+<marker id="1071444224" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.69959" latitude="54.695663"/>
+<marker id="1071444225" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.024727" latitude="54.570156"/>
+<marker id="1071444226" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="54.07377" latitude="54.4308"/>
+<marker id="1071444227" label="Abomination Worker" category="71" did="1879322056" parentZoneId="1879323274" longitude="55.45109" latitude="54.087578"/>
+<marker id="1071444228" label="Abomination Worker" category="71" did="1879323272" parentZoneId="1879323274" longitude="53.823437" latitude="54.55283"/>
+<marker id="1071444229" label="Abomination Worker" category="71" did="1879323272" parentZoneId="1879323274" longitude="53.823418" latitude="54.557205"/>
+<marker id="1071444230" label="Abomination Worker" category="71" did="1879323272" parentZoneId="1879323274" longitude="53.826405" latitude="54.553535"/>
+<marker id="1071444231" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.7066" latitude="54.692245"/>
+<marker id="1071444232" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.69697" latitude="54.692245"/>
+<marker id="1071444233" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.700333" latitude="54.692245"/>
+<marker id="1071444238" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.70031" latitude="54.692245"/>
+<marker id="1071444239" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.70031" latitude="53.552616"/>
+<marker id="1071444240" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.69705" latitude="54.692245"/>
+<marker id="1071444241" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.705193" latitude="53.552616"/>
+<marker id="1071444242" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.703438" latitude="54.692245"/>
+<marker id="1071444243" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.674686" latitude="53.558475"/>
+<marker id="1071444245" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.80984" latitude="53.49418"/>
+<marker id="1071444246" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.69703" latitude="54.692245"/>
+<marker id="1071444247" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.78023" latitude="53.4566"/>
+<marker id="1071444248" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.700253" latitude="54.692245"/>
+<marker id="1071444249" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.71023" latitude="53.552616"/>
+<marker id="1071444250" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.706562" latitude="54.692245"/>
+<marker id="1071444251" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.710976" latitude="53.161034"/>
+<marker id="1071444252" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.703415" latitude="54.692245"/>
+<marker id="1071444253" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="55.264355" latitude="54.18248"/>
+<marker id="1071444254" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="55.22957" latitude="54.629665"/>
+<marker id="1071444255" label="Lever" category="100" did="1879081362" parentZoneId="1879323274" longitude="54.236874" latitude="54.610153"/>
 <marker id="1071517696" label="Wine Bottle" category="73" did="1879315133" parentZoneId="1879316663" longitude="56.377205" latitude="42.823025"/>
 <marker id="1071517697" label="Corsair Drunk" category="71" did="1879315275" parentZoneId="1879316663" longitude="56.383553" latitude="42.816483"/>
 <marker id="1071517698" label="Door" category="48" did="1879063860" parentZoneId="1879316663" longitude="56.320213" latitude="42.81066"/>

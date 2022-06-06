@@ -50,8 +50,7 @@
 <marker id="887980038" label="Mordor Archer" category="71" did="1879326045" parentZoneId="1879325520" longitude="-84.50861" latitude="61.222088"/>
 <marker id="887980039" label="Gondorian Archer" category="71" did="1879326049" parentZoneId="1879325520" longitude="-84.91478" latitude="61.72299"/>
 <marker id="887980040" label="Gondorian Captain" category="71" did="1879326048" parentZoneId="1879325520" longitude="-84.685974" latitude="61.759277"/>
-<marker id="887980041" label="Stealth Breaking Hotspot" category="75" did="1879102446" parentZoneId="1879325520" longitude="-84.89701" latitude="61.775234"/>
-<marker id="887980049" label="Melethon" category="71" did="1879325994" parentZoneId="1879325520" longitude="-85.09281" latitude="61.792538"/>
+<marker id="887980048" label="Melethon" category="71" did="1879325994" parentZoneId="1879325520" longitude="-85.09281" latitude="61.792538"/>
 <marker id="887984128" label="Chicken" category="78" did="1879079059" parentZoneId="1879325520" longitude="-85.08557" latitude="62.427284"/>
 <marker id="887984129" label="Frenzied Craban" category="71" did="1879326001" parentZoneId="1879325520" longitude="-84.49272" latitude="62.197987"/>
 <marker id="887984130" label="Food Sack " category="73" did="1879326008" parentZoneId="1879325520" longitude="-84.42299" latitude="62.098457"/>
@@ -214,54 +213,48 @@
 <marker id="888057887" label="Ithilien Spider" category="71" did="1879326006" parentZoneId="1879325520" longitude="-83.97666" latitude="64.182945"/>
 <marker id="888057888" label="Ithilien Spider" category="71" did="1879326006" parentZoneId="1879325520" longitude="-84.06104" latitude="64.210625"/>
 <marker id="888057889" label="Ithilien Spider" category="71" did="1879326006" parentZoneId="1879325520" longitude="-83.98955" latitude="63.618454"/>
-<marker id="888102912" label="Deep and Treacherous Waters" category="75" did="1879326200" parentZoneId="1879325520" longitude="-83.2" latitude="60.199997"/>
-<marker id="888102913" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.89924" latitude="60.155743"/>
-<marker id="888102915" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.82726" latitude="60.10744"/>
-<marker id="888102916" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.49056" latitude="60.324783"/>
+<marker id="888102912" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.89924" latitude="60.155743"/>
+<marker id="888102914" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.82726" latitude="60.10744"/>
+<marker id="888102915" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.49056" latitude="60.324783"/>
 <marker id="888107009" label="Londiant Bridge" category="74" did="1879326154" parentZoneId="1879325520" longitude="-83.39551" latitude="60.757305"/>
-<marker id="888107010" label="Deep and Treacherous Waters" category="75" did="1879326200" parentZoneId="1879325520" longitude="-83.48449" latitude="60.75865"/>
 <marker id="888107011" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.48259" latitude="60.50373"/>
-<marker id="888107013" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.243965" latitude="61.039196"/>
-<marker id="888107014" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.41662" latitude="61.038124"/>
-<marker id="888107016" label="Londiant Bridge" category="74" did="1879326154" parentZoneId="1879325520" longitude="-83.15719" latitude="60.757305"/>
-<marker id="888107017" label="Londiant Bridge" category="43" did="1879326154" parentZoneId="1879325520" longitude="-82.96665" latitude="60.757305"/>
+<marker id="888107012" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.243965" latitude="61.039196"/>
+<marker id="888107013" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.41662" latitude="61.038124"/>
+<marker id="888107015" label="Londiant Bridge" category="74" did="1879326154" parentZoneId="1879325520" longitude="-83.15719" latitude="60.757305"/>
+<marker id="888107016" label="Londiant Bridge" category="43" did="1879326154" parentZoneId="1879325520" longitude="-82.96665" latitude="60.757305"/>
 <marker id="888111105" label="Osgiliath Patroller" category="71" did="1879325792" parentZoneId="1879325520" longitude="-83.33013" latitude="61.737263"/>
-<marker id="888111107" label="Deep and Treacherous Waters" category="75" did="1879326200" parentZoneId="1879325520" longitude="-83.0" latitude="61.8"/>
 <marker id="888111108" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.4509" latitude="61.271618"/>
-<marker id="888111110" label="Belegiant Bridge" category="74" did="1879326155" parentZoneId="1879325520" longitude="-83.353516" latitude="61.778435"/>
-<marker id="888111111" label="Belegiant Bridge" category="43" did="1879326155" parentZoneId="1879325520" longitude="-82.96665" latitude="61.778435"/>
-<marker id="888115200" label="Deep and Treacherous Waters" category="75" did="1879326200" parentZoneId="1879325520" longitude="-83.299995" latitude="62.199997"/>
-<marker id="888115202" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.555504" latitude="62.16086"/>
-<marker id="888115203" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.9366" latitude="62.650898"/>
-<marker id="888115204" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.50584" latitude="62.122597"/>
-<marker id="888115205" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.47329" latitude="62.381817"/>
-<marker id="888115206" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.53789" latitude="62.656933"/>
-<marker id="888115207" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.47047" latitude="62.65545"/>
-<marker id="888115208" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.492775" latitude="62.384724"/>
-<marker id="888115209" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.49677" latitude="62.286423"/>
-<marker id="888115211" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.56432" latitude="62.616833"/>
-<marker id="888115212" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.46756" latitude="62.078884"/>
-<marker id="888115213" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.55533" latitude="62.091835"/>
-<marker id="888119296" label="Deep and Treacherous Waters" category="75" did="1879326200" parentZoneId="1879325520" longitude="-83.2" latitude="63.199997"/>
-<marker id="888119298" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.567795" latitude="62.95367"/>
-<marker id="888119299" label="Door" category="100" did="1879227953" parentZoneId="1879325520" longitude="-83.19857" latitude="63.273727"/>
-<marker id="888119300" label="Door" category="100" did="1879227954" parentZoneId="1879325520" longitude="-83.03662" latitude="63.402946"/>
-<marker id="888119301" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.598434" latitude="62.844707"/>
-<marker id="888119302" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.566696" latitude="63.380016"/>
-<marker id="888119303" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.5907" latitude="63.030018"/>
-<marker id="888119304" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.54908" latitude="63.535507"/>
-<marker id="888119306" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.54541" latitude="63.28072"/>
+<marker id="888111109" label="Belegiant Bridge" category="74" did="1879326155" parentZoneId="1879325520" longitude="-83.353516" latitude="61.778435"/>
+<marker id="888111110" label="Belegiant Bridge" category="43" did="1879326155" parentZoneId="1879325520" longitude="-82.96665" latitude="61.778435"/>
+<marker id="888115201" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.555504" latitude="62.16086"/>
+<marker id="888115202" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.9366" latitude="62.650898"/>
+<marker id="888115203" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.50584" latitude="62.122597"/>
+<marker id="888115204" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.47329" latitude="62.381817"/>
+<marker id="888115205" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.53789" latitude="62.656933"/>
+<marker id="888115206" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.47047" latitude="62.65545"/>
+<marker id="888115207" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.492775" latitude="62.384724"/>
+<marker id="888115208" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.49677" latitude="62.286423"/>
+<marker id="888115210" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.56432" latitude="62.616833"/>
+<marker id="888115211" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.46756" latitude="62.078884"/>
+<marker id="888115212" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.55533" latitude="62.091835"/>
+<marker id="888119297" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.567795" latitude="62.95367"/>
+<marker id="888119298" label="Door" category="100" did="1879227953" parentZoneId="1879325520" longitude="-83.19857" latitude="63.273727"/>
+<marker id="888119299" label="Door" category="100" did="1879227954" parentZoneId="1879325520" longitude="-83.03662" latitude="63.402946"/>
+<marker id="888119300" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.598434" latitude="62.844707"/>
+<marker id="888119301" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.566696" latitude="63.380016"/>
+<marker id="888119302" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.5907" latitude="63.030018"/>
+<marker id="888119303" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.54908" latitude="63.535507"/>
+<marker id="888119305" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.54541" latitude="63.28072"/>
 <marker id="888123393" label="Osgiliath Patroller" category="71" did="1879325792" parentZoneId="1879325520" longitude="-83.422585" latitude="63.92945"/>
-<marker id="888123395" label="Deep and Treacherous Waters" category="75" did="1879326200" parentZoneId="1879325520" longitude="-83.2" latitude="64.0"/>
-<marker id="888123396" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.85394" latitude="63.72945"/>
-<marker id="888123398" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.54141" latitude="63.676834"/>
-<marker id="888123400" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.937965" latitude="63.728767"/>
-<marker id="888123401" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.085976" latitude="63.740585"/>
-<marker id="888123402" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.23783" latitude="63.765682"/>
-<marker id="888123403" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.15584" latitude="63.736347"/>
-<marker id="888123411" label="Ornendil Bridge" category="43" did="1879326153" parentZoneId="1879325520" longitude="-82.96665" latitude="63.957226"/>
-<marker id="888123412" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.5525" latitude="63.7333"/>
-<marker id="888123413" label="Ornendil Bridge" category="74" did="1879326153" parentZoneId="1879325520" longitude="-83.48355" latitude="63.957226"/>
-<marker id="888123414" label="Ornendil Bridge" category="74" did="1879326153" parentZoneId="1879325520" longitude="-83.198784" latitude="63.957226"/>
-<marker id="888123415" label="Ornendil Bridge" category="74" did="1879326153" parentZoneId="1879325520" longitude="-82.81914" latitude="63.957226"/>
+<marker id="888123397" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.54141" latitude="63.676834"/>
+<marker id="888123398" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.85394" latitude="63.72945"/>
+<marker id="888123399" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-82.937965" latitude="63.728767"/>
+<marker id="888123400" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.085976" latitude="63.740585"/>
+<marker id="888123401" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.23783" latitude="63.765682"/>
+<marker id="888123402" label="River Turtle" category="71" did="1879326003" parentZoneId="1879325520" longitude="-83.15584" latitude="63.736347"/>
+<marker id="888123411" label="River-slug" category="71" did="1879326005" parentZoneId="1879325520" longitude="-83.5525" latitude="63.7333"/>
+<marker id="888123412" label="Ornendil Bridge" category="74" did="1879326153" parentZoneId="1879325520" longitude="-83.48355" latitude="63.957226"/>
+<marker id="888123413" label="Ornendil Bridge" category="74" did="1879326153" parentZoneId="1879325520" longitude="-83.198784" latitude="63.957226"/>
+<marker id="888123414" label="Ornendil Bridge" category="74" did="1879326153" parentZoneId="1879325520" longitude="-82.81914" latitude="63.957226"/>
+<marker id="888123415" label="Ornendil Bridge" category="43" did="1879326153" parentZoneId="1879325520" longitude="-82.96665" latitude="63.957226"/>
 </markers>

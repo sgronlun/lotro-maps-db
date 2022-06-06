@@ -2808,243 +2808,239 @@
 <marker id="681963696" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.60964" latitude="16.133915"/>
 <marker id="681963697" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.60964" latitude="16.133915"/>
 <marker id="682012672" label="Wooden Chest" category="72" did="1879366406" parentZoneId="1879362284" longitude="-39.16286" latitude="13.00501"/>
-<marker id="682012673" label="Sorcerous Waters" category="75" did="1879363806" parentZoneId="1879362284" longitude="-39.251736" latitude="12.671982"/>
-<marker id="682012678" label="Armoured Shadow" category="71" did="1879363265" parentZoneId="1879362284" longitude="-39.1979" latitude="13.138467"/>
-<marker id="682012679" label="Armoured Shadow" category="71" did="1879363265" parentZoneId="1879362284" longitude="-39.196503" latitude="13.085254"/>
-<marker id="682012680" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.045567" latitude="13.058232"/>
-<marker id="682012681" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.50944" latitude="13.099297"/>
-<marker id="682012682" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.1158" latitude="13.175243"/>
-<marker id="682012683" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.48333" latitude="13.165175"/>
-<marker id="682012684" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.542732" latitude="13.039668"/>
-<marker id="682012687" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.072937" latitude="13.126387"/>
-<marker id="682012688" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.072937" latitude="13.126387"/>
-<marker id="682012695" label="Smashed Artifact" category="73" did="1879363165" parentZoneId="1879362284" longitude="-39.59422" latitude="13.008965"/>
-<marker id="682012696" label="Smashed Artifact" category="73" did="1879363165" parentZoneId="1879362284" longitude="-39.18407" latitude="13.189121"/>
-<marker id="682012698" label="Caras Tilion" category="74" did="1879362349" parentZoneId="1879362284" longitude="-39.190712" latitude="13.08626"/>
-<marker id="682012699" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-38.995926" latitude="13.17708"/>
-<marker id="682012700" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-38.995926" latitude="13.17708"/>
-<marker id="682012701" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.202198" latitude="13.147724"/>
-<marker id="682012702" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.202198" latitude="13.147724"/>
-<marker id="682012703" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.127373" latitude="13.015459"/>
-<marker id="682012704" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.127373" latitude="13.015459"/>
-<marker id="682012705" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.02077" latitude="12.993837"/>
-<marker id="682012706" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.02077" latitude="12.993837"/>
-<marker id="682012707" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-38.83491" latitude="13.078936"/>
-<marker id="682012708" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-38.83491" latitude="13.078936"/>
-<marker id="682012709" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.43913" latitude="13.013828"/>
-<marker id="682012710" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.43913" latitude="13.013828"/>
-<marker id="682012711" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.578934" latitude="12.969013"/>
-<marker id="682012712" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.578934" latitude="12.969013"/>
-<marker id="682012713" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.40706" latitude="13.158466"/>
-<marker id="682012714" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.40706" latitude="13.158466"/>
-<marker id="682012715" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.564774" latitude="13.1423235"/>
-<marker id="682012716" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.564774" latitude="13.1423235"/>
+<marker id="682012677" label="Armoured Shadow" category="71" did="1879363265" parentZoneId="1879362284" longitude="-39.1979" latitude="13.138467"/>
+<marker id="682012678" label="Armoured Shadow" category="71" did="1879363265" parentZoneId="1879362284" longitude="-39.196503" latitude="13.085254"/>
+<marker id="682012679" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.045567" latitude="13.058232"/>
+<marker id="682012680" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.50944" latitude="13.099297"/>
+<marker id="682012681" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.1158" latitude="13.175243"/>
+<marker id="682012682" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.48333" latitude="13.165175"/>
+<marker id="682012683" label="Sorcerous Spirit" category="71" did="1879363280" parentZoneId="1879362284" longitude="-39.542732" latitude="13.039668"/>
+<marker id="682012686" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.072937" latitude="13.126387"/>
+<marker id="682012687" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.072937" latitude="13.126387"/>
+<marker id="682012694" label="Smashed Artifact" category="73" did="1879363165" parentZoneId="1879362284" longitude="-39.59422" latitude="13.008965"/>
+<marker id="682012695" label="Smashed Artifact" category="73" did="1879363165" parentZoneId="1879362284" longitude="-39.18407" latitude="13.189121"/>
+<marker id="682012697" label="Caras Tilion" category="74" did="1879362349" parentZoneId="1879362284" longitude="-39.190712" latitude="13.08626"/>
+<marker id="682012698" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-38.995926" latitude="13.17708"/>
+<marker id="682012699" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-38.995926" latitude="13.17708"/>
+<marker id="682012700" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.202198" latitude="13.147724"/>
+<marker id="682012701" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.202198" latitude="13.147724"/>
+<marker id="682012702" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.127373" latitude="13.015459"/>
+<marker id="682012703" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.127373" latitude="13.015459"/>
+<marker id="682012704" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.02077" latitude="12.993837"/>
+<marker id="682012705" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.02077" latitude="12.993837"/>
+<marker id="682012706" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-38.83491" latitude="13.078936"/>
+<marker id="682012707" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-38.83491" latitude="13.078936"/>
+<marker id="682012708" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.43913" latitude="13.013828"/>
+<marker id="682012709" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.43913" latitude="13.013828"/>
+<marker id="682012710" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.578934" latitude="12.969013"/>
+<marker id="682012711" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.578934" latitude="12.969013"/>
+<marker id="682012712" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.40706" latitude="13.158466"/>
+<marker id="682012713" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.40706" latitude="13.158466"/>
+<marker id="682012714" label="Dale Artifact Chest" category="50" did="1879365619" parentZoneId="1879362284" longitude="-39.564774" latitude="13.1423235"/>
+<marker id="682012715" label="Heavy Dale Artifact Chest" category="50" did="1879365618" parentZoneId="1879362284" longitude="-39.564774" latitude="13.1423235"/>
 <marker id="682016768" label="Wooden Chest" category="72" did="1879366406" parentZoneId="1879362284" longitude="-39.104248" latitude="13.229072"/>
-<marker id="682016769" label="Sorcerous Waters" category="75" did="1879363806" parentZoneId="1879362284" longitude="-39.177498" latitude="13.953271"/>
-<marker id="682024960" label="Sorcerous Waters" category="75" did="1879363806" parentZoneId="1879362295" longitude="-39.17871" latitude="15.2391405"/>
-<marker id="682024966" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
-<marker id="682024967" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
-<marker id="682024968" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
-<marker id="682024969" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
-<marker id="682024970" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
+<marker id="682024965" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
+<marker id="682024966" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
+<marker id="682024967" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
+<marker id="682024968" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
+<marker id="682024969" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.0071" latitude="15.380381"/>
 <marker id="682024971" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-39.463123" latitude="15.417792"/>
-<marker id="682024973" label="Corrupted Bear" category="71" did="1879363274" parentZoneId="1879362295" longitude="-39.456017" latitude="15.582881"/>
-<marker id="682024974" label="Corrupted Bear" category="71" did="1879363274" parentZoneId="1879362295" longitude="-39.54235" latitude="15.187353"/>
-<marker id="682024975" label="Corrupted Wolf" category="71" did="1879363270" parentZoneId="1879362295" longitude="-39.398018" latitude="15.184599"/>
-<marker id="682024976" label="Corrupted Wolf" category="71" did="1879363270" parentZoneId="1879362295" longitude="-39.582714" latitude="15.306621"/>
-<marker id="682024977" label="Corrupted Boar" category="71" did="1879363279" parentZoneId="1879362295" longitude="-39.57156" latitude="15.475732"/>
-<marker id="682024978" label="Corrupted Boar" category="71" did="1879363279" parentZoneId="1879362295" longitude="-39.43578" latitude="15.325048"/>
-<marker id="682024979" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.33333" latitude="15.442021"/>
-<marker id="682024980" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.25176" latitude="15.118203"/>
-<marker id="682024981" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.182987" latitude="15.535595"/>
-<marker id="682024982" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024983" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024984" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024985" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024986" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024987" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024988" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024989" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024990" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024991" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024992" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
-<marker id="682024993" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682024994" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682024995" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682024996" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682024997" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682024998" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682024999" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682025000" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682025001" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682025002" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682025003" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
-<marker id="682025004" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025005" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025006" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025007" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025008" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025009" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025010" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025011" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025012" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025013" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025014" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
-<marker id="682025015" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025016" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025017" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025018" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025019" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025020" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025021" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025022" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025023" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025024" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682025025" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
-<marker id="682029056" label="Sorcerous Waters" category="75" did="1879363806" parentZoneId="1879362295" longitude="-39.207657" latitude="16.232832"/>
-<marker id="682029061" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.436905" latitude="15.927236"/>
-<marker id="682029062" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.436905" latitude="15.927236"/>
-<marker id="682029063" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.436905" latitude="15.927236"/>
-<marker id="682029064" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.436905" latitude="15.927236"/>
-<marker id="682029065" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
-<marker id="682029066" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
-<marker id="682029067" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
-<marker id="682029068" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
-<marker id="682029069" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
-<marker id="682029072" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-38.841316" latitude="15.846181"/>
-<marker id="682029073" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-38.881035" latitude="16.31579"/>
-<marker id="682029074" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-38.991787" latitude="15.986396"/>
-<marker id="682029075" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-39.456287" latitude="15.841943"/>
-<marker id="682029078" label="Corrupted Bear" category="71" did="1879363274" parentZoneId="1879362295" longitude="-39.43419" latitude="16.01125"/>
-<marker id="682029079" label="Corrupted Bear" category="71" did="1879363274" parentZoneId="1879362295" longitude="-38.81568" latitude="16.140362"/>
-<marker id="682029080" label="Corrupted Boar" category="71" did="1879363279" parentZoneId="1879362295" longitude="-38.9604" latitude="15.808076"/>
-<marker id="682029081" label="Corrupted Boar" category="71" did="1879363279" parentZoneId="1879362295" longitude="-39.55121" latitude="15.71457"/>
-<marker id="682029082" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.102127" latitude="16.135527"/>
-<marker id="682029083" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.31376" latitude="16.065195"/>
-<marker id="682029084" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.11578" latitude="15.967031"/>
-<marker id="682029085" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.343494" latitude="15.662959"/>
-<marker id="682029086" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029087" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029088" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029089" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029090" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029091" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029092" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029093" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029094" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029095" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029096" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
-<marker id="682029097" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029098" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029099" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029100" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029101" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029102" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029103" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029104" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029105" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029106" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029107" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
-<marker id="682029108" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029109" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029110" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029111" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029112" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029113" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029114" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029115" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029116" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029117" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029118" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
-<marker id="682029119" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029120" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029121" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029122" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029123" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029124" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029125" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029126" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029127" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029128" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029129" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
-<marker id="682029130" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029131" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029132" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029133" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029134" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029135" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029136" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029137" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029138" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029139" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029140" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
-<marker id="682029141" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029142" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029143" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029144" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029145" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029146" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029147" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029148" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029149" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029150" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029151" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
-<marker id="682029152" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.850613" latitude="16.044336"/>
-<marker id="682029153" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.850613" latitude="16.044336"/>
-<marker id="682029154" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.850613" latitude="16.044336"/>
-<marker id="682029155" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.850613" latitude="16.044336"/>
-<marker id="682029156" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.93079" latitude="16.244316"/>
-<marker id="682029157" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.93079" latitude="16.244316"/>
-<marker id="682029158" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.93079" latitude="16.244316"/>
-<marker id="682029159" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.93079" latitude="16.244316"/>
-<marker id="682029160" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.486534" latitude="16.20828"/>
-<marker id="682029161" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.486534" latitude="16.20828"/>
-<marker id="682029162" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.486534" latitude="16.20828"/>
-<marker id="682029163" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.486534" latitude="16.20828"/>
-<marker id="682029164" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.51372" latitude="15.95287"/>
-<marker id="682029165" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.51372" latitude="15.95287"/>
-<marker id="682029166" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.51372" latitude="15.95287"/>
-<marker id="682029167" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.51372" latitude="15.95287"/>
-<marker id="682029168" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.165478" latitude="15.643827"/>
-<marker id="682029169" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.165478" latitude="15.643827"/>
-<marker id="682029170" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.165478" latitude="15.643827"/>
-<marker id="682029171" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.165478" latitude="15.643827"/>
-<marker id="682029172" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.94829" latitude="15.758925"/>
-<marker id="682029173" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.94829" latitude="15.758925"/>
-<marker id="682029174" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.94829" latitude="15.758925"/>
-<marker id="682029175" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.94829" latitude="15.758925"/>
-<marker id="682029176" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.46745" latitude="15.654072"/>
-<marker id="682029177" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.46745" latitude="15.654072"/>
-<marker id="682029178" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.46745" latitude="15.654072"/>
-<marker id="682029179" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.46745" latitude="15.654072"/>
-<marker id="682029180" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.95384" latitude="15.695234"/>
-<marker id="682029181" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.95384" latitude="15.695234"/>
-<marker id="682029182" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.95384" latitude="15.695234"/>
-<marker id="682029183" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.95384" latitude="15.695234"/>
-<marker id="682029184" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.17743" latitude="15.716435"/>
-<marker id="682029185" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.17743" latitude="15.716435"/>
-<marker id="682029186" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.17743" latitude="15.716435"/>
-<marker id="682029187" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.17743" latitude="15.716435"/>
-<marker id="682029188" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.391827" latitude="15.64499"/>
-<marker id="682029189" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.391827" latitude="15.64499"/>
-<marker id="682029190" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.391827" latitude="15.64499"/>
-<marker id="682029191" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.391827" latitude="15.64499"/>
-<marker id="682029192" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.50738" latitude="16.341278"/>
-<marker id="682029193" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.50738" latitude="16.341278"/>
-<marker id="682029194" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.50738" latitude="16.341278"/>
-<marker id="682029195" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.50738" latitude="16.341278"/>
-<marker id="682029196" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.494022" latitude="16.10586"/>
-<marker id="682029197" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.494022" latitude="16.10586"/>
-<marker id="682029198" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.494022" latitude="16.10586"/>
-<marker id="682029199" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.494022" latitude="16.10586"/>
-<marker id="682029200" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.330097" latitude="16.24289"/>
-<marker id="682029201" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.330097" latitude="16.24289"/>
-<marker id="682029202" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.330097" latitude="16.24289"/>
-<marker id="682029203" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.330097" latitude="16.24289"/>
-<marker id="682029204" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.990147" latitude="16.209013"/>
-<marker id="682029205" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.990147" latitude="16.209013"/>
-<marker id="682029206" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.990147" latitude="16.209013"/>
-<marker id="682029207" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.990147" latitude="16.209013"/>
+<marker id="682024972" label="Corrupted Bear" category="71" did="1879363274" parentZoneId="1879362295" longitude="-39.456017" latitude="15.582881"/>
+<marker id="682024973" label="Corrupted Bear" category="71" did="1879363274" parentZoneId="1879362295" longitude="-39.54235" latitude="15.187353"/>
+<marker id="682024974" label="Corrupted Wolf" category="71" did="1879363270" parentZoneId="1879362295" longitude="-39.398018" latitude="15.184599"/>
+<marker id="682024975" label="Corrupted Wolf" category="71" did="1879363270" parentZoneId="1879362295" longitude="-39.582714" latitude="15.306621"/>
+<marker id="682024976" label="Corrupted Boar" category="71" did="1879363279" parentZoneId="1879362295" longitude="-39.57156" latitude="15.475732"/>
+<marker id="682024977" label="Corrupted Boar" category="71" did="1879363279" parentZoneId="1879362295" longitude="-39.43578" latitude="15.325048"/>
+<marker id="682024978" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.33333" latitude="15.442021"/>
+<marker id="682024979" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.25176" latitude="15.118203"/>
+<marker id="682024980" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.182987" latitude="15.535595"/>
+<marker id="682024981" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024982" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024983" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024984" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024985" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024986" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024987" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024988" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024989" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024990" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024991" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.08006" latitude="15.308633"/>
+<marker id="682024992" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682024993" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682024994" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682024995" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682024996" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682024997" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682024998" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682024999" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682025000" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682025001" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682025002" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.853027" latitude="15.410546"/>
+<marker id="682025003" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025004" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025005" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025006" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025007" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025008" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025009" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025010" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025011" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025012" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025013" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.98993" latitude="14.983212"/>
+<marker id="682025014" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025015" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025016" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025017" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025018" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025019" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025020" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025021" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025022" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025023" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682025024" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.875088" latitude="15.160556"/>
+<marker id="682029060" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.436905" latitude="15.927236"/>
+<marker id="682029061" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.436905" latitude="15.927236"/>
+<marker id="682029062" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.436905" latitude="15.927236"/>
+<marker id="682029063" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.436905" latitude="15.927236"/>
+<marker id="682029064" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
+<marker id="682029065" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
+<marker id="682029066" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
+<marker id="682029067" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
+<marker id="682029068" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.44192" latitude="16.236914"/>
+<marker id="682029072" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-38.881035" latitude="16.31579"/>
+<marker id="682029073" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-38.991787" latitude="15.986396"/>
+<marker id="682029074" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-39.456287" latitude="15.841943"/>
+<marker id="682029075" label="Corrupted Huorn" category="71" did="1879363289" parentZoneId="1879362295" longitude="-38.841316" latitude="15.846181"/>
+<marker id="682029077" label="Corrupted Bear" category="71" did="1879363274" parentZoneId="1879362295" longitude="-39.43419" latitude="16.01125"/>
+<marker id="682029078" label="Corrupted Bear" category="71" did="1879363274" parentZoneId="1879362295" longitude="-38.81568" latitude="16.140362"/>
+<marker id="682029079" label="Corrupted Boar" category="71" did="1879363279" parentZoneId="1879362295" longitude="-38.9604" latitude="15.808076"/>
+<marker id="682029080" label="Corrupted Boar" category="71" did="1879363279" parentZoneId="1879362295" longitude="-39.55121" latitude="15.71457"/>
+<marker id="682029081" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.102127" latitude="16.135527"/>
+<marker id="682029082" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.31376" latitude="16.065195"/>
+<marker id="682029083" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.11578" latitude="15.967031"/>
+<marker id="682029084" label="Mirkwood Gloomwater" category="71" did="1879363283" parentZoneId="1879362295" longitude="-39.343494" latitude="15.662959"/>
+<marker id="682029085" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029086" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029087" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029088" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029089" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029090" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029091" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029092" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029093" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029094" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029095" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.47751" latitude="16.262577"/>
+<marker id="682029096" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029097" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029098" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029099" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029100" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029101" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029102" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029103" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029104" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029105" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029106" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.122303" latitude="15.714589"/>
+<marker id="682029107" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029108" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029109" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029110" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029111" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029112" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029113" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029114" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029115" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029116" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029117" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.823368" latitude="15.633349"/>
+<marker id="682029118" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029119" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029120" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029121" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029122" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029123" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029124" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029125" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029126" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029127" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029128" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-39.380222" latitude="15.831504"/>
+<marker id="682029129" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029130" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029131" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029132" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029133" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029134" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029135" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029136" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029137" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029138" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029139" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.893806" latitude="15.967226"/>
+<marker id="682029140" label="Lost Broodling" category="71" did="1879363284" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029141" label="Taurog Elder" category="71" did="1879363281" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029142" label="Rabid Mirk-wolf" category="71" did="1879363264" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029143" label="Taurog Reaver" category="71" did="1879363293" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029144" label="Taurog Warrior" category="71" did="1879363260" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029145" label="Mirkwood Bear" category="71" did="1879363275" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029146" label="Forest Doe" category="71" did="1879363261" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029147" label="Mirkwood Wolf" category="71" did="1879363291" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029148" label="Maddened Mirk-bear" category="71" did="1879363288" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029149" label="Forest Buck" category="71" did="1879363263" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029150" label="Mirkwood Boar" category="71" did="1879363272" parentZoneId="1879362295" longitude="-38.9933" latitude="16.293407"/>
+<marker id="682029151" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.850613" latitude="16.044336"/>
+<marker id="682029152" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.850613" latitude="16.044336"/>
+<marker id="682029153" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.850613" latitude="16.044336"/>
+<marker id="682029154" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.850613" latitude="16.044336"/>
+<marker id="682029155" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.93079" latitude="16.244316"/>
+<marker id="682029156" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.93079" latitude="16.244316"/>
+<marker id="682029157" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.93079" latitude="16.244316"/>
+<marker id="682029158" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.93079" latitude="16.244316"/>
+<marker id="682029159" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.486534" latitude="16.20828"/>
+<marker id="682029160" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.486534" latitude="16.20828"/>
+<marker id="682029161" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.486534" latitude="16.20828"/>
+<marker id="682029162" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.486534" latitude="16.20828"/>
+<marker id="682029163" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.51372" latitude="15.95287"/>
+<marker id="682029164" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.51372" latitude="15.95287"/>
+<marker id="682029165" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.51372" latitude="15.95287"/>
+<marker id="682029166" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.51372" latitude="15.95287"/>
+<marker id="682029167" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.165478" latitude="15.643827"/>
+<marker id="682029168" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.165478" latitude="15.643827"/>
+<marker id="682029169" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.165478" latitude="15.643827"/>
+<marker id="682029170" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.165478" latitude="15.643827"/>
+<marker id="682029171" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.94829" latitude="15.758925"/>
+<marker id="682029172" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.94829" latitude="15.758925"/>
+<marker id="682029173" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.94829" latitude="15.758925"/>
+<marker id="682029174" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.94829" latitude="15.758925"/>
+<marker id="682029175" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.46745" latitude="15.654072"/>
+<marker id="682029176" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.46745" latitude="15.654072"/>
+<marker id="682029177" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.46745" latitude="15.654072"/>
+<marker id="682029178" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.46745" latitude="15.654072"/>
+<marker id="682029179" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.95384" latitude="15.695234"/>
+<marker id="682029180" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.95384" latitude="15.695234"/>
+<marker id="682029181" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.95384" latitude="15.695234"/>
+<marker id="682029182" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.95384" latitude="15.695234"/>
+<marker id="682029183" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.17743" latitude="15.716435"/>
+<marker id="682029184" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.17743" latitude="15.716435"/>
+<marker id="682029185" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.17743" latitude="15.716435"/>
+<marker id="682029186" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.17743" latitude="15.716435"/>
+<marker id="682029187" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.391827" latitude="15.64499"/>
+<marker id="682029188" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.391827" latitude="15.64499"/>
+<marker id="682029189" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.391827" latitude="15.64499"/>
+<marker id="682029190" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.391827" latitude="15.64499"/>
+<marker id="682029191" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.50738" latitude="16.341278"/>
+<marker id="682029192" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.50738" latitude="16.341278"/>
+<marker id="682029193" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.50738" latitude="16.341278"/>
+<marker id="682029194" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.50738" latitude="16.341278"/>
+<marker id="682029195" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.494022" latitude="16.10586"/>
+<marker id="682029196" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.494022" latitude="16.10586"/>
+<marker id="682029197" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.494022" latitude="16.10586"/>
+<marker id="682029198" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.494022" latitude="16.10586"/>
+<marker id="682029199" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-39.330097" latitude="16.24289"/>
+<marker id="682029200" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-39.330097" latitude="16.24289"/>
+<marker id="682029201" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-39.330097" latitude="16.24289"/>
+<marker id="682029202" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-39.330097" latitude="16.24289"/>
+<marker id="682029203" label="Heavy Lasgalen Branches" category="50" did="1879365604" parentZoneId="1879362295" longitude="-38.990147" latitude="16.209013"/>
+<marker id="682029204" label="Lasgalen Branches" category="50" did="1879365603" parentZoneId="1879362295" longitude="-38.990147" latitude="16.209013"/>
+<marker id="682029205" label="Erebor Skarn Deposit" category="50" did="1879365600" parentZoneId="1879362295" longitude="-38.990147" latitude="16.209013"/>
+<marker id="682029206" label="Rich Erebor Skarn Deposit" category="50" did="1879365599" parentZoneId="1879362295" longitude="-38.990147" latitude="16.209013"/>
 <marker id="682074113" label="Flakes of Rust" category="73" did="1879367054" parentZoneId="1879362284" longitude="-38.201767" latitude="12.38329"/>
 <marker id="682074114" label="Flakes of Rust" category="73" did="1879367054" parentZoneId="1879362284" longitude="-38.315655" latitude="12.334374"/>
 <marker id="682074115" label="Flakes of Rust" category="73" did="1879367054" parentZoneId="1879362284" longitude="-38.323574" latitude="12.274101"/>
@@ -5478,7 +5474,6 @@
 <marker id="682356993" label="Rabbit" category="78" did="1879079062" parentZoneId="1879362295" longitude="-34.873642" latitude="16.142813"/>
 <marker id="682356994" label="Black Squirrel" category="78" did="1879363746" parentZoneId="1879362295" longitude="-34.873642" latitude="16.142813"/>
 <marker id="682418176" label="Camp Site Fire" category="57" did="1879357876" parentZoneId="1879362295" longitude="-34.78498" latitude="15.488848"/>
-<marker id="682418178" label="Campsite" category="75" did="1879102626" parentZoneId="1879362295" longitude="-34.78498" latitude="15.488848"/>
 <marker id="682422273" label="Deer" category="78" did="1879080635" parentZoneId="1879362295" longitude="-34.372715" latitude="16.213848"/>
 <marker id="682422274" label="Rabbit" category="78" did="1879079062" parentZoneId="1879362295" longitude="-34.372715" latitude="16.213848"/>
 <marker id="682422275" label="Fox" category="78" did="1879078196" parentZoneId="1879362295" longitude="-34.372715" latitude="16.213848"/>

@@ -88,14 +88,11 @@
 <marker id="1070370852" label="" category="70" did="1879313195" parentZoneId="1879328876" longitude="54.522285" latitude="36.37038"/>
 <marker id="1070370853" label="" category="70" did="1879313195" parentZoneId="1879328876" longitude="54.63334" latitude="36.190994"/>
 <marker id="1070370864" label="Worried Soldier" category="70" did="1879331187" parentZoneId="1879328876" longitude="54.797283" latitude="36.311005"/>
-<marker id="1070379008" label="Denethor" category="70" did="1879328393" parentZoneId="1879328873" longitude="54.703262" latitude="38.16074"/>
 <marker id="1070379009" label="Captured Halfling" category="70" did="1879328403" parentZoneId="1879328873" longitude="54.743416" latitude="38.152794"/>
-<marker id="1070379010" label="Blackout and immobilize player" category="75" did="1879221743" parentZoneId="1879328873" longitude="54.70123" latitude="38.165184"/>
-<marker id="1070379011" label="Remove blackout effect" category="75" did="1879221741" parentZoneId="1879328873" longitude="54.68543" latitude="38.15322"/>
+<marker id="1070379010" label="Denethor" category="70" did="1879328393" parentZoneId="1879328873" longitude="54.703262" latitude="38.16074"/>
 <marker id="1070387204" label="Door" category="100" did="1879328991" parentZoneId="1879328877" longitude="54.713066" latitude="39.488808"/>
 <marker id="1070387205" label="Gúldil" category="70" did="1879330105" parentZoneId="1879328877" longitude="54.798847" latitude="39.498085"/>
 <marker id="1070387207" label="Books" category="73" did="1879328397" parentZoneId="1879328877" longitude="55.17045" latitude="39.39539"/>
-<marker id="1070387208" label="Books" category="73" did="1879328387" parentZoneId="1879328877" longitude="55.18742" latitude="39.395096"/>
 <marker id="1070387209" label="Books" category="73" did="1879328387" parentZoneId="1879328877" longitude="55.153458" latitude="39.395332"/>
 <marker id="1070387213" label="Scrolls" category="73" did="1879328382" parentZoneId="1879328877" longitude="55.08033" latitude="39.53947"/>
 <marker id="1070387214" label="Scrolls" category="73" did="1879328382" parentZoneId="1879328877" longitude="55.14912" latitude="39.454628"/>
@@ -108,12 +105,12 @@
 <marker id="1070387222" label="Gúldil" category="70" did="1879330343" parentZoneId="1879328877" longitude="55.018494" latitude="39.485546"/>
 <marker id="1070387223" label="Nobor" category="70" did="1879330094" parentZoneId="1879328877" longitude="55.25082" latitude="39.580723"/>
 <marker id="1070387224" label="Vadokhar" category="71" did="1879330110" parentZoneId="1879328877" longitude="55.25039" latitude="39.581562"/>
-<marker id="1070387225" label="Blackout and immobilize player" category="75" did="1879329393" parentZoneId="1879328877" longitude="55.251503" latitude="39.57371"/>
-<marker id="1070387227" label="Mithrandir" category="70" did="1879328404" parentZoneId="1879328877" longitude="54.873787" latitude="39.488064"/>
-<marker id="1070387228" label="Scrolls" category="73" did="1879328411" parentZoneId="1879328877" longitude="55.033787" latitude="39.53996"/>
-<marker id="1070387229" label="Scrolls" category="73" did="1879328386" parentZoneId="1879328877" longitude="55.033787" latitude="39.523163"/>
-<marker id="1070387230" label="Scrolls" category="73" did="1879328386" parentZoneId="1879328877" longitude="55.08033" latitude="39.522694"/>
-<marker id="1070387231" label="Scrolls" category="73" did="1879328386" parentZoneId="1879328877" longitude="55.14912" latitude="39.43784"/>
+<marker id="1070387225" label="Mithrandir" category="70" did="1879328404" parentZoneId="1879328877" longitude="54.873787" latitude="39.488064"/>
+<marker id="1070387227" label="Scrolls" category="73" did="1879328411" parentZoneId="1879328877" longitude="55.033787" latitude="39.53996"/>
+<marker id="1070387228" label="Scrolls" category="73" did="1879328386" parentZoneId="1879328877" longitude="55.033787" latitude="39.523163"/>
+<marker id="1070387229" label="Scrolls" category="73" did="1879328386" parentZoneId="1879328877" longitude="55.08033" latitude="39.522694"/>
+<marker id="1070387230" label="Scrolls" category="73" did="1879328386" parentZoneId="1879328877" longitude="55.14912" latitude="39.43784"/>
+<marker id="1070387231" label="Books" category="73" did="1879328387" parentZoneId="1879328877" longitude="55.18742" latitude="39.395096"/>
 <marker id="1070395393" label="Tavern Keep" category="38" did="1879313213" parentZoneId="1879328878" longitude="54.887753" latitude="41.136833"/>
 <marker id="1070395401" label="Tavern Keep" category="38" did="1879313213" parentZoneId="1879328878" longitude="54.88615" latitude="41.065525"/>
 <marker id="1070395402" label="Door" category="100" did="1879328993" parentZoneId="1879328878" longitude="55.043083" latitude="41.102127"/>
@@ -236,35 +233,34 @@
 <marker id="1070481437" label="Crumbling Tome" category="73" did="1879324062" parentZoneId="1879324060" longitude="56.527225" latitude="32.506863"/>
 <marker id="1070481438" label="Crumbling Tome" category="73" did="1879324062" parentZoneId="1879324060" longitude="56.406208" latitude="32.638096"/>
 <marker id="1070481439" label="Crumbling Tome" category="73" did="1879324062" parentZoneId="1879324060" longitude="56.46488" latitude="32.636982"/>
-<marker id="1070501888" label="Cold Shadow" category="75" did="1879320436" parentZoneId="1879316665" longitude="55.94488" latitude="36.44873"/>
-<marker id="1070501890" label="Corpse" category="72" did="1879302916" parentZoneId="1879316665" longitude="56.15697" latitude="36.423973"/>
-<marker id="1070501891" label="Corpse" category="72" did="1879302916" parentZoneId="1879316665" longitude="55.928223" latitude="36.403614"/>
-<marker id="1070501892" label="Corpse" category="72" did="1879302916" parentZoneId="1879316665" longitude="56.069492" latitude="36.389637"/>
-<marker id="1070501893" label="Corpse" category="72" did="1879302916" parentZoneId="1879316665" longitude="56.325703" latitude="36.391445"/>
-<marker id="1070501895" label="Flood-land Broodling" category="71" did="1879316520" parentZoneId="1879316665" longitude="56.098885" latitude="36.409412"/>
-<marker id="1070501896" label="Flood-land Broodling" category="71" did="1879316520" parentZoneId="1879316665" longitude="56.267715" latitude="36.43407"/>
-<marker id="1070501897" label="Flood-land Broodling" category="71" did="1879316520" parentZoneId="1879316665" longitude="56.14705" latitude="36.406982"/>
-<marker id="1070501898" label="Flood-land Stalker" category="71" did="1879316517" parentZoneId="1879316665" longitude="56.14166" latitude="36.432587"/>
-<marker id="1070501899" label="Flood-land Weaver" category="71" did="1879316528" parentZoneId="1879316665" longitude="56.238083" latitude="36.409023"/>
-<marker id="1070501900" label="Flood-land Weaver" category="71" did="1879316528" parentZoneId="1879316665" longitude="56.075428" latitude="36.405556"/>
-<marker id="1070501905" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.325703" latitude="36.43168"/>
-<marker id="1070501906" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.325703" latitude="36.43168"/>
+<marker id="1070501889" label="Corpse" category="72" did="1879302916" parentZoneId="1879316665" longitude="56.15697" latitude="36.423973"/>
+<marker id="1070501890" label="Corpse" category="72" did="1879302916" parentZoneId="1879316665" longitude="55.928223" latitude="36.403614"/>
+<marker id="1070501891" label="Corpse" category="72" did="1879302916" parentZoneId="1879316665" longitude="56.069492" latitude="36.389637"/>
+<marker id="1070501892" label="Corpse" category="72" did="1879302916" parentZoneId="1879316665" longitude="56.325703" latitude="36.391445"/>
+<marker id="1070501894" label="Flood-land Broodling" category="71" did="1879316520" parentZoneId="1879316665" longitude="56.098885" latitude="36.409412"/>
+<marker id="1070501895" label="Flood-land Broodling" category="71" did="1879316520" parentZoneId="1879316665" longitude="56.267715" latitude="36.43407"/>
+<marker id="1070501896" label="Flood-land Broodling" category="71" did="1879316520" parentZoneId="1879316665" longitude="56.14705" latitude="36.406982"/>
+<marker id="1070501897" label="Flood-land Stalker" category="71" did="1879316517" parentZoneId="1879316665" longitude="56.14166" latitude="36.432587"/>
+<marker id="1070501898" label="Flood-land Weaver" category="71" did="1879316528" parentZoneId="1879316665" longitude="56.238083" latitude="36.409023"/>
+<marker id="1070501899" label="Flood-land Weaver" category="71" did="1879316528" parentZoneId="1879316665" longitude="56.075428" latitude="36.405556"/>
+<marker id="1070501904" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.325703" latitude="36.43168"/>
+<marker id="1070501905" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.325703" latitude="36.43168"/>
 <marker id="1070501907" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316665" longitude="55.944668" latitude="36.447735"/>
-<marker id="1070501909" label="The Weft-mother" category="71" did="1879315373" parentZoneId="1879316665" longitude="55.9316" latitude="36.419773"/>
-<marker id="1070501910" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="55.948925" latitude="36.401913"/>
-<marker id="1070501911" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="55.948925" latitude="36.401913"/>
-<marker id="1070501912" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="55.964687" latitude="36.44915"/>
-<marker id="1070501913" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="55.964687" latitude="36.44915"/>
-<marker id="1070501914" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.034744" latitude="36.436104"/>
-<marker id="1070501915" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.034744" latitude="36.436104"/>
-<marker id="1070501916" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.10756" latitude="36.390926"/>
-<marker id="1070501917" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.10756" latitude="36.390926"/>
-<marker id="1070501918" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.199608" latitude="36.39165"/>
-<marker id="1070501919" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.199608" latitude="36.39165"/>
-<marker id="1070501920" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.265877" latitude="36.452663"/>
-<marker id="1070501921" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.265877" latitude="36.452663"/>
-<marker id="1070501922" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.342773" latitude="36.448143"/>
-<marker id="1070501923" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.342773" latitude="36.448143"/>
+<marker id="1070501908" label="The Weft-mother" category="71" did="1879315373" parentZoneId="1879316665" longitude="55.9316" latitude="36.419773"/>
+<marker id="1070501909" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="55.948925" latitude="36.401913"/>
+<marker id="1070501910" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="55.948925" latitude="36.401913"/>
+<marker id="1070501911" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="55.964687" latitude="36.44915"/>
+<marker id="1070501912" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="55.964687" latitude="36.44915"/>
+<marker id="1070501913" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.034744" latitude="36.436104"/>
+<marker id="1070501914" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.034744" latitude="36.436104"/>
+<marker id="1070501915" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.10756" latitude="36.390926"/>
+<marker id="1070501916" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.10756" latitude="36.390926"/>
+<marker id="1070501917" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.199608" latitude="36.39165"/>
+<marker id="1070501918" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.199608" latitude="36.39165"/>
+<marker id="1070501919" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.265877" latitude="36.452663"/>
+<marker id="1070501920" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.265877" latitude="36.452663"/>
+<marker id="1070501921" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316665" longitude="56.342773" latitude="36.448143"/>
+<marker id="1070501922" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316665" longitude="56.342773" latitude="36.448143"/>
 <marker id="1070510092" label="Door" category="100" did="1879312568" parentZoneId="1879316664" longitude="56.560467" latitude="37.829453"/>
 <marker id="1070510093" label="Tavern Keep" category="38" did="1879313174" parentZoneId="1879316664" longitude="56.49992" latitude="37.846844"/>
 <marker id="1070510094" label="Bard of Gondor" category="54" did="1879313190" parentZoneId="1879316664" longitude="56.529568" latitude="37.81374"/>
@@ -282,103 +278,99 @@
 <marker id="1070518288" label="Borhador" category="70" did="1879315338" parentZoneId="1879316662" longitude="56.448124" latitude="39.672226"/>
 <marker id="1070526469" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.524178" latitude="40.767693"/>
 <marker id="1070526470" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.69152" latitude="40.669548"/>
-<marker id="1070526480" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="56.32447" latitude="41.69621"/>
-<marker id="1070526481" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="56.360664" latitude="41.01037"/>
-<marker id="1070526482" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="56.85908" latitude="40.657265"/>
-<marker id="1070526483" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="56.373806" latitude="41.093513"/>
-<marker id="1070526484" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="55.538807" latitude="40.72418"/>
-<marker id="1070526485" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.841503" latitude="40.896465"/>
-<marker id="1070526486" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.89986" latitude="40.639317"/>
-<marker id="1070526487" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.387165" latitude="41.74752"/>
-<marker id="1070526488" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.28982" latitude="40.911583"/>
-<marker id="1070526489" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.069687" latitude="40.925526"/>
-<marker id="1070526490" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="55.715645" latitude="40.825527"/>
-<marker id="1070526491" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="55.691387" latitude="40.67918"/>
-<marker id="1070526496" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="56.938885" latitude="40.79064"/>
-<marker id="1070526497" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="56.166855" latitude="41.11709"/>
-<marker id="1070526498" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="56.572987" latitude="40.912304"/>
-<marker id="1070526499" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="56.1949" latitude="40.96795"/>
-<marker id="1070526500" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="55.79908" latitude="40.941032"/>
-<marker id="1070526501" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="55.592266" latitude="40.72539"/>
-<marker id="1070526505" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.66877" latitude="40.662712"/>
-<marker id="1070526507" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.512146" latitude="40.607185"/>
-<marker id="1070526509" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.047558" latitude="40.930138"/>
-<marker id="1070526516" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.948612" latitude="40.905876"/>
-<marker id="1070526517" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.554256" latitude="40.767773"/>
-<marker id="1070526518" label="Cave-troll Brute" category="71" did="1879316494" parentZoneId="1879316661" longitude="56.19902" latitude="40.936268"/>
-<marker id="1070526519" label="Cave-troll Stone-thrower" category="71" did="1879316492" parentZoneId="1879316661" longitude="56.237286" latitude="41.03654"/>
-<marker id="1070526520" label="Cave-troll Stone-thrower" category="71" did="1879316492" parentZoneId="1879316661" longitude="56.29035" latitude="41.03664"/>
-<marker id="1070526521" label="Cave-troll Stone-thrower" category="71" did="1879316492" parentZoneId="1879316661" longitude="56.262188" latitude="41.421444"/>
-<marker id="1070526524" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="56.51033" latitude="40.934765"/>
-<marker id="1070526525" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="56.044823" latitude="40.948536"/>
-<marker id="1070526526" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="56.089783" latitude="40.921425"/>
-<marker id="1070526528" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.88588" latitude="40.62998"/>
-<marker id="1070526530" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.945408" latitude="40.795624"/>
-<marker id="1070526533" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.524628" latitude="40.93869"/>
-<marker id="1070526534" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.515" latitude="40.92115"/>
-<marker id="1070526535" label="White Mountain Defiler" category="71" did="1879316505" parentZoneId="1879316661" longitude="55.693787" latitude="40.91295"/>
-<marker id="1070526537" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="55.53045" latitude="40.745586"/>
-<marker id="1070526538" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="55.67277" latitude="40.70027"/>
-<marker id="1070526543" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.298378" latitude="41.17361"/>
-<marker id="1070526544" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.227226" latitude="41.243946"/>
-<marker id="1070526545" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.297478" latitude="41.19076"/>
-<marker id="1070526546" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.227226" latitude="41.229355"/>
-<marker id="1070526547" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.10537" latitude="41.065605"/>
-<marker id="1070526548" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.098064" latitude="40.996407"/>
-<marker id="1070526549" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.36881" latitude="41.414745"/>
-<marker id="1070526550" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.12072" latitude="40.956192"/>
-<marker id="1070526551" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.077538" latitude="41.711407"/>
-<marker id="1070526552" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.077244" latitude="41.690567"/>
-<marker id="1070526553" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.445427" latitude="41.71385"/>
-<marker id="1070526554" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.44498" latitude="41.678085"/>
-<marker id="1070526555" label="Enraged Cave-troll" category="71" did="1879315374" parentZoneId="1879316661" longitude="56.26359" latitude="41.38252"/>
-<marker id="1070526556" label="Nerzus" category="71" did="1879315371" parentZoneId="1879316661" longitude="56.27492" latitude="41.78113"/>
-<marker id="1070526558" label="Cold Shadow" category="75" did="1879320436" parentZoneId="1879316661" longitude="56.21254" latitude="41.299454"/>
-<marker id="1070526559" label="Cold Shadow" category="75" did="1879320436" parentZoneId="1879316661" longitude="56.317146" latitude="41.30494"/>
-<marker id="1070526560" label="Cold Shadow" category="75" did="1879320436" parentZoneId="1879316661" longitude="56.31238" latitude="41.434315"/>
-<marker id="1070526561" label="Cold Shadow" category="75" did="1879320436" parentZoneId="1879316661" longitude="56.214157" latitude="41.434315"/>
-<marker id="1070526564" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.289997" latitude="41.387146"/>
-<marker id="1070526565" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.236954" latitude="41.385525"/>
-<marker id="1070526566" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.300995" latitude="40.910976"/>
-<marker id="1070526567" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.215996" latitude="40.913944"/>
-<marker id="1070526568" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.232304" latitude="41.606915"/>
-<marker id="1070526569" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.29914" latitude="41.606678"/>
-<marker id="1070526570" label="Door" category="100" did="1879079096" parentZoneId="1879316661" longitude="56.265175" latitude="41.48365"/>
-<marker id="1070526575" label="Drugât" category="71" did="1879315366" parentZoneId="1879316661" longitude="56.356365" latitude="40.95031"/>
-<marker id="1070526576" label="Nerzus" category="71" did="1879315367" parentZoneId="1879316661" longitude="56.35219" latitude="40.957577"/>
-<marker id="1070526577" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.33945" latitude="40.94037"/>
-<marker id="1070526578" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.385056" latitude="40.892673"/>
-<marker id="1070526579" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.338963" latitude="40.92787"/>
-<marker id="1070526580" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.34082" latitude="40.914257"/>
-<marker id="1070526581" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.362556" latitude="40.90412"/>
-<marker id="1070526582" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.347576" latitude="40.96945"/>
-<marker id="1070526583" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.353027" latitude="40.981934"/>
-<marker id="1070526584" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.372948" latitude="41.00939"/>
-<marker id="1070526585" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.35463" latitude="41.00121"/>
-<marker id="1070526586" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.394276" latitude="41.01332"/>
-<marker id="1070526588" label="Cave-troll Brute" category="71" did="1879316494" parentZoneId="1879316661" longitude="56.4499" latitude="40.96701"/>
-<marker id="1070526589" label="Cave-troll Brute" category="71" did="1879316494" parentZoneId="1879316661" longitude="56.435505" latitude="40.920918"/>
-<marker id="1070526590" label="White Mountain Skirmisher" category="71" did="1879316506" parentZoneId="1879316661" longitude="56.813007" latitude="40.7409"/>
-<marker id="1070526591" label="White Mountain Skirmisher" category="71" did="1879316506" parentZoneId="1879316661" longitude="56.87502" latitude="40.788982"/>
-<marker id="1070526592" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="56.66258" latitude="40.917576"/>
-<marker id="1070526593" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="57.00455" latitude="40.575447"/>
-<marker id="1070526594" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.972637" latitude="40.78443"/>
-<marker id="1070526595" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.85545" latitude="40.643475"/>
-<marker id="1070526596" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.63752" latitude="40.91834"/>
-<marker id="1070526597" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="57.01152" latitude="40.57574"/>
-<marker id="1070526598" label="White Mountain Defiler" category="71" did="1879316505" parentZoneId="1879316661" longitude="56.827225" latitude="40.88785"/>
-<marker id="1070526599" label="Arvaethor" category="70" did="1879315335" parentZoneId="1879316661" longitude="56.047344" latitude="40.91693"/>
-<marker id="1070526600" label="White Mountain Chieftain" category="71" did="1879315362" parentZoneId="1879316661" longitude="56.449745" latitude="40.94242"/>
-<marker id="1070526602" label="Nimrond" category="43" did="1879315445" parentZoneId="1879316661" longitude="56.266113" latitude="41.465664"/>
-<marker id="1070526607" label="Drugât" category="71" did="1879315368" parentZoneId="1879316661" longitude="56.262478" latitude="41.78115"/>
-<marker id="1070526608" label="Arvaethor" category="71" did="1879315376" parentZoneId="1879316661" longitude="56.03334" latitude="40.932304"/>
-<marker id="1070526609" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316661" longitude="56.215622" latitude="41.434883"/>
-<marker id="1070526610" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316661" longitude="56.312363" latitude="41.43459"/>
-<marker id="1070526611" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316661" longitude="56.316914" latitude="41.304256"/>
-<marker id="1070526612" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316661" longitude="56.212128" latitude="41.2992"/>
-<marker id="1070526613" label="Drugât" category="70" did="1879317141" parentZoneId="1879316661" longitude="55.520096" latitude="40.519394"/>
-<marker id="1070526615" label="Gundash" category="71" did="1879315592" parentZoneId="1879316661" longitude="56.26709" latitude="41.804844"/>
-<marker id="1070526616" label="Du-kalon" category="71" did="1879315586" parentZoneId="1879316661" longitude="56.26" latitude="41.80174"/>
-<marker id="1070526617" label="Ancient Door" category="73" did="1879317242" parentZoneId="1879316661" longitude="55.698807" latitude="40.668633"/>
-<marker id="1070526618" label="Ancient Door" category="73" did="1879317242" parentZoneId="1879316661" longitude="55.516815" latitude="40.768925"/>
+<marker id="1070526476" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="56.32447" latitude="41.69621"/>
+<marker id="1070526477" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="56.360664" latitude="41.01037"/>
+<marker id="1070526478" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="56.85908" latitude="40.657265"/>
+<marker id="1070526479" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="56.373806" latitude="41.093513"/>
+<marker id="1070526480" label="Wooden Chest" category="72" did="1879302915" parentZoneId="1879316661" longitude="55.538807" latitude="40.72418"/>
+<marker id="1070526481" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.841503" latitude="40.896465"/>
+<marker id="1070526482" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.89986" latitude="40.639317"/>
+<marker id="1070526483" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.387165" latitude="41.74752"/>
+<marker id="1070526484" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.28982" latitude="40.911583"/>
+<marker id="1070526485" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="56.069687" latitude="40.925526"/>
+<marker id="1070526486" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="55.715645" latitude="40.825527"/>
+<marker id="1070526487" label="Corpse" category="72" did="1879302925" parentZoneId="1879316661" longitude="55.691387" latitude="40.67918"/>
+<marker id="1070526492" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="56.938885" latitude="40.79064"/>
+<marker id="1070526493" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="56.166855" latitude="41.11709"/>
+<marker id="1070526494" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="56.572987" latitude="40.912304"/>
+<marker id="1070526495" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="56.1949" latitude="40.96795"/>
+<marker id="1070526496" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="55.79908" latitude="40.941032"/>
+<marker id="1070526497" label="Backpack" category="72" did="1879302923" parentZoneId="1879316661" longitude="55.592266" latitude="40.72539"/>
+<marker id="1070526501" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.66877" latitude="40.662712"/>
+<marker id="1070526503" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.512146" latitude="40.607185"/>
+<marker id="1070526505" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.047558" latitude="40.930138"/>
+<marker id="1070526512" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.948612" latitude="40.905876"/>
+<marker id="1070526513" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="55.554256" latitude="40.767773"/>
+<marker id="1070526514" label="Cave-troll Brute" category="71" did="1879316494" parentZoneId="1879316661" longitude="56.19902" latitude="40.936268"/>
+<marker id="1070526515" label="Cave-troll Stone-thrower" category="71" did="1879316492" parentZoneId="1879316661" longitude="56.237286" latitude="41.03654"/>
+<marker id="1070526516" label="Cave-troll Stone-thrower" category="71" did="1879316492" parentZoneId="1879316661" longitude="56.29035" latitude="41.03664"/>
+<marker id="1070526517" label="Cave-troll Stone-thrower" category="71" did="1879316492" parentZoneId="1879316661" longitude="56.262188" latitude="41.421444"/>
+<marker id="1070526520" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="56.51033" latitude="40.934765"/>
+<marker id="1070526521" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="56.044823" latitude="40.948536"/>
+<marker id="1070526522" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="56.089783" latitude="40.921425"/>
+<marker id="1070526524" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.88588" latitude="40.62998"/>
+<marker id="1070526526" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.945408" latitude="40.795624"/>
+<marker id="1070526529" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.524628" latitude="40.93869"/>
+<marker id="1070526530" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.515" latitude="40.92115"/>
+<marker id="1070526531" label="White Mountain Defiler" category="71" did="1879316505" parentZoneId="1879316661" longitude="55.693787" latitude="40.91295"/>
+<marker id="1070526533" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="55.53045" latitude="40.745586"/>
+<marker id="1070526534" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="55.67277" latitude="40.70027"/>
+<marker id="1070526539" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.298378" latitude="41.17361"/>
+<marker id="1070526540" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.227226" latitude="41.243946"/>
+<marker id="1070526541" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.297478" latitude="41.19076"/>
+<marker id="1070526542" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.227226" latitude="41.229355"/>
+<marker id="1070526543" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.10537" latitude="41.065605"/>
+<marker id="1070526544" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.098064" latitude="40.996407"/>
+<marker id="1070526545" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.36881" latitude="41.414745"/>
+<marker id="1070526546" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.12072" latitude="40.956192"/>
+<marker id="1070526547" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.077538" latitude="41.711407"/>
+<marker id="1070526548" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.077244" latitude="41.690567"/>
+<marker id="1070526549" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.445427" latitude="41.71385"/>
+<marker id="1070526550" label="Ruthless Warrior" category="71" did="1879316495" parentZoneId="1879316661" longitude="56.44498" latitude="41.678085"/>
+<marker id="1070526551" label="Enraged Cave-troll" category="71" did="1879315374" parentZoneId="1879316661" longitude="56.26359" latitude="41.38252"/>
+<marker id="1070526552" label="Nerzus" category="71" did="1879315371" parentZoneId="1879316661" longitude="56.27492" latitude="41.78113"/>
+<marker id="1070526556" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.289997" latitude="41.387146"/>
+<marker id="1070526557" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.236954" latitude="41.385525"/>
+<marker id="1070526558" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.300995" latitude="40.910976"/>
+<marker id="1070526559" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.215996" latitude="40.913944"/>
+<marker id="1070526560" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.232304" latitude="41.606915"/>
+<marker id="1070526561" label="Ruthless Archer" category="71" did="1879316496" parentZoneId="1879316661" longitude="56.29914" latitude="41.606678"/>
+<marker id="1070526562" label="Door" category="100" did="1879079096" parentZoneId="1879316661" longitude="56.265175" latitude="41.48365"/>
+<marker id="1070526567" label="Drugât" category="71" did="1879315366" parentZoneId="1879316661" longitude="56.356365" latitude="40.95031"/>
+<marker id="1070526568" label="Nerzus" category="71" did="1879315367" parentZoneId="1879316661" longitude="56.35219" latitude="40.957577"/>
+<marker id="1070526569" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.33945" latitude="40.94037"/>
+<marker id="1070526570" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.385056" latitude="40.892673"/>
+<marker id="1070526571" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.338963" latitude="40.92787"/>
+<marker id="1070526572" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.34082" latitude="40.914257"/>
+<marker id="1070526573" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.362556" latitude="40.90412"/>
+<marker id="1070526574" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.347576" latitude="40.96945"/>
+<marker id="1070526575" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.353027" latitude="40.981934"/>
+<marker id="1070526576" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.372948" latitude="41.00939"/>
+<marker id="1070526577" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.35463" latitude="41.00121"/>
+<marker id="1070526578" label="Cursed Warrior" category="71" did="1879315365" parentZoneId="1879316661" longitude="56.394276" latitude="41.01332"/>
+<marker id="1070526580" label="Cave-troll Brute" category="71" did="1879316494" parentZoneId="1879316661" longitude="56.4499" latitude="40.96701"/>
+<marker id="1070526581" label="Cave-troll Brute" category="71" did="1879316494" parentZoneId="1879316661" longitude="56.435505" latitude="40.920918"/>
+<marker id="1070526582" label="White Mountain Skirmisher" category="71" did="1879316506" parentZoneId="1879316661" longitude="56.813007" latitude="40.7409"/>
+<marker id="1070526583" label="White Mountain Skirmisher" category="71" did="1879316506" parentZoneId="1879316661" longitude="56.87502" latitude="40.788982"/>
+<marker id="1070526584" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="56.66258" latitude="40.917576"/>
+<marker id="1070526585" label="White Mountain Marauder" category="71" did="1879316507" parentZoneId="1879316661" longitude="57.00455" latitude="40.575447"/>
+<marker id="1070526586" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.972637" latitude="40.78443"/>
+<marker id="1070526587" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.85545" latitude="40.643475"/>
+<marker id="1070526588" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="56.63752" latitude="40.91834"/>
+<marker id="1070526589" label="White Mountain Raider" category="71" did="1879316504" parentZoneId="1879316661" longitude="57.01152" latitude="40.57574"/>
+<marker id="1070526590" label="White Mountain Defiler" category="71" did="1879316505" parentZoneId="1879316661" longitude="56.827225" latitude="40.88785"/>
+<marker id="1070526591" label="Arvaethor" category="70" did="1879315335" parentZoneId="1879316661" longitude="56.047344" latitude="40.91693"/>
+<marker id="1070526592" label="White Mountain Chieftain" category="71" did="1879315362" parentZoneId="1879316661" longitude="56.449745" latitude="40.94242"/>
+<marker id="1070526593" label="Arvaethor" category="71" did="1879315376" parentZoneId="1879316661" longitude="56.03334" latitude="40.932304"/>
+<marker id="1070526594" label="Nimrond" category="43" did="1879315445" parentZoneId="1879316661" longitude="56.266113" latitude="41.465664"/>
+<marker id="1070526595" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316661" longitude="56.215622" latitude="41.434883"/>
+<marker id="1070526596" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316661" longitude="56.312363" latitude="41.43459"/>
+<marker id="1070526597" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316661" longitude="56.316914" latitude="41.304256"/>
+<marker id="1070526598" label="Cursed Stone" category="71" did="1879315358" parentZoneId="1879316661" longitude="56.212128" latitude="41.2992"/>
+<marker id="1070526599" label="Drugât" category="71" did="1879315368" parentZoneId="1879316661" longitude="56.262478" latitude="41.78115"/>
+<marker id="1070526605" label="Drugât" category="70" did="1879317141" parentZoneId="1879316661" longitude="55.520096" latitude="40.519394"/>
+<marker id="1070526608" label="Du-kalon" category="71" did="1879315586" parentZoneId="1879316661" longitude="56.26" latitude="41.80174"/>
+<marker id="1070526609" label="Ancient Door" category="73" did="1879317242" parentZoneId="1879316661" longitude="55.698807" latitude="40.668633"/>
+<marker id="1070526610" label="Ancient Door" category="73" did="1879317242" parentZoneId="1879316661" longitude="55.516815" latitude="40.768925"/>
+<marker id="1070526612" label="Gundash" category="71" did="1879315592" parentZoneId="1879316661" longitude="56.26709" latitude="41.804844"/>
 </markers>

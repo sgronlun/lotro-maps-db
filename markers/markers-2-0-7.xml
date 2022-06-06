@@ -49,8 +49,14 @@
 <marker id="544411648" label="Legendary Recipes&#10;Cook's Guild" category="33" did="1879254339" parentZoneId="1879255330" longitude="-144.09062" latitude="-34.53751"/>
 <marker id="544411649" label="Guild Leader&#10;Cook's Guild" category="58" did="1879254338" parentZoneId="1879255330" longitude="-144.07271" latitude="-34.508816"/>
 <marker id="544411650" label="Improved Recipes&#10;Cook's Guild" category="33" did="1879254340" parentZoneId="1879255330" longitude="-144.08739" latitude="-34.543175"/>
+<marker id="544411651" label="Legendary Recipes&#10;Jeweller's Guild" category="33" did="1879254346" parentZoneId="1879255330" longitude="-144.04465" latitude="-34.344734"/>
+<marker id="544411652" label="Guild Leader&#10;Jeweller's Guild" category="58" did="1879254347" parentZoneId="1879255330" longitude="-144.04013" latitude="-34.350048"/>
+<marker id="544411653" label="Improved Recipes&#10;Jeweller's Guild" category="33" did="1879254345" parentZoneId="1879255330" longitude="-144.03137" latitude="-34.35751"/>
+<marker id="544411654" label="Legendary Recipes&#10;Metalsmith's Guild" category="33" did="1879254344" parentZoneId="1879255330" longitude="-144.07858" latitude="-34.54588"/>
+<marker id="544411655" label="Guild Leader&#10;Metalsmith's Guild" category="58" did="1879254348" parentZoneId="1879255330" longitude="-144.067" latitude="-34.54586"/>
 <marker id="544411656" label="Improved Recipes&#10;Metalsmith's Guild" category="33" did="1879254343" parentZoneId="1879255330" longitude="-144.05971" latitude="-34.53041"/>
 <marker id="544411657" label="Legendary Recipes&#10;Scholar's Guild" category="33" did="1879254342" parentZoneId="1879255330" longitude="-144.08757" latitude="-34.432842"/>
+<marker id="544411658" label="Guild Leader&#10;Scholar's Guild" category="58" did="1879254349" parentZoneId="1879255330" longitude="-144.08643" latitude="-34.413975"/>
 <marker id="544411659" label="Improved Recipes&#10;Scholar's Guild" category="33" did="1879254341" parentZoneId="1879255330" longitude="-144.05101" latitude="-34.419735"/>
 <marker id="544411660" label="Legendary Recipes&#10;Tailor's Guild" category="33" did="1879254356" parentZoneId="1879255330" longitude="-144.09186" latitude="-34.37873"/>
 <marker id="544411662" label="Improved Recipes&#10;Tailor's Guild" category="33" did="1879254357" parentZoneId="1879255330" longitude="-144.08337" latitude="-34.380196"/>
@@ -67,25 +73,16 @@
 <marker id="544411677" label="Auctioneer" category="53" did="1879230286" parentZoneId="1879255330" longitude="-144.04578" latitude="-34.45993"/>
 <marker id="544411678" label="Mailbox" category="34" did="1879229155" parentZoneId="1879255330" longitude="-144.07938" latitude="-34.484188"/>
 <marker id="544411679" label="Mailbox" category="34" did="1879229155" parentZoneId="1879255330" longitude="-144.05444" latitude="-34.410477"/>
-<marker id="544411682" label="Study" category="45" did="1879063729" parentZoneId="1879255330" longitude="-144.08597" latitude="-34.421963"/>
-<marker id="544411683" label="Oven" category="45" did="1879063058" parentZoneId="1879255330" longitude="-144.10466" latitude="-34.51697"/>
-<marker id="544411684" label="Forge" category="45" did="1879063062" parentZoneId="1879255330" longitude="-144.0416" latitude="-34.544003"/>
-<marker id="544411694" label="Master of Crafting Guilds" category="70" did="1879206579" parentZoneId="1879255330" longitude="-144.0769" latitude="-34.397236"/>
-<marker id="544411695" label="Workbench" category="45" did="1879063073" parentZoneId="1879255330" longitude="-144.07881" latitude="-34.34278"/>
-<marker id="544411712" label="Improved Recipes&#10;Jeweller's Guild" category="33" did="1879254345" parentZoneId="1879255330" longitude="-144.03137" latitude="-34.35751"/>
-<marker id="544411713" label="Legendary Recipes&#10;Metalsmith's Guild" category="33" did="1879254344" parentZoneId="1879255330" longitude="-144.07858" latitude="-34.54588"/>
-<marker id="544411714" label="Guild Leader&#10;Jeweller's Guild" category="58" did="1879254347" parentZoneId="1879255330" longitude="-144.04013" latitude="-34.350048"/>
-<marker id="544411715" label="Legendary Recipes&#10;Jeweller's Guild" category="33" did="1879254346" parentZoneId="1879255330" longitude="-144.04465" latitude="-34.344734"/>
-<marker id="544411716" label="Guild Leader&#10;Scholar's Guild" category="58" did="1879254349" parentZoneId="1879255330" longitude="-144.08643" latitude="-34.413975"/>
-<marker id="544411717" label="Guild Leader&#10;Metalsmith's Guild" category="58" did="1879254348" parentZoneId="1879255330" longitude="-144.067" latitude="-34.54586"/>
-<marker id="544411718" label="Guild Leader&#10;Woodworker's Guild" category="58" did="1879254351" parentZoneId="1879255330" longitude="-144.04707" latitude="-34.384373"/>
-<marker id="544411719" label="Guild Leader&#10;Tailor's Guild" category="58" did="1879254350" parentZoneId="1879255330" longitude="-144.09326" latitude="-34.37132"/>
-<marker id="544411720" label="Expert Cook" category="33" did="1879228231" parentZoneId="1879255330" longitude="-144.0829" latitude="-34.52136"/>
-<marker id="544411721" label="Expert Scholar" category="33" did="1879228230" parentZoneId="1879255330" longitude="-144.05064" latitude="-34.433445"/>
-<marker id="544411722" label="Vault-keeper" category="40" did="1879228271" parentZoneId="1879255330" longitude="-144.05179" latitude="-34.478367"/>
-<marker id="544411723" label="Master of Apprentices" category="42" did="1879048468" parentZoneId="1879255330" longitude="-144.05443" latitude="-34.396503"/>
-<marker id="544411724" label="Supplier" category="38" did="1879222938" parentZoneId="1879255330" longitude="-144.05588" latitude="-34.501747"/>
-<marker id="544411725" label="Provisioner" category="38" did="1879222929" parentZoneId="1879255330" longitude="-144.08789" latitude="-34.46954"/>
+<marker id="544411691" label="Master of Crafting Guilds" category="70" did="1879206579" parentZoneId="1879255330" longitude="-144.0769" latitude="-34.397236"/>
+<marker id="544411692" label="Study" category="45" did="1879063729" parentZoneId="1879255330" longitude="-144.08597" latitude="-34.421963"/>
+<marker id="544411712" label="Guild Leader&#10;Woodworker's Guild" category="58" did="1879254351" parentZoneId="1879255330" longitude="-144.04707" latitude="-34.384373"/>
+<marker id="544411713" label="Guild Leader&#10;Tailor's Guild" category="58" did="1879254350" parentZoneId="1879255330" longitude="-144.09326" latitude="-34.37132"/>
+<marker id="544411714" label="Expert Cook" category="33" did="1879228231" parentZoneId="1879255330" longitude="-144.0829" latitude="-34.52136"/>
+<marker id="544411715" label="Expert Scholar" category="33" did="1879228230" parentZoneId="1879255330" longitude="-144.05064" latitude="-34.433445"/>
+<marker id="544411716" label="Vault-keeper" category="40" did="1879228271" parentZoneId="1879255330" longitude="-144.05179" latitude="-34.478367"/>
+<marker id="544411717" label="Master of Apprentices" category="42" did="1879048468" parentZoneId="1879255330" longitude="-144.05443" latitude="-34.396503"/>
+<marker id="544411718" label="Supplier" category="38" did="1879222938" parentZoneId="1879255330" longitude="-144.05588" latitude="-34.501747"/>
+<marker id="544411719" label="Provisioner" category="38" did="1879222929" parentZoneId="1879255330" longitude="-144.08789" latitude="-34.46954"/>
 <marker id="544419845" label="Auctioneer" category="53" did="1879230286" parentZoneId="1879244888" longitude="-144.42519" latitude="-32.429726"/>
 <marker id="544419846" label="Mailbox" category="34" did="1879229155" parentZoneId="1879244888" longitude="-144.39551" latitude="-32.43957"/>
 <marker id="544419847" label="Auctioneer" category="53" did="1879230286" parentZoneId="1879244888" longitude="-144.42542" latitude="-32.41626"/>

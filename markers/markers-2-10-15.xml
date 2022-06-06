@@ -26,8 +26,7 @@
 <marker id="720375839" label="Rohirrim Soldier" category="70" did="1879302777" parentZoneId="1879289543" longitude="-18.635176" latitude="68.48912"/>
 <marker id="720379904" label="Door" category="100" did="1879277806" parentZoneId="1879289543" longitude="-18.45582" latitude="69.29758"/>
 <marker id="720379905" label="Portcullis" category="100" did="1879277878" parentZoneId="1879289543" longitude="-18.452452" latitude="69.2976"/>
-<marker id="720379907" label="Remove blackout effect" category="75" did="1879221741" parentZoneId="1879289543" longitude="-18.038544" latitude="69.22848"/>
-<marker id="720379908" label="Gléowine" category="70" did="1879272790" parentZoneId="1879289543" longitude="-18.014755" latitude="69.22803"/>
+<marker id="720379906" label="Gléowine" category="70" did="1879272790" parentZoneId="1879289543" longitude="-18.014755" latitude="69.22803"/>
 <marker id="720384004" label="Rohirrim Soldier" category="70" did="1879302759" parentZoneId="1879289550" longitude="-18.25755" latitude="70.176636"/>
 <marker id="720384005" label="Rohirrim Soldier" category="70" did="1879302775" parentZoneId="1879289550" longitude="-18.195438" latitude="70.33121"/>
 <marker id="720384006" label="Rohirrim Soldier" category="70" did="1879302777" parentZoneId="1879289550" longitude="-18.369717" latitude="70.327515"/>
@@ -115,12 +114,11 @@
 <marker id="720396359" label="Man of Rohan" category="70" did="1879278423" parentZoneId="1879289550" longitude="-18.471386" latitude="72.898224"/>
 <marker id="720396360" label="Man of Rohan" category="70" did="1879278423" parentZoneId="1879289550" longitude="-18.515839" latitude="72.859474"/>
 <marker id="720396361" label="Man of Rohan" category="70" did="1879278423" parentZoneId="1879289550" longitude="-18.560106" latitude="72.849785"/>
-<marker id="720396362" label="Erkenbrand" category="70" did="1879287294" parentZoneId="1879289550" longitude="-18.509932" latitude="72.83967"/>
 <marker id="720396363" label="Gandalf" category="70" did="1879271938" parentZoneId="1879289550" longitude="-18.520302" latitude="72.840744"/>
-<marker id="720396364" label="Dread Aura Tier 6" category="75" did="1879082089" parentZoneId="1879289550" longitude="-18.013584" latitude="72.445015"/>
-<marker id="720396365" label="Gandalf" category="70" did="1879289134" parentZoneId="1879289550" longitude="-18.206512" latitude="72.698746"/>
-<marker id="720396366" label="Erkenbrand" category="70" did="1879289141" parentZoneId="1879289550" longitude="-18.025372" latitude="72.48191"/>
-<marker id="720396367" label="Grimbold" category="70" did="1879289138" parentZoneId="1879289550" longitude="-18.025" latitude="72.49037"/>
+<marker id="720396364" label="Gandalf" category="70" did="1879289134" parentZoneId="1879289550" longitude="-18.206512" latitude="72.698746"/>
+<marker id="720396365" label="Erkenbrand" category="70" did="1879289141" parentZoneId="1879289550" longitude="-18.025372" latitude="72.48191"/>
+<marker id="720396366" label="Grimbold" category="70" did="1879289138" parentZoneId="1879289550" longitude="-18.025" latitude="72.49037"/>
+<marker id="720396367" label="Erkenbrand" category="70" did="1879287294" parentZoneId="1879289550" longitude="-18.509932" latitude="72.83967"/>
 <marker id="720404480" label="Uruk Captain" category="71" did="1879276571" parentZoneId="1879289550" longitude="-18.418144" latitude="74.459785"/>
 <marker id="720404481" label="Uruk-hai" category="71" did="1879276569" parentZoneId="1879289550" longitude="-18.423916" latitude="74.45279"/>
 <marker id="720404482" label="Uruk-hai" category="71" did="1879276572" parentZoneId="1879289550" longitude="-18.416464" latitude="74.4641"/>
@@ -195,28 +193,25 @@
 <marker id="720453666" label="Rohirrim Soldier" category="70" did="1879302777" parentZoneId="1879289550" longitude="-17.506933" latitude="71.127106"/>
 <marker id="720453667" label="Rohirrim Soldier" category="70" did="1879302776" parentZoneId="1879289550" longitude="-17.381317" latitude="71.17961"/>
 <marker id="720457728" label="Éomer" category="70" did="1879289135" parentZoneId="1879289550" longitude="-17.635332" latitude="71.94857"/>
-<marker id="720457729" label="Dread Aura Tier 4" category="75" did="1879080642" parentZoneId="1879289550" longitude="-17.636093" latitude="71.89732"/>
-<marker id="720457730" label="Remove blackout effect" category="75" did="1879221741" parentZoneId="1879289550" longitude="-17.596367" latitude="72.0939"/>
-<marker id="720457731" label="King Théoden" category="70" did="1879289142" parentZoneId="1879289550" longitude="-17.649414" latitude="71.947716"/>
-<marker id="720457732" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.251844" latitude="72.35715"/>
-<marker id="720457733" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.226006" latitude="72.39111"/>
-<marker id="720457734" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.637655" latitude="71.93023"/>
-<marker id="720457735" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.633192" latitude="71.96716"/>
-<marker id="720457736" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.611816" latitude="71.96422"/>
-<marker id="720457737" label="Drama Root Hotspot" category="75" did="1879297199" parentZoneId="1879289550" longitude="-17.596367" latitude="72.0939"/>
-<marker id="720457738" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.219921" latitude="72.3767"/>
-<marker id="720457739" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.638662" latitude="71.92238"/>
-<marker id="720457740" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.605732" latitude="71.94981"/>
-<marker id="720457741" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.264042" latitude="72.3502"/>
-<marker id="720457742" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.224003" latitude="72.34265"/>
-<marker id="720457743" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.250927" latitude="72.33211"/>
-<marker id="720457744" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.223204" latitude="72.35953"/>
-<marker id="720457745" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.236319" latitude="72.37762"/>
-<marker id="720457746" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.609814" latitude="71.91574"/>
-<marker id="720457747" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.636738" latitude="71.90894"/>
-<marker id="720457748" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.649853" latitude="71.92328"/>
-<marker id="720457749" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.609013" latitude="71.93263"/>
-<marker id="720457750" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.62213" latitude="71.95072"/>
+<marker id="720457729" label="King Théoden" category="70" did="1879289142" parentZoneId="1879289550" longitude="-17.649414" latitude="71.947716"/>
+<marker id="720457730" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.251844" latitude="72.35715"/>
+<marker id="720457731" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.226006" latitude="72.39111"/>
+<marker id="720457732" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.637655" latitude="71.93023"/>
+<marker id="720457733" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.633192" latitude="71.96716"/>
+<marker id="720457734" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.611816" latitude="71.96422"/>
+<marker id="720457735" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.219921" latitude="72.3767"/>
+<marker id="720457736" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.638662" latitude="71.92238"/>
+<marker id="720457737" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.605732" latitude="71.94981"/>
+<marker id="720457738" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.264042" latitude="72.3502"/>
+<marker id="720457739" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.224003" latitude="72.34265"/>
+<marker id="720457740" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.250927" latitude="72.33211"/>
+<marker id="720457741" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.223204" latitude="72.35953"/>
+<marker id="720457742" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.236319" latitude="72.37762"/>
+<marker id="720457743" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.609814" latitude="71.91574"/>
+<marker id="720457744" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.636738" latitude="71.90894"/>
+<marker id="720457745" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.649853" latitude="71.92328"/>
+<marker id="720457746" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.609013" latitude="71.93263"/>
+<marker id="720457747" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.62213" latitude="71.95072"/>
 <marker id="720461825" label="Legolas" category="70" did="1879289133" parentZoneId="1879289550" longitude="-17.239258" latitude="72.51848"/>
 <marker id="720461826" label="Aragorn" category="70" did="1879289132" parentZoneId="1879289550" longitude="-17.23832" latitude="72.54301"/>
 <marker id="720461827" label="Huorn" category="71" did="1879289130" parentZoneId="1879289550" longitude="-17.543652" latitude="73.113434"/>
@@ -229,22 +224,21 @@
 <marker id="720461834" label="Huorn" category="71" did="1879289130" parentZoneId="1879289550" longitude="-17.653086" latitude="73.09379"/>
 <marker id="720461835" label="Huorn" category="71" did="1879289130" parentZoneId="1879289550" longitude="-17.622803" latitude="73.18076"/>
 <marker id="720461836" label="Huorn" category="71" did="1879289130" parentZoneId="1879289550" longitude="-17.851591" latitude="73.1858"/>
-<marker id="720461837" label="Dread Aura Tier 4" category="75" did="1879080642" parentZoneId="1879289550" longitude="-17.214521" latitude="72.55727"/>
-<marker id="720461838" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.639648" latitude="72.81584"/>
-<marker id="720461839" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.937159" latitude="72.75074"/>
-<marker id="720461840" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.24707" latitude="72.505196"/>
-<marker id="720461841" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.447998" latitude="72.569275"/>
-<marker id="720461842" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.380869" latitude="72.45152"/>
-<marker id="720461843" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.247274" latitude="72.52047"/>
-<marker id="720461844" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.229424" latitude="72.53652"/>
-<marker id="720461845" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.216534" latitude="72.58142"/>
-<marker id="720461846" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.65292" latitude="72.54545"/>
-<marker id="720461847" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.94622" latitude="72.68148"/>
-<marker id="720461848" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.602167" latitude="72.68867"/>
-<marker id="720461849" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.206963" latitude="72.577774"/>
-<marker id="720461850" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.21789" latitude="72.56443"/>
-<marker id="720461851" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.32826" latitude="72.43082"/>
-<marker id="720461852" label="Resting Spot" category="73" did="1879291126" parentZoneId="1879289550" longitude="-17.561405" latitude="72.94396"/>
+<marker id="720461837" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.639648" latitude="72.81584"/>
+<marker id="720461838" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.937159" latitude="72.75074"/>
+<marker id="720461839" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.24707" latitude="72.505196"/>
+<marker id="720461840" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.447998" latitude="72.569275"/>
+<marker id="720461841" label="Uruk" category="70" did="1879289140" parentZoneId="1879289550" longitude="-17.380869" latitude="72.45152"/>
+<marker id="720461842" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.247274" latitude="72.52047"/>
+<marker id="720461843" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.229424" latitude="72.53652"/>
+<marker id="720461844" label="Orc" category="70" did="1879289139" parentZoneId="1879289550" longitude="-17.216534" latitude="72.58142"/>
+<marker id="720461845" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.65292" latitude="72.54545"/>
+<marker id="720461846" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.94622" latitude="72.68148"/>
+<marker id="720461847" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.602167" latitude="72.68867"/>
+<marker id="720461848" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.206963" latitude="72.577774"/>
+<marker id="720461849" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.21789" latitude="72.56443"/>
+<marker id="720461850" label="Guard" category="70" did="1879289136" parentZoneId="1879289550" longitude="-17.32826" latitude="72.43082"/>
+<marker id="720461851" label="Resting Spot" category="73" did="1879291126" parentZoneId="1879289550" longitude="-17.561405" latitude="72.94396"/>
 <marker id="720465920" label="Huorn" category="71" did="1879289130" parentZoneId="1879289550" longitude="-17.27958" latitude="73.336754"/>
 <marker id="720465921" label="Huorn" category="71" did="1879289130" parentZoneId="1879289550" longitude="-17.48082" latitude="73.435936"/>
 <marker id="720465922" label="Huorn" category="71" did="1879289130" parentZoneId="1879289550" longitude="-17.733368" latitude="73.358826"/>
@@ -299,11 +293,10 @@
 <marker id="720597002" label="Théoden" category="70" did="1879303763" parentZoneId="1879289550" longitude="-16.135546" latitude="73.75269"/>
 <marker id="720617472" label="Marton Farmlands" category="43" did="1879271268" parentZoneId="1879063919" longitude="-15.999648" latitude="77.59966"/>
 <marker id="720617473" label="Farm-raider" category="71" did="1879272964" parentZoneId="1879063919" longitude="-15.980996" latitude="77.53197"/>
-<marker id="720617475" label="Searing Heat" category="75" did="1879083430" parentZoneId="1879063919" longitude="-16.140976" latitude="77.64094"/>
-<marker id="720617476" label="Fire" category="73" did="1879273427" parentZoneId="1879063919" longitude="-16.19207" latitude="77.71297"/>
-<marker id="720617477" label="Fire" category="73" did="1879273427" parentZoneId="1879063919" longitude="-15.886816" latitude="77.53711"/>
-<marker id="720617478" label="Fire" category="73" did="1879273427" parentZoneId="1879063919" longitude="-16.139286" latitude="77.54285"/>
-<marker id="720617479" label="Well" category="73" did="1879273010" parentZoneId="1879063919" longitude="-15.648906" latitude="77.4666"/>
+<marker id="720617475" label="Fire" category="73" did="1879273427" parentZoneId="1879063919" longitude="-16.19207" latitude="77.71297"/>
+<marker id="720617476" label="Fire" category="73" did="1879273427" parentZoneId="1879063919" longitude="-15.886816" latitude="77.53711"/>
+<marker id="720617477" label="Fire" category="73" did="1879273427" parentZoneId="1879063919" longitude="-16.139286" latitude="77.54285"/>
+<marker id="720617478" label="Well" category="73" did="1879273010" parentZoneId="1879063919" longitude="-15.648906" latitude="77.4666"/>
 <marker id="720662528" label="Everholt Huorn" category="71" did="1879288848" parentZoneId="1879289550" longitude="-15.0409565" latitude="73.443535"/>
 <marker id="720666624" label="Everholt Huorn" category="71" did="1879288848" parentZoneId="1879289550" longitude="-15.341865" latitude="74.59992"/>
 <marker id="720666625" label="Refugee" category="70" did="1879271956" parentZoneId="1879289550" longitude="-15.118975" latitude="74.41496"/>

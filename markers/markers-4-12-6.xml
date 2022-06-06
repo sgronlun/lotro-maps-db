@@ -1,295 +1,293 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="1281363968" label="Scorching Heat" category="75" did="1879340480" parentZoneId="1879338150" longitude="7.4396286" latitude="-46.263573"/>
-<marker id="1281363969" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
-<marker id="1281363970" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
-<marker id="1281363971" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
-<marker id="1281363972" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
-<marker id="1281363973" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
-<marker id="1281363974" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
-<marker id="1281363975" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363976" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363977" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363978" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363979" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363980" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363981" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363982" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363983" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363984" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363985" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363986" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363987" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363988" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363989" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
-<marker id="1281363990" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363991" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363992" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363993" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363994" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363995" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363996" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363997" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363998" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281363999" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281364000" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281364001" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281364002" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281364003" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281364004" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
-<marker id="1281364005" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364006" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364007" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364008" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364009" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364010" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364011" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364012" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364013" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364014" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364015" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364016" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364017" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364018" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364019" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
-<marker id="1281364020" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364021" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364022" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364023" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364024" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364025" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364026" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364027" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364028" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364029" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364030" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364031" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364032" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364033" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364034" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
-<marker id="1281364035" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364036" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364037" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364038" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364039" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364040" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364041" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364042" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364043" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364044" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364045" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364046" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364047" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364048" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281364049" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
-<marker id="1281368065" label="Scorching Heat" category="75" did="1879340480" parentZoneId="1879338148" longitude="7.492676" latitude="-45.733418"/>
-<marker id="1281368066" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
-<marker id="1281368067" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
-<marker id="1281368068" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
-<marker id="1281368069" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
-<marker id="1281368070" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
-<marker id="1281368071" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
-<marker id="1281368072" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
-<marker id="1281368073" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
-<marker id="1281368074" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
-<marker id="1281368075" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
-<marker id="1281368076" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
-<marker id="1281368077" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
-<marker id="1281368079" label="Nuzdum" category="71" did="1879346647" parentZoneId="1879338148" longitude="7.0254393" latitude="-45.589336"/>
-<marker id="1281368080" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368081" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368082" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368083" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368084" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368085" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368086" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368087" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368088" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368089" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368090" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368091" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368092" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368093" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368094" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
-<marker id="1281368095" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368096" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368097" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368098" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368099" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368100" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368101" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368102" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368103" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368104" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368105" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368106" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368107" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368108" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368109" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
-<marker id="1281368110" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368111" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368112" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368113" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368114" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368115" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368116" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368117" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368118" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368119" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368120" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368121" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368122" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368123" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368124" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
-<marker id="1281368125" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368126" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368127" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368128" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368129" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368130" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368131" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368132" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368133" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368134" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368135" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368136" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368137" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368138" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368139" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
-<marker id="1281368140" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368141" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368142" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368143" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368144" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368145" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368146" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368147" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368148" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368149" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368150" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368151" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368152" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368153" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368154" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
-<marker id="1281368155" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368156" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368157" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368158" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368159" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368160" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368161" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368162" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368163" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368164" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368165" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368166" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368167" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368168" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368169" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
-<marker id="1281368170" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368171" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368172" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368173" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368174" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368175" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368176" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368177" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368178" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368179" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368180" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368181" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368182" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368183" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368184" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
-<marker id="1281368185" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368186" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368187" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368188" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368189" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368190" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368191" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368192" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368193" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368194" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368195" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368196" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368197" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368198" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368199" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
-<marker id="1281368200" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368201" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368202" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368203" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368204" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368205" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368206" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368207" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368208" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368209" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368210" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368211" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368212" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368213" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368214" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
-<marker id="1281368215" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368216" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368217" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368218" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368219" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368220" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368221" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368222" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368223" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368224" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368225" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368226" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368227" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368228" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368229" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
-<marker id="1281368230" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368231" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368232" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368233" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368234" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368235" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368236" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368237" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368238" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368239" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368240" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368241" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368242" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368243" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368244" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
-<marker id="1281368245" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368246" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368247" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368248" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368249" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368250" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368251" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368252" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368253" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368254" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368255" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368256" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368257" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368258" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368259" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
-<marker id="1281368260" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368261" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368262" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368263" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368264" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368265" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368266" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368267" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368268" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368269" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368270" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368271" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368272" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368273" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
-<marker id="1281368274" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281363968" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
+<marker id="1281363969" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
+<marker id="1281363970" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
+<marker id="1281363971" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
+<marker id="1281363972" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
+<marker id="1281363973" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.4208007" latitude="-46.38205"/>
+<marker id="1281363974" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363975" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363976" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363977" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363978" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363979" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363980" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363981" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363982" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363983" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363984" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363985" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363986" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363987" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363988" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.5820312" latitude="-46.611927"/>
+<marker id="1281363989" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363990" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363991" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363992" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363993" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363994" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363995" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363996" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363997" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363998" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281363999" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281364000" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281364001" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281364002" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281364003" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.4537597" latitude="-46.520203"/>
+<marker id="1281364004" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364005" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364006" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364007" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364008" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364009" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364010" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364011" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364012" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364013" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364014" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364015" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364016" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364017" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364018" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.550801" latitude="-46.39431"/>
+<marker id="1281364019" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364020" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364021" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364022" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364023" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364024" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364025" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364026" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364027" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364028" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364029" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364030" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364031" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364032" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364033" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.3928514" latitude="-46.33561"/>
+<marker id="1281364034" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364035" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364036" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364037" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364038" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364039" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364040" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364041" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364042" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364043" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364044" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364045" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364046" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364047" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281364048" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.424033" latitude="-46.146152"/>
+<marker id="1281368065" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
+<marker id="1281368066" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
+<marker id="1281368067" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
+<marker id="1281368068" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
+<marker id="1281368069" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
+<marker id="1281368070" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
+<marker id="1281368071" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
+<marker id="1281368072" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
+<marker id="1281368073" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
+<marker id="1281368074" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
+<marker id="1281368075" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.340039" latitude="-45.879105"/>
+<marker id="1281368076" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.30541" latitude="-45.728172"/>
+<marker id="1281368077" label="Nuzdum" category="71" did="1879346647" parentZoneId="1879338148" longitude="7.0254393" latitude="-45.589336"/>
+<marker id="1281368079" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368080" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368081" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368082" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368083" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368084" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368085" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368086" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368087" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368088" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368089" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368090" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368091" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368092" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368093" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.373838" latitude="-45.458755"/>
+<marker id="1281368094" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368095" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368096" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368097" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368098" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368099" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368100" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368101" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368102" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368103" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368104" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368105" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368106" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368107" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368108" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.349961" latitude="-45.301952"/>
+<marker id="1281368109" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368110" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368111" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368112" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368113" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368114" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368115" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368116" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368117" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368118" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368119" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368120" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368121" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368122" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368123" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.186494" latitude="-45.396336"/>
+<marker id="1281368124" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368125" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368126" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368127" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368128" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368129" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368130" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368131" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368132" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368133" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368134" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368135" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368136" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368137" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368138" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.049287" latitude="-45.59499"/>
+<marker id="1281368139" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368140" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368141" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368142" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368143" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368144" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368145" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368146" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368147" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368148" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368149" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368150" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368151" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368152" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368153" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.000654" latitude="-45.43544"/>
+<marker id="1281368154" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368155" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368156" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368157" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368158" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368159" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368160" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368161" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368162" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368163" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368164" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368165" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368166" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368167" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368168" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="6.854717" latitude="-45.583313"/>
+<marker id="1281368169" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368170" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368171" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368172" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368173" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368174" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368175" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368176" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368177" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368178" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368179" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368180" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368181" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368182" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368183" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="6.882959" latitude="-45.32831"/>
+<marker id="1281368184" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368185" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368186" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368187" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368188" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368189" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368190" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368191" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368192" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368193" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368194" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368195" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368196" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368197" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368198" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.1373825" latitude="-45.263363"/>
+<marker id="1281368199" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368200" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368201" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368202" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368203" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368204" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368205" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368206" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368207" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368208" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368209" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368210" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368211" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368212" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368213" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.3615427" latitude="-45.53922"/>
+<marker id="1281368214" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368215" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368216" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368217" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368218" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368219" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368220" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368221" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368222" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368223" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368224" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368225" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368226" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368227" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368228" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.09832" latitude="-45.600567"/>
+<marker id="1281368229" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368230" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368231" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368232" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368233" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368234" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368235" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368236" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368237" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368238" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368239" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368240" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368241" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368242" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368243" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.236904" latitude="-45.74458"/>
+<marker id="1281368244" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368245" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368246" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368247" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368248" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368249" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368250" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368251" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368252" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368253" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368254" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368255" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368256" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368257" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368258" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.3364353" latitude="-45.826138"/>
+<marker id="1281368259" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368260" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368261" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368262" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368263" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368264" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368265" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368266" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368267" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368268" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368269" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368270" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368271" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368272" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
+<marker id="1281368273" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.377314" latitude="-45.684406"/>
 <marker id="1281372160" label="Mordor Olog" category="71" did="1879347440" parentZoneId="1879338148" longitude="7.4334083" latitude="-44.813377"/>
 <marker id="1281372161" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.4689746" latitude="-45.121468"/>
 <marker id="1281372162" label="Mordor Captain" category="71" did="1879346969" parentZoneId="1879338148" longitude="7.470371" latitude="-45.07774"/>
@@ -954,192 +952,190 @@
 <marker id="1281396792" label="Gorgoroth Skarn Deposit" category="50" did="1879351067" parentZoneId="1879338148" longitude="6.951719" latitude="-40.152325"/>
 <marker id="1281396793" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338148" longitude="6.951719" latitude="-40.152325"/>
 <marker id="1281425414" label="Isenmouthe" category="43" did="1879353363" parentZoneId="1879338150" longitude="8.037139" latitude="-46.800373"/>
-<marker id="1281429505" label="Scorching Heat" category="75" did="1879340480" parentZoneId="1879338150" longitude="7.826719" latitude="-46.302227"/>
-<marker id="1281429506" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
-<marker id="1281429507" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
-<marker id="1281429508" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
-<marker id="1281429509" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
-<marker id="1281429510" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
-<marker id="1281429511" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
-<marker id="1281429512" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.7019725" latitude="-46.55165"/>
-<marker id="1281429513" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.7618456" latitude="-46.576443"/>
-<marker id="1281429514" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.8617477" latitude="-46.405567"/>
-<marker id="1281429515" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.879785" latitude="-46.478275"/>
-<marker id="1281429518" label="Soot-smudged Page" category="73" did="1879346192" parentZoneId="1879338150" longitude="7.896943" latitude="-46.487366"/>
-<marker id="1281429519" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.8913183" latitude="-46.429188"/>
-<marker id="1281429520" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.724902" latitude="-46.596195"/>
-<marker id="1281429521" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429522" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429523" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429524" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429525" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429526" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429527" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429528" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429529" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429530" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429531" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429532" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429533" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429534" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429535" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
-<marker id="1281429536" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429537" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429538" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429539" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429540" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429541" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429542" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429543" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429544" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429545" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429546" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429547" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429548" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429549" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429550" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
-<marker id="1281429551" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429552" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429553" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429554" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429555" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429556" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429557" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429558" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429559" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429560" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429561" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429562" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429563" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429564" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429565" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
-<marker id="1281429566" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429567" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429568" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429569" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429570" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429571" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429572" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429573" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429574" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429575" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429576" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429577" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429578" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429579" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281429580" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
-<marker id="1281433600" label="Scorching Heat" category="75" did="1879340480" parentZoneId="1879338148" longitude="7.6945605" latitude="-45.684155"/>
-<marker id="1281433601" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
-<marker id="1281433602" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
-<marker id="1281433603" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
-<marker id="1281433604" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
-<marker id="1281433605" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
-<marker id="1281433606" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
-<marker id="1281433607" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433608" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433609" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433610" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433611" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433612" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433613" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433614" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433615" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433616" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433617" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433618" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433619" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433620" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433621" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
-<marker id="1281433622" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433623" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433624" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433625" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433626" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433627" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433628" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433629" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433630" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433631" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433632" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433633" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433634" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433635" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433636" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
-<marker id="1281433637" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433638" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433639" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433640" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433641" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433642" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433643" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433644" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433645" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433646" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433647" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433648" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433649" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433650" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433651" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
-<marker id="1281433652" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433653" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433654" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433655" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433656" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433657" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433658" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433659" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433660" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433661" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433662" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433663" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433664" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433665" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433666" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
-<marker id="1281433667" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433668" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433669" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433670" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433671" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433672" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433673" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433674" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433675" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433676" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433677" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433678" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433679" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433680" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433681" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
-<marker id="1281433682" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433683" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433684" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433685" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433686" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433687" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433688" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433689" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433690" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433691" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433692" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433693" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433694" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433695" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433696" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
-<marker id="1281433697" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433698" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433699" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433700" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433701" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433702" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433703" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433704" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433705" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433706" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433707" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433708" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433709" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433710" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
-<marker id="1281433711" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281429505" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
+<marker id="1281429506" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
+<marker id="1281429507" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
+<marker id="1281429508" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
+<marker id="1281429509" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
+<marker id="1281429510" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.8824215" latitude="-46.224155"/>
+<marker id="1281429511" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.7019725" latitude="-46.55165"/>
+<marker id="1281429512" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.7618456" latitude="-46.576443"/>
+<marker id="1281429513" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.8617477" latitude="-46.405567"/>
+<marker id="1281429514" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.879785" latitude="-46.478275"/>
+<marker id="1281429517" label="Soot-smudged Page" category="73" did="1879346192" parentZoneId="1879338150" longitude="7.896943" latitude="-46.487366"/>
+<marker id="1281429518" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.8913183" latitude="-46.429188"/>
+<marker id="1281429519" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.724902" latitude="-46.596195"/>
+<marker id="1281429520" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429521" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429522" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429523" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429524" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429525" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429526" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429527" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429528" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429529" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429530" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429531" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429532" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429533" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429534" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.8974805" latitude="-46.356083"/>
+<marker id="1281429535" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429536" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429537" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429538" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429539" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429540" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429541" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429542" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429543" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429544" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429545" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429546" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429547" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429548" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429549" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.9349217" latitude="-46.201977"/>
+<marker id="1281429550" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429551" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429552" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429553" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429554" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429555" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429556" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429557" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429558" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429559" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429560" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429561" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429562" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429563" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429564" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.812412" latitude="-46.08228"/>
+<marker id="1281429565" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429566" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429567" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429568" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429569" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429570" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429571" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429572" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429573" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429574" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429575" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429576" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429577" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429578" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281429579" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338150" longitude="7.7642574" latitude="-46.22081"/>
+<marker id="1281433600" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
+<marker id="1281433601" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
+<marker id="1281433602" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
+<marker id="1281433603" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
+<marker id="1281433604" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
+<marker id="1281433605" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.8165135" latitude="-45.604675"/>
+<marker id="1281433606" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433607" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433608" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433609" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433610" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433611" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433612" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433613" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433614" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433615" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433616" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433617" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433618" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433619" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433620" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.6737204" latitude="-45.730434"/>
+<marker id="1281433621" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433622" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433623" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433624" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433625" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433626" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433627" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433628" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433629" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433630" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433631" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433632" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433633" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433634" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433635" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.693574" latitude="-45.907543"/>
+<marker id="1281433636" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433637" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433638" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433639" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433640" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433641" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433642" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433643" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433644" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433645" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433646" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433647" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433648" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433649" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433650" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.8346972" latitude="-45.774918"/>
+<marker id="1281433651" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433652" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433653" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433654" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433655" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433656" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433657" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433658" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433659" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433660" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433661" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433662" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433663" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433664" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433665" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.90375" latitude="-45.938705"/>
+<marker id="1281433666" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433667" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433668" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433669" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433670" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433671" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433672" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433673" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433674" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433675" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433676" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433677" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433678" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433679" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433680" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.6998143" latitude="-45.273018"/>
+<marker id="1281433681" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433682" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433683" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433684" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433685" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433686" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433687" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433688" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433689" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433690" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433691" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433692" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433693" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433694" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433695" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.8227735" latitude="-45.36928"/>
+<marker id="1281433696" label="Sharlag Man-breaker" category="71" did="1879346610" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433697" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433698" label="Forge-worker" category="71" did="1879346975" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433699" label="Mordor Warrior" category="71" did="1879346971" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433700" label="Khundolar Warrior" category="71" did="1879347414" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433701" label="Khundolar Archer" category="71" did="1879347412" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433702" label="Durthang Spy" category="71" did="1879347056" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433703" label="Gore-crow" category="71" did="1879347063" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433704" label="Slag-slug" category="71" did="1879347410" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433705" label="Forge-worker" category="71" did="1879347061" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433706" label="Frenzied Nurnhoth" category="71" did="1879347060" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433707" label="Black Númenórean Warrior" category="71" did="1879347442" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433708" label="Forge-worker" category="71" did="1879347055" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433709" label="Thormurg the Slaughterer" category="71" did="1879346534" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
+<marker id="1281433710" label="Enforcer of Ugrukhôr" category="71" did="1879346978" parentZoneId="1879338148" longitude="7.6419725" latitude="-45.567196"/>
 <marker id="1281437696" label="Maudhúl Târ" category="74" did="1879354325" parentZoneId="1879338148" longitude="8.16248" latitude="-44.702522"/>
 <marker id="1281437699" label="Mordor Archer" category="71" did="1879346973" parentZoneId="1879338148" longitude="7.896318" latitude="-44.5104"/>
 <marker id="1281437700" label="Mordor Defiler" category="71" did="1879346974" parentZoneId="1879338148" longitude="7.8686523" latitude="-44.583656"/>
@@ -5155,30 +5151,29 @@
 <marker id="1282101248" label="Lûghash, the Flaming Spire" category="43" did="1879345061" parentZoneId="1879338150" longitude="16.0" latitude="-43.2"/>
 <marker id="1282101249" label="Camp Site Fire" category="57" did="1879357876" parentZoneId="1879338150" longitude="15.722812" latitude="-43.541176"/>
 <marker id="1282101251" label="Door" category="100" did="1879354343" parentZoneId="1879338150" longitude="16.15709" latitude="-43.59968"/>
-<marker id="1282101252" label="Campsite" category="75" did="1879102626" parentZoneId="1879338150" longitude="15.722812" latitude="-43.541176"/>
-<marker id="1282101253" label="Lûghash, the Flaming Spire" category="74" did="1879345061" parentZoneId="1879338150" longitude="15.795234" latitude="-43.2"/>
-<marker id="1282101254" label="Strange Gem" category="73" did="1879395963" parentZoneId="1879338150" longitude="15.627109" latitude="-43.27405"/>
-<marker id="1282101255" label="Watching Stone Spirit" category="71" did="1879396079" parentZoneId="1879338150" longitude="15.624482" latitude="-43.237175"/>
-<marker id="1282101256" label="Rusty Small Chest" category="72" did="1879354691" parentZoneId="1879338150" longitude="15.632529" latitude="-43.062534"/>
-<marker id="1282101257" label="Rusty Small Chest" category="72" did="1879354691" parentZoneId="1879338150" longitude="15.603701" latitude="-43.235622"/>
-<marker id="1282101258" label="Rusty Small Chest" category="72" did="1879354691" parentZoneId="1879338150" longitude="15.60457" latitude="-43.46181"/>
-<marker id="1282101259" label="Rusty Small Chest" category="72" did="1879354691" parentZoneId="1879338150" longitude="15.856084" latitude="-43.49896"/>
-<marker id="1282101260" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.765595" latitude="-43.467476"/>
-<marker id="1282101261" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.765595" latitude="-43.467476"/>
-<marker id="1282101263" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.778604" latitude="-43.431416"/>
-<marker id="1282101264" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.778604" latitude="-43.431416"/>
-<marker id="1282101265" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.930303" latitude="-43.534187"/>
-<marker id="1282101266" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.930303" latitude="-43.534187"/>
-<marker id="1282101267" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.611416" latitude="-43.520103"/>
-<marker id="1282101268" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.611416" latitude="-43.520103"/>
-<marker id="1282101269" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.629395" latitude="-43.31054"/>
-<marker id="1282101270" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.629395" latitude="-43.31054"/>
-<marker id="1282101271" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.6110735" latitude="-43.204395"/>
-<marker id="1282101272" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.6110735" latitude="-43.204395"/>
-<marker id="1282101273" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="16.00417" latitude="-43.55175"/>
-<marker id="1282101274" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="16.00417" latitude="-43.55175"/>
-<marker id="1282101275" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="16.084843" latitude="-43.569744"/>
-<marker id="1282101276" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="16.084843" latitude="-43.569744"/>
+<marker id="1282101252" label="Lûghash, the Flaming Spire" category="74" did="1879345061" parentZoneId="1879338150" longitude="15.795234" latitude="-43.2"/>
+<marker id="1282101253" label="Strange Gem" category="73" did="1879395963" parentZoneId="1879338150" longitude="15.627109" latitude="-43.27405"/>
+<marker id="1282101254" label="Watching Stone Spirit" category="71" did="1879396079" parentZoneId="1879338150" longitude="15.624482" latitude="-43.237175"/>
+<marker id="1282101255" label="Rusty Small Chest" category="72" did="1879354691" parentZoneId="1879338150" longitude="15.632529" latitude="-43.062534"/>
+<marker id="1282101256" label="Rusty Small Chest" category="72" did="1879354691" parentZoneId="1879338150" longitude="15.603701" latitude="-43.235622"/>
+<marker id="1282101257" label="Rusty Small Chest" category="72" did="1879354691" parentZoneId="1879338150" longitude="15.60457" latitude="-43.46181"/>
+<marker id="1282101258" label="Rusty Small Chest" category="72" did="1879354691" parentZoneId="1879338150" longitude="15.856084" latitude="-43.49896"/>
+<marker id="1282101259" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.765595" latitude="-43.467476"/>
+<marker id="1282101260" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.765595" latitude="-43.467476"/>
+<marker id="1282101262" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.778604" latitude="-43.431416"/>
+<marker id="1282101263" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.778604" latitude="-43.431416"/>
+<marker id="1282101264" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.930303" latitude="-43.534187"/>
+<marker id="1282101265" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.930303" latitude="-43.534187"/>
+<marker id="1282101266" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.611416" latitude="-43.520103"/>
+<marker id="1282101267" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.611416" latitude="-43.520103"/>
+<marker id="1282101268" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.629395" latitude="-43.31054"/>
+<marker id="1282101269" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.629395" latitude="-43.31054"/>
+<marker id="1282101270" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="15.6110735" latitude="-43.204395"/>
+<marker id="1282101271" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="15.6110735" latitude="-43.204395"/>
+<marker id="1282101272" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="16.00417" latitude="-43.55175"/>
+<marker id="1282101273" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="16.00417" latitude="-43.55175"/>
+<marker id="1282101274" label="Heavy Gorgoroth Artifact Chest" category="50" did="1879351071" parentZoneId="1879338150" longitude="16.084843" latitude="-43.569744"/>
+<marker id="1282101275" label="Gorgoroth Artifact Chest" category="50" did="1879351072" parentZoneId="1879338150" longitude="16.084843" latitude="-43.569744"/>
 <marker id="1282105344" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879338150" longitude="15.8517475" latitude="-42.485332"/>
 <marker id="1282105345" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879338150" longitude="15.8517475" latitude="-42.485332"/>
 <marker id="1282105346" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879338150" longitude="15.8517475" latitude="-42.485332"/>

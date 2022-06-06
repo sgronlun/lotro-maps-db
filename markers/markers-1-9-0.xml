@@ -1,159 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="419659776" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-28.995684" latitude="-117.95863"/>
-<marker id="419659777" label="Lobby" category="75" did="1879222124" parentZoneId="1879219925" longitude="-28.77242" latitude="-118.206024"/>
-<marker id="419659778" label="Lobby" category="75" did="1879222124" parentZoneId="1879219925" longitude="-28.859629" latitude="-118.31805"/>
-<marker id="419659779" label="Fancy Gold Chest" category="72" did="1879200469" parentZoneId="1879219925" longitude="-29.092001" latitude="-118.06406"/>
-<marker id="419659780" label="Gold Chest" category="72" did="1879200468" parentZoneId="1879219925" longitude="-29.105068" latitude="-117.91235"/>
-<marker id="419659781" label="Small Fancy Chest" category="72" did="1879200470" parentZoneId="1879219925" longitude="-29.101864" latitude="-117.92422"/>
-<marker id="419659783" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.95753" latitude="-117.78284"/>
-<marker id="419659784" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.449022" latitude="-118.23036"/>
-<marker id="419659785" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.40914" latitude="-117.73551"/>
-<marker id="419659786" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.902822" latitude="-117.84383"/>
-<marker id="419659787" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.5358" latitude="-118.00872"/>
-<marker id="419659788" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.435331" latitude="-117.75808"/>
-<marker id="419659789" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.875751" latitude="-117.8936"/>
-<marker id="419659790" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.528631" latitude="-118.07201"/>
-<marker id="419659791" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.978416" latitude="-118.26535"/>
-<marker id="419659792" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.532871" latitude="-118.04011"/>
-<marker id="419659793" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.866806" latitude="-117.94625"/>
-<marker id="419659794" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.496836" latitude="-118.14929"/>
-<marker id="419659795" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.47457" latitude="-118.18855"/>
-<marker id="419659796" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.215733" latitude="-117.667496"/>
-<marker id="419659797" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.972647" latitude="-118.25008"/>
-<marker id="419659798" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.931181" latitude="-117.77602"/>
-<marker id="419659799" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.060429" latitude="-118.33783"/>
-<marker id="419659800" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.864248" latitude="-117.98303"/>
-<marker id="419659801" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.468485" latitude="-118.19945"/>
-<marker id="419659802" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.019638" latitude="-118.29348"/>
-<marker id="419659803" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.190145" latitude="-118.33923"/>
-<marker id="419659804" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.518524" latitude="-118.10394"/>
-<marker id="419659805" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.307539" latitude="-117.67977"/>
-<marker id="419659806" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.138525" latitude="-118.33552"/>
-<marker id="419659807" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.264217" latitude="-117.6707"/>
-<marker id="419659808" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.34002" latitude="-117.69584"/>
-<marker id="419659809" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-29.367723" latitude="-117.70906"/>
-<marker id="419659810" label="Heated Cavern" category="75" did="1879193080" parentZoneId="1879219925" longitude="-28.973886" latitude="-118.24816"/>
-<marker id="419659811" label="Control Point" category="73" did="1879152429" parentZoneId="1879219925" longitude="-29.145517" latitude="-117.90647"/>
-<marker id="419659812" label="Draigoch Stomp A" category="75" did="1879193075" parentZoneId="1879219925" longitude="-29.352549" latitude="-117.87198"/>
-<marker id="419659813" label="Draigoch Stomp A" category="75" did="1879193075" parentZoneId="1879219925" longitude="-29.068838" latitude="-118.264786"/>
-<marker id="419659814" label="Draigoch Stomp A" category="75" did="1879193075" parentZoneId="1879219925" longitude="-29.357178" latitude="-118.18087"/>
-<marker id="419659815" label="Draigoch Stomp A" category="75" did="1879193075" parentZoneId="1879219925" longitude="-28.96205" latitude="-118.054276"/>
-<marker id="419659816" label="Draigoch Stomp A" category="75" did="1879193075" parentZoneId="1879219925" longitude="-29.196318" latitude="-117.795425"/>
-<marker id="419659817" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-29.125" latitude="-118.075"/>
-<marker id="419659818" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-29.275" latitude="-118.075"/>
-<marker id="419659819" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-29.275" latitude="-117.924995"/>
-<marker id="419659820" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.819902" latitude="-118.04947"/>
-<marker id="419659821" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-29.125" latitude="-117.924995"/>
-<marker id="419659822" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.776064" latitude="-118.05078"/>
-<marker id="419659823" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.79286" latitude="-118.14136"/>
-<marker id="419659824" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.865595" latitude="-118.11747"/>
-<marker id="419659825" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.729296" latitude="-118.16205"/>
-<marker id="419659826" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.765165" latitude="-118.25544"/>
-<marker id="419659827" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.825975" latitude="-118.21725"/>
-<marker id="419659828" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.896873" latitude="-118.17317"/>
-<marker id="419659829" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.9379" latitude="-118.23975"/>
-<marker id="419659830" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.878681" latitude="-118.292595"/>
-<marker id="419659831" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.825565" latitude="-118.345665"/>
-<marker id="419659832" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.787832" latitude="-118.393524"/>
-<marker id="419659833" label="Draigoch Firebreath" category="75" did="1879193079" parentZoneId="1879219925" longitude="-28.70911" latitude="-118.295845"/>
-<marker id="419659834" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-29.40248" latitude="-118.04091"/>
-<marker id="419659835" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-29.343641" latitude="-117.790016"/>
-<marker id="419659836" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-28.997616" latitude="-117.95925"/>
-<marker id="419659837" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-29.154179" latitude="-118.23888"/>
-<marker id="419659838" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-29.411327" latitude="-118.13679"/>
-<marker id="419659839" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-29.318789" latitude="-117.83108"/>
-<marker id="419659840" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-28.952293" latitude="-117.93814"/>
-<marker id="419659841" label="Draigoch's Flaming Spittle" category="75" did="1879206057" parentZoneId="1879219925" longitude="-29.093056" latitude="-118.16456"/>
-<marker id="419659842" label="Drama Colour Shouter" category="70" did="1879077395" parentZoneId="1879219925" longitude="-29.235126" latitude="-117.97323"/>
-<marker id="419659843" label="Free Fall Zone" category="75" did="1879215522" parentZoneId="1879219925" longitude="-28.984764" latitude="-118.267624"/>
-<marker id="419659844" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.36541" latitude="-118.09089"/>
-<marker id="419659845" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.115047" latitude="-118.17575"/>
-<marker id="419659846" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.013906" latitude="-117.91886"/>
-<marker id="419659847" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.277851" latitude="-117.83738"/>
-<marker id="419659848" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.090918" latitude="-117.86657"/>
-<marker id="419659849" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.344433" latitude="-117.920586"/>
-<marker id="419659850" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.294647" latitude="-118.13373"/>
-<marker id="419659851" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.052402" latitude="-118.085434"/>
-<marker id="419659852" label="Treasure" category="100" did="1879219902" parentZoneId="1879219925" longitude="-29.482128" latitude="-118.09169"/>
-<marker id="419659853" label="Cooldown Reset" category="73" did="1879200630" parentZoneId="1879219925" longitude="-29.482635" latitude="-118.06533"/>
-<marker id="419659854" label="Draigoch's Rear Right Claw" category="71" did="1879192397" parentZoneId="1879219925" longitude="-29.1441" latitude="-117.94408"/>
-<marker id="419659855" label="Draigoch's Head" category="71" did="1879192396" parentZoneId="1879219925" longitude="-29.171465" latitude="-117.86489"/>
-<marker id="419659856" label="Draigoch's Front Right Claw" category="71" did="1879192399" parentZoneId="1879219925" longitude="-29.142773" latitude="-117.89232"/>
-<marker id="419659857" label="Draigoch's Front Left Claw" category="71" did="1879192398" parentZoneId="1879219925" longitude="-29.198631" latitude="-117.89109"/>
-<marker id="419659858" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.151768" latitude="-117.99114"/>
-<marker id="419659859" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.146816" latitude="-118.22829"/>
-<marker id="419659860" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-28.96333" latitude="-117.94477"/>
-<marker id="419659861" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.250917" latitude="-117.76179"/>
-<marker id="419659862" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.436846" latitude="-118.05387"/>
-<marker id="419659863" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.244354" latitude="-118.009315"/>
-<marker id="419659864" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.190508" latitude="-118.04233"/>
-<marker id="419659865" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.20666" latitude="-117.961464"/>
-<marker id="419659866" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.181864" latitude="-117.92934"/>
-<marker id="419659867" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.216112" latitude="-118.06864"/>
-<marker id="419659868" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.065653" latitude="-118.189186"/>
-<marker id="419659869" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.003418" latitude="-117.86686"/>
-<marker id="419659870" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.335672" latitude="-117.80672"/>
-<marker id="419659871" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.394463" latitude="-118.135574"/>
-<marker id="419659872" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.13244" latitude="-118.01671"/>
-<marker id="419659873" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.260643" latitude="-117.98276"/>
-<marker id="419659874" label="Draigoch's Rear Left Claw" category="71" did="1879192395" parentZoneId="1879219925" longitude="-29.201748" latitude="-117.938484"/>
-<marker id="419659875" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.178974" latitude="-118.0119"/>
-<marker id="419659876" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.223145" latitude="-117.99478"/>
-<marker id="419659877" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.1946" latitude="-117.97839"/>
-<marker id="419659878" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.208838" latitude="-118.022255"/>
-<marker id="419659879" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.086708" latitude="-118.17857"/>
-<marker id="419659880" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.019043" latitude="-117.88363"/>
-<marker id="419659881" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.31542" latitude="-117.82389"/>
-<marker id="419659882" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.37378" latitude="-118.11023"/>
-<marker id="419659883" label="Molten Treasure" category="75" did="1879214093" parentZoneId="1879219925" longitude="-29.125" latitude="-118.075"/>
-<marker id="419659884" label="Molten Treasure" category="75" did="1879214093" parentZoneId="1879219925" longitude="-29.275" latitude="-118.075"/>
-<marker id="419659885" label="Molten Treasure" category="75" did="1879214093" parentZoneId="1879219925" longitude="-29.275" latitude="-117.924995"/>
-<marker id="419659886" label="Molten Treasure" category="75" did="1879214093" parentZoneId="1879219925" longitude="-29.125" latitude="-117.924995"/>
-<marker id="419659887" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-28.926504" latitude="-117.884926"/>
-<marker id="419659888" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.099112" latitude="-117.91888"/>
-<marker id="419659889" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.323446" latitude="-117.72702"/>
-<marker id="419659890" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.471054" latitude="-118.11613"/>
-<marker id="419659891" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.295477" latitude="-118.08339"/>
-<marker id="419659892" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.115126" latitude="-118.09546"/>
-<marker id="419659893" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.282099" latitude="-117.90438"/>
-<marker id="419659894" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.092216" latitude="-118.276634"/>
-<marker id="419659895" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.17951" latitude="-118.03824"/>
-<marker id="419659896" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.222626" latitude="-117.96094"/>
-<marker id="419659897" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.16042" latitude="-118.19776"/>
-<marker id="419659898" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-28.993076" latitude="-117.956505"/>
-<marker id="419659899" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.240936" latitude="-117.79895"/>
-<marker id="419659900" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.40826" latitude="-118.04065"/>
-<marker id="419659901" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.239637" latitude="-118.019585"/>
-<marker id="419659902" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.161425" latitude="-117.9807"/>
-<marker id="419659903" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879219925" longitude="-29.143524" latitude="-117.89876"/>
-<marker id="419659904" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.195457" latitude="-117.83532"/>
-<marker id="419659905" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.336308" latitude="-118.12912"/>
-<marker id="419659906" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.336796" latitude="-118.09097"/>
-<marker id="419659907" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.351913" latitude="-118.04458"/>
-<marker id="419659908" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.363417" latitude="-117.993546"/>
-<marker id="419659909" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.104082" latitude="-118.14084"/>
-<marker id="419659910" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.171522" latitude="-118.16018"/>
-<marker id="419659911" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.207851" latitude="-118.16864"/>
-<marker id="419659912" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.177168" latitude="-118.162674"/>
-<marker id="419659913" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.301504" latitude="-118.17056"/>
-<marker id="419659914" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.018124" latitude="-118.08062"/>
-<marker id="419659915" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.059452" latitude="-117.873184"/>
-<marker id="419659916" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.06785" latitude="-117.92315"/>
-<marker id="419659917" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.056913" latitude="-117.9613"/>
-<marker id="419659918" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.35084" latitude="-117.89837"/>
-<marker id="419659919" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.093252" latitude="-117.844376"/>
-<marker id="419659920" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.037197" latitude="-118.095634"/>
-<marker id="419659921" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.199999" latitude="-118.0"/>
-<marker id="419659922" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.32584" latitude="-117.86242"/>
-<marker id="419659923" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.287695" latitude="-117.86193"/>
-<marker id="419659924" label="Draigoch's Stomping" category="75" did="1879211778" parentZoneId="1879219925" longitude="-29.241835" latitude="-117.848724"/>
-<marker id="419659925" label="Explosion" category="75" did="1879214346" parentZoneId="1879219925" longitude="-29.44782" latitude="-118.11215"/>
-<marker id="419659926" label="Small Fancy Chest" category="72" did="1879214501" parentZoneId="1879219925" longitude="-29.24833" latitude="-117.9315"/>
-<marker id="419659927" label="Small Fancy Chest" category="72" did="1879214500" parentZoneId="1879219925" longitude="-29.273582" latitude="-118.06802"/>
-<marker id="419659928" label="Gold Chest" category="72" did="1879214503" parentZoneId="1879219925" longitude="-29.263525" latitude="-117.94908"/>
-<marker id="419659929" label="Gold Chest" category="72" did="1879214502" parentZoneId="1879219925" longitude="-29.273554" latitude="-118.08177"/>
-<marker id="419659930" label="Hotspot" category="75" did="1879077717" parentZoneId="1879219925" longitude="-29.2929" latitude="-118.046425"/>
-<marker id="419659931" label="Hotspot" category="75" did="1879077717" parentZoneId="1879219925" longitude="-29.2929" latitude="-118.05142"/>
-<marker id="419659932" label="Hotspot" category="75" did="1879077717" parentZoneId="1879219925" longitude="-29.2929" latitude="-118.04142"/>
-<marker id="419659933" label="Draigoch's Body" category="71" did="1879196275" parentZoneId="1879219925" longitude="-29.206299" latitude="-117.97727"/>
+<marker id="419659776" label="Fancy Gold Chest" category="72" did="1879200469" parentZoneId="1879219925" longitude="-29.092001" latitude="-118.06406"/>
+<marker id="419659777" label="Gold Chest" category="72" did="1879200468" parentZoneId="1879219925" longitude="-29.105068" latitude="-117.91235"/>
+<marker id="419659778" label="Small Fancy Chest" category="72" did="1879200470" parentZoneId="1879219925" longitude="-29.101864" latitude="-117.92422"/>
+<marker id="419659779" label="Draigoch's Body" category="71" did="1879196275" parentZoneId="1879219925" longitude="-29.206299" latitude="-117.97727"/>
+<marker id="419659780" label="Control Point" category="73" did="1879152429" parentZoneId="1879219925" longitude="-29.145517" latitude="-117.90647"/>
+<marker id="419659781" label="Drama Colour Shouter" category="70" did="1879077395" parentZoneId="1879219925" longitude="-29.235126" latitude="-117.97323"/>
+<marker id="419659782" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.36541" latitude="-118.09089"/>
+<marker id="419659783" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.115047" latitude="-118.17575"/>
+<marker id="419659784" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.013906" latitude="-117.91886"/>
+<marker id="419659785" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.277851" latitude="-117.83738"/>
+<marker id="419659786" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.090918" latitude="-117.86657"/>
+<marker id="419659787" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.344433" latitude="-117.920586"/>
+<marker id="419659788" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.294647" latitude="-118.13373"/>
+<marker id="419659789" label="Draigoch Position Controller" category="73" did="1879211882" parentZoneId="1879219925" longitude="-29.052402" latitude="-118.085434"/>
+<marker id="419659790" label="Treasure" category="100" did="1879219902" parentZoneId="1879219925" longitude="-29.482128" latitude="-118.09169"/>
+<marker id="419659791" label="Draigoch's Rear Right Claw" category="71" did="1879192397" parentZoneId="1879219925" longitude="-29.1441" latitude="-117.94408"/>
+<marker id="419659792" label="Draigoch's Head" category="71" did="1879192396" parentZoneId="1879219925" longitude="-29.171465" latitude="-117.86489"/>
+<marker id="419659793" label="Draigoch's Front Right Claw" category="71" did="1879192399" parentZoneId="1879219925" longitude="-29.142773" latitude="-117.89232"/>
+<marker id="419659794" label="Draigoch's Front Left Claw" category="71" did="1879192398" parentZoneId="1879219925" longitude="-29.198631" latitude="-117.89109"/>
+<marker id="419659795" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.151768" latitude="-117.99114"/>
+<marker id="419659796" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.146816" latitude="-118.22829"/>
+<marker id="419659797" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-28.96333" latitude="-117.94477"/>
+<marker id="419659798" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.250917" latitude="-117.76179"/>
+<marker id="419659799" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.436846" latitude="-118.05387"/>
+<marker id="419659800" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.244354" latitude="-118.009315"/>
+<marker id="419659801" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.190508" latitude="-118.04233"/>
+<marker id="419659802" label="Draigoch's Front Right Claw" category="71" did="1879192393" parentZoneId="1879219925" longitude="-29.20666" latitude="-117.961464"/>
+<marker id="419659803" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.181864" latitude="-117.92934"/>
+<marker id="419659804" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.216112" latitude="-118.06864"/>
+<marker id="419659805" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.065653" latitude="-118.189186"/>
+<marker id="419659806" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.003418" latitude="-117.86686"/>
+<marker id="419659807" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.335672" latitude="-117.80672"/>
+<marker id="419659808" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.394463" latitude="-118.135574"/>
+<marker id="419659809" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.13244" latitude="-118.01671"/>
+<marker id="419659810" label="Draigoch's Front Left Claw" category="71" did="1879192392" parentZoneId="1879219925" longitude="-29.260643" latitude="-117.98276"/>
+<marker id="419659811" label="Draigoch's Rear Left Claw" category="71" did="1879192395" parentZoneId="1879219925" longitude="-29.201748" latitude="-117.938484"/>
+<marker id="419659812" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.178974" latitude="-118.0119"/>
+<marker id="419659813" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.223145" latitude="-117.99478"/>
+<marker id="419659814" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.1946" latitude="-117.97839"/>
+<marker id="419659815" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.208838" latitude="-118.022255"/>
+<marker id="419659816" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.086708" latitude="-118.17857"/>
+<marker id="419659817" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.019043" latitude="-117.88363"/>
+<marker id="419659818" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.31542" latitude="-117.82389"/>
+<marker id="419659819" label="Draigoch's Rear Left Claw" category="71" did="1879192388" parentZoneId="1879219925" longitude="-29.37378" latitude="-118.11023"/>
+<marker id="419659820" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-28.926504" latitude="-117.884926"/>
+<marker id="419659821" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.099112" latitude="-117.91888"/>
+<marker id="419659822" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.323446" latitude="-117.72702"/>
+<marker id="419659823" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.471054" latitude="-118.11613"/>
+<marker id="419659824" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.295477" latitude="-118.08339"/>
+<marker id="419659825" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.115126" latitude="-118.09546"/>
+<marker id="419659826" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.282099" latitude="-117.90438"/>
+<marker id="419659827" label="Draigoch's Head" category="71" did="1879192391" parentZoneId="1879219925" longitude="-29.092216" latitude="-118.276634"/>
+<marker id="419659828" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.17951" latitude="-118.03824"/>
+<marker id="419659829" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.222626" latitude="-117.96094"/>
+<marker id="419659830" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.16042" latitude="-118.19776"/>
+<marker id="419659831" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-28.993076" latitude="-117.956505"/>
+<marker id="419659832" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.240936" latitude="-117.79895"/>
+<marker id="419659833" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.40826" latitude="-118.04065"/>
+<marker id="419659834" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.239637" latitude="-118.019585"/>
+<marker id="419659835" label="Draigoch's Rear Right Claw" category="71" did="1879192390" parentZoneId="1879219925" longitude="-29.161425" latitude="-117.9807"/>
+<marker id="419659836" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879219925" longitude="-29.143524" latitude="-117.89876"/>
+<marker id="419659837" label="Small Fancy Chest" category="72" did="1879214501" parentZoneId="1879219925" longitude="-29.24833" latitude="-117.9315"/>
+<marker id="419659838" label="Small Fancy Chest" category="72" did="1879214500" parentZoneId="1879219925" longitude="-29.273582" latitude="-118.06802"/>
+<marker id="419659839" label="Gold Chest" category="72" did="1879214503" parentZoneId="1879219925" longitude="-29.263525" latitude="-117.94908"/>
+<marker id="419659840" label="Gold Chest" category="72" did="1879214502" parentZoneId="1879219925" longitude="-29.273554" latitude="-118.08177"/>
 </markers>

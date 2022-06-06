@@ -316,25 +316,22 @@
 <marker id="800595975" label="Jail Door" category="100" did="1879083679" parentZoneId="1879240560" longitude="51.91662" latitude="17.639736"/>
 <marker id="800595976" label="Jail Door" category="100" did="1879083679" parentZoneId="1879240560" longitude="51.95238" latitude="17.639736"/>
 <marker id="800595977" label="Góda, mother of Ingbert" category="70" did="1879251814" parentZoneId="1879240560" longitude="51.951874" latitude="17.643661"/>
-<marker id="800604169" label="Campsite" category="75" did="1879102626" parentZoneId="1879233559" longitude="51.82367" latitude="19.231943"/>
-<marker id="800604170" label="Camp Site Fire" category="57" did="1879089870" parentZoneId="1879233559" longitude="51.823788" latitude="19.232676"/>
-<marker id="800604171" label="Healer" category="38" did="1879222939" parentZoneId="1879233559" longitude="51.824844" latitude="19.17867"/>
-<marker id="800604172" label="Provisioner" category="38" did="1879222940" parentZoneId="1879233559" longitude="51.85689" latitude="19.287792"/>
-<marker id="800604173" label="Door" category="100" did="1879139137" parentZoneId="1879233559" longitude="52.00705" latitude="19.233437"/>
-<marker id="800604182" label="Thrand" category="70" did="1879233878" parentZoneId="1879233559" longitude="51.881973" latitude="19.283613"/>
-<marker id="800604184" label="Gyrgir" category="70" did="1879233880" parentZoneId="1879233559" longitude="51.817673" latitude="19.270283"/>
-<marker id="800604185" label="Ansurr" category="70" did="1879233879" parentZoneId="1879233559" longitude="51.934372" latitude="19.223389"/>
+<marker id="800604169" label="Camp Site Fire" category="57" did="1879089870" parentZoneId="1879233559" longitude="51.823788" latitude="19.232676"/>
+<marker id="800604170" label="Healer" category="38" did="1879222939" parentZoneId="1879233559" longitude="51.824844" latitude="19.17867"/>
+<marker id="800604171" label="Provisioner" category="38" did="1879222940" parentZoneId="1879233559" longitude="51.85689" latitude="19.287792"/>
+<marker id="800604172" label="Door" category="100" did="1879139137" parentZoneId="1879233559" longitude="52.00705" latitude="19.233437"/>
+<marker id="800604181" label="Thrand" category="70" did="1879233878" parentZoneId="1879233559" longitude="51.881973" latitude="19.283613"/>
+<marker id="800604183" label="Gyrgir" category="70" did="1879233880" parentZoneId="1879233559" longitude="51.817673" latitude="19.270283"/>
+<marker id="800604184" label="Ansurr" category="70" did="1879233879" parentZoneId="1879233559" longitude="51.934372" latitude="19.223389"/>
 <marker id="800645120" label="Léothred" category="70" did="1879408007" parentZoneId="1879411318" longitude="51.590115" latitude="27.70992"/>
 <marker id="800645121" label="Emissary of Thráin" category="70" did="1879408011" parentZoneId="1879411318" longitude="51.583515" latitude="27.617079"/>
 <marker id="800645122" label="Fram" category="70" did="1879408010" parentZoneId="1879411318" longitude="51.619804" latitude="27.621094"/>
 <marker id="800645123" label="Fram" category="70" did="1879408010" parentZoneId="1879411318" longitude="51.593945" latitude="27.494062"/>
 <marker id="800645125" label="Emissary of Thranduil" category="70" did="1879408003" parentZoneId="1879411318" longitude="51.61539" latitude="27.638554"/>
-<marker id="800645126" label="Remove blackout effect" category="75" did="1879221741" parentZoneId="1879411318" longitude="51.573418" latitude="27.624687"/>
-<marker id="800645127" label="Dwarf" category="70" did="1879407991" parentZoneId="1879411318" longitude="51.58172" latitude="27.608612"/>
-<marker id="800645128" label="Ai-thúda" category="70" did="1879407995" parentZoneId="1879411318" longitude="51.58203" latitude="27.590263"/>
-<marker id="800645129" label="Blackout and immobilize player" category="75" did="1879329393" parentZoneId="1879411318" longitude="51.574356" latitude="27.609404"/>
-<marker id="800645130" label="Wandalb Greyhame" category="70" did="1879407996" parentZoneId="1879411318" longitude="51.618652" latitude="27.590467"/>
-<marker id="800645131" label="Wandalb Greyhame" category="70" did="1879407996" parentZoneId="1879411318" longitude="51.606094" latitude="27.493261"/>
+<marker id="800645126" label="Dwarf" category="70" did="1879407991" parentZoneId="1879411318" longitude="51.58172" latitude="27.608612"/>
+<marker id="800645127" label="Ai-thúda" category="70" did="1879407995" parentZoneId="1879411318" longitude="51.58203" latitude="27.590263"/>
+<marker id="800645128" label="Wandalb Greyhame" category="70" did="1879407996" parentZoneId="1879411318" longitude="51.618652" latitude="27.590467"/>
+<marker id="800645129" label="Wandalb Greyhame" category="70" did="1879407996" parentZoneId="1879411318" longitude="51.606094" latitude="27.493261"/>
 <marker id="800718863" label="Curiosities" category="58" did="1879228255" parentZoneId="1879230185" longitude="53.170235" latitude="16.603916"/>
 <marker id="800718864" label="Classic" category="58" did="1879228268" parentZoneId="1879230185" longitude="53.16998" latitude="16.597763"/>
 <marker id="800718865" label="Currency Exchange" category="58" did="1879228267" parentZoneId="1879230185" longitude="53.19527" latitude="16.601278"/>
@@ -386,35 +383,32 @@
 <marker id="800735290" label="Stanric" category="70" did="1879229672" parentZoneId="1879228527" longitude="53.04625" latitude="19.403944"/>
 <marker id="800735291" label="Gadda" category="70" did="1879228715" parentZoneId="1879228527" longitude="53.04414" latitude="19.538925"/>
 <marker id="800735294" label="Gadda" category="70" did="1879229673" parentZoneId="1879228527" longitude="53.05121" latitude="19.395576"/>
-<marker id="800743446" label="Study" category="75" did="1879063060" parentZoneId="1879240561" longitude="53.352108" latitude="21.11827"/>
-<marker id="800743447" label="Study" category="45" did="1879063879" parentZoneId="1879240561" longitude="53.352108" latitude="21.11827"/>
-<marker id="800743448" label="Study" category="75" did="1879063880" parentZoneId="1879240561" longitude="53.352108" latitude="21.11827"/>
-<marker id="800743449" label="Workbench" category="45" did="1879063073" parentZoneId="1879240561" longitude="53.266834" latitude="21.304647"/>
-<marker id="800743450" label="Léowulf" category="70" did="1879247382" parentZoneId="1879240561" longitude="53.25086" latitude="21.11831"/>
-<marker id="800743451" label="Eaworth Guard" category="70" did="1879245920" parentZoneId="1879240561" longitude="53.278885" latitude="21.11832"/>
-<marker id="800743452" label="Eaworth Guard" category="70" did="1879245920" parentZoneId="1879240561" longitude="53.277206" latitude="21.150028"/>
-<marker id="800743453" label="Workbench" category="45" did="1879228571" parentZoneId="1879240561" longitude="53.266834" latitude="21.304647"/>
-<marker id="800743454" label="Expert Tailor" category="33" did="1879228232" parentZoneId="1879240561" longitude="53.267246" latitude="21.284227"/>
-<marker id="800743455" label="Expert Scholar" category="33" did="1879228229" parentZoneId="1879240561" longitude="53.356583" latitude="21.111172"/>
-<marker id="800743456" label="Expert Jeweller" category="33" did="1879228225" parentZoneId="1879240561" longitude="53.25912" latitude="21.28119"/>
-<marker id="800743457" label="Expert Woodworker" category="33" did="1879228227" parentZoneId="1879240561" longitude="53.279587" latitude="21.302246"/>
-<marker id="800743458" label="Bard of Rohan" category="54" did="1879228277" parentZoneId="1879240561" longitude="53.29357" latitude="21.079159"/>
-<marker id="800743459" label="Expert Cook" category="33" did="1879228221" parentZoneId="1879240561" longitude="53.26451" latitude="21.029863"/>
-<marker id="800743463" label="Door" category="100" did="1879230734" parentZoneId="1879240561" longitude="53.290115" latitude="20.962421"/>
-<marker id="800743465" label="Ingbert, Reeve of the Entwash Vale" category="70" did="1879240782" parentZoneId="1879240561" longitude="53.25049" latitude="21.13499"/>
-<marker id="800743469" label="Horn" category="70" did="1879249182" parentZoneId="1879240561" longitude="53.263474" latitude="21.136553"/>
-<marker id="800743470" label="Corudan" category="70" did="1879249199" parentZoneId="1879240561" longitude="53.27293" latitude="21.137587"/>
-<marker id="800743471" label="Ingyth" category="70" did="1879249180" parentZoneId="1879240561" longitude="53.26203" latitude="21.12285"/>
-<marker id="800743472" label="Nona" category="70" did="1879249177" parentZoneId="1879240561" longitude="53.282265" latitude="21.123545"/>
-<marker id="800743473" label="Léowulf" category="70" did="1879249191" parentZoneId="1879240561" longitude="53.26574" latitude="21.104248"/>
-<marker id="800743474" label="Reeve Ingbert" category="70" did="1879249186" parentZoneId="1879240561" longitude="53.258904" latitude="21.131454"/>
-<marker id="800743476" label="Ingmar, son of Ingbert" category="70" did="1879239648" parentZoneId="1879240561" longitude="53.25877" latitude="21.14203"/>
-<marker id="800743477" label="Góda, mother of Ingbert" category="70" did="1879239642" parentZoneId="1879240561" longitude="53.25775" latitude="21.12704"/>
-<marker id="800743478" label="Ingbert, Reeve of the Entwash Vale" category="70" did="1879239619" parentZoneId="1879240561" longitude="53.25049" latitude="21.13499"/>
-<marker id="800743494" label="Ingmar, son of Ingbert" category="70" did="1879239610" parentZoneId="1879240561" longitude="53.25877" latitude="21.14203"/>
-<marker id="800743499" label="Góda, mother of Ingbert" category="70" did="1879239646" parentZoneId="1879240561" longitude="53.25789" latitude="21.12704"/>
-<marker id="800743502" label="Burnoth, son of Baldeg" category="70" did="1879239613" parentZoneId="1879240561" longitude="53.25881" latitude="21.141981"/>
-<marker id="800743505" label="Ingbert, Reeve of the Entwash Vale" category="70" did="1879239609" parentZoneId="1879240561" longitude="53.250645" latitude="21.13499"/>
+<marker id="800743445" label="Study" category="45" did="1879063879" parentZoneId="1879240561" longitude="53.352108" latitude="21.11827"/>
+<marker id="800743446" label="Léowulf" category="70" did="1879247382" parentZoneId="1879240561" longitude="53.25086" latitude="21.11831"/>
+<marker id="800743447" label="Eaworth Guard" category="70" did="1879245920" parentZoneId="1879240561" longitude="53.278885" latitude="21.11832"/>
+<marker id="800743448" label="Eaworth Guard" category="70" did="1879245920" parentZoneId="1879240561" longitude="53.277206" latitude="21.150028"/>
+<marker id="800743449" label="Workbench" category="45" did="1879228571" parentZoneId="1879240561" longitude="53.266834" latitude="21.304647"/>
+<marker id="800743450" label="Expert Tailor" category="33" did="1879228232" parentZoneId="1879240561" longitude="53.267246" latitude="21.284227"/>
+<marker id="800743451" label="Expert Scholar" category="33" did="1879228229" parentZoneId="1879240561" longitude="53.356583" latitude="21.111172"/>
+<marker id="800743452" label="Expert Jeweller" category="33" did="1879228225" parentZoneId="1879240561" longitude="53.25912" latitude="21.28119"/>
+<marker id="800743453" label="Expert Woodworker" category="33" did="1879228227" parentZoneId="1879240561" longitude="53.279587" latitude="21.302246"/>
+<marker id="800743454" label="Bard of Rohan" category="54" did="1879228277" parentZoneId="1879240561" longitude="53.29357" latitude="21.079159"/>
+<marker id="800743455" label="Expert Cook" category="33" did="1879228221" parentZoneId="1879240561" longitude="53.26451" latitude="21.029863"/>
+<marker id="800743459" label="Door" category="100" did="1879230734" parentZoneId="1879240561" longitude="53.290115" latitude="20.962421"/>
+<marker id="800743461" label="Ingbert, Reeve of the Entwash Vale" category="70" did="1879240782" parentZoneId="1879240561" longitude="53.25049" latitude="21.13499"/>
+<marker id="800743465" label="Horn" category="70" did="1879249182" parentZoneId="1879240561" longitude="53.263474" latitude="21.136553"/>
+<marker id="800743466" label="Corudan" category="70" did="1879249199" parentZoneId="1879240561" longitude="53.27293" latitude="21.137587"/>
+<marker id="800743467" label="Ingyth" category="70" did="1879249180" parentZoneId="1879240561" longitude="53.26203" latitude="21.12285"/>
+<marker id="800743468" label="Nona" category="70" did="1879249177" parentZoneId="1879240561" longitude="53.282265" latitude="21.123545"/>
+<marker id="800743469" label="Léowulf" category="70" did="1879249191" parentZoneId="1879240561" longitude="53.26574" latitude="21.104248"/>
+<marker id="800743470" label="Reeve Ingbert" category="70" did="1879249186" parentZoneId="1879240561" longitude="53.258904" latitude="21.131454"/>
+<marker id="800743472" label="Ingmar, son of Ingbert" category="70" did="1879239648" parentZoneId="1879240561" longitude="53.25877" latitude="21.14203"/>
+<marker id="800743473" label="Góda, mother of Ingbert" category="70" did="1879239642" parentZoneId="1879240561" longitude="53.25775" latitude="21.12704"/>
+<marker id="800743474" label="Ingbert, Reeve of the Entwash Vale" category="70" did="1879239619" parentZoneId="1879240561" longitude="53.25049" latitude="21.13499"/>
+<marker id="800743490" label="Ingmar, son of Ingbert" category="70" did="1879239610" parentZoneId="1879240561" longitude="53.25877" latitude="21.14203"/>
+<marker id="800743495" label="Góda, mother of Ingbert" category="70" did="1879239646" parentZoneId="1879240561" longitude="53.25789" latitude="21.12704"/>
+<marker id="800743498" label="Burnoth, son of Baldeg" category="70" did="1879239613" parentZoneId="1879240561" longitude="53.25881" latitude="21.141981"/>
+<marker id="800743500" label="Ingbert, Reeve of the Entwash Vale" category="70" did="1879239609" parentZoneId="1879240561" longitude="53.250645" latitude="21.13499"/>
 <marker id="800858115" label="Backpack" category="72" did="1879209727" parentZoneId="1879228444" longitude="55.198124" latitude="18.456816"/>
 <marker id="800858116" label="Backpack" category="72" did="1879209727" parentZoneId="1879228444" longitude="55.49707" latitude="17.943691"/>
 <marker id="800858117" label="Wooden Chest" category="72" did="1879209714" parentZoneId="1879228444" longitude="55.134903" latitude="17.669725"/>
@@ -771,26 +765,25 @@
 <marker id="800981025" label="Dwarf-club of Unimaginable Power" category="73" did="1879161361" parentZoneId="1879149364" longitude="56.512207" latitude="16.425419"/>
 <marker id="800981026" label="Dwarf-club of Unimaginable Power" category="73" did="1879161361" parentZoneId="1879149364" longitude="56.510662" latitude="16.42376"/>
 <marker id="800989184" label="Door" category="100" did="1879139137" parentZoneId="1879150559" longitude="55.18789" latitude="18.121855"/>
-<marker id="800989185" label="Searing Heat" category="75" did="1879083430" parentZoneId="1879150559" longitude="55.223064" latitude="18.144785"/>
-<marker id="800989193" label="Sharp-eyed Master" category="71" did="1879150802" parentZoneId="1879150559" longitude="55.22076" latitude="18.116524"/>
-<marker id="800989194" label="Orc Treasure-seeker" category="71" did="1879150803" parentZoneId="1879150559" longitude="55.609844" latitude="18.09167"/>
-<marker id="800989195" label="Orc Treasure-seeker" category="71" did="1879150803" parentZoneId="1879150559" longitude="55.90826" latitude="18.008173"/>
-<marker id="800989196" label="Orc Treasure-seeker" category="71" did="1879150803" parentZoneId="1879150559" longitude="55.23076" latitude="18.12245"/>
-<marker id="800989197" label="Shielded Goblin" category="71" did="1879150819" parentZoneId="1879150559" longitude="56.068806" latitude="18.009277"/>
-<marker id="800989198" label="Shielded Goblin" category="71" did="1879150819" parentZoneId="1879150559" longitude="55.841484" latitude="18.086718"/>
-<marker id="800989199" label="Shielded Goblin" category="71" did="1879150819" parentZoneId="1879150559" longitude="55.527126" latitude="18.089277"/>
-<marker id="800989200" label="Shielded Goblin" category="71" did="1879150819" parentZoneId="1879150559" longitude="56.227207" latitude="17.96538"/>
-<marker id="800989201" label="Door" category="100" did="1879063335" parentZoneId="1879150559" longitude="56.425175" latitude="17.967852"/>
-<marker id="800989202" label="Scouting Dwarf" category="70" did="1879152407" parentZoneId="1879150559" longitude="56.31943" latitude="17.997227"/>
-<marker id="800989203" label="Orc Cave-defiler" category="71" did="1879150804" parentZoneId="1879150559" longitude="55.89449" latitude="18.00746"/>
-<marker id="800989204" label="Orc Cave-defiler" category="71" did="1879150804" parentZoneId="1879150559" longitude="55.27035" latitude="17.975067"/>
-<marker id="800989208" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.526657" latitude="18.101093"/>
-<marker id="800989212" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="56.171757" latitude="17.991308"/>
-<marker id="800989213" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="56.22752" latitude="17.99248"/>
-<marker id="800989214" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.812675" latitude="18.041924"/>
-<marker id="800989216" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.23994" latitude="17.97044"/>
-<marker id="800989217" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.250626" latitude="18.1266"/>
-<marker id="800989218" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.20625" latitude="18.096523"/>
+<marker id="800989192" label="Sharp-eyed Master" category="71" did="1879150802" parentZoneId="1879150559" longitude="55.22076" latitude="18.116524"/>
+<marker id="800989193" label="Orc Treasure-seeker" category="71" did="1879150803" parentZoneId="1879150559" longitude="55.609844" latitude="18.09167"/>
+<marker id="800989194" label="Orc Treasure-seeker" category="71" did="1879150803" parentZoneId="1879150559" longitude="55.90826" latitude="18.008173"/>
+<marker id="800989195" label="Orc Treasure-seeker" category="71" did="1879150803" parentZoneId="1879150559" longitude="55.23076" latitude="18.12245"/>
+<marker id="800989196" label="Shielded Goblin" category="71" did="1879150819" parentZoneId="1879150559" longitude="56.068806" latitude="18.009277"/>
+<marker id="800989197" label="Shielded Goblin" category="71" did="1879150819" parentZoneId="1879150559" longitude="55.841484" latitude="18.086718"/>
+<marker id="800989198" label="Shielded Goblin" category="71" did="1879150819" parentZoneId="1879150559" longitude="55.527126" latitude="18.089277"/>
+<marker id="800989199" label="Shielded Goblin" category="71" did="1879150819" parentZoneId="1879150559" longitude="56.227207" latitude="17.96538"/>
+<marker id="800989200" label="Door" category="100" did="1879063335" parentZoneId="1879150559" longitude="56.425175" latitude="17.967852"/>
+<marker id="800989201" label="Scouting Dwarf" category="70" did="1879152407" parentZoneId="1879150559" longitude="56.31943" latitude="17.997227"/>
+<marker id="800989202" label="Orc Cave-defiler" category="71" did="1879150804" parentZoneId="1879150559" longitude="55.89449" latitude="18.00746"/>
+<marker id="800989203" label="Orc Cave-defiler" category="71" did="1879150804" parentZoneId="1879150559" longitude="55.27035" latitude="17.975067"/>
+<marker id="800989208" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.23994" latitude="17.97044"/>
+<marker id="800989211" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="56.171757" latitude="17.991308"/>
+<marker id="800989212" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="56.22752" latitude="17.99248"/>
+<marker id="800989213" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.812675" latitude="18.041924"/>
+<marker id="800989214" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.526657" latitude="18.101093"/>
+<marker id="800989216" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.250626" latitude="18.1266"/>
+<marker id="800989217" label="Stack of Rotting Papers" category="73" did="1879152312" parentZoneId="1879150559" longitude="55.20625" latitude="18.096523"/>
 <marker id="800997378" label="Echoing Cave-lizard" category="71" did="1879150821" parentZoneId="1879151333" longitude="55.851814" latitude="18.705"/>
 <marker id="800997379" label="Echoing Cave-lizard" category="71" did="1879150821" parentZoneId="1879151333" longitude="55.98035" latitude="18.739805"/>
 <marker id="800997380" label="Echoing Cave-lizard" category="71" did="1879150821" parentZoneId="1879151333" longitude="55.996815" latitude="18.71543"/>
@@ -914,18 +907,9 @@
 <marker id="801022048" label="Darkling" category="71" did="1879380830" parentZoneId="1879380758" longitude="56.377518" latitude="24.146406"/>
 <marker id="801022049" label="Darkling" category="71" did="1879380830" parentZoneId="1879380758" longitude="56.440292" latitude="24.593475"/>
 <marker id="801022050" label="Darkling" category="71" did="1879380830" parentZoneId="1879380758" longitude="56.20375" latitude="24.380634"/>
-<marker id="801022051" label="Grár's bones" category="73" did="1879380808" parentZoneId="1879380758" longitude="56.37748" latitude="24.396357"/>
-<marker id="801022052" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.44365" latitude="24.228184"/>
-<marker id="801022053" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.352478" latitude="24.238369"/>
-<marker id="801022054" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.275135" latitude="24.29034"/>
-<marker id="801022055" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.253418" latitude="24.395292"/>
-<marker id="801022056" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.294216" latitude="24.481962"/>
-<marker id="801022057" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.375" latitude="24.535175"/>
-<marker id="801022058" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.492012" latitude="24.493105"/>
-<marker id="801022059" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.569744" latitude="24.400106"/>
-<marker id="801022060" label="Howling Shadows" category="75" did="1879115074" parentZoneId="1879380758" longitude="56.54078" latitude="24.277206"/>
-<marker id="801022069" label="Gráthmun the Gnawer" category="71" did="1879380828" parentZoneId="1879380758" longitude="56.578552" latitude="24.530918"/>
-<marker id="801022072" label="Elder Dark-maw" category="71" did="1879380836" parentZoneId="1879380758" longitude="56.492634" latitude="24.14413"/>
+<marker id="801022052" label="Grár's bones" category="73" did="1879380808" parentZoneId="1879380758" longitude="56.37748" latitude="24.396357"/>
+<marker id="801022060" label="Gráthmun the Gnawer" category="71" did="1879380828" parentZoneId="1879380758" longitude="56.578552" latitude="24.530918"/>
+<marker id="801022063" label="Elder Dark-maw" category="71" did="1879380836" parentZoneId="1879380758" longitude="56.492634" latitude="24.14413"/>
 <marker id="801030174" label="Frog" category="78" did="1879086590" parentZoneId="1879148510" longitude="56.563026" latitude="26.003368"/>
 <marker id="801030175" label="Frog" category="78" did="1879086590" parentZoneId="1879148510" longitude="56.56119" latitude="25.9562"/>
 <marker id="801030176" label="Frog" category="78" did="1879086590" parentZoneId="1879148510" longitude="56.528633" latitude="25.970156"/>

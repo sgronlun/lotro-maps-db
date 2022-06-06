@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="270733312" label="Mordor Warrior" category="71" did="1879346762" parentZoneId="1879140598" longitude="-144.24854" latitude="-97.33275"/>
 <marker id="270733313" label="Mordor Defiler" category="71" did="1879346769" parentZoneId="1879140598" longitude="-144.22562" latitude="-97.318375"/>
-<marker id="270766082" label="Farmland" category="45" did="1879063084" parentZoneId="1879063919" longitude="-143.95166" latitude="-91.10365"/>
-<marker id="270766083" label="Farmland" category="45" did="1879063085" parentZoneId="1879063919" longitude="-143.79283" latitude="-91.101715"/>
-<marker id="270766084" label="Farmland" category="45" did="1879063085" parentZoneId="1879063919" longitude="-143.79247" latitude="-91.16762"/>
-<marker id="270766085" label="Farmland" category="45" did="1879063085" parentZoneId="1879063919" longitude="-143.79288" latitude="-91.23352"/>
-<marker id="270766086" label="Farmland" category="45" did="1879063085" parentZoneId="1879063919" longitude="-143.86314" latitude="-91.233154"/>
+<marker id="270766084" label="Expert Farmhand" category="33" did="1879063083" parentZoneId="1879063919" longitude="-144.0966" latitude="-91.10805"/>
+<marker id="270766086" label="Workbench" category="45" did="1879063081" parentZoneId="1879063919" longitude="-144.06558" latitude="-91.08998"/>
 <marker id="270766087" label="Workbench" category="45" did="1879063072" parentZoneId="1879063919" longitude="-144.08792" latitude="-91.18903"/>
-<marker id="270766088" label="Farmland" category="45" did="1879063086" parentZoneId="1879063919" longitude="-143.9498" latitude="-90.96328"/>
-<marker id="270766090" label="Farmland" category="45" did="1879063086" parentZoneId="1879063919" longitude="-143.81047" latitude="-90.96287"/>
-<marker id="270766092" label="Expert Farmhand" category="33" did="1879063083" parentZoneId="1879063919" longitude="-144.0966" latitude="-91.10805"/>
-<marker id="270766093" label="Hobbie Burrows&#10;Novice Farmhand" category="33" did="1879063082" parentZoneId="1879063919" longitude="-144.058" latitude="-91.1459"/>
-<marker id="270766094" label="Workbench" category="45" did="1879063081" parentZoneId="1879063919" longitude="-144.06558" latitude="-91.08998"/>
-<marker id="270766095" label="Farmland" category="45" did="1879063086" parentZoneId="1879063919" longitude="-143.88036" latitude="-90.96361"/>
+<marker id="270766088" label="Hobbie Burrows&#10;Novice Farmhand" category="33" did="1879063082" parentZoneId="1879063919" longitude="-144.058" latitude="-91.1459"/>
 <marker id="270782464" label="Hafgrím&#10;Council of the North" category="61" did="1879092740" parentZoneId="1879063919" longitude="-143.91597" latitude="-88.25977"/>
 <marker id="270782465" label="Tully Hopwood&#10;Men of Bree" category="61" did="1879092741" parentZoneId="1879063919" longitude="-143.92578" latitude="-88.25992"/>
 <marker id="270782466" label="Authun&#10;Thorin's Hall" category="61" did="1879092742" parentZoneId="1879063919" longitude="-143.9358" latitude="-88.26013"/>
@@ -24,12 +16,11 @@
 <marker id="270782472" label="Door" category="48" did="1879076778" parentZoneId="1879063919" longitude="-144.00049" latitude="-87.97107"/>
 <marker id="270782473" label="Grodbog Labourer" category="71" did="1879132060" parentZoneId="1879063919" longitude="-144.27919" latitude="-87.972466"/>
 <marker id="270782474" label="Mirror" category="73" did="1879130839" parentZoneId="1879063919" longitude="-144.19608" latitude="-87.9788"/>
-<marker id="270782475" label="Blinded by the Light" category="75" did="1879134770" parentZoneId="1879063919" longitude="-144.19579" latitude="-87.97881"/>
-<marker id="270782476" label="Door" category="48" did="1879063087" parentZoneId="1879063919" longitude="-144.21442" latitude="-88.24996"/>
-<marker id="270782477" label="Door" category="48" did="1879063515" parentZoneId="1879063919" longitude="-144.05035" latitude="-87.975"/>
-<marker id="270782478" label="Door" category="48" did="1879063321" parentZoneId="1879063919" longitude="-144.03218" latitude="-88.06391"/>
-<marker id="270782479" label="Door" category="48" did="1879063314" parentZoneId="1879063919" longitude="-143.91722" latitude="-87.944756"/>
-<marker id="270782480" label="Door" category="48" did="1879063863" parentZoneId="1879063919" longitude="-144.05956" latitude="-87.93855"/>
+<marker id="270782475" label="Door" category="48" did="1879063087" parentZoneId="1879063919" longitude="-144.21442" latitude="-88.24996"/>
+<marker id="270782476" label="Door" category="48" did="1879063515" parentZoneId="1879063919" longitude="-144.05035" latitude="-87.975"/>
+<marker id="270782477" label="Door" category="48" did="1879063321" parentZoneId="1879063919" longitude="-144.03218" latitude="-88.06391"/>
+<marker id="270782478" label="Door" category="48" did="1879063314" parentZoneId="1879063919" longitude="-143.91722" latitude="-87.944756"/>
+<marker id="270782479" label="Door" category="48" did="1879063863" parentZoneId="1879063919" longitude="-144.05956" latitude="-87.93855"/>
 <marker id="270848000" label="Kolmar" category="70" did="1879156793" parentZoneId="1879063919" longitude="-142.9927" latitude="-87.85052"/>
 <marker id="270848005" label="Arnar" category="70" did="1879157078" parentZoneId="1879063919" longitude="-142.99203" latitude="-87.82994"/>
 <marker id="270950400" label="Townsperson" category="70" did="1879077008" parentZoneId="1879063919" longitude="-141.74379" latitude="-93.43118"/>
@@ -48,9 +39,8 @@
 <marker id="271032327" label="Jarn-olog Ripper" category="71" did="1879077246" parentZoneId="1879063919" longitude="-140.79771" latitude="-90.38337"/>
 <marker id="271032328" label="Tarkripper Quartermaster&#10;Quartermaster" category="38" did="1879063239" parentZoneId="1879063919" longitude="-140.83258" latitude="-90.353806"/>
 <marker id="271306752" label="Torch" category="73" did="1879083507" parentZoneId="1879063919" longitude="-137.57819" latitude="-87.98594"/>
-<marker id="271552512" label="Hope Unlooked For Hotspot" category="75" did="1879098173" parentZoneId="1879063919" longitude="-134.58635" latitude="-91.184"/>
-<marker id="271552513" label="Door" category="48" did="1879093297" parentZoneId="1879063919" longitude="-134.40125" latitude="-91.12915"/>
-<marker id="271552514" label="Zurm" category="71" did="1879094600" parentZoneId="1879063919" longitude="-134.66475" latitude="-91.51836"/>
-<marker id="271552515" label="Barz" category="71" did="1879094599" parentZoneId="1879063919" longitude="-134.31853" latitude="-91.50099"/>
-<marker id="271552516" label="Lever" category="73" did="1879094598" parentZoneId="1879063919" longitude="-134.57324" latitude="-91.17889"/>
+<marker id="271552512" label="Door" category="48" did="1879093297" parentZoneId="1879063919" longitude="-134.40125" latitude="-91.12915"/>
+<marker id="271552513" label="Zurm" category="71" did="1879094600" parentZoneId="1879063919" longitude="-134.66475" latitude="-91.51836"/>
+<marker id="271552514" label="Barz" category="71" did="1879094599" parentZoneId="1879063919" longitude="-134.31853" latitude="-91.50099"/>
+<marker id="271552515" label="Lever" category="73" did="1879094598" parentZoneId="1879063919" longitude="-134.57324" latitude="-91.17889"/>
 </markers>

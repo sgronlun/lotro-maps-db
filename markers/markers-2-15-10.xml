@@ -157,12 +157,8 @@
 <marker id="799825993" label="Mor-hai Ravager" category="71" did="1879228875" parentZoneId="1879232712" longitude="54.77211" latitude="8.105331"/>
 <marker id="799940608" label="Study" category="45" did="1879063061" parentZoneId="1879149378" longitude="56.398983" latitude="5.255029"/>
 <marker id="799940609" label="Forge" category="45" did="1879085254" parentZoneId="1879149378" longitude="56.436775" latitude="5.019082"/>
-<marker id="799940610" label="Workbench" category="45" did="1879063073" parentZoneId="1879149378" longitude="56.476875" latitude="5.179629"/>
-<marker id="799940611" label="Workbench" category="45" did="1879063073" parentZoneId="1879149378" longitude="56.400135" latitude="5.179629"/>
-<marker id="799940612" label="Workbench" category="45" did="1879063073" parentZoneId="1879149378" longitude="56.400135" latitude="5.104121"/>
-<marker id="799940613" label="Oven" category="45" did="1879097094" parentZoneId="1879149378" longitude="56.48045" latitude="5.0956445"/>
-<marker id="799940614" label="Mailbox" category="34" did="1879063370" parentZoneId="1879149378" longitude="56.45402" latitude="5.236523"/>
-<marker id="799940615" label="Mailbox" category="34" did="1879063370" parentZoneId="1879149378" longitude="56.42291" latitude="5.236426"/>
+<marker id="799940610" label="Mailbox" category="34" did="1879063370" parentZoneId="1879149378" longitude="56.45402" latitude="5.236523"/>
+<marker id="799940611" label="Mailbox" category="34" did="1879063370" parentZoneId="1879149378" longitude="56.42291" latitude="5.236426"/>
 <marker id="799948813" label="Forge" category="45" did="1879063063" parentZoneId="1879167018" longitude="56.798416" latitude="6.5466113"/>
 <marker id="799948832" label="Skirmish Camp" category="43" did="1879179231" parentZoneId="1879167018" longitude="56.408867" latitude="6.6238575"/>
 <marker id="799948834" label="Naerelen&#10;Supplier" category="38" did="1879174488" parentZoneId="1879167018" longitude="56.70832" latitude="6.5876756"/>
@@ -172,57 +168,49 @@
 <marker id="799948838" label="Ivoron&#10;Vault-keeper" category="40" did="1879166701" parentZoneId="1879167018" longitude="56.70248" latitude="6.6575875"/>
 <marker id="799948839" label="Edhelnir&#10;Master of Crafting Guilds" category="42" did="1879124465" parentZoneId="1879167018" longitude="56.84648" latitude="6.705742"/>
 <marker id="799948840" label="Expert Farmhand" category="33" did="1879063083" parentZoneId="1879167018" longitude="56.884567" latitude="6.607383"/>
-<marker id="799948841" label="Workbench" category="75" did="1879063073" parentZoneId="1879167018" longitude="56.82076" latitude="6.725117"/>
-<marker id="799948842" label="Workbench" category="45" did="1879063072" parentZoneId="1879167018" longitude="56.80744" latitude="6.6918554"/>
-<marker id="799948843" label="Workbench" category="45" did="1879063072" parentZoneId="1879167018" longitude="56.850292" latitude="6.6993747"/>
-<marker id="799948844" label="Expert Cook" category="33" did="1879063055" parentZoneId="1879167018" longitude="56.884434" latitude="6.640693"/>
-<marker id="799948845" label="Oven" category="75" did="1879063058" parentZoneId="1879167018" longitude="56.885586" latitude="6.666025"/>
-<marker id="799948846" label="Oven" category="45" did="1879063059" parentZoneId="1879167018" longitude="56.886463" latitude="6.669922"/>
-<marker id="799948847" label="Study" category="45" did="1879063061" parentZoneId="1879167018" longitude="56.701992" latitude="6.576533"/>
-<marker id="799948848" label="Study" category="45" did="1879063061" parentZoneId="1879167018" longitude="56.75203" latitude="6.5280566"/>
-<marker id="799948849" label="Forge" category="75" did="1879063062" parentZoneId="1879167018" longitude="56.84459" latitude="6.57291"/>
-<marker id="799948850" label="Forge" category="45" did="1879063063" parentZoneId="1879167018" longitude="56.84537" latitude="6.5711617"/>
-<marker id="799948851" label="Mailbox" category="34" did="1879063475" parentZoneId="1879167018" longitude="56.701717" latitude="6.6961913"/>
-<marker id="799948853" label="Study" category="75" did="1879063880" parentZoneId="1879167018" longitude="56.707676" latitude="6.577451"/>
-<marker id="799948854" label="Expert Metalsmith" category="33" did="1879062164" parentZoneId="1879167018" longitude="56.800995" latitude="6.5532517"/>
-<marker id="799948855" label="Expert Scholar" category="33" did="1879062389" parentZoneId="1879167018" longitude="56.72332" latitude="6.546738"/>
-<marker id="799948856" label="Expert Weaponcrafter" category="33" did="1879061923" parentZoneId="1879167018" longitude="56.833748" latitude="6.561992"/>
-<marker id="799948857" label="Expert Jeweller" category="33" did="1879048658" parentZoneId="1879167018" longitude="56.857166" latitude="6.6921387"/>
-<marker id="799948858" label="Door" category="100" did="1879157895" parentZoneId="1879167018" longitude="56.232655" latitude="6.5942187"/>
-<marker id="799948859" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879167018" longitude="56.410233" latitude="6.6237497"/>
-<marker id="799948867" label="Master of Apprentices" category="42" did="1879062805" parentZoneId="1879167018" longitude="56.779472" latitude="6.6311913"/>
+<marker id="799948841" label="Workbench" category="45" did="1879063072" parentZoneId="1879167018" longitude="56.80744" latitude="6.6918554"/>
+<marker id="799948842" label="Workbench" category="45" did="1879063072" parentZoneId="1879167018" longitude="56.850292" latitude="6.6993747"/>
+<marker id="799948843" label="Expert Cook" category="33" did="1879063055" parentZoneId="1879167018" longitude="56.884434" latitude="6.640693"/>
+<marker id="799948844" label="Oven" category="45" did="1879063059" parentZoneId="1879167018" longitude="56.886463" latitude="6.669922"/>
+<marker id="799948845" label="Study" category="45" did="1879063061" parentZoneId="1879167018" longitude="56.701992" latitude="6.576533"/>
+<marker id="799948846" label="Study" category="45" did="1879063061" parentZoneId="1879167018" longitude="56.75203" latitude="6.5280566"/>
+<marker id="799948847" label="Forge" category="45" did="1879063063" parentZoneId="1879167018" longitude="56.84537" latitude="6.5711617"/>
+<marker id="799948848" label="Mailbox" category="34" did="1879063475" parentZoneId="1879167018" longitude="56.701717" latitude="6.6961913"/>
+<marker id="799948850" label="Expert Metalsmith" category="33" did="1879062164" parentZoneId="1879167018" longitude="56.800995" latitude="6.5532517"/>
+<marker id="799948851" label="Expert Scholar" category="33" did="1879062389" parentZoneId="1879167018" longitude="56.72332" latitude="6.546738"/>
+<marker id="799948852" label="Expert Weaponcrafter" category="33" did="1879061923" parentZoneId="1879167018" longitude="56.833748" latitude="6.561992"/>
+<marker id="799948853" label="Expert Jeweller" category="33" did="1879048658" parentZoneId="1879167018" longitude="56.857166" latitude="6.6921387"/>
+<marker id="799948854" label="Door" category="100" did="1879157895" parentZoneId="1879167018" longitude="56.232655" latitude="6.5942187"/>
+<marker id="799948855" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879167018" longitude="56.410233" latitude="6.6237497"/>
+<marker id="799948864" label="Master of Apprentices" category="42" did="1879062805" parentZoneId="1879167018" longitude="56.779472" latitude="6.6311913"/>
 <marker id="799956993" label="Door" category="100" did="1879157895" parentZoneId="1879173670" longitude="56.543945" latitude="8.4390135"/>
 <marker id="799956994" label="Cave Wall" category="100" did="1879181044" parentZoneId="1879173670" longitude="56.364548" latitude="8.408252"/>
 <marker id="799956995" label="Cave Wall" category="100" did="1879181044" parentZoneId="1879173670" longitude="56.103848" latitude="8.401591"/>
 <marker id="799956996" label="Thyrnir" category="71" did="1879174367" parentZoneId="1879173670" longitude="56.49619" latitude="8.434727"/>
-<marker id="799956998" label="Goblin-sappers Explosion" category="75" did="1879174849" parentZoneId="1879173670" longitude="55.94582" latitude="8.594043"/>
-<marker id="799956999" label="Goblin-sappers Explosion" category="75" did="1879174849" parentZoneId="1879173670" longitude="55.859276" latitude="9.056885"/>
-<marker id="799957000" label="Goblin-sappers Explosion" category="75" did="1879174849" parentZoneId="1879173670" longitude="55.8132" latitude="9.095527"/>
-<marker id="799957001" label="Goblin-sappers Explosion" category="75" did="1879174849" parentZoneId="1879173670" longitude="55.795174" latitude="9.0283"/>
-<marker id="799957002" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="56.026814" latitude="8.312148"/>
-<marker id="799957003" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.83869" latitude="9.0642185"/>
-<marker id="799957004" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.80662" latitude="9.053838"/>
-<marker id="799957005" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.909668" latitude="8.627275"/>
-<marker id="799957006" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.952988" latitude="8.625595"/>
-<marker id="799957007" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="56.089394" latitude="8.067206"/>
-<marker id="799957008" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.939278" latitude="8.588955"/>
-<marker id="799957009" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="56.007263" latitude="8.056836"/>
-<marker id="799957010" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.79791" latitude="9.002578"/>
-<marker id="799957011" label="Goblin Driver" category="71" did="1879174698" parentZoneId="1879173670" longitude="56.03713" latitude="8.312402"/>
-<marker id="799957012" label="Goblin Driver" category="71" did="1879174698" parentZoneId="1879173670" longitude="55.823906" latitude="9.047725"/>
-<marker id="799957013" label="Goblin Driver" category="71" did="1879174698" parentZoneId="1879173670" longitude="55.809433" latitude="9.076142"/>
-<marker id="799957014" label="Maddened Cave-troll" category="71" did="1879174697" parentZoneId="1879173670" longitude="55.82176" latitude="9.075156"/>
-<marker id="799957015" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.061348" latitude="8.3673725"/>
-<marker id="799957016" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.045742" latitude="8.316738"/>
-<marker id="799957017" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.05035" latitude="8.373506"/>
-<marker id="799957018" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.059395" latitude="8.111377"/>
-<marker id="799957019" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.85256" latitude="9.0318165"/>
-<marker id="799957020" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.813457" latitude="9.01792"/>
-<marker id="799957021" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.037556" latitude="8.111709"/>
-<marker id="799957022" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.855427" latitude="8.653281"/>
-<marker id="799957023" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.81613" latitude="8.651835"/>
-<marker id="799957024" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.8659" latitude="9.055078"/>
-<marker id="799957025" label="Vatnar" category="71" did="1879174366" parentZoneId="1879173670" longitude="56.49945" latitude="8.419335"/>
+<marker id="799956997" label="Vatnar" category="71" did="1879174366" parentZoneId="1879173670" longitude="56.49945" latitude="8.419335"/>
+<marker id="799956998" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="56.026814" latitude="8.312148"/>
+<marker id="799956999" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.83869" latitude="9.0642185"/>
+<marker id="799957000" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.80662" latitude="9.053838"/>
+<marker id="799957001" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.909668" latitude="8.627275"/>
+<marker id="799957002" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.952988" latitude="8.625595"/>
+<marker id="799957003" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="56.089394" latitude="8.067206"/>
+<marker id="799957004" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.939278" latitude="8.588955"/>
+<marker id="799957005" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="56.007263" latitude="8.056836"/>
+<marker id="799957006" label="Guldur Sapper" category="71" did="1879174699" parentZoneId="1879173670" longitude="55.79791" latitude="9.002578"/>
+<marker id="799957007" label="Goblin Driver" category="71" did="1879174698" parentZoneId="1879173670" longitude="56.03713" latitude="8.312402"/>
+<marker id="799957008" label="Goblin Driver" category="71" did="1879174698" parentZoneId="1879173670" longitude="55.823906" latitude="9.047725"/>
+<marker id="799957009" label="Goblin Driver" category="71" did="1879174698" parentZoneId="1879173670" longitude="55.809433" latitude="9.076142"/>
+<marker id="799957010" label="Maddened Cave-troll" category="71" did="1879174697" parentZoneId="1879173670" longitude="55.82176" latitude="9.075156"/>
+<marker id="799957011" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.061348" latitude="8.3673725"/>
+<marker id="799957012" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.045742" latitude="8.316738"/>
+<marker id="799957013" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.05035" latitude="8.373506"/>
+<marker id="799957014" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.059395" latitude="8.111377"/>
+<marker id="799957015" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.85256" latitude="9.0318165"/>
+<marker id="799957016" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.813457" latitude="9.01792"/>
+<marker id="799957017" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="56.037556" latitude="8.111709"/>
+<marker id="799957018" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.855427" latitude="8.653281"/>
+<marker id="799957019" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.81613" latitude="8.651835"/>
+<marker id="799957020" label="Guldur Digger" category="71" did="1879174696" parentZoneId="1879173670" longitude="55.8659" latitude="9.055078"/>
 <marker id="799965184" label="Mazog" category="71" did="1879157758" parentZoneId="1879162305" longitude="56.28783" latitude="10.04292"/>
 <marker id="799965185" label="Issuriel" category="70" did="1879155980" parentZoneId="1879162305" longitude="56.305195" latitude="10.028222"/>
 <marker id="799965186" label="Achardor" category="70" did="1879155994" parentZoneId="1879162305" longitude="56.304043" latitude="10.060947"/>
@@ -230,14 +218,9 @@
 <marker id="799965188" label="Achardor" category="70" did="1879155992" parentZoneId="1879162305" longitude="56.30365" latitude="10.055947"/>
 <marker id="799965189" label="Bróin" category="70" did="1879155946" parentZoneId="1879162305" longitude="56.349316" latitude="10.089326"/>
 <marker id="799965194" label="Cúcheron" category="70" did="1879155939" parentZoneId="1879162305" longitude="56.328552" latitude="10.032978"/>
-<marker id="799965196" label="Dread Aura Tier 1" category="75" did="1879077488" parentZoneId="1879162305" longitude="56.316013" latitude="10.054522"/>
-<marker id="799965197" label="Dread Aura Tier 5" category="75" did="1879082092" parentZoneId="1879162305" longitude="56.316013" latitude="10.054522"/>
-<marker id="799965198" label="Dread Aura Tier 3" category="75" did="1879079783" parentZoneId="1879162305" longitude="56.316013" latitude="10.054522"/>
-<marker id="799965199" label="Mazog" category="71" did="1879157362" parentZoneId="1879162305" longitude="56.29377" latitude="10.039238"/>
-<marker id="799965201" label="Dread Aura Tier 2" category="75" did="1879079623" parentZoneId="1879162305" longitude="56.316013" latitude="10.054522"/>
-<marker id="799965202" label="Dread Aura Tier 4" category="75" did="1879080642" parentZoneId="1879162305" longitude="56.316013" latitude="10.054522"/>
-<marker id="799965203" label="Issuriel" category="70" did="1879155977" parentZoneId="1879162305" longitude="56.304314" latitude="10.028604"/>
-<marker id="799965204" label="Sigileth" category="70" did="1879155969" parentZoneId="1879162305" longitude="56.324276" latitude="10.023261"/>
+<marker id="799965196" label="Mazog" category="71" did="1879157362" parentZoneId="1879162305" longitude="56.29377" latitude="10.039238"/>
+<marker id="799965198" label="Issuriel" category="70" did="1879155977" parentZoneId="1879162305" longitude="56.304314" latitude="10.028604"/>
+<marker id="799965199" label="Sigileth" category="70" did="1879155969" parentZoneId="1879162305" longitude="56.324276" latitude="10.023261"/>
 <marker id="799973376" label="Auctioneer" category="53" did="1879136167" parentZoneId="1879149376" longitude="56.382126" latitude="11.45499"/>
 <marker id="799973377" label="Auctioneer" category="53" did="1879136167" parentZoneId="1879149376" longitude="56.347324" latitude="11.490313"/>
 <marker id="799973378" label="Mailbox" category="34" did="1879063370" parentZoneId="1879149376" longitude="56.475956" latitude="11.536797"/>

@@ -28,11 +28,11 @@
 <max longitude="0.7666626" latitude="-22.8"/>
 </map>
 <map id="268437603" name="Lone-Lands" imageId="1090552112">
-<geo factor="43.75">
-<point longitude="-44.331425" latitude="-26.182861"/>
+<geo factor="47.5">
+<point longitude="-43.6" latitude="-24.273682"/>
 </geo>
-<min longitude="-44.331425" latitude="-43.737144"/>
-<max longitude="-20.92571" latitude="-26.182861"/>
+<min longitude="-43.6" latitude="-40.442104"/>
+<max longitude="-22.042103" latitude="-24.273682"/>
 </map>
 <map id="268437615" name="Angmar" imageId="1090552113">
 <geo factor="35.0">
@@ -161,11 +161,11 @@
 <max longitude="-65.86667" latitude="-15.511113"/>
 </map>
 <map id="268442268" name="Eregion" imageId="1091470982">
-<geo factor="33.75">
-<point longitude="-23.807402" latitude="-35.244442"/>
+<geo factor="35.625">
+<point longitude="-26.8" latitude="-38.042107"/>
 </geo>
-<min longitude="-23.807402" latitude="-57.999996"/>
-<max longitude="6.5333385" latitude="-35.244442"/>
+<min longitude="-26.8" latitude="-59.600002"/>
+<max longitude="1.943861" latitude="-38.042107"/>
 </map>
 <map id="268442326" name="The Walls of Moria" imageId="1091470996">
 <geo factor="139.34">
@@ -280,11 +280,11 @@
 <max longitude="-38.799995" latitude="-4.93333"/>
 </map>
 <map id="268444443" name="Enedwaith" imageId="1091584420">
-<geo factor="33.0">
-<point longitude="-31.587881" latitude="-53.733334"/>
+<geo factor="30.000002">
+<point longitude="-35.899998" latitude="-53.86667"/>
 </geo>
-<min longitude="-31.587881" latitude="-77.00606"/>
-<max longitude="-0.55757713" latitude="-53.733334"/>
+<min longitude="-35.899998" latitude="-79.46667"/>
+<max longitude="-1.7666664" latitude="-53.86667"/>
 </map>
 <map id="268445087" name="Northern Barrow-downs" imageId="1091610689">
 <geo factor="211.99998">
@@ -1120,11 +1120,11 @@
 <max longitude="-65.876366" latitude="-54.814545"/>
 </map>
 <map id="268453454" name="Wells of Langflood" imageId="1092544361">
-<geo factor="37.5">
-<point longitude="-75.2" latitude="34.21333"/>
+<geo factor="36.875">
+<point longitude="-75.32881" latitude="34.555927"/>
 </geo>
-<min longitude="-75.2" latitude="13.73333"/>
-<max longitude="-47.89333" latitude="34.21333"/>
+<min longitude="-75.32881" latitude="13.728809"/>
+<max longitude="-47.55932" latitude="34.555927"/>
 </map>
 <map id="268453492" name="Minas Tirith Midsummer (The Great Wedding)" imageId="1092560926">
 <geo factor="95.0">
@@ -1260,11 +1260,11 @@
 <max longitude="-134.02026" latitude="20.177216"/>
 </map>
 <map id="268453878" name="The Angle of Mitheithel" imageId="1092709646">
-<geo factor="53.4375">
-<point longitude="-27.599998" latitude="-31.628065"/>
+<geo factor="51.25">
+<point longitude="-27.599998" latitude="-32.614628"/>
 </geo>
-<min longitude="-27.599998" latitude="-45.999992"/>
-<max longitude="-8.437426" latitude="-31.628065"/>
+<min longitude="-27.599998" latitude="-47.599995"/>
+<max longitude="-7.6195107" latitude="-32.614628"/>
 </map>
 <map id="268453893" name="Glittering Caves" imageId="1092709851">
 <geo factor="125.0">
@@ -1286,6 +1286,27 @@
 </geo>
 <min longitude="-90.0" latitude="-33.200005"/>
 <max longitude="-67.55617" latitude="-16.367128"/>
+</map>
+<map id="268453997" name="Swanfleet" imageId="1092741678">
+<geo factor="28.125">
+<point longitude="-45.502224" latitude="-40.293327"/>
+</geo>
+<min longitude="-45.502224" latitude="-67.59999"/>
+<max longitude="-9.093334" latitude="-40.293327"/>
+</map>
+<map id="268454004" name="Cardolan" imageId="1092747833">
+<geo factor="28.75">
+<point longitude="-58.8" latitude="-32.88695"/>
+</geo>
+<min longitude="-58.8" latitude="-59.599995"/>
+<max longitude="-23.18261" latitude="-32.88695"/>
+</map>
+<map id="268454010" name="?" imageId="1092751428">
+<geo factor="657.5">
+<point longitude="-35.6" latitude="-60.18555"/>
+</geo>
+<min longitude="-35.6" latitude="-61.35361"/>
+<max longitude="-34.042583" latitude="-60.18555"/>
 </map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
@@ -8958,5 +8979,173 @@
 </geo>
 <min longitude="-81.83666" latitude="-25.05111"/>
 <max longitude="-80.94778" latitude="-24.384443"/>
+</map>
+<map id="1879448949" name="Mossward Blacksmith Shop" imageId="1092737625">
+<geo factor="600.00006">
+<point longitude="54.15666" latitude="49.713337"/>
+</geo>
+<min longitude="54.15666" latitude="48.713337"/>
+<max longitude="55.48999" latitude="49.713337"/>
+</map>
+<map id="1879448950" name="Mossward Healer's Shop" imageId="1092737623">
+<geo factor="720.0">
+<point longitude="54.26666" latitude="47.222225"/>
+</geo>
+<min longitude="54.26666" latitude="46.388893"/>
+<max longitude="55.37777" latitude="47.222225"/>
+</map>
+<map id="1879448951" name="Mossward Provisions" imageId="1092737624">
+<geo factor="600.0">
+<point longitude="54.13334" latitude="48.92"/>
+</geo>
+<min longitude="54.13334" latitude="47.92"/>
+<max longitude="55.46667" latitude="48.92"/>
+</map>
+<map id="1879448953" name="Butcher's Shop" imageId="1092737646">
+<geo factor="600.0">
+<point longitude="54.12166" latitude="48.094997"/>
+</geo>
+<min longitude="54.12166" latitude="47.094997"/>
+<max longitude="55.45499" latitude="48.094997"/>
+</map>
+<map id="1879450191" name="Catacombs of Dol Ernil" imageId="1092742788">
+<geo factor="360.0">
+<point longitude="49.877773" latitude="-32.330555"/>
+</geo>
+<min longitude="49.877773" latitude="-33.997223"/>
+<max longitude="52.099995" latitude="-32.330555"/>
+</map>
+<map id="1879450205" name="Cedrach's Cottage" imageId="1092742789">
+<geo factor="1200.0">
+<point longitude="-57.535" latitude="-41.7425"/>
+</geo>
+<min longitude="-57.535" latitude="-42.2425"/>
+<max longitude="-56.868332" latitude="-41.7425"/>
+</map>
+<map id="1879451216" name="Crossway House" imageId="1092746777">
+<geo factor="1000.0">
+<point longitude="-5.0379977" latitude="-121.936"/>
+</geo>
+<min longitude="-5.0379977" latitude="-122.535995"/>
+<max longitude="-4.2379975" latitude="-121.936"/>
+</map>
+<map id="1879451217" name="Bledri's House" imageId="1092746778">
+<geo factor="1000.0">
+<point longitude="-3.1159961" latitude="-121.739"/>
+</geo>
+<min longitude="-3.1159961" latitude="-122.339"/>
+<max longitude="-2.3159962" latitude="-121.739"/>
+</map>
+<map id="1879451218" name="Aldyth's House" imageId="1092746779">
+<geo factor="1000.0">
+<point longitude="-1.5999999" latitude="-121.643"/>
+</geo>
+<min longitude="-1.5999999" latitude="-122.243"/>
+<max longitude="-0.7999999" latitude="-121.643"/>
+</map>
+<map id="1879451219" name="Aberthol's House" imageId="1092746780">
+<geo factor="1000.0001">
+<point longitude="0.007001953" latitude="-121.675995"/>
+</geo>
+<min longitude="0.007001953" latitude="-122.27599"/>
+<max longitude="0.8070019" latitude="-121.675995"/>
+</map>
+<map id="1879451220" name="Rendal's House" imageId="1092746781">
+<geo factor="1000.0">
+<point longitude="1.565996" latitude="-121.71999"/>
+</geo>
+<min longitude="1.565996" latitude="-122.31999"/>
+<max longitude="2.3659961" latitude="-121.71999"/>
+</map>
+<map id="1879451221" name="Hulfryn's House" imageId="1092746782">
+<geo factor="1000.0">
+<point longitude="3.157002" latitude="-121.674995"/>
+</geo>
+<min longitude="3.157002" latitude="-122.274994"/>
+<max longitude="3.957002" latitude="-121.674995"/>
+</map>
+<map id="1879451222" name="Herne Mayor's Office" imageId="1092746783">
+<geo factor="1000.0">
+<point longitude="4.777002" latitude="-121.712"/>
+</geo>
+<min longitude="4.777002" latitude="-122.312"/>
+<max longitude="5.577002" latitude="-121.712"/>
+</map>
+<map id="1879451223" name="Auction Hall" imageId="1092746784">
+<geo factor="999.9999">
+<point longitude="6.360996" latitude="-121.684"/>
+</geo>
+<min longitude="6.360996" latitude="-122.284"/>
+<max longitude="7.160996" latitude="-121.684"/>
+</map>
+<map id="1879451224" name="Hall of Crafts" imageId="1092746785">
+<geo factor="999.9999">
+<point longitude="8.0079975" latitude="-121.509"/>
+</geo>
+<min longitude="8.0079975" latitude="-122.109"/>
+<max longitude="8.807998" latitude="-121.509"/>
+</map>
+<map id="1879453499" name="DNT - CARN DUM SEWERS" imageId="1092753789">
+<geo factor="300.0">
+<point longitude="46.23" latitude="79.043335"/>
+</geo>
+<min longitude="46.23" latitude="75.043335"/>
+<max longitude="51.56333" latitude="79.043335"/>
+</map>
+<map id="1879453610" name="DNT - CARN DUM UNDERCOURT" imageId="1092755901">
+<geo factor="600.00006">
+<point longitude="48.53334" latitude="77.04834"/>
+</geo>
+<min longitude="48.53334" latitude="76.04834"/>
+<max longitude="49.866673" latitude="77.04834"/>
+</map>
+<map id="1879453611" name="DNT - CARN DUM CATHEDRAL" imageId="1092756298">
+<geo factor="600.00006">
+<point longitude="48.13334" latitude="76.1"/>
+</geo>
+<min longitude="48.13334" latitude="75.1"/>
+<max longitude="49.46667" latitude="76.1"/>
+</map>
+<map id="1879454258" name="The Boat and Basket" imageId="1092754397">
+<geo factor="600.00006">
+<point longitude="54.14834" latitude="46.585"/>
+</geo>
+<min longitude="54.14834" latitude="45.585"/>
+<max longitude="55.48167" latitude="46.585"/>
+</map>
+<map id="1879455496" name="The Stony Leap" imageId="1092754620">
+<geo factor="1200.0">
+<point longitude="54.48584" latitude="44.56084"/>
+</geo>
+<min longitude="54.48584" latitude="44.06084"/>
+<max longitude="55.152508" latitude="44.56084"/>
+</map>
+<map id="1879456000" name="DNT - CARN DUM UNDERCOURT" imageId="1092755902">
+<geo factor="600.00006">
+<point longitude="48.53334" latitude="77.04834"/>
+</geo>
+<min longitude="48.53334" latitude="76.04834"/>
+<max longitude="49.866673" latitude="77.04834"/>
+</map>
+<map id="1879456001" name="DNT - CARN DUM UNDERCOURT" imageId="1092755903">
+<geo factor="600.00006">
+<point longitude="48.53334" latitude="77.04834"/>
+</geo>
+<min longitude="48.53334" latitude="76.04834"/>
+<max longitude="49.866673" latitude="77.04834"/>
+</map>
+<map id="1879456002" name="DNT - CARN DUM UNDERCOURT" imageId="1092755904">
+<geo factor="600.00006">
+<point longitude="48.53334" latitude="77.04834"/>
+</geo>
+<min longitude="48.53334" latitude="76.04834"/>
+<max longitude="49.866673" latitude="77.04834"/>
+</map>
+<map id="1879456452" name="Sarch Vorn" imageId="1092756832">
+<geo factor="360.0">
+<point longitude="49.316658" latitude="-30.766668"/>
+</geo>
+<min longitude="49.316658" latitude="-32.433334"/>
+<max longitude="51.53888" latitude="-30.766668"/>
 </map>
 </maps>

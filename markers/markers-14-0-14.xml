@@ -696,16 +696,16 @@
 <marker id="-521408503" label="Silver-neck Doe" category="71" did="1879414289" parentZoneId="1879413511" longitude="-137.57936" latitude="67.153496"/>
 <marker id="-521408502" label="Great Dale-moose" category="71" did="1879414288" parentZoneId="1879413511" longitude="-137.57936" latitude="67.153496"/>
 <marker id="-521408501" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-137.57936" latitude="67.153496"/>
-<marker id="-521408498" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-137.56848" latitude="67.11898"/>
-<marker id="-521408497" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-137.56848" latitude="67.11898"/>
-<marker id="-521408495" label="Ufúrzrak Defiler" category="71" did="1879419548" parentZoneId="1879413511" longitude="-137.2222" latitude="67.55191"/>
-<marker id="-521408494" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-137.42975" latitude="67.588356"/>
-<marker id="-521408493" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-137.28194" latitude="67.570526"/>
-<marker id="-521408492" label="Ufúrzrak Black-arrow" category="71" did="1879419545" parentZoneId="1879413511" longitude="-137.2382" latitude="67.563225"/>
-<marker id="-521408491" label="Chest" category="72" did="1879396381" parentZoneId="1879413511" longitude="-137.27591" latitude="67.54431"/>
+<marker id="-521408499" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-137.56848" latitude="67.11898"/>
+<marker id="-521408498" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-137.56848" latitude="67.11898"/>
+<marker id="-521408497" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-137.56848" latitude="67.11898"/>
+<marker id="-521408496" label="Chest" category="72" did="1879396381" parentZoneId="1879413511" longitude="-137.27591" latitude="67.54431"/>
+<marker id="-521408494" label="Ufúrzrak Defiler" category="71" did="1879419548" parentZoneId="1879413511" longitude="-137.2222" latitude="67.55191"/>
+<marker id="-521408493" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-137.42975" latitude="67.588356"/>
+<marker id="-521408492" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-137.28194" latitude="67.570526"/>
+<marker id="-521408491" label="Ufúrzrak Black-arrow" category="71" did="1879419545" parentZoneId="1879413511" longitude="-137.2382" latitude="67.563225"/>
 <marker id="-521408490" label="Runed Coffer" category="50" did="1879416191" parentZoneId="1879413511" longitude="-137.27591" latitude="67.54431"/>
 <marker id="-521408489" label="Heavy Runed Coffer" category="50" did="1879416192" parentZoneId="1879413511" longitude="-137.27591" latitude="67.54431"/>
-<marker id="-521408485" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-137.56848" latitude="67.11898"/>
 <marker id="-521408482" label="Dáin" category="70" did="1879419033" parentZoneId="1879413511" longitude="-137.24847" latitude="67.56264"/>
 <marker id="-521408481" label="Thorin" category="70" did="1879419034" parentZoneId="1879413511" longitude="-137.25136" latitude="67.57238"/>
 <marker id="-521408480" label="Bolg" category="71" did="1879418821" parentZoneId="1879413511" longitude="-137.29369" latitude="67.59703"/>
@@ -998,7 +998,7 @@
 <marker id="-521351161" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-136.87537" latitude="65.62902"/>
 <marker id="-521351160" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-136.86449" latitude="65.59451"/>
 <marker id="-521351159" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-136.86449" latitude="65.59451"/>
-<marker id="-521351155" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-136.86449" latitude="65.59451"/>
+<marker id="-521351158" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-136.86449" latitude="65.59451"/>
 <marker id="-521351154" label="Frost-rimed Ilex Branches" category="50" did="1879416189" parentZoneId="1879413511" longitude="-136.54857" latitude="65.36822"/>
 <marker id="-521351153" label="Khazâd-silver Deposit" category="50" did="1879416188" parentZoneId="1879413511" longitude="-136.54857" latitude="65.36822"/>
 <marker id="-521351138" label="Heavy Frost-rimed Ilex Branches" category="50" did="1879416190" parentZoneId="1879413511" longitude="-136.54857" latitude="65.36822"/>
@@ -1387,21 +1387,21 @@
 <marker id="-521342970" label="Silver-neck Doe" category="71" did="1879414289" parentZoneId="1879413511" longitude="-136.88583" latitude="67.04019"/>
 <marker id="-521342969" label="Great Dale-moose" category="71" did="1879414288" parentZoneId="1879413511" longitude="-136.88583" latitude="67.04019"/>
 <marker id="-521342968" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-136.88583" latitude="67.04019"/>
-<marker id="-521342960" label="Ufúrzrak Berserker" category="71" did="1879419542" parentZoneId="1879413511" longitude="-136.78679" latitude="67.53521"/>
-<marker id="-521342959" label="Ufúrzrak Berserker" category="71" did="1879419542" parentZoneId="1879413511" longitude="-136.98839" latitude="67.55955"/>
-<marker id="-521342958" label="Ufúrzrak Berserker" category="71" did="1879419542" parentZoneId="1879413511" longitude="-136.46121" latitude="67.537346"/>
-<marker id="-521342957" label="Ufúrzrak Defiler" category="71" did="1879419548" parentZoneId="1879413511" longitude="-136.76958" latitude="67.54019"/>
-<marker id="-521342956" label="Ufúrzrak Defiler" category="71" did="1879419548" parentZoneId="1879413511" longitude="-136.45428" latitude="67.54795"/>
-<marker id="-521342955" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-137.03763" latitude="67.56201"/>
-<marker id="-521342954" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-137.16869" latitude="67.59261"/>
-<marker id="-521342953" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-136.59393" latitude="67.55197"/>
-<marker id="-521342952" label="Ufúrzrak Warrior" category="71" did="1879419550" parentZoneId="1879413511" longitude="-136.6251" latitude="67.53648"/>
-<marker id="-521342951" label="Ufúrzrak Warrior" category="71" did="1879419550" parentZoneId="1879413511" longitude="-137.10573" latitude="67.56886"/>
-<marker id="-521342950" label="Ufúrzrak Warrior" category="71" did="1879419550" parentZoneId="1879413511" longitude="-136.57108" latitude="67.4985"/>
-<marker id="-521342949" label="Ufúrzrak Warrior" category="71" did="1879419550" parentZoneId="1879413511" longitude="-136.44489" latitude="67.481895"/>
-<marker id="-521342948" label="Ufúrzrak Black-arrow" category="71" did="1879419545" parentZoneId="1879413511" longitude="-136.62877" latitude="67.54574"/>
-<marker id="-521342947" label="Ufúrzrak Black-arrow" category="71" did="1879419545" parentZoneId="1879413511" longitude="-136.86076" latitude="67.521736"/>
-<marker id="-521342946" label="Chest" category="72" did="1879396381" parentZoneId="1879413511" longitude="-136.75107" latitude="67.31701"/>
+<marker id="-521342964" label="Chest" category="72" did="1879396381" parentZoneId="1879413511" longitude="-136.75107" latitude="67.31701"/>
+<marker id="-521342959" label="Ufúrzrak Berserker" category="71" did="1879419542" parentZoneId="1879413511" longitude="-136.78679" latitude="67.53521"/>
+<marker id="-521342958" label="Ufúrzrak Berserker" category="71" did="1879419542" parentZoneId="1879413511" longitude="-136.98839" latitude="67.55955"/>
+<marker id="-521342957" label="Ufúrzrak Berserker" category="71" did="1879419542" parentZoneId="1879413511" longitude="-136.46121" latitude="67.537346"/>
+<marker id="-521342956" label="Ufúrzrak Defiler" category="71" did="1879419548" parentZoneId="1879413511" longitude="-136.76958" latitude="67.54019"/>
+<marker id="-521342955" label="Ufúrzrak Defiler" category="71" did="1879419548" parentZoneId="1879413511" longitude="-136.45428" latitude="67.54795"/>
+<marker id="-521342954" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-137.03763" latitude="67.56201"/>
+<marker id="-521342953" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-137.16869" latitude="67.59261"/>
+<marker id="-521342952" label="Ufúrzrak Bodyguard" category="71" did="1879419551" parentZoneId="1879413511" longitude="-136.59393" latitude="67.55197"/>
+<marker id="-521342951" label="Ufúrzrak Warrior" category="71" did="1879419550" parentZoneId="1879413511" longitude="-136.6251" latitude="67.53648"/>
+<marker id="-521342950" label="Ufúrzrak Warrior" category="71" did="1879419550" parentZoneId="1879413511" longitude="-137.10573" latitude="67.56886"/>
+<marker id="-521342949" label="Ufúrzrak Warrior" category="71" did="1879419550" parentZoneId="1879413511" longitude="-136.57108" latitude="67.4985"/>
+<marker id="-521342948" label="Ufúrzrak Warrior" category="71" did="1879419550" parentZoneId="1879413511" longitude="-136.44489" latitude="67.481895"/>
+<marker id="-521342947" label="Ufúrzrak Black-arrow" category="71" did="1879419545" parentZoneId="1879413511" longitude="-136.62877" latitude="67.54574"/>
+<marker id="-521342946" label="Ufúrzrak Black-arrow" category="71" did="1879419545" parentZoneId="1879413511" longitude="-136.86076" latitude="67.521736"/>
 <marker id="-521342941" label="Runed Coffer" category="50" did="1879416191" parentZoneId="1879413511" longitude="-136.75107" latitude="67.31701"/>
 <marker id="-521342938" label="Heavy Runed Coffer" category="50" did="1879416192" parentZoneId="1879413511" longitude="-136.75107" latitude="67.31701"/>
 <marker id="-521342935" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-136.87495" latitude="67.005684"/>
@@ -1778,10 +1778,10 @@
 <marker id="-521293815" label="Labam-gairu, the Whitcleft" category="43" did="1879415624" parentZoneId="1879413511" longitude="-136.24348" latitude="64.03059"/>
 <marker id="-521293814" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-135.79575" latitude="64.09832"/>
 <marker id="-521293813" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-135.79575" latitude="64.09832"/>
-<marker id="-521293812" label="Strázhek" category="70" did="1879418217" parentZoneId="1879413511" longitude="-136.00522" latitude="63.75783"/>
-<marker id="-521293811" label="Váko" category="70" did="1879418218" parentZoneId="1879413511" longitude="-135.76491" latitude="63.787323"/>
-<marker id="-521293810" label="Bedraggled Dwarf" category="70" did="1879418762" parentZoneId="1879413511" longitude="-135.73843" latitude="63.702988"/>
-<marker id="-521293809" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-135.79575" latitude="64.09832"/>
+<marker id="-521293812" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-135.79575" latitude="64.09832"/>
+<marker id="-521293811" label="Strázhek" category="70" did="1879418217" parentZoneId="1879413511" longitude="-136.00522" latitude="63.75783"/>
+<marker id="-521293810" label="Váko" category="70" did="1879418218" parentZoneId="1879413511" longitude="-135.76491" latitude="63.787323"/>
+<marker id="-521293809" label="Bedraggled Dwarf" category="70" did="1879418762" parentZoneId="1879413511" longitude="-135.73843" latitude="63.702988"/>
 <marker id="-521293808" label="Vékun" category="70" did="1879420040" parentZoneId="1879413511" longitude="-135.77051" latitude="63.661423"/>
 <marker id="-521293807" label="King Vélat" category="70" did="1879413605" parentZoneId="1879413511" longitude="-135.95917" latitude="63.77289"/>
 <marker id="-521293797" label="Labam-gairu, the Whitcleft" category="74" did="1879415624" parentZoneId="1879413511" longitude="-135.62434" latitude="64.025055"/>
@@ -1945,14 +1945,14 @@
 <marker id="-521289722" label="Silver-neck Doe" category="71" did="1879414289" parentZoneId="1879413511" longitude="-135.98862" latitude="64.74136"/>
 <marker id="-521289721" label="Great Dale-moose" category="71" did="1879414288" parentZoneId="1879413511" longitude="-135.98862" latitude="64.74136"/>
 <marker id="-521289720" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.98862" latitude="64.74136"/>
-<marker id="-521289713" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.81476" latitude="65.14701"/>
-<marker id="-521289712" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.72131" latitude="65.05961"/>
-<marker id="-521289711" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.75864" latitude="65.055954"/>
-<marker id="-521289710" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.80629" latitude="65.16156"/>
-<marker id="-521289709" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.60916" latitude="65.03521"/>
-<marker id="-521289708" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.62755" latitude="65.117226"/>
-<marker id="-521289707" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.60878" latitude="65.073166"/>
-<marker id="-521289706" label="Backpack" category="72" did="1879396380" parentZoneId="1879413511" longitude="-135.86606" latitude="65.08482"/>
+<marker id="-521289715" label="Backpack" category="72" did="1879396380" parentZoneId="1879413511" longitude="-135.86606" latitude="65.08482"/>
+<marker id="-521289712" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.81476" latitude="65.14701"/>
+<marker id="-521289711" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.72131" latitude="65.05961"/>
+<marker id="-521289710" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.75864" latitude="65.055954"/>
+<marker id="-521289709" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.80629" latitude="65.16156"/>
+<marker id="-521289708" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.60916" latitude="65.03521"/>
+<marker id="-521289707" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.62755" latitude="65.117226"/>
+<marker id="-521289706" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.60878" latitude="65.073166"/>
 <marker id="-521289705" label="Moria Warg-rider" category="71" did="1879414351" parentZoneId="1879413511" longitude="-135.89374" latitude="65.09914"/>
 <marker id="-521289704" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.77269" latitude="65.190544"/>
 <marker id="-521289692" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-135.97774" latitude="64.70512"/>
@@ -2382,14 +2382,14 @@
 <marker id="-521285627" label="Silver-neck Doe" category="71" did="1879414289" parentZoneId="1879413511" longitude="-135.9905" latitude="65.65684"/>
 <marker id="-521285626" label="Great Dale-moose" category="71" did="1879414288" parentZoneId="1879413511" longitude="-135.9905" latitude="65.65684"/>
 <marker id="-521285625" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.9905" latitude="65.65684"/>
-<marker id="-521285622" label="Missing Scout" category="70" did="1879417488" parentZoneId="1879413511" longitude="-135.86052" latitude="65.34207"/>
-<marker id="-521285617" label="Moria Den-stalker" category="71" did="1879419469" parentZoneId="1879413511" longitude="-135.70238" latitude="65.35199"/>
-<marker id="-521285616" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.9079" latitude="65.292145"/>
-<marker id="-521285615" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.83644" latitude="65.34936"/>
-<marker id="-521285614" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.85619" latitude="65.33064"/>
-<marker id="-521285613" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.64519" latitude="65.35348"/>
-<marker id="-521285612" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.6678" latitude="65.335915"/>
-<marker id="-521285607" label="Backpack" category="72" did="1879396380" parentZoneId="1879413511" longitude="-135.84413" latitude="65.32207"/>
+<marker id="-521285621" label="Backpack" category="72" did="1879396380" parentZoneId="1879413511" longitude="-135.84413" latitude="65.32207"/>
+<marker id="-521285620" label="Missing Scout" category="70" did="1879417488" parentZoneId="1879413511" longitude="-135.86052" latitude="65.34207"/>
+<marker id="-521285616" label="Moria Den-stalker" category="71" did="1879419469" parentZoneId="1879413511" longitude="-135.70238" latitude="65.35199"/>
+<marker id="-521285615" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.9079" latitude="65.292145"/>
+<marker id="-521285614" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.83644" latitude="65.34936"/>
+<marker id="-521285613" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.85619" latitude="65.33064"/>
+<marker id="-521285612" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.64519" latitude="65.35348"/>
+<marker id="-521285611" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.6678" latitude="65.335915"/>
 <marker id="-521285606" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.89575" latitude="65.316795"/>
 <marker id="-521285600" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-135.97961" latitude="65.62232"/>
 <marker id="-521285599" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-135.97961" latitude="65.62232"/>
@@ -4251,18 +4251,18 @@
 <marker id="-521236478" label="Gabilthurkhu, the Great-way" category="43" did="1879415628" parentZoneId="1879413511" longitude="-135.2331" latitude="62.593906"/>
 <marker id="-521236476" label="Gabilthurkhu, the Great-way" category="74" did="1879415628" parentZoneId="1879413511" longitude="-135.24107" latitude="62.714783"/>
 <marker id="-521236475" label="Hermáth Stormhammer" category="70" did="1879420041" parentZoneId="1879413511" longitude="-135.23328" latitude="62.615917"/>
-<marker id="-521232373" label="Quartermaster&#10;Fall of Khazad-dûm Rewards" category="58" did="1879421445" parentZoneId="1879413511" longitude="-135.0638" latitude="63.42359"/>
-<marker id="-521232372" label="Mailbox" category="34" did="1879063370" parentZoneId="1879413511" longitude="-135.1705" latitude="63.425663"/>
-<marker id="-521232371" label="Milestone" category="55" did="1879063371" parentZoneId="1879413511" longitude="-135.27469" latitude="63.274883"/>
-<marker id="-521232358" label="Resting Soldier" category="70" did="1879417958" parentZoneId="1879413511" longitude="-135.20782" latitude="63.188416"/>
-<marker id="-521232357" label="Resting Soldier" category="70" did="1879417958" parentZoneId="1879413511" longitude="-135.061" latitude="63.450665"/>
-<marker id="-521232356" label="Ingvild" category="70" did="1879418065" parentZoneId="1879413511" longitude="-135.28952" latitude="63.232304"/>
-<marker id="-521232353" label="King Drógar Bloodwhisker" category="70" did="1879418725" parentZoneId="1879413511" longitude="-134.99986" latitude="63.23609"/>
-<marker id="-521232352" label="Kalin" category="70" did="1879418727" parentZoneId="1879413511" longitude="-135.0303" latitude="63.461914"/>
-<marker id="-521232351" label="King Agni the Wild" category="70" did="1879418726" parentZoneId="1879413511" longitude="-135.40599" latitude="63.168865"/>
-<marker id="-521232345" label="Quartermaster" category="61" did="1879419042" parentZoneId="1879413511" longitude="-134.98888" latitude="63.482048"/>
-<marker id="-521232344" label="Tasks" category="27" did="1879419720" parentZoneId="1879413511" longitude="-135.00282" latitude="63.340916"/>
-<marker id="-521232342" label="Onúr" category="70" did="1879420043" parentZoneId="1879413511" longitude="-135.16331" latitude="63.194275"/>
+<marker id="-521232372" label="Quartermaster&#10;Fall of Khazad-dûm Rewards" category="58" did="1879421445" parentZoneId="1879413511" longitude="-135.0638" latitude="63.42359"/>
+<marker id="-521232371" label="Mailbox" category="34" did="1879063370" parentZoneId="1879413511" longitude="-135.1705" latitude="63.425663"/>
+<marker id="-521232370" label="Milestone" category="55" did="1879063371" parentZoneId="1879413511" longitude="-135.27469" latitude="63.274883"/>
+<marker id="-521232357" label="Resting Soldier" category="70" did="1879417958" parentZoneId="1879413511" longitude="-135.20782" latitude="63.188416"/>
+<marker id="-521232356" label="Resting Soldier" category="70" did="1879417958" parentZoneId="1879413511" longitude="-135.061" latitude="63.450665"/>
+<marker id="-521232355" label="Ingvild" category="70" did="1879418065" parentZoneId="1879413511" longitude="-135.28952" latitude="63.232304"/>
+<marker id="-521232352" label="King Drógar Bloodwhisker" category="70" did="1879418725" parentZoneId="1879413511" longitude="-134.99986" latitude="63.23609"/>
+<marker id="-521232351" label="Kalin" category="70" did="1879418727" parentZoneId="1879413511" longitude="-135.0303" latitude="63.461914"/>
+<marker id="-521232350" label="King Agni the Wild" category="70" did="1879418726" parentZoneId="1879413511" longitude="-135.40599" latitude="63.168865"/>
+<marker id="-521232344" label="Quartermaster" category="61" did="1879419042" parentZoneId="1879413511" longitude="-134.98888" latitude="63.482048"/>
+<marker id="-521232343" label="Tasks" category="27" did="1879419720" parentZoneId="1879413511" longitude="-135.00282" latitude="63.340916"/>
+<marker id="-521232341" label="Onúr" category="70" did="1879420043" parentZoneId="1879413511" longitude="-135.16331" latitude="63.194275"/>
 <marker id="-521232337" label="Supplier" category="38" did="1879413591" parentZoneId="1879413511" longitude="-135.08865" latitude="63.504707"/>
 <marker id="-521232336" label="King Thráin" category="70" did="1879413596" parentZoneId="1879413511" longitude="-134.95148" latitude="63.44992"/>
 <marker id="-521232335" label="Thorin" category="70" did="1879413599" parentZoneId="1879413511" longitude="-134.99701" latitude="63.503437"/>
@@ -4337,8 +4337,8 @@
 <marker id="-521228281" label="Silver-neck Doe" category="71" did="1879414289" parentZoneId="1879413511" longitude="-135.23557" latitude="64.17463"/>
 <marker id="-521228280" label="Great Dale-moose" category="71" did="1879414288" parentZoneId="1879413511" longitude="-135.23557" latitude="64.17463"/>
 <marker id="-521228279" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.23557" latitude="64.17463"/>
-<marker id="-521228270" label="Resting Soldier" category="70" did="1879417958" parentZoneId="1879413511" longitude="-135.18375" latitude="63.67863"/>
-<marker id="-521228269" label="Farin" category="70" did="1879418728" parentZoneId="1879413511" longitude="-134.99983" latitude="63.735096"/>
+<marker id="-521228269" label="Resting Soldier" category="70" did="1879417958" parentZoneId="1879413511" longitude="-135.18375" latitude="63.67863"/>
+<marker id="-521228268" label="Farin" category="70" did="1879418728" parentZoneId="1879413511" longitude="-134.99983" latitude="63.735096"/>
 <marker id="-521228267" label="Gróin" category="70" did="1879420037" parentZoneId="1879413511" longitude="-134.87674" latitude="63.763554"/>
 <marker id="-521228266" label="Grór" category="70" did="1879420044" parentZoneId="1879413511" longitude="-135.28403" latitude="63.714745"/>
 <marker id="-521228265" label="Óin" category="70" did="1879420042" parentZoneId="1879413511" longitude="-134.90616" latitude="63.691563"/>
@@ -4601,15 +4601,15 @@
 <marker id="-521224187" label="Silver-neck Doe" category="71" did="1879414289" parentZoneId="1879413511" longitude="-135.08928" latitude="64.79152"/>
 <marker id="-521224186" label="Great Dale-moose" category="71" did="1879414288" parentZoneId="1879413511" longitude="-135.08928" latitude="64.79152"/>
 <marker id="-521224185" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.08928" latitude="64.79152"/>
-<marker id="-521224181" label="Missing Scout" category="70" did="1879417488" parentZoneId="1879413511" longitude="-135.41653" latitude="65.01533"/>
-<marker id="-521224180" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-135.0784" latitude="64.75699"/>
-<marker id="-521224179" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.36687" latitude="64.95443"/>
-<marker id="-521224178" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.41484" latitude="64.92722"/>
-<marker id="-521224177" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.39806" latitude="65.18123"/>
-<marker id="-521224176" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.41714" latitude="65.00533"/>
-<marker id="-521224175" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.31602" latitude="65.13949"/>
-<marker id="-521224174" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.3759" latitude="65.014824"/>
-<marker id="-521224168" label="Backpack" category="72" did="1879396380" parentZoneId="1879413511" longitude="-135.33917" latitude="64.975975"/>
+<marker id="-521224181" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-135.0784" latitude="64.75699"/>
+<marker id="-521224180" label="Backpack" category="72" did="1879396380" parentZoneId="1879413511" longitude="-135.33917" latitude="64.975975"/>
+<marker id="-521224179" label="Missing Scout" category="70" did="1879417488" parentZoneId="1879413511" longitude="-135.41653" latitude="65.01533"/>
+<marker id="-521224178" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.36687" latitude="64.95443"/>
+<marker id="-521224177" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.41484" latitude="64.92722"/>
+<marker id="-521224176" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.39806" latitude="65.18123"/>
+<marker id="-521224175" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.41714" latitude="65.00533"/>
+<marker id="-521224174" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.31602" latitude="65.13949"/>
+<marker id="-521224173" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.3759" latitude="65.014824"/>
 <marker id="-521224167" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.50145" latitude="64.91047"/>
 <marker id="-521224166" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.38583" latitude="65.15121"/>
 <marker id="-521224160" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-135.0784" latitude="64.75699"/>
@@ -4882,17 +4882,17 @@
 <marker id="-521220094" label="Moria Orc-warrior" category="71" did="1879414346" parentZoneId="1879413511" longitude="-135.01775" latitude="65.87734"/>
 <marker id="-521220093" label="Moria Goblin-warrior" category="71" did="1879414355" parentZoneId="1879413511" longitude="-135.01775" latitude="65.87734"/>
 <marker id="-521220092" label="Moria Goblin-lancer" category="71" did="1879414354" parentZoneId="1879413511" longitude="-135.01775" latitude="65.87734"/>
-<marker id="-521220077" label="Moria Den-stalker" category="71" did="1879419469" parentZoneId="1879413511" longitude="-135.38239" latitude="65.35796"/>
-<marker id="-521220076" label="Moria Den-stalker" category="71" did="1879419469" parentZoneId="1879413511" longitude="-135.49329" latitude="65.37359"/>
-<marker id="-521220075" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.39815" latitude="65.441505"/>
-<marker id="-521220074" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.44955" latitude="65.43162"/>
-<marker id="-521220073" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.43587" latitude="65.35601"/>
-<marker id="-521220072" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.33606" latitude="65.22564"/>
-<marker id="-521220071" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.4691" latitude="65.33449"/>
-<marker id="-521220070" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.23082" latitude="65.26142"/>
-<marker id="-521220069" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.37123" latitude="65.36783"/>
-<marker id="-521220068" label="Moria Warg-cub" category="71" did="1879419467" parentZoneId="1879413511" longitude="-135.43686" latitude="65.43287"/>
-<marker id="-521220067" label="Backpack" category="72" did="1879396380" parentZoneId="1879413511" longitude="-135.39256" latitude="65.3733"/>
+<marker id="-521220089" label="Backpack" category="72" did="1879396380" parentZoneId="1879413511" longitude="-135.39256" latitude="65.3733"/>
+<marker id="-521220076" label="Moria Den-stalker" category="71" did="1879419469" parentZoneId="1879413511" longitude="-135.38239" latitude="65.35796"/>
+<marker id="-521220075" label="Moria Den-stalker" category="71" did="1879419469" parentZoneId="1879413511" longitude="-135.49329" latitude="65.37359"/>
+<marker id="-521220074" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.39815" latitude="65.441505"/>
+<marker id="-521220073" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.44955" latitude="65.43162"/>
+<marker id="-521220072" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.43587" latitude="65.35601"/>
+<marker id="-521220071" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.33606" latitude="65.22564"/>
+<marker id="-521220070" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.4691" latitude="65.33449"/>
+<marker id="-521220069" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.23082" latitude="65.26142"/>
+<marker id="-521220068" label="Moria Warg" category="71" did="1879419468" parentZoneId="1879413511" longitude="-135.37123" latitude="65.36783"/>
+<marker id="-521220067" label="Moria Warg-cub" category="71" did="1879419467" parentZoneId="1879413511" longitude="-135.43686" latitude="65.43287"/>
 <marker id="-521220066" label="Moria Warg-rider" category="71" did="1879414351" parentZoneId="1879413511" longitude="-135.37794" latitude="65.43148"/>
 <marker id="-521220065" label="Moria Warg-rider" category="71" did="1879414351" parentZoneId="1879413511" longitude="-135.14232" latitude="65.38209"/>
 <marker id="-521220064" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-135.12326" latitude="65.30357"/>

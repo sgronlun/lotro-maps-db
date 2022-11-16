@@ -885,18 +885,18 @@
 <marker id="802349208" label="Hobgoblin Frost-caller" category="71" did="1879420213" parentZoneId="1879422284" longitude="46.67418" latitude="53.224392"/>
 <marker id="802349209" label="Hobgoblin Captain" category="71" did="1879420221" parentZoneId="1879422284" longitude="46.67418" latitude="53.224392"/>
 <marker id="802349210" label="Frost-bound Hobgoblin" category="71" did="1879420203" parentZoneId="1879422284" longitude="46.67418" latitude="53.224392"/>
+<marker id="802471936" label="Claghórd" category="71" did="1879426350" parentZoneId="1879426050" longitude="48.64318" latitude="51.60125"/>
 <marker id="802471956" label="Door" category="100" did="1879084499" parentZoneId="1879426050" longitude="48.14992" latitude="51.589687"/>
-<marker id="802471987" label="Drear-light" category="71" did="1879419605" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471988" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471989" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471990" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471991" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471992" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471993" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471994" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471995" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802471996" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
-<marker id="802472011" label="Claghórd" category="71" did="1879426350" parentZoneId="1879426050" longitude="48.64318" latitude="51.60125"/>
+<marker id="802471998" label="Drear-light" category="71" did="1879419605" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802471999" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802472000" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802472001" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802472002" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802472003" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802472004" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802472005" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802472006" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
+<marker id="802472007" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879426050" longitude="48.403416" latitude="51.6041"/>
 <marker id="802472013" label="Vile Tome" category="73" did="1879441404" parentZoneId="1879426050" longitude="48.29035" latitude="51.569294"/>
 <marker id="802472014" label="Vile Tome" category="73" did="1879441404" parentZoneId="1879426050" longitude="48.39953" latitude="51.60875"/>
 <marker id="802472015" label="Vile Tome" category="73" did="1879441404" parentZoneId="1879426050" longitude="48.51578" latitude="51.53293"/>
@@ -2589,7 +2589,7 @@
 <marker id="802701312" label="Healer" category="38" did="1879362353" parentZoneId="1879374109" longitude="51.68879" latitude="45.177265"/>
 <marker id="802701313" label="Provisioner" category="38" did="1879362360" parentZoneId="1879374109" longitude="51.49871" latitude="45.21365"/>
 <marker id="802701314" label="Supplier" category="38" did="1879362361" parentZoneId="1879374109" longitude="51.51291" latitude="45.13322"/>
-<marker id="802701316" label="Kópat" category="70" did="1879369029" parentZoneId="1879374109" longitude="51.562283" latitude="45.241287"/>
+<marker id="802701315" label="Markthor&#10;Vault-keeper" category="40" did="1879063844" parentZoneId="1879374109" longitude="51.573338" latitude="45.153866"/>
 <marker id="802701324" label="Oven" category="73" did="1879112992" parentZoneId="1879374109" longitude="51.738945" latitude="45.17617"/>
 <marker id="802701325" label="Workbench" category="73" did="1879361525" parentZoneId="1879374109" longitude="51.46039" latitude="45.209473"/>
 <marker id="802701326" label="Study" category="73" did="1879063879" parentZoneId="1879374109" longitude="51.515915" latitude="45.247284"/>
@@ -2600,9 +2600,9 @@
 <marker id="802701332" label="Zhélruka Dwarf" category="70" did="1879374526" parentZoneId="1879374109" longitude="51.61461" latitude="45.378124"/>
 <marker id="802701333" label="Zhélruka Dwarf" category="70" did="1879374527" parentZoneId="1879374109" longitude="51.508064" latitude="45.152576"/>
 <marker id="802701334" label="Zhélruka Dwarf" category="70" did="1879374527" parentZoneId="1879374109" longitude="51.687637" latitude="45.148064"/>
-<marker id="802701335" label="Markthor&#10;Vault-keeper" category="40" did="1879063844" parentZoneId="1879374109" longitude="51.573338" latitude="45.153866"/>
-<marker id="802701360" label="Malek" category="70" did="1879369772" parentZoneId="1879374109" longitude="51.573456" latitude="45.425194"/>
-<marker id="802701361" label="Vozdo" category="70" did="1879369780" parentZoneId="1879374109" longitude="51.56078" latitude="45.398594"/>
+<marker id="802701343" label="Kópat" category="70" did="1879369029" parentZoneId="1879374109" longitude="51.562283" latitude="45.241287"/>
+<marker id="802701359" label="Malek" category="70" did="1879369772" parentZoneId="1879374109" longitude="51.573456" latitude="45.425194"/>
+<marker id="802701360" label="Vozdo" category="70" did="1879369780" parentZoneId="1879374109" longitude="51.56078" latitude="45.398594"/>
 <marker id="802701368" label="Ingór, son of Vékun" category="70" did="1879379478" parentZoneId="1879374109" longitude="51.63334" latitude="45.35199"/>
 <marker id="802701369" label="Glóin" category="70" did="1879379481" parentZoneId="1879374109" longitude="51.564705" latitude="45.434177"/>
 <marker id="802701370" label="Bofur" category="70" did="1879379480" parentZoneId="1879374109" longitude="51.582127" latitude="45.436287"/>
@@ -3100,8 +3100,8 @@
 <marker id="802832457" label="Fish Trophy" category="73" did="1879366958" parentZoneId="1879364719" longitude="53.056717" latitude="45.10711"/>
 <marker id="802832458" label="Fish Trophy" category="73" did="1879366958" parentZoneId="1879364719" longitude="53.140995" latitude="45.205173"/>
 <marker id="802840591" label="Door" category="100" did="1879139137" parentZoneId="1879368927" longitude="53.276325" latitude="46.794434"/>
-<marker id="802840597" label="Authi Gem-cutter" category="70" did="1879369040" parentZoneId="1879368927" longitude="53.310097" latitude="47.060154"/>
-<marker id="802840598" label="Nain the Slakeless" category="70" did="1879369050" parentZoneId="1879368927" longitude="53.313866" latitude="47.073437"/>
+<marker id="802840595" label="Authi Gem-cutter" category="70" did="1879369040" parentZoneId="1879368927" longitude="53.310097" latitude="47.060154"/>
+<marker id="802840596" label="Nain the Slakeless" category="70" did="1879369050" parentZoneId="1879368927" longitude="53.313866" latitude="47.073437"/>
 <marker id="802840615" label="Secret Door" category="100" did="1879378800" parentZoneId="1879368927" longitude="53.301834" latitude="46.967285"/>
 <marker id="802840644" label="Bed" category="73" did="1879373154" parentZoneId="1879368927" longitude="53.252285" latitude="46.845528"/>
 <marker id="802840645" label="Painting" category="73" did="1879373159" parentZoneId="1879368927" longitude="53.31299" latitude="46.839005"/>
@@ -3159,17 +3159,17 @@
 <marker id="802848840" label="To Rukhûsh-minam" category="48" did="1879380776" parentZoneId="1879368835" longitude="53.610565" latitude="48.77504"/>
 <marker id="802848841" label="Door" category="100" did="1879081256" parentZoneId="1879368835" longitude="53.459705" latitude="48.775173"/>
 <marker id="802848842" label="Hidden Runes" category="73" did="1879405486" parentZoneId="1879368835" longitude="53.396816" latitude="48.72123"/>
-<marker id="802848847" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="52.848183" latitude="48.516502"/>
-<marker id="802848848" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="53.092285" latitude="48.145447"/>
-<marker id="802848849" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="53.365917" latitude="48.497578"/>
-<marker id="802848850" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="53.039276" latitude="48.864628"/>
-<marker id="802848851" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="52.936523" latitude="48.7767"/>
-<marker id="802848852" label="Dwarf" category="70" did="1879374528" parentZoneId="1879368835" longitude="53.149765" latitude="48.50506"/>
-<marker id="802848853" label="Dwarf" category="70" did="1879374528" parentZoneId="1879368835" longitude="53.084824" latitude="48.697617"/>
-<marker id="802848854" label="Dwarf" category="70" did="1879374528" parentZoneId="1879368835" longitude="53.156208" latitude="48.787167"/>
-<marker id="802848893" label="Holkur" category="70" did="1879368843" parentZoneId="1879368835" longitude="53.104473" latitude="47.994022"/>
-<marker id="802848921" label="Authi Gem-cutter" category="70" did="1879370540" parentZoneId="1879368835" longitude="53.349316" latitude="48.471092"/>
-<marker id="802848922" label="Authi Gem-cutter" category="70" did="1879370538" parentZoneId="1879368835" longitude="53.349316" latitude="48.471092"/>
+<marker id="802848843" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="52.848183" latitude="48.516502"/>
+<marker id="802848844" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="53.092285" latitude="48.145447"/>
+<marker id="802848845" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="53.365917" latitude="48.497578"/>
+<marker id="802848846" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="53.039276" latitude="48.864628"/>
+<marker id="802848847" label="Dwarf" category="70" did="1879374524" parentZoneId="1879368835" longitude="52.936523" latitude="48.7767"/>
+<marker id="802848848" label="Dwarf" category="70" did="1879374528" parentZoneId="1879368835" longitude="53.149765" latitude="48.50506"/>
+<marker id="802848849" label="Dwarf" category="70" did="1879374528" parentZoneId="1879368835" longitude="53.084824" latitude="48.697617"/>
+<marker id="802848850" label="Dwarf" category="70" did="1879374528" parentZoneId="1879368835" longitude="53.156208" latitude="48.787167"/>
+<marker id="802848889" label="Holkur" category="70" did="1879368843" parentZoneId="1879368835" longitude="53.104473" latitude="47.994022"/>
+<marker id="802848917" label="Authi Gem-cutter" category="70" did="1879370540" parentZoneId="1879368835" longitude="53.349316" latitude="48.471092"/>
+<marker id="802848918" label="Authi Gem-cutter" category="70" did="1879370538" parentZoneId="1879368835" longitude="53.349316" latitude="48.471092"/>
 <marker id="802848926" label="Spall" category="70" did="1879376364" parentZoneId="1879368835" longitude="53.38408" latitude="48.78256"/>
 <marker id="802848936" label="Tavern Keep" category="38" did="1879063846" parentZoneId="1879368835" longitude="53.360798" latitude="48.505116"/>
 <marker id="802848940" label="Kári" category="70" did="1879368839" parentZoneId="1879368835" longitude="53.07422" latitude="48.062107"/>

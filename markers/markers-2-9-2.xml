@@ -2132,6 +2132,9 @@
 <marker id="690893056" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.313759" latitude="-95.9221"/>
 <marker id="690893057" label="Cold-drake" category="71" did="1879411529" parentZoneId="1879407741" longitude="-20.313759" latitude="-95.9221"/>
 <marker id="690893058" label="Cold-whelpling" category="71" did="1879411530" parentZoneId="1879407741" longitude="-20.313759" latitude="-95.9221"/>
+<marker id="690896897" label="Forge-master" category="29" did="1879362364" parentZoneId="1879412693" longitude="-20.398407" latitude="-95.591835"/>
+<marker id="690896898" label="Healer" category="38" did="1879362353" parentZoneId="1879412693" longitude="-20.405928" latitude="-95.5736"/>
+<marker id="690896899" label="Provisioner" category="38" did="1879362360" parentZoneId="1879412693" longitude="-20.443876" latitude="-95.57462"/>
 <marker id="690896908" label="Door" category="100" did="1879063335" parentZoneId="1879407741" longitude="-19.892782" latitude="-94.87493"/>
 <marker id="690896909" label="Door" category="100" did="1879063335" parentZoneId="1879412693" longitude="-20.530937" latitude="-95.57336"/>
 <marker id="690896910" label="Milestone" category="55" did="1879063371" parentZoneId="1879407741" longitude="-19.829111" latitude="-94.92572"/>
@@ -2143,15 +2146,15 @@
 <marker id="690896918" label="Gundabad Orc-soldier" category="71" did="1879411527" parentZoneId="1879407741" longitude="-20.217686" latitude="-95.36984"/>
 <marker id="690896919" label="Gundabad Orc-defiler" category="71" did="1879411523" parentZoneId="1879407741" longitude="-20.217686" latitude="-95.36984"/>
 <marker id="690896920" label="Metal Base" category="73" did="1879412631" parentZoneId="1879407741" longitude="-20.302637" latitude="-95.07327"/>
-<marker id="690896928" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.129883" latitude="-95.269844"/>
-<marker id="690896929" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.287842" latitude="-94.93398"/>
-<marker id="690896930" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.288603" latitude="-94.85318"/>
-<marker id="690896931" label="Healer" category="38" did="1879362353" parentZoneId="1879412693" longitude="-20.405928" latitude="-95.5736"/>
-<marker id="690896932" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.304043" latitude="-94.8673"/>
-<marker id="690896933" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.285692" latitude="-94.87732"/>
-<marker id="690896934" label="Forge-master" category="29" did="1879362364" parentZoneId="1879412693" longitude="-20.398407" latitude="-95.591835"/>
-<marker id="690896935" label="Provisioner" category="38" did="1879362360" parentZoneId="1879412693" longitude="-20.443876" latitude="-95.57462"/>
-<marker id="690896936" label="Supplier" category="38" did="1879362361" parentZoneId="1879412693" longitude="-20.451063" latitude="-95.57258"/>
+<marker id="690896928" label="Supplier" category="38" did="1879362361" parentZoneId="1879412693" longitude="-20.451063" latitude="-95.57258"/>
+<marker id="690896929" label="Signal Horn" category="73" did="1879409478" parentZoneId="1879412693" longitude="-20.428358" latitude="-95.55348"/>
+<marker id="690896930" label="Bróin" category="70" did="1879409558" parentZoneId="1879412693" longitude="-20.423252" latitude="-95.583984"/>
+<marker id="690896931" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-19.7737" latitude="-95.437614"/>
+<marker id="690896932" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.129883" latitude="-95.269844"/>
+<marker id="690896933" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.287842" latitude="-94.93398"/>
+<marker id="690896934" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.288603" latitude="-94.85318"/>
+<marker id="690896935" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.304043" latitude="-94.8673"/>
+<marker id="690896936" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.285692" latitude="-94.87732"/>
 <marker id="690896937" label="Dréri" category="70" did="1879411581" parentZoneId="1879407741" longitude="-20.15168" latitude="-95.31433"/>
 <marker id="690896938" label="Órug" category="70" did="1879411583" parentZoneId="1879412693" longitude="-20.40585" latitude="-95.596886"/>
 <marker id="690896939" label="Mézto" category="70" did="1879411588" parentZoneId="1879412693" longitude="-20.464687" latitude="-95.55066"/>
@@ -2162,9 +2165,6 @@
 <marker id="690896948" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879407741" longitude="-20.03957" latitude="-95.22324"/>
 <marker id="690896949" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879407741" longitude="-20.03957" latitude="-95.22324"/>
 <marker id="690896950" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879407741" longitude="-20.03957" latitude="-95.22324"/>
-<marker id="690896951" label="Signal Horn" category="73" did="1879409478" parentZoneId="1879412693" longitude="-20.428358" latitude="-95.55348"/>
-<marker id="690896952" label="Bróin" category="70" did="1879409558" parentZoneId="1879412693" longitude="-20.423252" latitude="-95.583984"/>
-<marker id="690896953" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-19.7737" latitude="-95.437614"/>
 <marker id="690896956" label="Drenghól" category="43" did="1879410472" parentZoneId="1879407741" longitude="-19.847382" latitude="-94.88199"/>
 <marker id="690896958" label="Azgh-buzru, the War-fell" category="74" did="1879411487" parentZoneId="1879407741" longitude="-20.380184" latitude="-95.2"/>
 <marker id="690896983" label="Metal Base" category="73" did="1879412631" parentZoneId="1879407741" longitude="-19.73244" latitude="-95.25928"/>

@@ -367,8 +367,8 @@
 <marker id="477143044" label="Gauradan Wolf-born" category="71" did="1879094911" parentZoneId="1879094893" longitude="7.2073436" latitude="-26.457743"/>
 <marker id="477143045" label="Whitemane Wolf" category="71" did="1879094926" parentZoneId="1879094893" longitude="7.2073436" latitude="-26.457743"/>
 <marker id="477143046" label="Rending Fissure-worm" category="71" did="1879094928" parentZoneId="1879094893" longitude="7.2073436" latitude="-26.457743"/>
-<marker id="477143047" label="Malgen" category="71" did="1879094915" parentZoneId="1879094893" longitude="7.0968065" latitude="-26.37783"/>
-<marker id="477143048" label="Rodlúg" category="71" did="1879094930" parentZoneId="1879094893" longitude="7.0968065" latitude="-26.37783"/>
+<marker id="477143051" label="Malgen" category="71" did="1879094915" parentZoneId="1879094893" longitude="7.0968065" latitude="-26.37783"/>
+<marker id="477143052" label="Rodlúg" category="71" did="1879094930" parentZoneId="1879094893" longitude="7.0968065" latitude="-26.37783"/>
 <marker id="477143056" label="Reindeer" category="78" did="1879080639" parentZoneId="1879094893" longitude="7.1500096" latitude="-26.396065"/>
 <marker id="477143057" label="Reindeer" category="78" did="1879080636" parentZoneId="1879094893" longitude="7.1500096" latitude="-26.396065"/>
 <marker id="477143058" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879094893" longitude="7.1500096" latitude="-26.396065"/>
@@ -598,22 +598,22 @@
 <marker id="477147285" label="Heavy Black Ash Branches" category="50" did="1879087926" parentZoneId="1879094893" longitude="6.811943" latitude="-25.276855"/>
 <marker id="477147286" label="Black Ash Branches" category="50" did="1879080458" parentZoneId="1879094893" longitude="6.811943" latitude="-25.276855"/>
 <marker id="477147287" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879094893" longitude="6.811943" latitude="-25.276855"/>
-<marker id="477151233" label="Mailbox" category="34" did="1879063370" parentZoneId="1879094892" longitude="7.107783" latitude="-24.476942"/>
 <marker id="477151239" label="Door" category="100" did="1879063337" parentZoneId="1879094892" longitude="7.0379977" latitude="-24.549286"/>
 <marker id="477151240" label="Horse" category="70" did="1879077726" parentZoneId="1879094892" longitude="7.0866013" latitude="-24.42792"/>
-<marker id="477151241" label="Gauradan Wolf-born" category="71" did="1879094911" parentZoneId="1879094892" longitude="7.3892574" latitude="-25.0325"/>
-<marker id="477151242" label="Whitemane Wolf" category="71" did="1879094926" parentZoneId="1879094892" longitude="7.3892574" latitude="-25.0325"/>
-<marker id="477151243" label="Rending Fissure-worm" category="71" did="1879094928" parentZoneId="1879094892" longitude="7.3892574" latitude="-25.0325"/>
-<marker id="477151244" label="Frozen Obelisk" category="73" did="1879127731" parentZoneId="1879094892" longitude="7.176963" latitude="-24.719961"/>
-<marker id="477151247" label="Reindeer" category="78" did="1879080636" parentZoneId="1879094892" longitude="7.4160447" latitude="-25.033525"/>
-<marker id="477151248" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879094892" longitude="7.4160447" latitude="-25.033525"/>
-<marker id="477151249" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879094892" longitude="7.4160447" latitude="-25.033525"/>
-<marker id="477151250" label="Reindeer" category="78" did="1879080639" parentZoneId="1879094892" longitude="7.4160447" latitude="-25.033525"/>
-<marker id="477151254" label="Goeolcheleg" category="71" did="1879130745" parentZoneId="1879094892" longitude="7.3085938" latitude="-24.562353"/>
-<marker id="477151255" label="Ice-bound Grim" category="71" did="1879130746" parentZoneId="1879094892" longitude="7.327285" latitude="-24.58119"/>
-<marker id="477151256" label="Ice-bound Grim" category="71" did="1879130746" parentZoneId="1879094892" longitude="7.289785" latitude="-24.58129"/>
-<marker id="477151257" label="Ice-bound Grim" category="71" did="1879130746" parentZoneId="1879094892" longitude="7.3072653" latitude="-24.596348"/>
-<marker id="477151258" label="Tasks" category="27" did="1879196541" parentZoneId="1879094892" longitude="7.013828" latitude="-24.538662"/>
+<marker id="477151241" label="Reindeer" category="78" did="1879080636" parentZoneId="1879094892" longitude="7.4160447" latitude="-25.033525"/>
+<marker id="477151242" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879094892" longitude="7.4160447" latitude="-25.033525"/>
+<marker id="477151243" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879094892" longitude="7.4160447" latitude="-25.033525"/>
+<marker id="477151244" label="Reindeer" category="78" did="1879080639" parentZoneId="1879094892" longitude="7.4160447" latitude="-25.033525"/>
+<marker id="477151247" label="Goeolcheleg" category="71" did="1879130745" parentZoneId="1879094892" longitude="7.3085938" latitude="-24.562353"/>
+<marker id="477151248" label="Ice-bound Grim" category="71" did="1879130746" parentZoneId="1879094892" longitude="7.327285" latitude="-24.58119"/>
+<marker id="477151249" label="Ice-bound Grim" category="71" did="1879130746" parentZoneId="1879094892" longitude="7.289785" latitude="-24.58129"/>
+<marker id="477151250" label="Ice-bound Grim" category="71" did="1879130746" parentZoneId="1879094892" longitude="7.3072653" latitude="-24.596348"/>
+<marker id="477151251" label="Tasks" category="27" did="1879196541" parentZoneId="1879094892" longitude="7.013828" latitude="-24.538662"/>
+<marker id="477151252" label="Gauradan Wolf-born" category="71" did="1879094911" parentZoneId="1879094892" longitude="7.3892574" latitude="-25.0325"/>
+<marker id="477151253" label="Whitemane Wolf" category="71" did="1879094926" parentZoneId="1879094892" longitude="7.3892574" latitude="-25.0325"/>
+<marker id="477151254" label="Rending Fissure-worm" category="71" did="1879094928" parentZoneId="1879094892" longitude="7.3892574" latitude="-25.0325"/>
+<marker id="477151255" label="Frozen Obelisk" category="73" did="1879127731" parentZoneId="1879094892" longitude="7.176963" latitude="-24.719961"/>
+<marker id="477151257" label="Mailbox" category="34" did="1879063370" parentZoneId="1879094892" longitude="7.107783" latitude="-24.476942"/>
 <marker id="477151261" label="Door" category="100" did="1879063337" parentZoneId="1879102356" longitude="6.5651464" latitude="-25.417246"/>
 <marker id="477151262" label="Mission Reward" category="72" did="1879416896" parentZoneId="1879094892" longitude="7.0295506" latitude="-24.541855"/>
 <marker id="477151266" label="Dwarf" category="71" did="1879418815" parentZoneId="1879094892" longitude="7.0812693" latitude="-24.638906"/>
@@ -681,28 +681,28 @@
 <marker id="477151352" label="Reindeer" category="78" did="1879080639" parentZoneId="1879094892" longitude="7.3156834" latitude="-24.468935"/>
 <marker id="477155330" label="Dwarf" category="71" did="1879418815" parentZoneId="1879094892" longitude="7.0935254" latitude="-24.34704"/>
 <marker id="477155331" label="Fierce Cold-drake" category="71" did="1879418810" parentZoneId="1879094892" longitude="6.8634763" latitude="-24.061893"/>
-<marker id="477155332" label="Longhorn" category="71" did="1879094904" parentZoneId="1879094892" longitude="6.9678707" latitude="-23.850302"/>
-<marker id="477155333" label="Gauradan Wolf-born" category="71" did="1879094911" parentZoneId="1879094892" longitude="7.415654" latitude="-24.208525"/>
-<marker id="477155334" label="Overland Guard" category="71" did="1879094918" parentZoneId="1879094892" longitude="6.9678707" latitude="-23.850302"/>
-<marker id="477155335" label="Tempest Warg" category="71" did="1879094921" parentZoneId="1879094892" longitude="6.9678707" latitude="-23.850302"/>
-<marker id="477155336" label="Whitemane Wolf" category="71" did="1879094926" parentZoneId="1879094892" longitude="7.415654" latitude="-24.208525"/>
-<marker id="477155337" label="Rending Fissure-worm" category="71" did="1879094928" parentZoneId="1879094892" longitude="7.415654" latitude="-24.208525"/>
-<marker id="477155338" label="Black Ash Branches" category="50" did="1879080458" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
-<marker id="477155339" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
-<marker id="477155340" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
-<marker id="477155341" label="Reindeer" category="78" did="1879080636" parentZoneId="1879094892" longitude="6.99709" latitude="-23.86163"/>
-<marker id="477155342" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879094892" longitude="6.99709" latitude="-23.86163"/>
-<marker id="477155343" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879094892" longitude="6.99709" latitude="-23.86163"/>
-<marker id="477155344" label="Reindeer" category="78" did="1879080639" parentZoneId="1879094892" longitude="6.99709" latitude="-23.86163"/>
-<marker id="477155345" label="Treasure Cache" category="73" did="1879320857" parentZoneId="1879094892" longitude="7.411699" latitude="-23.904013"/>
-<marker id="477155346" label="Heavy Black Ash Branches" category="50" did="1879087926" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
-<marker id="477155347" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
-<marker id="477155348" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
-<marker id="477155349" label="Hrimbarg" category="43" did="1879097630" parentZoneId="1879094892" longitude="6.9296775" latitude="-24.30416"/>
+<marker id="477155332" label="Black Ash Branches" category="50" did="1879080458" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
+<marker id="477155333" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
+<marker id="477155334" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
+<marker id="477155335" label="Reindeer" category="78" did="1879080636" parentZoneId="1879094892" longitude="6.99709" latitude="-23.86163"/>
+<marker id="477155336" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879094892" longitude="6.99709" latitude="-23.86163"/>
+<marker id="477155337" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879094892" longitude="6.99709" latitude="-23.86163"/>
+<marker id="477155338" label="Reindeer" category="78" did="1879080639" parentZoneId="1879094892" longitude="6.99709" latitude="-23.86163"/>
+<marker id="477155340" label="Longhorn" category="71" did="1879094904" parentZoneId="1879094892" longitude="6.9678707" latitude="-23.850302"/>
+<marker id="477155341" label="Gauradan Wolf-born" category="71" did="1879094911" parentZoneId="1879094892" longitude="7.415654" latitude="-24.208525"/>
+<marker id="477155342" label="Overland Guard" category="71" did="1879094918" parentZoneId="1879094892" longitude="6.9678707" latitude="-23.850302"/>
+<marker id="477155343" label="Tempest Warg" category="71" did="1879094921" parentZoneId="1879094892" longitude="6.9678707" latitude="-23.850302"/>
+<marker id="477155344" label="Whitemane Wolf" category="71" did="1879094926" parentZoneId="1879094892" longitude="7.415654" latitude="-24.208525"/>
+<marker id="477155345" label="Rending Fissure-worm" category="71" did="1879094928" parentZoneId="1879094892" longitude="7.415654" latitude="-24.208525"/>
+<marker id="477155346" label="Treasure Cache" category="73" did="1879320857" parentZoneId="1879094892" longitude="7.411699" latitude="-23.904013"/>
+<marker id="477155347" label="Heavy Black Ash Branches" category="50" did="1879087926" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
+<marker id="477155348" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
+<marker id="477155349" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879094892" longitude="7.0472555" latitude="-23.851288"/>
 <marker id="477155350" label="Sigbert&#10;Stable-master" category="51" did="1879183044" parentZoneId="1879094892" longitude="6.9648924" latitude="-24.380625"/>
 <marker id="477155351" label="Unlit Pyre" category="73" did="1879418837" parentZoneId="1879094892" longitude="6.86665" latitude="-24.275566"/>
 <marker id="477155352" label="Unlit Pyre" category="73" did="1879418837" parentZoneId="1879094892" longitude="7.096572" latitude="-24.336855"/>
 <marker id="477155353" label="Kaldorm" category="71" did="1879418779" parentZoneId="1879094892" longitude="6.9440136" latitude="-24.24994"/>
+<marker id="477155354" label="Hrimbarg" category="43" did="1879097630" parentZoneId="1879094892" longitude="6.9296775" latitude="-24.30416"/>
 <marker id="477155358" label="Overland Guard" category="71" did="1879094918" parentZoneId="1879094892" longitude="6.8703027" latitude="-23.698193"/>
 <marker id="477155359" label="Longhorn" category="71" did="1879094904" parentZoneId="1879094892" longitude="6.8703027" latitude="-23.698193"/>
 <marker id="477155360" label="Tempest Warg" category="71" did="1879094921" parentZoneId="1879094892" longitude="6.8703027" latitude="-23.698193"/>
@@ -826,9 +826,9 @@
 <marker id="477159424" label="Longhorn" category="71" did="1879094904" parentZoneId="1879094892" longitude="6.989941" latitude="-23.126133"/>
 <marker id="477159425" label="Overland Guard" category="71" did="1879094918" parentZoneId="1879094892" longitude="6.989941" latitude="-23.126133"/>
 <marker id="477159426" label="Tempest Warg" category="71" did="1879094921" parentZoneId="1879094892" longitude="6.989941" latitude="-23.126133"/>
-<marker id="477159429" label="The Antlered King" category="71" did="1879094909" parentZoneId="1879094892" longitude="7.0983787" latitude="-23.26749"/>
-<marker id="477159430" label="Sulmog" category="71" did="1879094924" parentZoneId="1879094892" longitude="7.0983787" latitude="-23.26749"/>
-<marker id="477159431" label="Reindeer" category="78" did="1879080636" parentZoneId="1879094892" longitude="6.9188375" latitude="-22.968271"/>
+<marker id="477159429" label="Reindeer" category="78" did="1879080636" parentZoneId="1879094892" longitude="6.9188375" latitude="-22.968271"/>
+<marker id="477159433" label="The Antlered King" category="71" did="1879094909" parentZoneId="1879094892" longitude="7.0983787" latitude="-23.26749"/>
+<marker id="477159434" label="Sulmog" category="71" did="1879094924" parentZoneId="1879094892" longitude="7.0983787" latitude="-23.26749"/>
 <marker id="477159440" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879094892" longitude="6.9188375" latitude="-22.968271"/>
 <marker id="477159441" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879094892" longitude="6.9188375" latitude="-22.968271"/>
 <marker id="477159442" label="Reindeer" category="78" did="1879080639" parentZoneId="1879094892" longitude="6.9188375" latitude="-22.968271"/>

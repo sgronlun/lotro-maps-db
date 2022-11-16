@@ -154,11 +154,11 @@
 <marker id="534241357" label="Kâlbak" category="71" did="1879222554" parentZoneId="1879222607" longitude="50.021423" latitude="53.575623"/>
 <marker id="534249482" label="Study" category="45" did="1879063061" parentZoneId="1879147416" longitude="51.60922" latitude="42.13965"/>
 <marker id="534249483" label="Door" category="100" did="1879063389" parentZoneId="1879147416" longitude="51.648144" latitude="42.20494"/>
-<marker id="534249486" label="Vault-keeper" category="40" did="1879063385" parentZoneId="1879147416" longitude="51.654003" latitude="42.14082"/>
-<marker id="534249487" label="Elf" category="70" did="1879351437" parentZoneId="1879147416" longitude="51.67287" latitude="42.159042"/>
-<marker id="534249488" label="Elf" category="70" did="1879351440" parentZoneId="1879147416" longitude="51.660156" latitude="42.1484"/>
-<marker id="534249489" label="Sue Foxglove&#10;Scholar's Guild Scroll Trader" category="58" did="1879172093" parentZoneId="1879147416" longitude="51.618202" latitude="42.099102"/>
-<marker id="534249493" label="Siggir&#10;Scholar's Guild Legendary Recipes" category="33" did="1879166636" parentZoneId="1879147416" longitude="51.600643" latitude="42.15695"/>
+<marker id="534249486" label="Sue Foxglove&#10;Scholar's Guild Scroll Trader" category="58" did="1879172093" parentZoneId="1879147416" longitude="51.618202" latitude="42.099102"/>
+<marker id="534249490" label="Siggir&#10;Scholar's Guild Legendary Recipes" category="33" did="1879166636" parentZoneId="1879147416" longitude="51.600643" latitude="42.15695"/>
+<marker id="534249491" label="Vault-keeper" category="40" did="1879063385" parentZoneId="1879147416" longitude="51.654003" latitude="42.14082"/>
+<marker id="534249492" label="Elf" category="70" did="1879351437" parentZoneId="1879147416" longitude="51.67287" latitude="42.159042"/>
+<marker id="534249493" label="Elf" category="70" did="1879351440" parentZoneId="1879147416" longitude="51.660156" latitude="42.1484"/>
 <marker id="534249494" label="Besom-broom" category="73" did="1879052173" parentZoneId="1879147416" longitude="51.606716" latitude="42.12209"/>
 <marker id="534249496" label="Melongene Took&#10;Scholar's Guild Scroll Recipes" category="33" did="1879132158" parentZoneId="1879147416" longitude="51.683357" latitude="42.16236"/>
 <marker id="534249497" label="Spiall&#10;Scholar's Guild Improved Recipes" category="33" did="1879132160" parentZoneId="1879147416" longitude="51.600273" latitude="42.189022"/>
@@ -230,7 +230,7 @@
 <marker id="534499362" label="Door" category="100" did="1879063849" parentZoneId="1879048586" longitude="54.43533" latitude="52.20275"/>
 <marker id="534499363" label="Door" category="100" did="1879063849" parentZoneId="1879048586" longitude="54.452538" latitude="52.146835"/>
 <marker id="534499364" label="Door" category="100" did="1879063849" parentZoneId="1879048586" longitude="54.738728" latitude="52.408848"/>
-<marker id="534499385" label="Register of Heroes" category="70" did="1879407643" parentZoneId="1879048586" longitude="54.405956" latitude="52.394238"/>
+<marker id="534499384" label="Register of Heroes" category="70" did="1879407643" parentZoneId="1879048586" longitude="54.405956" latitude="52.394238"/>
 <marker id="534499392" label="Húriel" category="70" did="1879048608" parentZoneId="1879048586" longitude="54.30822" latitude="52.4284"/>
 <marker id="534499402" label="Fimreg" category="70" did="1879048593" parentZoneId="1879048586" longitude="54.476562" latitude="52.271797"/>
 <marker id="534499403" label="Lunathron" category="70" did="1879048598" parentZoneId="1879048586" longitude="54.32668" latitude="52.41119"/>
@@ -247,4 +247,30 @@
 <marker id="534499436" label="Artain" category="70" did="1879102874" parentZoneId="1879048586" longitude="54.52289" latitude="52.66209"/>
 <marker id="534499443" label="Narmeleth" category="70" did="1879141193" parentZoneId="1879048586" longitude="54.441055" latitude="52.10281"/>
 <marker id="534499448" label="Annábla&#10;Healer" category="38" did="1879091661" parentZoneId="1879048586" longitude="54.521736" latitude="52.55"/>
+<marker id="534536193" label="Healer" category="38" did="1879448484" parentZoneId="1879448950" longitude="54.809002" latitude="46.808533"/>
+<marker id="534536194" label="Door" category="100" did="1879063326" parentZoneId="1879448950" longitude="54.77275" latitude="46.80631"/>
+<marker id="534536196" label="Healer" category="38" did="1879448481" parentZoneId="1879448950" longitude="54.809002" latitude="46.808533"/>
+<marker id="534540289" label="Door" category="100" did="1879063411" parentZoneId="1879448953" longitude="54.808575" latitude="47.58172"/>
+<marker id="534540292" label="Cunedda Moltgig" category="70" did="1879448094" parentZoneId="1879448953" longitude="54.780388" latitude="47.59633"/>
+<marker id="534548489" label="Door Hinges" category="73" did="1879452140" parentZoneId="1879448949" longitude="54.82998" latitude="49.239685"/>
+<marker id="534548490" label="Meneldir" category="70" did="1879448108" parentZoneId="1879448949" longitude="54.824688" latitude="49.208847"/>
+<marker id="534548491" label="Tegwyn" category="70" did="1879448154" parentZoneId="1879448949" longitude="54.829685" latitude="49.20707"/>
+<marker id="534548492" label="Tegwyn" category="70" did="1879448165" parentZoneId="1879448949" longitude="54.848904" latitude="49.19201"/>
+<marker id="534548493" label="Barrel of Swords" category="73" did="1879448393" parentZoneId="1879448949" longitude="54.800156" latitude="49.193867"/>
+<marker id="534548494" label="Satchel" category="72" did="1879410572" parentZoneId="1879448949" longitude="54.81861" latitude="49.220623"/>
+<marker id="534548495" label="Satchel" category="72" did="1879135627" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548496" label="Satchel" category="72" did="1879135628" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548497" label="Satchel" category="72" did="1879078033" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548498" label="Satchel" category="72" did="1879078034" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548499" label="Satchel" category="72" did="1879078035" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548500" label="Satchel" category="72" did="1879078036" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548501" label="Satchel" category="72" did="1879078037" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548502" label="Satchel" category="72" did="1879078038" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548503" label="Satchel" category="72" did="1879078039" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548504" label="Door" category="100" did="1879063326" parentZoneId="1879448949" longitude="54.835564" latitude="49.244297"/>
+<marker id="534548507" label="Meneldir" category="70" did="1879448096" parentZoneId="1879448949" longitude="54.851406" latitude="49.196777"/>
+<marker id="534548508" label="Satchel" category="72" did="1879450039" parentZoneId="1879448949" longitude="54.819492" latitude="49.221523"/>
+<marker id="534548509" label="Skardí Bendblade&#10;Mossward Blacksmith" category="33" did="1879450042" parentZoneId="1879448949" longitude="54.81074" latitude="49.225506"/>
+<marker id="534548510" label="Skardí Bendblade" category="70" did="1879448166" parentZoneId="1879448949" longitude="54.841347" latitude="49.19334"/>
+<marker id="534548511" label="Set Down Your Equipment" category="73" did="1879449509" parentZoneId="1879448949" longitude="54.81965" latitude="49.219395"/>
 </markers>

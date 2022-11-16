@@ -474,11 +474,11 @@
 <marker id="343949430" label="Dourhand Commander" category="71" did="1879080911" parentZoneId="1879063923" longitude="-95.06871" latitude="-18.454315"/>
 <marker id="343953408" label="Gate" category="100" did="1879077831" parentZoneId="1879063923" longitude="-95.05088" latitude="-17.973036"/>
 <marker id="343953409" label="Gate" category="100" did="1879077831" parentZoneId="1879063923" longitude="-94.90162" latitude="-17.731865"/>
-<marker id="343953410" label="Skíthi Blackhand" category="71" did="1879061484" parentZoneId="1879063923" longitude="-95.014595" latitude="-17.724745"/>
-<marker id="343953411" label="Dourhand Armsman" category="71" did="1879080909" parentZoneId="1879063923" longitude="-95.04019" latitude="-17.856806"/>
-<marker id="343953412" label="Stout Dourhand" category="71" did="1879080910" parentZoneId="1879063923" longitude="-95.04019" latitude="-17.856806"/>
-<marker id="343953413" label="Cliff Hendroval" category="71" did="1879080914" parentZoneId="1879063923" longitude="-95.04019" latitude="-17.856806"/>
-<marker id="343953414" label="Wooden Chest" category="72" did="1879080940" parentZoneId="1879063923" longitude="-95.003006" latitude="-17.784843"/>
+<marker id="343953410" label="Dourhand Armsman" category="71" did="1879080909" parentZoneId="1879063923" longitude="-95.04019" latitude="-17.856806"/>
+<marker id="343953411" label="Stout Dourhand" category="71" did="1879080910" parentZoneId="1879063923" longitude="-95.04019" latitude="-17.856806"/>
+<marker id="343953412" label="Cliff Hendroval" category="71" did="1879080914" parentZoneId="1879063923" longitude="-95.04019" latitude="-17.856806"/>
+<marker id="343953413" label="Wooden Chest" category="72" did="1879080940" parentZoneId="1879063923" longitude="-95.003006" latitude="-17.784843"/>
+<marker id="343953414" label="Skíthi Blackhand" category="71" did="1879061484" parentZoneId="1879063923" longitude="-95.014595" latitude="-17.724745"/>
 <marker id="343953417" label="Hendroval Canopy-darter" category="71" did="1879080923" parentZoneId="1879063923" longitude="-95.00078" latitude="-17.81834"/>
 <marker id="343953418" label="Hendroval Canopy-darter" category="71" did="1879080923" parentZoneId="1879063923" longitude="-94.82453" latitude="-17.56996"/>
 <marker id="343953419" label="Hendroval Canopy-darter" category="71" did="1879080923" parentZoneId="1879063923" longitude="-94.87015" latitude="-17.703573"/>
@@ -2250,11 +2250,11 @@
 <marker id="344133633" label="Black-footed Fox" category="78" did="1879077583" parentZoneId="1879063923" longitude="-92.779175" latitude="-20.963398"/>
 <marker id="344133634" label="Grey Hill Buck" category="78" did="1879077585" parentZoneId="1879063923" longitude="-92.779175" latitude="-20.963398"/>
 <marker id="344133635" label="Grey Squirrel" category="78" did="1879080916" parentZoneId="1879063923" longitude="-92.779175" latitude="-20.963398"/>
-<marker id="344133636" label="Svanr" category="70" did="1879061119" parentZoneId="1879063923" longitude="-93.0459" latitude="-20.947178"/>
-<marker id="344133637" label="Dourhand Armsman" category="71" did="1879080909" parentZoneId="1879063923" longitude="-92.66146" latitude="-20.94457"/>
-<marker id="344133638" label="Large Hill-bear" category="71" did="1879080912" parentZoneId="1879063923" longitude="-92.66146" latitude="-20.94457"/>
-<marker id="344133639" label="Hill-bear Cub" category="71" did="1879080913" parentZoneId="1879063923" longitude="-92.66146" latitude="-20.94457"/>
-<marker id="344133640" label="Cliff Hendroval" category="71" did="1879080914" parentZoneId="1879063923" longitude="-92.66146" latitude="-20.94457"/>
+<marker id="344133636" label="Dourhand Armsman" category="71" did="1879080909" parentZoneId="1879063923" longitude="-92.66146" latitude="-20.94457"/>
+<marker id="344133637" label="Large Hill-bear" category="71" did="1879080912" parentZoneId="1879063923" longitude="-92.66146" latitude="-20.94457"/>
+<marker id="344133638" label="Hill-bear Cub" category="71" did="1879080913" parentZoneId="1879063923" longitude="-92.66146" latitude="-20.94457"/>
+<marker id="344133639" label="Cliff Hendroval" category="71" did="1879080914" parentZoneId="1879063923" longitude="-92.66146" latitude="-20.94457"/>
+<marker id="344133642" label="Svanr" category="70" did="1879061119" parentZoneId="1879063923" longitude="-93.0459" latitude="-20.947178"/>
 <marker id="344133643" label="Sigurdór" category="70" did="1879152401" parentZoneId="1879063923" longitude="-93.0349" latitude="-20.930576"/>
 <marker id="344133645" label="Large Hill-bear" category="71" did="1879080912" parentZoneId="1879063923" longitude="-92.8223" latitude="-20.889677"/>
 <marker id="344133646" label="Hill-bear Cub" category="71" did="1879080913" parentZoneId="1879063923" longitude="-92.8223" latitude="-20.889677"/>
@@ -2943,17 +2943,17 @@
 <marker id="344195072" label="Kheledûl" category="43" did="1879063394" parentZoneId="1879063931" longitude="-91.99558" latitude="-21.610577"/>
 <marker id="344195073" label="Spire of Kheledûl" category="43" did="1879071966" parentZoneId="1879063931" longitude="-92.03312" latitude="-21.329794"/>
 <marker id="344195076" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879063931" longitude="-92.22113" latitude="-21.461748"/>
-<marker id="344195077" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.9548" latitude="-21.306221"/>
-<marker id="344195078" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.08214" latitude="-21.445244"/>
-<marker id="344195079" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.06592" latitude="-21.459911"/>
-<marker id="344195080" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.22426" latitude="-21.364267"/>
-<marker id="344195081" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.22298" latitude="-21.225918"/>
-<marker id="344195082" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.72081" latitude="-21.355381"/>
-<marker id="344195083" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.722755" latitude="-21.315205"/>
-<marker id="344195084" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.133125" latitude="-21.240536"/>
-<marker id="344195085" label="Dourhand Armsman" category="71" did="1879080909" parentZoneId="1879063931" longitude="-92.159225" latitude="-21.490576"/>
-<marker id="344195086" label="Stout Dourhand" category="71" did="1879080910" parentZoneId="1879063931" longitude="-92.159225" latitude="-21.490576"/>
-<marker id="344195087" label="Cliff Hendroval" category="71" did="1879080914" parentZoneId="1879063931" longitude="-92.159225" latitude="-21.490576"/>
+<marker id="344195077" label="Dourhand Armsman" category="71" did="1879080909" parentZoneId="1879063931" longitude="-92.159225" latitude="-21.490576"/>
+<marker id="344195078" label="Stout Dourhand" category="71" did="1879080910" parentZoneId="1879063931" longitude="-92.159225" latitude="-21.490576"/>
+<marker id="344195079" label="Cliff Hendroval" category="71" did="1879080914" parentZoneId="1879063931" longitude="-92.159225" latitude="-21.490576"/>
+<marker id="344195080" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.9548" latitude="-21.306221"/>
+<marker id="344195081" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.08214" latitude="-21.445244"/>
+<marker id="344195082" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.06592" latitude="-21.459911"/>
+<marker id="344195083" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.22426" latitude="-21.364267"/>
+<marker id="344195084" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.22298" latitude="-21.225918"/>
+<marker id="344195085" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.72081" latitude="-21.355381"/>
+<marker id="344195086" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.722755" latitude="-21.315205"/>
+<marker id="344195087" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.133125" latitude="-21.240536"/>
 <marker id="344195088" label="Dourhand Night-watch" category="71" did="1879080993" parentZoneId="1879063931" longitude="-92.255775" latitude="-21.308935"/>
 <marker id="344195089" label="Dourhand Night-watch" category="71" did="1879080993" parentZoneId="1879063931" longitude="-92.06867" latitude="-21.560028"/>
 <marker id="344195090" label="Dourhand Night-watch" category="71" did="1879080993" parentZoneId="1879063931" longitude="-92.01853" latitude="-21.766758"/>
@@ -3214,18 +3214,18 @@
 <marker id="344199169" label="Chest" category="73" did="1879146162" parentZoneId="1879063931" longitude="-92.17784" latitude="-21.003963"/>
 <marker id="344199170" label="Kheledûl" category="74" did="1879063394" parentZoneId="1879063931" longitude="-91.97027" latitude="-20.945381"/>
 <marker id="344199171" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879063931" longitude="-92.24607" latitude="-20.970947"/>
-<marker id="344199172" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.03657" latitude="-20.946249"/>
-<marker id="344199173" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.0287" latitude="-20.947021"/>
-<marker id="344199174" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.204155" latitude="-21.097206"/>
-<marker id="344199175" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.83037" latitude="-20.871328"/>
-<marker id="344199176" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.66898" latitude="-21.033485"/>
-<marker id="344199177" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.77068" latitude="-20.990576"/>
-<marker id="344199178" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.904625" latitude="-20.88664"/>
-<marker id="344199179" label="Dourhand Armsman" category="71" did="1879080909" parentZoneId="1879063931" longitude="-91.884766" latitude="-20.946152"/>
-<marker id="344199180" label="Stout Dourhand" category="71" did="1879080910" parentZoneId="1879063931" longitude="-91.884766" latitude="-20.946152"/>
-<marker id="344199181" label="Dourhand Commander" category="71" did="1879080911" parentZoneId="1879063931" longitude="-91.884766" latitude="-20.946152"/>
-<marker id="344199182" label="Cliff Hendroval" category="71" did="1879080914" parentZoneId="1879063931" longitude="-91.884766" latitude="-20.946152"/>
-<marker id="344199183" label="Wooden Chest" category="72" did="1879080941" parentZoneId="1879063931" longitude="-92.07661" latitude="-20.980986"/>
+<marker id="344199172" label="Dourhand Armsman" category="71" did="1879080909" parentZoneId="1879063931" longitude="-91.884766" latitude="-20.946152"/>
+<marker id="344199173" label="Stout Dourhand" category="71" did="1879080910" parentZoneId="1879063931" longitude="-91.884766" latitude="-20.946152"/>
+<marker id="344199174" label="Dourhand Commander" category="71" did="1879080911" parentZoneId="1879063931" longitude="-91.884766" latitude="-20.946152"/>
+<marker id="344199175" label="Cliff Hendroval" category="71" did="1879080914" parentZoneId="1879063931" longitude="-91.884766" latitude="-20.946152"/>
+<marker id="344199176" label="Wooden Chest" category="72" did="1879080941" parentZoneId="1879063931" longitude="-92.07661" latitude="-20.980986"/>
+<marker id="344199177" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.03657" latitude="-20.946249"/>
+<marker id="344199178" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.0287" latitude="-20.947021"/>
+<marker id="344199179" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-92.204155" latitude="-21.097206"/>
+<marker id="344199180" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.83037" latitude="-20.871328"/>
+<marker id="344199181" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.66898" latitude="-21.033485"/>
+<marker id="344199182" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.77068" latitude="-20.990576"/>
+<marker id="344199183" label="Treasure-box" category="73" did="1879061474" parentZoneId="1879063931" longitude="-91.904625" latitude="-20.88664"/>
 <marker id="344199184" label="Dourhand Night-watch" category="71" did="1879080993" parentZoneId="1879063931" longitude="-91.81854" latitude="-20.892178"/>
 <marker id="344199185" label="Dourhand Night-watch" category="71" did="1879080993" parentZoneId="1879063931" longitude="-92.11629" latitude="-20.993368"/>
 <marker id="344199186" label="Dourhand Night-watch" category="71" did="1879080993" parentZoneId="1879063931" longitude="-92.20289" latitude="-21.160635"/>
@@ -6248,12 +6248,12 @@
 <marker id="344465810" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.6157" latitude="-19.86711"/>
 <marker id="344465811" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.6157" latitude="-19.86711"/>
 <marker id="344465812" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.6157" latitude="-19.86711"/>
-<marker id="344465813" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.44948" latitude="-19.987265"/>
-<marker id="344465814" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.44948" latitude="-19.987265"/>
-<marker id="344465815" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.44948" latitude="-19.987265"/>
-<marker id="344465816" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.44948" latitude="-19.987265"/>
-<marker id="344465817" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.44948" latitude="-19.987265"/>
-<marker id="344465818" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.44948" latitude="-19.987265"/>
+<marker id="344465813" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.4537" latitude="-19.991386"/>
+<marker id="344465814" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.4537" latitude="-19.991386"/>
+<marker id="344465815" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.4537" latitude="-19.991386"/>
+<marker id="344465816" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.4537" latitude="-19.991386"/>
+<marker id="344465817" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.4537" latitude="-19.991386"/>
+<marker id="344465818" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.4537" latitude="-19.991386"/>
 <marker id="344465819" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.4464" latitude="-19.719395"/>
 <marker id="344465820" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.4464" latitude="-19.719395"/>
 <marker id="344465821" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.4464" latitude="-19.719395"/>
@@ -6330,7 +6330,7 @@
 <marker id="344469536" label="Blue-crag Invader" category="71" did="1879446517" parentZoneId="1879442885" longitude="-88.75791" latitude="-19.101816"/>
 <marker id="344469537" label="Blue-crag Invader" category="71" did="1879446517" parentZoneId="1879442885" longitude="-88.76605" latitude="-19.00375"/>
 <marker id="344469538" label="Blue-crag Invader" category="71" did="1879446517" parentZoneId="1879442885" longitude="-88.88428" latitude="-18.95042"/>
-<marker id="344469539" label="Blue-crag Invader" category="71" did="1879446517" parentZoneId="1879442885" longitude="-88.80459" latitude="-18.900429"/>
+<marker id="344469539" label="Blue-crag Invader" category="71" did="1879446517" parentZoneId="1879442885" longitude="-88.80115" latitude="-18.900585"/>
 <marker id="344469540" label="Blue-crag Invader" category="71" did="1879446517" parentZoneId="1879442885" longitude="-88.62938" latitude="-18.932997"/>
 <marker id="344469541" label="Blue-crag Invader" category="71" did="1879446517" parentZoneId="1879442885" longitude="-88.53014" latitude="-19.091377"/>
 <marker id="344469542" label="Blue-crag Invader" category="71" did="1879446517" parentZoneId="1879442885" longitude="-88.57025" latitude="-19.14286"/>
@@ -6339,7 +6339,7 @@
 <marker id="344469545" label="Blue-crag Trapper" category="71" did="1879446515" parentZoneId="1879442885" longitude="-88.67641" latitude="-19.148535"/>
 <marker id="344469546" label="Blue-crag Trapper" category="71" did="1879446515" parentZoneId="1879442885" longitude="-88.765015" latitude="-19.11625"/>
 <marker id="344469547" label="Blue-crag Trapper" category="71" did="1879446515" parentZoneId="1879442885" longitude="-88.84884" latitude="-19.12289"/>
-<marker id="344469548" label="Blue-crag Trapper" category="71" did="1879446515" parentZoneId="1879442885" longitude="-88.895035" latitude="-18.964844"/>
+<marker id="344469548" label="Blue-crag Trapper" category="71" did="1879446515" parentZoneId="1879442885" longitude="-88.89453" latitude="-18.956493"/>
 <marker id="344469549" label="Blue-crag Trapper" category="71" did="1879446515" parentZoneId="1879442885" longitude="-88.86608" latitude="-18.946465"/>
 <marker id="344469550" label="Blue-crag Trapper" category="71" did="1879446515" parentZoneId="1879442885" longitude="-88.77687" latitude="-18.898144"/>
 <marker id="344469551" label="Blue-crag Trapper" category="71" did="1879446515" parentZoneId="1879442885" longitude="-88.72173" latitude="-18.949726"/>
@@ -6675,150 +6675,144 @@
 <marker id="344473906" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.780624" latitude="-18.28874"/>
 <marker id="344473907" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.780624" latitude="-18.28874"/>
 <marker id="344473908" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.780624" latitude="-18.28874"/>
-<marker id="344473909" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.11713" latitude="-18.659227"/>
-<marker id="344473910" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.11713" latitude="-18.659227"/>
-<marker id="344473911" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.11713" latitude="-18.659227"/>
-<marker id="344473912" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.11713" latitude="-18.659227"/>
-<marker id="344473913" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.11713" latitude="-18.659227"/>
-<marker id="344473914" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.11713" latitude="-18.659227"/>
-<marker id="344473915" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
-<marker id="344473916" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
-<marker id="344473917" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
-<marker id="344473918" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
-<marker id="344473919" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
-<marker id="344473920" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
-<marker id="344473921" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
-<marker id="344473922" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
-<marker id="344473923" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
-<marker id="344473924" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
-<marker id="344473925" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
-<marker id="344473926" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
-<marker id="344473927" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
-<marker id="344473928" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
-<marker id="344473929" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
-<marker id="344473930" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
-<marker id="344473931" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
-<marker id="344473932" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
-<marker id="344473933" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
-<marker id="344473934" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
-<marker id="344473935" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
-<marker id="344473936" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
-<marker id="344473937" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
-<marker id="344473938" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
-<marker id="344473939" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
-<marker id="344473940" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
-<marker id="344473941" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
-<marker id="344473942" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
-<marker id="344473943" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
-<marker id="344473944" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
-<marker id="344473945" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
-<marker id="344473946" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
-<marker id="344473947" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
-<marker id="344473948" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
-<marker id="344473949" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
-<marker id="344473950" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
-<marker id="344473951" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
-<marker id="344473952" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
-<marker id="344473953" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
-<marker id="344473954" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
-<marker id="344473955" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
-<marker id="344473956" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
-<marker id="344473957" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.06637" latitude="-18.534248"/>
-<marker id="344473958" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.06637" latitude="-18.534248"/>
-<marker id="344473959" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.06637" latitude="-18.534248"/>
-<marker id="344473960" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.06637" latitude="-18.534248"/>
-<marker id="344473961" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.06637" latitude="-18.534248"/>
-<marker id="344473962" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.06637" latitude="-18.534248"/>
-<marker id="344473963" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
-<marker id="344473964" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
-<marker id="344473965" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
-<marker id="344473966" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
-<marker id="344473967" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
-<marker id="344473968" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
-<marker id="344473969" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
-<marker id="344473970" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
-<marker id="344473971" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
-<marker id="344473972" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
-<marker id="344473973" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
-<marker id="344473974" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
-<marker id="344473975" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
-<marker id="344473976" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
-<marker id="344473977" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
-<marker id="344473978" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
-<marker id="344473979" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
-<marker id="344473980" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
-<marker id="344473981" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
-<marker id="344473982" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
-<marker id="344473983" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
-<marker id="344473984" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
-<marker id="344473985" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
-<marker id="344473986" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
-<marker id="344473987" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
-<marker id="344473988" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
-<marker id="344473989" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
-<marker id="344473990" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
-<marker id="344473991" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
-<marker id="344473992" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
-<marker id="344473993" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
-<marker id="344473994" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
-<marker id="344473995" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
-<marker id="344473996" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
-<marker id="344473997" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
-<marker id="344473998" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
-<marker id="344473999" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
-<marker id="344474000" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
-<marker id="344474001" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
-<marker id="344474002" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
-<marker id="344474003" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
-<marker id="344474004" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
-<marker id="344474005" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
-<marker id="344474006" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
-<marker id="344474007" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
-<marker id="344474008" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
-<marker id="344474009" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
-<marker id="344474010" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
-<marker id="344474011" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
-<marker id="344474012" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
-<marker id="344474013" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
-<marker id="344474014" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
-<marker id="344474015" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
-<marker id="344474016" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
-<marker id="344474017" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
-<marker id="344474018" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
-<marker id="344474019" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
-<marker id="344474020" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
-<marker id="344474021" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
-<marker id="344474022" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
-<marker id="344474023" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
-<marker id="344474024" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
-<marker id="344474025" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
-<marker id="344474026" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
-<marker id="344474027" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
-<marker id="344474028" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
-<marker id="344474029" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
-<marker id="344474030" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
-<marker id="344474031" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
-<marker id="344474032" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
-<marker id="344474033" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
-<marker id="344474034" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
-<marker id="344474035" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
-<marker id="344474036" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
-<marker id="344474037" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
-<marker id="344474038" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
-<marker id="344474039" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
-<marker id="344474040" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
-<marker id="344474041" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
-<marker id="344474042" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
-<marker id="344474043" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
-<marker id="344474044" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
-<marker id="344474045" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
-<marker id="344474046" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
-<marker id="344474047" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
-<marker id="344474048" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
-<marker id="344474049" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
-<marker id="344474050" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
-<marker id="344474051" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
-<marker id="344474052" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
+<marker id="344473909" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
+<marker id="344473910" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
+<marker id="344473911" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
+<marker id="344473912" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
+<marker id="344473913" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
+<marker id="344473914" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.56543" latitude="-18.285692"/>
+<marker id="344473915" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
+<marker id="344473916" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
+<marker id="344473917" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
+<marker id="344473918" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
+<marker id="344473919" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
+<marker id="344473920" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.50061" latitude="-18.485996"/>
+<marker id="344473921" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
+<marker id="344473922" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
+<marker id="344473923" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
+<marker id="344473924" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
+<marker id="344473925" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
+<marker id="344473926" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.68737" latitude="-18.630507"/>
+<marker id="344473927" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
+<marker id="344473928" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
+<marker id="344473929" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
+<marker id="344473930" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
+<marker id="344473931" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
+<marker id="344473932" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.68364" latitude="-18.351748"/>
+<marker id="344473933" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
+<marker id="344473934" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
+<marker id="344473935" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
+<marker id="344473936" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
+<marker id="344473937" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
+<marker id="344473938" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.0155" latitude="-18.105303"/>
+<marker id="344473939" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
+<marker id="344473940" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
+<marker id="344473941" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
+<marker id="344473942" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
+<marker id="344473943" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
+<marker id="344473944" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.125275" latitude="-18.131435"/>
+<marker id="344473945" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
+<marker id="344473946" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
+<marker id="344473947" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
+<marker id="344473948" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
+<marker id="344473949" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
+<marker id="344473950" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.95115" latitude="-18.364248"/>
+<marker id="344473951" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.08947" latitude="-18.535566"/>
+<marker id="344473952" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.08947" latitude="-18.535566"/>
+<marker id="344473953" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.08947" latitude="-18.535566"/>
+<marker id="344473954" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.08947" latitude="-18.535566"/>
+<marker id="344473955" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.08947" latitude="-18.535566"/>
+<marker id="344473956" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.08947" latitude="-18.535566"/>
+<marker id="344473957" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
+<marker id="344473958" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
+<marker id="344473959" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
+<marker id="344473960" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
+<marker id="344473961" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
+<marker id="344473962" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.95802" latitude="-18.6554"/>
+<marker id="344473963" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
+<marker id="344473964" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
+<marker id="344473965" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
+<marker id="344473966" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
+<marker id="344473967" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
+<marker id="344473968" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.51058" latitude="-18.588125"/>
+<marker id="344473969" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
+<marker id="344473970" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
+<marker id="344473971" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
+<marker id="344473972" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
+<marker id="344473973" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
+<marker id="344473974" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.50506" latitude="-18.724384"/>
+<marker id="344473975" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
+<marker id="344473976" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
+<marker id="344473977" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
+<marker id="344473978" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
+<marker id="344473979" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
+<marker id="344473980" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.58414" latitude="-18.32666"/>
+<marker id="344473981" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
+<marker id="344473982" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
+<marker id="344473983" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
+<marker id="344473984" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
+<marker id="344473985" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
+<marker id="344473986" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.45492" latitude="-18.41252"/>
+<marker id="344473987" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
+<marker id="344473988" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
+<marker id="344473989" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
+<marker id="344473990" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
+<marker id="344473991" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
+<marker id="344473992" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.60744" latitude="-18.35375"/>
+<marker id="344473993" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
+<marker id="344473994" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
+<marker id="344473995" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
+<marker id="344473996" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
+<marker id="344473997" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
+<marker id="344473998" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.93289" latitude="-18.215712"/>
+<marker id="344473999" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
+<marker id="344474000" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
+<marker id="344474001" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
+<marker id="344474002" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
+<marker id="344474003" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
+<marker id="344474004" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.81708" latitude="-18.158281"/>
+<marker id="344474005" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
+<marker id="344474006" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
+<marker id="344474007" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
+<marker id="344474008" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
+<marker id="344474009" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
+<marker id="344474010" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.080605" latitude="-18.046406"/>
+<marker id="344474011" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
+<marker id="344474012" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
+<marker id="344474013" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
+<marker id="344474014" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
+<marker id="344474015" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
+<marker id="344474016" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-89.100876" latitude="-18.333378"/>
+<marker id="344474017" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
+<marker id="344474018" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
+<marker id="344474019" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
+<marker id="344474020" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
+<marker id="344474021" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
+<marker id="344474022" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.91749" latitude="-18.519384"/>
+<marker id="344474023" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
+<marker id="344474024" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
+<marker id="344474025" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
+<marker id="344474026" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
+<marker id="344474027" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
+<marker id="344474028" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.603966" latitude="-18.455605"/>
+<marker id="344474029" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
+<marker id="344474030" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
+<marker id="344474031" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
+<marker id="344474032" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
+<marker id="344474033" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
+<marker id="344474034" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.43775" latitude="-18.541864"/>
+<marker id="344474035" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
+<marker id="344474036" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
+<marker id="344474037" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
+<marker id="344474038" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
+<marker id="344474039" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
+<marker id="344474040" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.57116" latitude="-18.701757"/>
+<marker id="344474041" label="Yew Branches" category="50" did="1879079511" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
+<marker id="344474042" label="Rich Gold Deposit" category="50" did="1879087927" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
+<marker id="344474043" label="Heavy Yew Branches" category="50" did="1879087931" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
+<marker id="344474044" label="Rich Iron Deposit" category="50" did="1879079516" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
+<marker id="344474045" label="Gold Deposit" category="50" did="1879079517" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
+<marker id="344474046" label="Bountiful Iron Deposit" category="50" did="1879087933" parentZoneId="1879442885" longitude="-88.45429" latitude="-18.333925"/>
 <marker id="344522752" label="Half-orc Bruiser" category="71" did="1879443253" parentZoneId="1879442885" longitude="-88.0" latitude="-21.55"/>
 <marker id="344522753" label="Half-orc Sentry" category="71" did="1879443261" parentZoneId="1879442885" longitude="-88.0" latitude="-21.55"/>
 <marker id="344522754" label="Gramsfoot Slasher" category="71" did="1879443275" parentZoneId="1879442885" longitude="-88.0" latitude="-21.55"/>

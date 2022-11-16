@@ -2168,14 +2168,14 @@
 <marker id="1279365123" label="Dire-horn" category="71" did="1879391553" parentZoneId="1879389182" longitude="8.000215" latitude="-65.72825"/>
 <marker id="1279365124" label="Creeping Arm" category="71" did="1879391562" parentZoneId="1879389182" longitude="8.000215" latitude="-65.72825"/>
 <marker id="1279365125" label="Rabid Morgul-bat" category="71" did="1879391573" parentZoneId="1879389182" longitude="8.000215" latitude="-65.72825"/>
-<marker id="1279365126" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879389182" longitude="8.002363" latitude="-65.72522"/>
-<marker id="1279365127" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879389182" longitude="8.002363" latitude="-65.72522"/>
-<marker id="1279365128" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879389182" longitude="8.002363" latitude="-65.72522"/>
-<marker id="1279365129" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879389182" longitude="8.002363" latitude="-65.72522"/>
-<marker id="1279365130" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879389182" longitude="7.8100095" latitude="-65.48996"/>
-<marker id="1279365131" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879389182" longitude="7.8100095" latitude="-65.48996"/>
-<marker id="1279365132" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879389182" longitude="7.8100095" latitude="-65.48996"/>
-<marker id="1279365133" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879389182" longitude="7.8100095" latitude="-65.48996"/>
+<marker id="1279365126" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879389182" longitude="7.8100095" latitude="-65.48996"/>
+<marker id="1279365127" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879389182" longitude="7.8100095" latitude="-65.48996"/>
+<marker id="1279365128" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879389182" longitude="7.8100095" latitude="-65.48996"/>
+<marker id="1279365129" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879389182" longitude="7.8100095" latitude="-65.48996"/>
+<marker id="1279365130" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879389182" longitude="8.002363" latitude="-65.72522"/>
+<marker id="1279365131" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879389182" longitude="8.002363" latitude="-65.72522"/>
+<marker id="1279365132" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879389182" longitude="8.002363" latitude="-65.72522"/>
+<marker id="1279365133" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879389182" longitude="8.002363" latitude="-65.72522"/>
 <marker id="1279365150" label="Morgul Warg" category="71" did="1879391525" parentZoneId="1879389182" longitude="8.044385" latitude="-65.28515"/>
 <marker id="1279365151" label="Rabid Morgul-bat" category="71" did="1879391573" parentZoneId="1879389182" longitude="8.044385" latitude="-65.28515"/>
 <marker id="1279365152" label="Great Morgul-bat" category="71" did="1879391527" parentZoneId="1879389182" longitude="8.044385" latitude="-65.28515"/>
@@ -4084,21 +4084,21 @@
 <marker id="1279451181" label="Lhingris Crawler" category="78" did="1879354680" parentZoneId="1879338152" longitude="8.4529295" latitude="-61.677494"/>
 <marker id="1279451182" label="Lhingris Wormling" category="78" did="1879354681" parentZoneId="1879338152" longitude="8.4529295" latitude="-61.677494"/>
 <marker id="1279451183" label="Long-legged Spiderling" category="78" did="1879354683" parentZoneId="1879338152" longitude="8.4529295" latitude="-61.677494"/>
-<marker id="1279455232" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.489873" latitude="-60.966038"/>
-<marker id="1279455233" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.423086" latitude="-61.16421"/>
-<marker id="1279455234" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.443095" latitude="-61.117683"/>
-<marker id="1279455235" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.458487" latitude="-61.02244"/>
-<marker id="1279455236" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.491006" latitude="-60.855793"/>
-<marker id="1279455237" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.492646" latitude="-60.78766"/>
-<marker id="1279455238" label="Sárnazt" category="70" did="1879346034" parentZoneId="1879338152" longitude="8.507529" latitude="-60.76151"/>
-<marker id="1279455239" label="Orc Corpse" category="73" did="1879346085" parentZoneId="1879338152" longitude="8.508808" latitude="-60.763203"/>
-<marker id="1279455240" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.498916" latitude="-60.91493"/>
-<marker id="1279455241" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.509727" latitude="-60.95313"/>
-<marker id="1279455242" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.494756" latitude="-60.855583"/>
-<marker id="1279455243" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.515195" latitude="-60.78164"/>
-<marker id="1279455244" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.493984" latitude="-60.78677"/>
-<marker id="1279455245" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.515625" latitude="-60.73147"/>
-<marker id="1279455246" label="Durkhlát" category="71" did="1879363355" parentZoneId="1879338152" longitude="8.55042" latitude="-60.808525"/>
+<marker id="1279455232" label="Durkhlát" category="71" did="1879363355" parentZoneId="1879338152" longitude="8.55042" latitude="-60.808525"/>
+<marker id="1279455233" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.489873" latitude="-60.966038"/>
+<marker id="1279455234" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.423086" latitude="-61.16421"/>
+<marker id="1279455235" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.443095" latitude="-61.117683"/>
+<marker id="1279455236" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.458487" latitude="-61.02244"/>
+<marker id="1279455237" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.491006" latitude="-60.855793"/>
+<marker id="1279455238" label="Webs" category="73" did="1879357853" parentZoneId="1879338152" longitude="8.492646" latitude="-60.78766"/>
+<marker id="1279455239" label="Sárnazt" category="70" did="1879346034" parentZoneId="1879338152" longitude="8.507529" latitude="-60.76151"/>
+<marker id="1279455240" label="Orc Corpse" category="73" did="1879346085" parentZoneId="1879338152" longitude="8.508808" latitude="-60.763203"/>
+<marker id="1279455241" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.498916" latitude="-60.91493"/>
+<marker id="1279455242" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.509727" latitude="-60.95313"/>
+<marker id="1279455243" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.494756" latitude="-60.855583"/>
+<marker id="1279455244" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.515195" latitude="-60.78164"/>
+<marker id="1279455245" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.493984" latitude="-60.78677"/>
+<marker id="1279455246" label="Orc Corpse" category="73" did="1879346089" parentZoneId="1879338152" longitude="8.515625" latitude="-60.73147"/>
 <marker id="1279467520" label="Lingering Shadow" category="71" did="1879395844" parentZoneId="1879389184" longitude="9.462725" latitude="-71.1685"/>
 <marker id="1279467521" label="Ancient Fell Spirit" category="71" did="1879395900" parentZoneId="1879389184" longitude="9.462725" latitude="-71.1685"/>
 <marker id="1279467522" label="Ancient Wight" category="71" did="1879395905" parentZoneId="1879389184" longitude="9.462725" latitude="-71.1685"/>

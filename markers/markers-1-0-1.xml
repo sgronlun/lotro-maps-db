@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="269664256" label="Marget" category="70" did="1879452606" parentZoneId="1879063919" longitude="-144.8867" latitude="-101.64829"/>
+<marker id="269664257" label="Murig" category="70" did="1879452605" parentZoneId="1879063919" longitude="-144.88403" latitude="-101.63694"/>
+<marker id="269664258" label="Deryn" category="70" did="1879452610" parentZoneId="1879063919" longitude="-144.88701" latitude="-101.65953"/>
+<marker id="269664259" label="Eluna" category="70" did="1879452633" parentZoneId="1879063919" longitude="-144.88496" latitude="-101.62923"/>
 <marker id="269721600" label="Landmark Test" category="43" did="1879063052" parentZoneId="1879063919" longitude="-143.87654" latitude="-103.05727"/>
 <marker id="269721601" label="Landmark Test 2" category="43" did="1879063053" parentZoneId="1879063919" longitude="-144.03348" latitude="-103.23354"/>
 <marker id="269721602" label="White Hand Conscript" category="71" did="1879077403" parentZoneId="1879063919" longitude="-143.82803" latitude="-103.23033"/>
@@ -11,56 +15,95 @@
 <marker id="269721611" label="Turnin Counter" category="73" did="1879090939" parentZoneId="1879063919" longitude="-143.95052" latitude="-103.18282"/>
 <marker id="269721613" label="Kingsfoil Plant" category="73" did="1879074049" parentZoneId="1879063919" longitude="-143.93564" latitude="-103.12237"/>
 <marker id="269721614" label="Kingsfoil Plant" category="73" did="1879074049" parentZoneId="1879063919" longitude="-143.90672" latitude="-103.10266"/>
-<marker id="269725696" label="Elrohir" category="70" did="1879447622" parentZoneId="1879063919" longitude="-144.0427" latitude="-102.41155"/>
-<marker id="269725697" label="Elrohir" category="70" did="1879447622" parentZoneId="1879063919" longitude="-144.19328" latitude="-102.39185"/>
-<marker id="269725698" label="Elladan" category="70" did="1879447623" parentZoneId="1879063919" longitude="-144.0533" latitude="-102.36839"/>
-<marker id="269725699" label="Elrohir" category="70" did="1879447620" parentZoneId="1879063919" longitude="-144.11296" latitude="-102.362236"/>
-<marker id="269725700" label="Elladan" category="70" did="1879447621" parentZoneId="1879063919" longitude="-144.03636" latitude="-102.409584"/>
-<marker id="269725701" label="Elladan" category="70" did="1879447621" parentZoneId="1879063919" longitude="-144.18756" latitude="-102.39122"/>
-<marker id="269725702" label="Elladan" category="70" did="1879447631" parentZoneId="1879063919" longitude="-144.07083" latitude="-102.41849"/>
-<marker id="269725703" label="Elladan" category="70" did="1879447628" parentZoneId="1879063919" longitude="-144.10808" latitude="-102.36043"/>
-<marker id="269725704" label="Gwaihir" category="70" did="1879447629" parentZoneId="1879063919" longitude="-144.1171" latitude="-102.3708"/>
-<marker id="269725705" label="Galadriel" category="70" did="1879447626" parentZoneId="1879063919" longitude="-144.07811" latitude="-102.4069"/>
-<marker id="269725706" label="Elrohir" category="70" did="1879447627" parentZoneId="1879063919" longitude="-144.0784" latitude="-102.42064"/>
-<marker id="269725707" label="Bear Cub" category="70" did="1879447624" parentZoneId="1879063919" longitude="-144.0388" latitude="-102.402306"/>
-<marker id="269725708" label="Celeborn" category="70" did="1879447625" parentZoneId="1879063919" longitude="-144.0838" latitude="-102.40521"/>
-<marker id="269725709" label="Mysterious Figure" category="70" did="1879447634" parentZoneId="1879063919" longitude="-144.1837" latitude="-102.385086"/>
-<marker id="269725710" label="Injured Sentinel" category="70" did="1879447633" parentZoneId="1879063919" longitude="-144.08337" latitude="-102.41199"/>
-<marker id="269725711" label="Drake Matron" category="71" did="1879447646" parentZoneId="1879063919" longitude="-144.10706" latitude="-102.21973"/>
-<marker id="269725712" label="Young Fire-drake" category="71" did="1879447647" parentZoneId="1879063919" longitude="-144.09398" latitude="-102.22096"/>
-<marker id="269725713" label="Carrion-fly Hatchling" category="71" did="1879447644" parentZoneId="1879063919" longitude="-144.04405" latitude="-102.222946"/>
-<marker id="269725714" label="Mature Carrion-fly" category="71" did="1879447645" parentZoneId="1879063919" longitude="-144.05196" latitude="-102.2271"/>
-<marker id="269725715" label="Bloated Maggot" category="71" did="1879447642" parentZoneId="1879063919" longitude="-144.03609" latitude="-102.22172"/>
-<marker id="269725716" label="Vile Neekerbreeker" category="71" did="1879447643" parentZoneId="1879063919" longitude="-144.04582" latitude="-102.23442"/>
-<marker id="269725717" label="Frost Grim" category="71" did="1879447652" parentZoneId="1879063919" longitude="-144.16179" latitude="-102.221725"/>
-<marker id="269725718" label="Fanged-stalker" category="71" did="1879447651" parentZoneId="1879063919" longitude="-144.1818" latitude="-102.21667"/>
-<marker id="269725719" label="Fire-Whelpling" category="71" did="1879447648" parentZoneId="1879063919" longitude="-144.0842" latitude="-102.22701"/>
-<marker id="269725720" label="Dusk Warg" category="71" did="1879447678" parentZoneId="1879063919" longitude="-144.0536" latitude="-102.18227"/>
-<marker id="269725721" label="Snow-beast Mauler" category="71" did="1879447679" parentZoneId="1879063919" longitude="-144.15894" latitude="-102.20865"/>
-<marker id="269725722" label="Celebrant Stalker" category="71" did="1879447676" parentZoneId="1879063919" longitude="-144.04637" latitude="-102.18562"/>
-<marker id="269725723" label="Dusk Pack-leader" category="71" did="1879447677" parentZoneId="1879063919" longitude="-144.09384" latitude="-102.183784"/>
-<marker id="269725724" label="Dusk Stalker" category="71" did="1879447674" parentZoneId="1879063919" longitude="-144.1077" latitude="-102.18328"/>
-<marker id="269725725" label="Snow-beast Hurler" category="71" did="1879447675" parentZoneId="1879063919" longitude="-144.17015" latitude="-102.209595"/>
-<marker id="269725726" label="Dusk Warg" category="71" did="1879447672" parentZoneId="1879063919" longitude="-144.10156" latitude="-102.184364"/>
-<marker id="269725727" label="Celebrant Hunter" category="71" did="1879447673" parentZoneId="1879063919" longitude="-144.04745" latitude="-102.193344"/>
-<marker id="269725731" label="Elrohir" category="71" did="1879447685" parentZoneId="1879063919" longitude="-144.0634" latitude="-102.40804"/>
-<marker id="269725732" label="Elrohir" category="71" did="1879447682" parentZoneId="1879063919" longitude="-144.1937" latitude="-102.37166"/>
-<marker id="269725733" label="Elrohir" category="71" did="1879447683" parentZoneId="1879063919" longitude="-144.119" latitude="-102.35936"/>
-<marker id="269725734" label="Celebrant Leader" category="71" did="1879447680" parentZoneId="1879063919" longitude="-144.05708" latitude="-102.19186"/>
-<marker id="269725735" label="Galadhrim Scout" category="71" did="1879447681" parentZoneId="1879063919" longitude="-144.06769" latitude="-102.39878"/>
-<marker id="269725736" label="Elladan" category="70" did="1879447692" parentZoneId="1879063919" longitude="-144.11325" latitude="-102.35575"/>
-<marker id="269725738" label="Bear Mother" category="71" did="1879447690" parentZoneId="1879063919" longitude="-144.02525" latitude="-102.40929"/>
-<marker id="269725740" label="Elladan" category="71" did="1879447688" parentZoneId="1879063919" longitude="-144.0699" latitude="-102.408394"/>
-<marker id="269725741" label="Galadhrim Scout" category="71" did="1879447689" parentZoneId="1879063919" longitude="-144.07484" latitude="-102.39561"/>
-<marker id="269725744" label="Blood" category="73" did="1879447720" parentZoneId="1879063919" longitude="-144.18013" latitude="-102.3671"/>
-<marker id="269725745" label="Large Footprints" category="73" did="1879447721" parentZoneId="1879063919" longitude="-144.13" latitude="-102.366425"/>
-<marker id="269725747" label="Elladan" category="71" did="1879447691" parentZoneId="1879063919" longitude="-144.046" latitude="-102.359474"/>
-<marker id="269725748" label="Elrohir" category="71" did="1879447693" parentZoneId="1879063919" longitude="-144.03741" latitude="-102.35931"/>
-<marker id="269725749" label="Black Cloak" category="73" did="1879447722" parentZoneId="1879063919" longitude="-144.057" latitude="-102.361"/>
-<marker id="269725753" label="Elladan" category="71" did="1879447686" parentZoneId="1879063919" longitude="-144.0413" latitude="-102.396255"/>
-<marker id="269725754" label="Elrohir" category="71" did="1879447687" parentZoneId="1879063919" longitude="-144.03111" latitude="-102.39591"/>
-<marker id="269725755" label="Elladan" category="71" did="1879447684" parentZoneId="1879063919" longitude="-144.18501" latitude="-102.371445"/>
-<marker id="269725757" label="Snow-beast Corpse" category="70" did="1879447719" parentZoneId="1879063919" longitude="-144.19455" latitude="-102.38421"/>
+<marker id="269725696" label="Lost Belongings" category="73" did="1879449606" parentZoneId="1879063919" longitude="-144.08609" latitude="-102.36748"/>
+<marker id="269725697" label="Beech Nut" category="73" did="1879449607" parentZoneId="1879063919" longitude="-144.0635" latitude="-102.36618"/>
+<marker id="269725698" label="Trough" category="73" did="1879449604" parentZoneId="1879063919" longitude="-143.99707" latitude="-102.359604"/>
+<marker id="269725699" label="Athelas" category="73" did="1879449605" parentZoneId="1879063919" longitude="-144.08098" latitude="-102.365425"/>
+<marker id="269725700" label="Weapons" category="73" did="1879449602" parentZoneId="1879063919" longitude="-144.08098" latitude="-102.36028"/>
+<marker id="269725701" label="Maps" category="73" did="1879449603" parentZoneId="1879063919" longitude="-144.08298" latitude="-102.36057"/>
+<marker id="269725702" label="Einion" category="73" did="1879449615" parentZoneId="1879063919" longitude="-144.03107" latitude="-102.361046"/>
+<marker id="269725703" label="Melwyn" category="73" did="1879449612" parentZoneId="1879063919" longitude="-144.03058" latitude="-102.35428"/>
+<marker id="269725704" label="Blood Splatters" category="73" did="1879449613" parentZoneId="1879063919" longitude="-143.97917" latitude="-102.342964"/>
+<marker id="269725705" label="Tree" category="73" did="1879449610" parentZoneId="1879063919" longitude="-144.05846" latitude="-102.355606"/>
+<marker id="269725706" label="Blood" category="73" did="1879449608" parentZoneId="1879063919" longitude="-143.98036" latitude="-102.33894"/>
+<marker id="269725707" label="Sheep Hoof-prints" category="73" did="1879449622" parentZoneId="1879063919" longitude="-143.99051" latitude="-102.341095"/>
+<marker id="269725708" label="Hoof-print Trail" category="73" did="1879449623" parentZoneId="1879063919" longitude="-143.98593" latitude="-102.34087"/>
+<marker id="269725709" label="Curig" category="73" did="1879449620" parentZoneId="1879063919" longitude="-144.02968" latitude="-102.36884"/>
+<marker id="269725710" label="Hay" category="73" did="1879449618" parentZoneId="1879063919" longitude="-143.98053" latitude="-102.36166"/>
+<marker id="269725711" label="Lost Belongings" category="73" did="1879449619" parentZoneId="1879063919" longitude="-144.08594" latitude="-102.37073"/>
+<marker id="269725712" label="Dead Sheep" category="73" did="1879449616" parentZoneId="1879063919" longitude="-143.97621" latitude="-102.35045"/>
+<marker id="269725713" label="Sapling" category="73" did="1879449617" parentZoneId="1879063919" longitude="-144.0588" latitude="-102.36668"/>
+<marker id="269725714" label="Beech Seeds" category="73" did="1879449624" parentZoneId="1879063919" longitude="-144.06505" latitude="-102.364334"/>
+<marker id="269725715" label="Beech Nut" category="73" did="1879449625" parentZoneId="1879063919" longitude="-144.06438" latitude="-102.36165"/>
+<marker id="269725716" label="Rendal" category="70" did="1879449734" parentZoneId="1879063919" longitude="-144.08263" latitude="-102.376015"/>
+<marker id="269725717" label="Rendal" category="70" did="1879449735" parentZoneId="1879063919" longitude="-144.09335" latitude="-102.36663"/>
+<marker id="269725718" label="Sheep" category="70" did="1879449732" parentZoneId="1879063919" longitude="-143.98587" latitude="-102.35478"/>
+<marker id="269725719" label="Meriona" category="70" did="1879449733" parentZoneId="1879063919" longitude="-143.94936" latitude="-102.36795"/>
+<marker id="269725720" label="Delun" category="70" did="1879449730" parentZoneId="1879063919" longitude="-144.0234" latitude="-102.35871"/>
+<marker id="269725721" label="Watcyn" category="70" did="1879449731" parentZoneId="1879063919" longitude="-144.08202" latitude="-102.37012"/>
+<marker id="269725722" label="Riderch" category="70" did="1879449742" parentZoneId="1879063919" longitude="-143.94032" latitude="-102.3802"/>
+<marker id="269725723" label="Cadi" category="70" did="1879449743" parentZoneId="1879063919" longitude="-144.0581" latitude="-102.37151"/>
+<marker id="269725724" label="Rendal" category="70" did="1879449740" parentZoneId="1879063919" longitude="-144.09033" latitude="-102.37863"/>
+<marker id="269725725" label="Hulfryn" category="70" did="1879449741" parentZoneId="1879063919" longitude="-143.98671" latitude="-102.36307"/>
+<marker id="269725726" label="Muna" category="70" did="1879449738" parentZoneId="1879063919" longitude="-144.0232" latitude="-102.35523"/>
+<marker id="269725727" label="Cadi" category="70" did="1879449739" parentZoneId="1879063919" longitude="-144.06316" latitude="-102.37245"/>
+<marker id="269725728" label="Watcyn" category="70" did="1879449736" parentZoneId="1879063919" longitude="-144.0937" latitude="-102.37057"/>
+<marker id="269725729" label="Delun" category="70" did="1879449737" parentZoneId="1879063919" longitude="-144.02386" latitude="-102.3645"/>
+<marker id="269725730" label="Dunlending Scout" category="70" did="1879449744" parentZoneId="1879063919" longitude="-143.93642" latitude="-102.37205"/>
+<marker id="269725731" label="Dunlending Scout" category="70" did="1879449745" parentZoneId="1879063919" longitude="-143.95314" latitude="-102.37295"/>
+<marker id="269725732" label="Bloodthirsty Barrow-wight" category="71" did="1879449752" parentZoneId="1879063919" longitude="-143.97475" latitude="-102.34558"/>
+<marker id="269725736" label="Gaervarad Captain" category="71" did="1879449817" parentZoneId="1879063919" longitude="-144.09312" latitude="-102.374725"/>
+<marker id="269725737" label="Coins" category="73" did="1879449895" parentZoneId="1879063919" longitude="-144.08871" latitude="-102.364265"/>
+<marker id="269725738" label="Lost Belongings" category="73" did="1879449898" parentZoneId="1879063919" longitude="-144.08846" latitude="-102.36644"/>
+<marker id="269725739" label="Whistle" category="73" did="1879449899" parentZoneId="1879063919" longitude="-144.08983" latitude="-102.3702"/>
+<marker id="269725740" label="Lost Belongings" category="73" did="1879449896" parentZoneId="1879063919" longitude="-144.0855" latitude="-102.36274"/>
+<marker id="269725742" label="Necklace" category="73" did="1879449914" parentZoneId="1879063919" longitude="-143.94223" latitude="-102.36451"/>
+<marker id="269725743" label="Sheep" category="70" did="1879449912" parentZoneId="1879063919" longitude="-143.98007" latitude="-102.35281"/>
+<marker id="269725751" label="Angry Spirit" category="71" did="1879449821" parentZoneId="1879063919" longitude="-144.03879" latitude="-102.36675"/>
+<marker id="269725753" label="Angry Spirit" category="71" did="1879449818" parentZoneId="1879063919" longitude="-144.03926" latitude="-102.36127"/>
+<marker id="269725755" label="Angry Spirit" category="71" did="1879449819" parentZoneId="1879063919" longitude="-144.03986" latitude="-102.35695"/>
+<marker id="269725759" label="Lost Belongings" category="73" did="1879449897" parentZoneId="1879063919" longitude="-144.08673" latitude="-102.365005"/>
+<marker id="269729792" label="Duindil" category="70" did="1879450155" parentZoneId="1879063919" longitude="-144.06067" latitude="-101.5388"/>
+<marker id="269729793" label="Holly-troll Lobber" category="71" did="1879450190" parentZoneId="1879063919" longitude="-144.17535" latitude="-101.475174"/>
+<marker id="269729794" label="Holly-troll Elder" category="71" did="1879450188" parentZoneId="1879063919" longitude="-144.18951" latitude="-101.45637"/>
+<marker id="269729795" label="Holly-troll Warrior" category="71" did="1879450189" parentZoneId="1879063919" longitude="-144.16693" latitude="-101.46363"/>
+<marker id="269729796" label="Uruk-hai Captain" category="71" did="1879450198" parentZoneId="1879063919" longitude="-143.90265" latitude="-101.644714"/>
+<marker id="269729797" label="Uruk-hai Archer" category="71" did="1879450196" parentZoneId="1879063919" longitude="-143.99196" latitude="-101.6406"/>
+<marker id="269729798" label="Uruk-hai Warrior" category="71" did="1879450195" parentZoneId="1879063919" longitude="-143.97565" latitude="-101.66624"/>
+<marker id="269729799" label="Rhovandis" category="70" did="1879450231" parentZoneId="1879063919" longitude="-144.08517" latitude="-101.54382"/>
+<marker id="269729800" label="Warg-master Kalugat" category="71" did="1879450260" parentZoneId="1879063919" longitude="-143.98703" latitude="-101.362495"/>
+<marker id="269729801" label="Invasive Warg" category="71" did="1879450261" parentZoneId="1879063919" longitude="-144.08676" latitude="-101.37991"/>
+<marker id="269729802" label="White Hand Banner" category="73" did="1879450318" parentZoneId="1879063919" longitude="-143.97081" latitude="-101.40566"/>
+<marker id="269729803" label="Strange Cage" category="73" did="1879450317" parentZoneId="1879063919" longitude="-144.06769" latitude="-101.677086"/>
+<marker id="269729804" label="Haerlendir" category="70" did="1879450410" parentZoneId="1879063919" longitude="-144.12401" latitude="-101.62803"/>
+<marker id="269729805" label="Corrupted Feldwort" category="73" did="1879451831" parentZoneId="1879063919" longitude="-143.96045" latitude="-101.53911"/>
+<marker id="269729806" label="Coruwen's Cleansing Phial" category="73" did="1879451838" parentZoneId="1879063919" longitude="-143.94612" latitude="-101.53078"/>
+<marker id="269729807" label="Hobbit's Parcel" category="73" did="1879451836" parentZoneId="1879063919" longitude="-143.95024" latitude="-101.54051"/>
+<marker id="269729808" label="Coruwen's Mixing Bowl" category="73" did="1879451837" parentZoneId="1879063919" longitude="-143.95088" latitude="-101.528534"/>
+<marker id="269729809" label="Corruption Blight" category="73" did="1879451834" parentZoneId="1879063919" longitude="-143.95984" latitude="-101.52977"/>
+<marker id="269729810" label="Ancient Tome" category="73" did="1879451835" parentZoneId="1879063919" longitude="-143.94797" latitude="-101.53587"/>
+<marker id="269729811" label="Coruwen's Mortar and Pestle" category="73" did="1879451832" parentZoneId="1879063919" longitude="-143.94681" latitude="-101.52783"/>
+<marker id="269729812" label="Corrupted Coltsfoot" category="73" did="1879451833" parentZoneId="1879063919" longitude="-143.95415" latitude="-101.536835"/>
+<marker id="269729813" label="Building Material" category="73" did="1879451840" parentZoneId="1879063919" longitude="-143.95917" latitude="-101.50822"/>
+<marker id="269729814" label="Nuddo Sutchic" category="70" did="1879451934" parentZoneId="1879063919" longitude="-143.90106" latitude="-101.520065"/>
+<marker id="269729815" label="Fion Cufford" category="70" did="1879451935" parentZoneId="1879063919" longitude="-143.89578" latitude="-101.51595"/>
+<marker id="269729816" label="Leri Grudd" category="70" did="1879451940" parentZoneId="1879063919" longitude="-143.9196" latitude="-101.52638"/>
+<marker id="269729817" label="Rhawn Torlan" category="70" did="1879451941" parentZoneId="1879063919" longitude="-143.91443" latitude="-101.516365"/>
+<marker id="269729818" label="Mal Begbeam" category="70" did="1879451938" parentZoneId="1879063919" longitude="-143.92767" latitude="-101.52958"/>
+<marker id="269729819" label="Cranog Dambryn" category="70" did="1879451939" parentZoneId="1879063919" longitude="-143.88374" latitude="-101.530075"/>
+<marker id="269729820" label="Gwenfor Mellion" category="70" did="1879451936" parentZoneId="1879063919" longitude="-143.91405" latitude="-101.53336"/>
+<marker id="269729821" label="Coruwen" category="70" did="1879451937" parentZoneId="1879063919" longitude="-143.88872" latitude="-101.51377"/>
+<marker id="269729822" label="Hobbit Prisoner" category="70" did="1879452951" parentZoneId="1879063919" longitude="-144.08304" latitude="-101.492615"/>
+<marker id="269729823" label="Prisoner Cage" category="73" did="1879452947" parentZoneId="1879063919" longitude="-144.08337" latitude="-101.49247"/>
+<marker id="269729824" label="Humble Merchant" category="70" did="1879452952" parentZoneId="1879063919" longitude="-144.06793" latitude="-101.488335"/>
+<marker id="269729834" label="Strange Cage" category="73" did="1879450317" parentZoneId="1879063919" longitude="-144.16435" latitude="-101.65177"/>
+<marker id="269729835" label="Strange Cage" category="73" did="1879450317" parentZoneId="1879063919" longitude="-144.12852" latitude="-101.68174"/>
+<marker id="269729836" label="Strange Cage" category="73" did="1879450317" parentZoneId="1879063919" longitude="-144.09776" latitude="-101.6599"/>
+<marker id="269729842" label="Invasive Warg" category="71" did="1879450261" parentZoneId="1879063919" longitude="-144.06683" latitude="-101.36563"/>
+<marker id="269729844" label="Invasive Warg" category="71" did="1879450261" parentZoneId="1879063919" longitude="-144.11066" latitude="-101.38128"/>
+<marker id="269729845" label="Invasive Warg" category="71" did="1879450261" parentZoneId="1879063919" longitude="-144.12848" latitude="-101.38912"/>
+<marker id="269729846" label="Invasive Warg" category="71" did="1879450261" parentZoneId="1879063919" longitude="-144.10683" latitude="-101.40818"/>
+<marker id="269729847" label="Invasive Warg" category="71" did="1879450261" parentZoneId="1879063919" longitude="-144.08855" latitude="-101.40322"/>
 <marker id="269787136" label="Cedivor Hedgerow" category="71" did="1879443607" parentZoneId="1879063919" longitude="-143.52666" latitude="-103.55317"/>
 <marker id="269787137" label="Angle Alpha" category="71" did="1879443678" parentZoneId="1879063919" longitude="-143.50467" latitude="-103.56021"/>
 <marker id="269787139" label="Cedivor Hedgerow" category="71" did="1879443607" parentZoneId="1879063919" longitude="-143.11876" latitude="-103.33096"/>
